@@ -1,9 +1,11 @@
 """
 Reddit Trending Scraper
 Uses the free .json endpoints — no API key or OAuth needed.
+Reddit requires a descriptive User-Agent; otherwise .json returns 403.
 """
 
 import time
+import requests
 from .base import make_item, safe_get
 
 try:
@@ -13,13 +15,27 @@ except ImportError:
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     from config import SUBREDDITS, ALL_SUBREDDITS
 
+# Reddit blocks generic browser UAs on .json; they require a descriptive app UA.
+REDDIT_SESSION = requests.Session()
+REDDIT_SESSION.headers.update({
+    "User-Agent": "python:TrendMonitor:1.0 (by /u/trendmonitor)",
+    "Accept": "application/json",
+    "Accept-Language": "en-US,en;q=0.9",
+})
+
+# Try old.reddit.com if www returns 403 (some networks allow one but not the other)
+REDDIT_BASES = ["https://www.reddit.com", "https://old.reddit.com"]
+
 
 def _fetch_subreddit(subreddit: str, sort: str = "hot", limit: int = 15) -> list[dict]:
     """Fetch posts from a single subreddit via .json endpoint."""
-    url = f"https://www.reddit.com/r/{subreddit}/{sort}.json"
-    params = {"limit": limit, "raw_json": 1}
-    resp = safe_get(url, params=params)
-    if not resp:
+    for base in REDDIT_BASES:
+        url = f"{base}/r/{subreddit}/{sort}.json"
+        params = {"limit": limit, "raw_json": 1}
+        resp = safe_get(url, params=params, session=REDDIT_SESSION)
+        if resp:
+            break
+    else:
         return []
 
     try:
@@ -86,9 +102,9 @@ def scrape() -> list[dict]:
         rising = _fetch_subreddit(subreddit, sort="rising", limit=10)
         all_items.extend(rising)
 
-        # Be polite — Reddit rate limits aggressively without auth
+        # Be polite — Reddit rate limits without auth; 2s between subreddits
         if i < len(ALL_SUBREDDITS) - 1:
-            time.sleep(1.5)
+            time.sleep(2)
 
     # Deduplicate by URL
     seen = set()

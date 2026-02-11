@@ -1,7 +1,7 @@
 """
 Twitter/X Trends Scraper
-Uses Nitter RSS feeds (public, no auth) + fallback web scraping.
-Since Nitter availability is unstable, this scraper is best-effort.
+Uses Nitter instances (RSS + HTML). Many instances are down or 403;
+this scraper is best-effort and often returns 0 items.
 """
 
 import random

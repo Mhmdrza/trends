@@ -44,13 +44,12 @@ YOUTUBE_CATEGORIES = {
     "technology": "Technology",
 }
 
-# Invidious public instances (rotate to avoid rate limits)
+# Invidious public instances — try in order; many are rate-limited or region-blocked.
+# Only "default" trending is requested (no category) to maximize success.
 INVIDIOUS_INSTANCES = [
-    "https://vid.puffyan.us",
-    "https://invidious.fdn.fr",
-    "https://invidious.nerdvpn.de",
+    "https://yewtu.be",
     "https://inv.nadeko.net",
-    "https://invidious.privacyredirect.com",
+    "https://invidious.nerdvpn.de",
 ]
 
 # ── Google Trends ─────────────────────────────────────────────────────────────
@@ -63,15 +62,15 @@ HN_TOP_LIMIT = 60     # How many top stories to fetch
 HN_NEW_LIMIT = 30     # How many new stories to fetch
 
 # ── Nitter / Twitter ─────────────────────────────────────────────────────────
+# Many Nitter instances are down or rate-limited. Scraper is best-effort only.
 NITTER_INSTANCES = [
-    "https://nitter.privacydev.net",
     "https://nitter.poast.org",
     "https://nitter.cz",
 ]
 
-# Twitter/X search terms to monitor (trends page + specific searches)
+# Fewer terms = less hammering of often-dead instances
 TWITTER_SEARCH_TERMS = [
-    "trending", "viral", "AI", "startup", "creator economy",
+    "AI", "startup", "creator economy",
 ]
 
 # ── Scoring Weights ───────────────────────────────────────────────────────────

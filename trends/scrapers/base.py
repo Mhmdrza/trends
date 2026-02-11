@@ -49,11 +49,12 @@ def make_item(
     }
 
 
-def safe_get(url: str, timeout: int = 15, **kwargs):
-    """GET with retries and error swallowing."""
+def safe_get(url: str, timeout: int = 15, session=None, **kwargs):
+    """GET with retries and error swallowing. Use session= for custom headers (e.g. Reddit)."""
+    sess = session if session is not None else _session
     for attempt in range(3):
         try:
-            resp = _session.get(url, timeout=timeout, **kwargs)
+            resp = sess.get(url, timeout=timeout, **kwargs)
             if resp.status_code == 200:
                 return resp
             if resp.status_code == 429:
