@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Writer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Vazirmatn', sans-serif;
+            background: #fff; color: #1a1a1a;
+            transition: background 0.2s, color 0.2s;
+        }
+        body.dark { background: #18181b; color: #e4e4e7; }
+
+        .toolbar {
+            position: sticky; top: 0; z-index: 50;
+            display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;
+            padding: 8px;
+            border-bottom: 1px solid #e5e7eb;
+            background: rgba(255,255,255,0.85); backdrop-filter: blur(12px);
+        }
+        body.dark .toolbar { border-color: #27272a; background: rgba(24,24,27,0.85); }
+        .toolbar button {
+            width: 36px; height: 36px;
+            display: flex; align-items: center; justify-content: center;
+            border: none; background: none; border-radius: 6px;
+            color: inherit; cursor: pointer; font-size: 14px;
+        }
+        .toolbar button:hover { background: rgba(0,0,0,0.06); }
+        body.dark .toolbar button:hover { background: rgba(255,255,255,0.06); }
+        .sep { width: 1px; height: 24px; background: #e5e7eb; align-self: center; margin: 0 4px; }
+        body.dark .sep { background: #27272a; }
+        .exp { width: auto !important; padding: 0 12px; background: #2563eb; color: #fff; font-size: 13px; border-radius: 6px; }
+        .exp:hover { background: #1d4ed8 !important; }
+
+        .page { max-width: 780px; margin: 0 auto; padding: 48px 24px; }
+        #title {
+            width: 100%; font-size: 2.8rem; font-weight: 900;
+            border: none; outline: none; background: none; color: inherit;
+            margin-bottom: 2rem;
+        }
+        #title::placeholder { color: #d4d4d8; }
+        body.dark #title::placeholder { color: #3f3f46; }
+
+        #editor {
+            outline: none; min-height: 60vh;
+            line-height: 1.85; font-size: 1rem;
+        }
+        #editor:empty::before {
+            content: 'نوشتن را از اینجا شروع کنید...';
+            color: #adb5bd; pointer-events: none;
+        }
+        #editor > * { transition: transform 0.18s ease, margin 0.18s ease; }
+        #editor p { margin-bottom: 0.6rem; }
+        #editor h1 { font-size: 2.2rem; font-weight: 800; margin: 1rem 0 0.5rem; }
+        #editor h2 { font-size: 1.6rem; font-weight: 700; margin: 0.8rem 0 0.4rem; }
+        #editor ul { list-style: disc; margin-right: 1.5rem; }
+        #editor ol { list-style: decimal; margin-right: 1.5rem; }
+        #editor blockquote {
+            border-right: 4px solid #e5e7eb; padding-right: 1rem;
+            color: #6b7280; font-style: italic; margin: 0.5rem 0;
+        }
+        body.dark #editor blockquote { border-color: #3f3f46; }
+
+        /* Handle */
+        #handle {
+            position: fixed; width: 20px; height: 24px;
+            display: flex; align-items: center; justify-content: center;
+            background: #f3f4f6; color: #9ca3af; border-radius: 4px;
+            cursor: grab; opacity: 0; transition: opacity 0.15s;
+            z-index: 40; user-select: none; font-size: 10px;
+            touch-action: none;
+        }
+        #handle.show { opacity: 1; }
+        #handle:hover { background: #e5e7eb; color: #6b7280; }
+        body.dark #handle { background: #27272a; color: #52525b; }
+        body.dark #handle:hover { background: #3f3f46; color: #a1a1aa; }
+
+        /* Source block while dragging */
+        .dragging {
+            opacity: 0.35;
+            background: rgba(59,130,246,0.06);
+            box-shadow: 0 0 0 2px rgba(59,130,246,0.25);
+            border-radius: 4px;
+            transition: opacity 0.2s, box-shadow 0.2s;
+        }
+
+        /* Ghost following cursor */
+        #ghost {
+            position: fixed; pointer-events: none; z-index: 200;
+            max-width: 500px; padding: 6px 10px;
+            background: #fff; border-radius: 8px;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.14), 0 0 0 1px rgba(0,0,0,0.05);
+            opacity: 0; transition: opacity 0.15s;
+            overflow: hidden; max-height: 160px;
+            transform: translate(-50%, -50%);
+            font-family: 'Vazirmatn', sans-serif;
+            line-height: 1.85; font-size: 1rem;
+        }
+        #ghost.show { opacity: 0.92; }
+        #ghost > * { margin: 0 !important; }
+        body.dark #ghost {
+            background: #27272a;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.06);
+        }
+
+        /* Drop line */
+        #dropline {
+            position: fixed; height: 2px; background: #3b82f6;
+            border-radius: 2px; pointer-events: none; z-index: 100;
+            opacity: 0; transition: top 0.1s ease, opacity 0.12s ease;
+            box-shadow: 0 0 6px rgba(59,130,246,0.4);
+        }
+        #dropline.show { opacity: 1; }
+        #dropline::before, #dropline::after {
+            content: ''; position: absolute; top: -3px;
+            width: 8px; height: 8px; background: #3b82f6; border-radius: 50%;
+        }
+        #dropline::before { right: -4px; }
+        #dropline::after  { left: -4px; }
+
+        /* Drop settle flash */
+        @keyframes settle {
+            0%   { background: rgba(59,130,246,0.12); }
+            100% { background: transparent; }
+        }
+        .just-dropped {
+            animation: settle 0.5s ease-out;
+            border-radius: 4px;
+        }
+
+        /* Gap spacer between blocks when hovering drop zone */
+        .gap-before { margin-top: 6px !important; }
+        .gap-after  { margin-bottom: 6px !important; }
+
+                /* ── Machine Vision Mode ── */
+        body.machine-view {
+            background: #050505 !important;
+            color: #333 !important;
+        }
+        body.machine-view .page {
+            filter: contrast(1.2);
+        }
+        body.machine-view #editor {
+            color: #444; /* Dim everything by default */
+        }
+        body.machine-view .mv-logic {
+            color: #10b981;
+            text-shadow: 0 0 8px rgba(16, 185, 129, 0.4);
+            font-weight: 800;
+        }
+        body.machine-view .mv-entity {
+            color: #3b82f6;
+            text-shadow: 0 0 8px rgba(59, 130, 246, 0.4);
+            font-weight: 700;
+        }
+        body.machine-view .mv-fluff {
+            opacity: 0.1;
+            font-size: 0.8em;
+        }
+        
+        #salience-meter {
+            display: none;
+            position: fixed; bottom: 20px; right: 20px;
+            background: rgba(0,0,0,0.9); border: 1px solid #10b981;
+            color: #10b981; padding: 12px 20px;
+            font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold;
+            border-radius: 8px; box-shadow: 0 0 20px rgba(16, 185, 129, 0.2);
+            z-index: 100; backdrop-filter: blur(4px);
+        }
+        body.machine-view #salience-meter { display: block; }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 10px; }
+        body.dark ::-webkit-scrollbar-thumb { background: #3f3f46; }
+    </style>
+</head>
+<body>
+    <div class="toolbar">
+        <button onclick="fmt('bold')"><i class="fa-solid fa-bold"></i></button>
+        <button onclick="fmt('italic')"><i class="fa-solid fa-italic"></i></button>
+        <button onclick="fmt('strikethrough')"><i class="fa-solid fa-strikethrough"></i></button>
+        <div class="sep"></div>
+        <button onclick="blk('h1')" style="font-weight:700;font-size:13px">H1</button>
+        <button onclick="blk('h2')" style="font-weight:700;font-size:13px">H2</button>
+        <button onclick="blk('p')" style="font-size:13px">P</button>
+        <button onclick="fmt('insertUnorderedList')"><i class="fa-solid fa-list-ul"></i></button>
+        <button onclick="fmt('insertOrderedList')"><i class="fa-solid fa-list-ol"></i></button>
+        <button onclick="blk('blockquote')"><i class="fa-solid fa-quote-right"></i></button>
+        <div class="sep"></div>
+        <button onclick="fmt('justifyLeft')"><i class="fa-solid fa-align-left"></i></button>
+        <button onclick="fmt('justifyCenter')"><i class="fa-solid fa-align-center"></i></button>
+        <button onclick="fmt('justifyRight')"><i class="fa-solid fa-align-right"></i></button>
+        <div class="sep"></div>
+        <button onclick="fmt('undo')"><i class="fa-solid fa-rotate-left"></i></button>
+        <button onclick="fmt('redo')"><i class="fa-solid fa-rotate-right"></i></button>
+        <div class="sep"></div>
+        <button onclick="document.body.classList.toggle('dark')" style="color:#f59e0b"><i class="fa-solid fa-circle-half-stroke"></i></button>
+        <button onclick="toggleMachineVision()" style="color:#10b981" title="Machine Vision"><i class="fa-solid fa-robot"></i></button>
+        <button class="exp" onclick="exportMD()">Export MD</button>
+    </div>
+
+    <div id="salience-meter">AI Signal: 0%</div>
+
+    <div class="page">
+        <input id="title" type="text" placeholder="عنوان نوشتار...">
+        <div id="editor" contenteditable="true"><p><br></p></div>
+    </div>
+
+    <div id="handle"><i class="fa-solid fa-grip-vertical"></i></div>
+    <div id="dropline"></div>
+    <div id="ghost"></div>
+
+    <script>
+        document.execCommand('defaultParagraphSeparator', false, 'p');
+        function fmt(c) { document.execCommand(c); }
+        function blk(t) { document.execCommand('formatBlock', false, t); }
+        document.getElementById('title').addEventListener('keydown', e => {
+            if (e.key === 'Enter') { e.preventDefault(); ed.focus(); }
+        });
+        if (matchMedia('(prefers-color-scheme:dark)').matches) document.body.classList.add('dark');
+
+        async function exportMD() {
+            const { default: T } = await import('https://esm.sh/turndown');
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(new Blob(
+                [new T({ headingStyle: 'atx' }).turndown(ed.innerHTML)],
+                { type: 'text/markdown' }
+            ));
+            a.download = 'export.md'; a.click();
+        }
+
+        // ── Drag & Drop ──────────────────────────────────────────────
+        const ed       = document.getElementById('editor');
+        const handle   = document.getElementById('handle');
+        const dropline = document.getElementById('dropline');
+        const ghost    = document.getElementById('ghost');
+
+        const THRESHOLD  = 5;      // px of movement before drag commits
+        const SCROLL_ZONE = 60;    // px from viewport edge to auto-scroll
+        const SCROLL_SPEED = 12;   // px per frame
+        const HANDLE_DELAY = 120;  // ms before handle appears
+
+        let hovered     = null;
+        let hoverTimer  = null;
+        let drag        = null;    // null | { el, ref, side, startX, startY, committed, scrollRAF, nextSibling }
+        let lastGapEl   = null;
+        let lastGapSide = null;
+
+        function blockAt(y) {
+            for (const b of ed.children) {
+                const r = b.getBoundingClientRect();
+                if (y >= r.top && y <= r.bottom) return b;
+            }
+            return null;
+        }
+
+        // ── Handle: show with delay, only near right edge ──
+        function tryShowHandle(block, x) {
+            const r = block.getBoundingClientRect();
+            // Only show if cursor is within 100px of the block's right edge (RTL: the "start" side)
+            if (x < r.right - 100 && x > r.left + 100) {
+                hideHandle(); return;
+            }
+            if (hovered === block && handle.classList.contains('show')) return;
+            hovered = block;
+            clearTimeout(hoverTimer);
+            hoverTimer = setTimeout(() => {
+                if (hovered !== block) return;
+                const rr = block.getBoundingClientRect();
+                handle.style.top  = (rr.top + 4) + 'px';
+                handle.style.left = (rr.right + 8) + 'px';
+                handle.classList.add('show');
+            }, HANDLE_DELAY);
+        }
+
+        function hideHandle() {
+            clearTimeout(hoverTimer);
+            handle.classList.remove('show');
+        }
+
+        // ── Gap: make room visually ──
+        function clearGap() {
+            if (lastGapEl) {
+                lastGapEl.classList.remove('gap-before', 'gap-after');
+                lastGapEl = null; lastGapSide = null;
+            }
+        }
+        function setGap(el, side) {
+            if (el === lastGapEl && side === lastGapSide) return;
+            clearGap();
+            el.classList.add(side === 'before' ? 'gap-before' : 'gap-after');
+            lastGapEl = el; lastGapSide = side;
+        }
+
+        // ── Auto-scroll ──
+        function autoScroll(clientY) {
+            if (clientY < SCROLL_ZONE) {
+                window.scrollBy(0, -SCROLL_SPEED);
+            } else if (clientY > window.innerHeight - SCROLL_ZONE) {
+                window.scrollBy(0, SCROLL_SPEED);
+            }
+        }
+
+        // ── Pointer events (unified mouse + touch) ──
+        document.addEventListener('pointermove', e => {
+            // ── Not dragging: handle hover ──
+            if (!drag) {
+                const b = blockAt(e.clientY);
+                if (b) { tryShowHandle(b, e.clientX); }
+                else   { hovered = null; hideHandle(); }
+                return;
+            }
+
+            // ── Dragging: check threshold ──
+            if (!drag.committed) {
+                const dx = e.clientX - drag.startX;
+                const dy = e.clientY - drag.startY;
+                if (Math.sqrt(dx*dx + dy*dy) < THRESHOLD) return;
+                // Commit to drag
+                drag.committed = true;
+                drag.el.classList.add('dragging');
+                ghost.innerHTML = '';
+                ghost.appendChild(drag.el.cloneNode(true));
+                ghost.classList.add('show');
+                document.body.style.cursor = 'grabbing';
+            }
+
+            // ── Update ghost position ──
+            ghost.style.left = e.clientX + 'px';
+            ghost.style.top  = e.clientY + 'px';
+
+            // ── Update drop target ──
+            const over = blockAt(e.clientY);
+            if (over && over !== drag.el) {
+                const r   = over.getBoundingClientRect();
+                const mid = r.top + r.height / 2;
+                drag.side = e.clientY < mid ? 'before' : 'after';
+                drag.ref  = over;
+
+                // Drop line
+                const er = ed.getBoundingClientRect();
+                dropline.style.left  = er.left + 'px';
+                dropline.style.width = er.width + 'px';
+                dropline.style.top   = (drag.side === 'before' ? r.top - 1 : r.bottom - 1) + 'px';
+                dropline.classList.add('show');
+
+                // Gap
+                setGap(over, drag.side);
+            } else {
+                dropline.classList.remove('show');
+                clearGap();
+                drag.ref = null;
+            }
+
+            // ── Auto-scroll near edges ──
+            autoScroll(e.clientY);
+        });
+
+        // ── Start drag (pointer down on handle) ──
+        handle.addEventListener('pointerdown', e => {
+            e.preventDefault();
+            handle.setPointerCapture(e.pointerId);
+            if (!hovered) return;
+            // Record start position + original next sibling (for cancel)
+            drag = {
+                el: hovered,
+                ref: null,
+                side: null,
+                startX: e.clientX,
+                startY: e.clientY,
+                committed: false,
+                nextSibling: hovered.nextElementSibling,
+            };
+            hideHandle();
+        });
+
+        // ── End drag ──
+        function endDrag(cancelled) {
+            if (!drag) return;
+            const { el, ref, side, committed } = drag;
+
+            if (committed) {
+                el.classList.remove('dragging');
+                ghost.classList.remove('show');
+                dropline.classList.remove('show');
+                clearGap();
+                document.body.style.cursor = '';
+
+                if (!cancelled && ref) {
+                    ed.insertBefore(el, side === 'before' ? ref : ref.nextElementSibling);
+                    // Settle flash
+                    el.classList.add('just-dropped');
+                    el.addEventListener('animationend', () => el.classList.remove('just-dropped'), { once: true });
+                }
+            }
+            drag = null;
+        }
+
+        document.addEventListener('pointerup', () => endDrag(false));
+
+        // ── Escape to cancel ──
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape' && drag) {
+                e.preventDefault();
+                endDrag(true);
+            }
+        });
+        // ── Machine Vision ──
+        let isMachineView = false;
+        let originalHTML = '';
+
+        function toggleMachineVision() {
+            isMachineView = !isMachineView;
+            document.body.classList.toggle('machine-view');
+            const editor = document.getElementById('editor');
+            const meter = document.getElementById('salience-meter');
+
+            if (isMachineView) {
+                originalHTML = editor.innerHTML;
+                const text = editor.innerText;
+                editor.innerHTML = analyzeText(text);
+                editor.contentEditable = "false"; 
+                meter.innerText = `AI Signal: ${calculateSalience(text)}% (Optimized for Logic)`;
+            } else {
+                editor.innerHTML = originalHTML;
+                editor.contentEditable = "true";
+            }
+        }
+
+        function analyzeText(text) {
+            const logicWords = [
+                'because', 'therefore', 'implies', 'causes', 'if', 'then', 'result', 'leads to', 'due to',
+                'چون', 'بنابراین', 'اگر', 'نتیجه', 'زیرا', 'پس', 'لذا', 'موجب', 'باعث', 'دلیل'
+            ];
+            const fluffWords = [
+                'really', 'very', 'just', 'sort of', 'kind of', 'maybe', 'perhaps', 'actually',
+                'واقعا', 'خیلی', 'فقط', 'تقریبا', 'شاید', 'یکجورایی', 'به نوعی', 'اصلا'
+            ];
+            
+            // Preserve paragraphs roughly
+            return text.split('\n').map(para => {
+                if (!para.trim()) return '<br>';
+                return '<p>' + para.split(' ').map(word => {
+                    const clean = word.replace(/[.,!?،؛]/g, '').toLowerCase();
+                    
+                    if (logicWords.some(w => clean === w)) {
+                        return `<span class="mv-logic">${word}</span>`;
+                    }
+                    if (fluffWords.some(w => clean === w)) {
+                        return `<span class="mv-fluff">${word}</span>`;
+                    }
+                    // Simple heuristic for entities: longer words or capitalized (in English)
+                    // In Persian, it's harder, so we'll skip for now or use length > 5
+                    if ((word.length > 5 && !logicWords.includes(clean)) || (word.match(/^[A-Z]/))) {
+                        return `<span class="mv-entity">${word}</span>`;
+                    }
+                    return word;
+                }).join(' ') + '</p>';
+            }).join('');
+        }
+
+        function calculateSalience(text) {
+            const words = text.split(/\s+/).length;
+            if (words === 0) return 0;
+            const logicWords = ['because', 'therefore', 'implies', 'causes', 'if', 'then', 'چون', 'بنابراین', 'اگر', 'نتیجه', 'زیرا', 'پس'];
+            const logicCount = text.split(/\s+/).filter(w => logicWords.some(lw => w.includes(lw))).length;
+            
+            // Logic density score
+            return Math.min(100, Math.round((logicCount * 15 / words) * 100));
+        }
+    </script>
+</body>
+</html>
