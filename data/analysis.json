@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-13T18:44:03.745821+00:00",
-  "scrape_timestamp": "2026-02-13T18:42:33.367944+00:00",
+  "timestamp": "2026-02-14T01:49:36.129118+00:00",
+  "scrape_timestamp": "2026-02-14T01:48:04.089217+00:00",
   "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
@@ -27,158 +27,318 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Monosketch",
-      "url": "https://monosketch.io/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.39,
-      "velocity": 8.0,
-      "velocity_label": "exploding",
-      "combined_score": 127.8
-    },
-    {
-      "title": "MinIO repository is no longer maintained",
-      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.41,
-      "velocity": 8.0,
-      "velocity_label": "exploding",
-      "combined_score": 168.2
-    },
-    {
-      "title": "Particle Lenia",
-      "url": "https://znah.net/lenia/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 8.0,
-      "velocity_label": "exploding",
-      "combined_score": 11.0
-    },
-    {
-      "title": "Some Layers of the Linux Desktop",
-      "url": "https://jaketrent.com/post/layers-linux-desktop/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.45
-    },
-    {
-      "title": "We interfaced single-threaded C++ with multi-threaded Rust",
-      "url": "https://antithesis.com/blog/2026/rust_cpp/",
+      "title": "Font Rendering from First Principles",
+      "url": "https://mccloskeybr.com/articles/font_rendering.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 1.0,
-      "velocity": 5.906,
+      "velocity": 9.192,
       "velocity_label": "exploding",
-      "combined_score": 14.76
+      "combined_score": 22.98
     },
     {
-      "title": "CSS-Doodle",
-      "url": "https://css-doodle.com/",
+      "title": "Sandwich Bill of Materials",
+      "url": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.12,
-      "velocity": 5.75,
+      "base_score": 2.33,
+      "velocity": 9.0,
       "velocity_label": "exploding",
-      "combined_score": 16.1
+      "combined_score": 52.43
     },
     {
-      "title": "Ruby Newbie Is Joining the Ruby Users Forum",
-      "url": "https://www.rubyforum.org/tag/getting-started",
+      "title": "Zed editor switching graphics lib from blade to wgpu",
+      "url": "https://github.com/zed-industries/zed/pull/46758",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.9,
-      "velocity": 5.277,
+      "base_score": 6.7,
+      "velocity": 9.0,
       "velocity_label": "exploding",
-      "combined_score": 11.87
+      "combined_score": 150.75
+    },
+    {
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "url": "http://www.lisp-screenshots.org",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.34,
+      "velocity": 8.583,
+      "velocity_label": "exploding",
+      "combined_score": 7.3
+    },
+    {
+      "title": "An open replacement for the IBM 3174 Establishment Controller",
+      "url": "https://github.com/lowobservable/oec",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.45,
+      "velocity": 8.375,
+      "velocity_label": "exploding",
+      "combined_score": 9.42
+    },
+    {
+      "title": "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]",
+      "url": "https://nickbostrom.com/optimal.pdf",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.75,
+      "velocity": 8.048,
+      "velocity_label": "exploding",
+      "combined_score": 35.21
+    },
+    {
+      "title": "The Sharp PC-2000 Computer Boombox from 1979",
+      "url": "https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.43,
+      "velocity": 7.667,
+      "velocity_label": "exploding",
+      "combined_score": 8.24
+    },
+    {
+      "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
+      "url": "https://greensdictofslang.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.06,
+      "velocity": 7.403,
+      "velocity_label": "exploding",
+      "combined_score": 19.62
     },
     {
       "title": "Implementing Auto Tiling with Just 5 Tiles",
       "url": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.67,
-      "velocity": 5.0,
+      "base_score": 0.97,
+      "velocity": 6.5,
       "velocity_label": "exploding",
-      "combined_score": 8.38
+      "combined_score": 15.76
     },
     {
-      "title": "Advanced Aerial Robotics Made Simple",
-      "url": "https://www.drehmflight.com",
+      "title": "Dario Amodei – \"We are near the end of the exponential\" [video]",
+      "url": "https://www.dwarkesh.com/p/dario-amodei-2",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.89,
-      "velocity": 5.0,
+      "base_score": 3.17,
+      "velocity": 6.34,
       "velocity_label": "exploding",
-      "combined_score": 11.12
+      "combined_score": 50.24
     },
     {
-      "title": "Good Riddance, 4o",
-      "url": "https://mahadk.com/posts/4o",
+      "title": "Show HN: ClipPath – Paste screenshots as file paths in your terminal",
+      "url": "https://github.com/BiteCraft/ClipPath",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.15,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "IBM Triples Entry Level Job Openings. Finds Limits to AI",
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 5.917,
+      "velocity_label": "exploding",
+      "combined_score": 1.48
+    },
+    {
+      "title": "The wonder of modern drywall",
+      "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.12,
+      "velocity": 5.905,
+      "velocity_label": "exploding",
+      "combined_score": 31.3
+    },
+    {
+      "title": "How did the Maya survive?",
+      "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.21,
+      "velocity": 5.5,
+      "velocity_label": "exploding",
+      "combined_score": 30.39
+    },
+    {
+      "title": "Faster Than Dijkstra?",
+      "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 1.92,
-      "velocity": 5.0,
+      "velocity": 5.25,
       "velocity_label": "exploding",
-      "combined_score": 24.0
+      "combined_score": 25.2
     },
     {
-      "title": "Go! The AI Personal Operating System for Your Life",
-      "url": "https://app.gosmartchain.ai/",
+      "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
+      "url": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.0,
+      "base_score": 2.35,
+      "velocity": 4.989,
       "velocity_label": "exploding",
-      "combined_score": 0.38
+      "combined_score": 29.31
     },
     {
-      "title": "Rethinking High-School Science Fairs",
-      "url": "https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs",
+      "title": "Updated GitHub status page experience",
+      "url": "https://github.blog/changelog/2026-02-13-updated-status-experience/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.867,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "url": "https://ios-countdown.win/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 22.78,
+      "velocity": 4.843,
+      "velocity_label": "exploding",
+      "combined_score": 275.79
+    },
+    {
+      "title": "Elon Musk Wants to Build an A.I. Satellite Factory on the Moon",
+      "url": "https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 4.619,
+      "velocity_label": "exploding",
+      "combined_score": 0.46
+    },
+    {
+      "title": "Lena by qntm (2021)",
+      "url": "https://qntm.org/mmacevedo",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.6,
+      "velocity": 4.556,
+      "velocity_label": "exploding",
+      "combined_score": 63.78
+    },
+    {
+      "title": "Vitamin D Dosing: Basic Principles and a Brief Algorithm",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8709011/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.76,
+      "velocity": 4.528,
       "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 0.11
     },
     {
-      "title": "Babylon 5 Is Now Free to Watch on YouTube",
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "title": "CBP signs Clearview AI deal to use face recognition for 'tactical targeting'",
+      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.27,
-      "velocity": 4.7,
+      "base_score": 4.67,
+      "velocity": 4.503,
       "velocity_label": "exploding",
-      "combined_score": 14.92
+      "combined_score": 52.57
     },
     {
-      "title": "Cache Monet",
-      "url": "https://cachemonet.com",
+      "title": "I'm not worried about AI job loss",
+      "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.57,
-      "velocity": 4.625,
+      "base_score": 5.46,
+      "velocity": 4.333,
       "velocity_label": "exploding",
-      "combined_score": 18.15
+      "combined_score": 59.15
     },
     {
-      "title": "The next generation of AI businesses",
-      "url": "https://seths.blog/2026/02/the-next-generation-of-ai-businesses/",
+      "title": "Show HN: Direct-img.link for AI when you want IMG in Markdown",
+      "url": "https://github.com/direct-img/direct-img.link",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.0,
+      "velocity": 4.259,
+      "velocity_label": "exploding",
+      "combined_score": 0.11
+    },
+    {
+      "title": "Building a TUI is easy now",
+      "url": "https://hatchet.run/blog/tuis-are-easy-now",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.5,
+      "velocity": 4.25,
+      "velocity_label": "exploding",
+      "combined_score": 26.56
+    },
+    {
+      "title": "The EU moves to kill infinite scrolling",
+      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.42,
+      "velocity": 4.25,
+      "velocity_label": "exploding",
+      "combined_score": 78.84
+    },
+    {
+      "title": "Show HN: Turn OpenClaw in a high performing development team with DevClaw",
+      "url": "https://github.com/laurentenhoor/devclaw",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.048,
       "velocity_label": "exploding",
       "combined_score": 0.1
     },
     {
-      "title": "A Brief History of Xenopus",
-      "url": "https://www.asimov.press/p/xenopus",
+      "title": "Monosketch",
+      "url": "https://monosketch.io/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.92,
+      "velocity": 4.0,
+      "velocity_label": "exploding",
+      "combined_score": 89.2
+    },
+    {
+      "title": "MinIO repository is no longer maintained",
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.38,
+      "velocity": 4.0,
+      "velocity_label": "exploding",
+      "combined_score": 93.8
+    },
+    {
+      "title": "Age of Empires: 25 years of pathfinding problems with C++ [video]",
+      "url": "https://www.youtube.com/watch?v=lEBQveBCtKY",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.31,
+      "velocity": 3.813,
+      "velocity_label": "exploding",
+      "combined_score": 12.49
+    },
+    {
+      "title": "OpenAI retired its most seductive chatbot – leaving users angry and grieving",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/13/openai-chatbot-gpt4o-valentines-day",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 3.792,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "The Charity Entrepreneurship Incubation Program",
+      "url": "https://www.charityentrepreneurship.com/incubation-program",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -187,368 +347,240 @@
       "combined_score": 0.09
     },
     {
-      "title": "'A game-changer': UC San Diego professor initiates new field of medical science",
-      "url": "https://www.sandiegouniontribune.com/2026/02/12/a-game-changer-uc-san-diego-professor-initiates-a-new-field-of-medical-science/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.564,
-      "velocity_label": "exploding",
-      "combined_score": 0.09
-    },
-    {
-      "title": "MMAcevedo aka Lena by qntm",
-      "url": "https://qntm.org/mmacevedo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.53,
-      "velocity": 3.5,
-      "velocity_label": "exploding",
-      "combined_score": 39.64
-    },
-    {
-      "title": "WebMCP is available for early preview",
-      "url": "https://developer.chrome.com/blog/webmcp-epp",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.09
-    },
-    {
-      "title": "Apocalypse no: how almost everything we thought we knew about the Maya is wrong",
-      "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.95,
-      "velocity": 3.286,
-      "velocity_label": "exploding",
-      "combined_score": 7.8
-    },
-    {
-      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
-      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.9,
-      "velocity": 3.267,
-      "velocity_label": "exploding",
-      "combined_score": 15.52
-    },
-    {
-      "title": "Show HN: DotNetDevs – a reverse job board for .NET developers",
-      "url": "https://dotnetdevs.net/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.235,
-      "velocity_label": "exploding",
-      "combined_score": 0.08
-    },
-    {
-      "title": "Is software engineering still a craft?",
-      "url": "https://www.swarmia.com/blog/is-software-engineering-still-craft/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 3.087,
-      "velocity_label": "exploding",
-      "combined_score": 1.16
-    },
-    {
-      "title": "Syd: Writing an application kernel in Rust [video]",
-      "url": "https://fosdem.org/2026/schedule/event/3AHJPR-rust-syd-application-kernel/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 3.085,
-      "velocity_label": "exploding",
-      "combined_score": 0.46
-    },
-    {
-      "title": "Memory Safety Is",
-      "url": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.05,
-      "velocity_label": "exploding",
-      "combined_score": 0.08
-    },
-    {
-      "title": "Rustbridge: A framework for Rust libraries callable from other languages",
-      "url": "https://github.com/jrobhoward/rustbridge",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 2.942,
-      "velocity_label": "exploding",
-      "combined_score": 0.07
-    },
-    {
-      "title": "A history of copper mining and refinement",
-      "url": "https://worksinprogress.co/issue/the-discovery-of-copper/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 2.938,
-      "velocity_label": "exploding",
-      "combined_score": 0.07
-    },
-    {
-      "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
-      "url": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.08,
-      "velocity": 2.875,
-      "velocity_label": "exploding",
-      "combined_score": 7.76
-    },
-    {
-      "title": "Show HN: Alarm Arcade – an alarm app that only stops after you beat a mini-game",
-      "url": "https://apps.apple.com/us/app/alarm-arcade-beat-the-clock/id6758615211",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 2.778,
-      "velocity_label": "exploding",
-      "combined_score": 0.07
-    },
-    {
-      "title": "Microsoft AI chief: 18 months for all white-collar work to be automated",
-      "url": "https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.08,
-      "velocity": 2.771,
-      "velocity_label": "exploding",
-      "combined_score": 0.55
-    },
-    {
-      "title": "Ring owners are returning their cameras",
-      "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.26,
-      "velocity": 2.75,
-      "velocity_label": "exploding",
-      "combined_score": 49.91
-    },
-    {
-      "title": "Woman sentenced for accusing her ex spouse of accessing bank account from space",
-      "url": "https://www.kbtx.com/2026/02/12/woman-sentenced-accusing-her-estranged-spouse-illegally-accessing-bank-account-outer-space/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 2.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.07
-    },
-    {
-      "title": "The Final Bottleneck",
-      "url": "https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 2.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.07
-    },
-    {
-      "title": "Adversarial Patch: images that make classifiers ignore other items in a scene",
-      "url": "https://arxiv.org/abs/1712.09665",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 2.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.07
-    },
-    {
-      "title": "An open replacement for the IBM 3174 Establishment Controller",
-      "url": "https://github.com/lowobservable/oec",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 2.714,
-      "velocity_label": "exploding",
-      "combined_score": 1.36
-    },
-    {
-      "title": "When Software Drifts, Build Your Own",
-      "url": "https://nabraj.com/blog/build-your-own-tools",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 2.7,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
-      "url": "https://greensdictofslang.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.79,
-      "velocity": 2.696,
-      "velocity_label": "exploding",
-      "combined_score": 5.33
-    },
-    {
-      "title": "Show HN: A private, bulk audio converter using WASM (186x real-time speed)",
-      "url": "https://vocalremover.dev/bulk-converter/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 2.591,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Rich, bored and isolated: Why Texas oil country loves OnlyFans",
-      "url": "https://www.houstonchronicle.com/business/energy/article/onlyfans-texas-oil-permian-21322366.php",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 2.438,
-      "velocity_label": "exploding",
-      "combined_score": 0.85
-    },
-    {
-      "title": "The consequences of task switching in supervisory programming",
-      "url": "https://martinfowler.com/fragments/2026-02-13.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 2.4,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Netflix Measures Dialogue Intelligibility",
-      "url": "https://medium.com/netflix-techblog/measuring-dialogue-intelligibility-for-netflix-content-58c13d2a6f6e",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 2.375,
-      "velocity_label": "exploding",
-      "combined_score": 0.83
-    },
-    {
-      "title": "Japan's Dododo Land, the most irritating place on Earth",
-      "url": "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.75,
-      "velocity": 2.317,
-      "velocity_label": "exploding",
-      "combined_score": 10.14
-    },
-    {
-      "title": "Zed editor switching graphics lib from blade to wgpu",
-      "url": "https://github.com/zed-industries/zed/pull/46758",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.2,
-      "velocity": 2.286,
-      "velocity_label": "exploding",
-      "combined_score": 29.71
-    },
-    {
-      "title": "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
-      "url": "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/",
+      "title": "Spotify says its best developers haven't written code since Dec, thanks to AI",
+      "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.32,
-      "velocity": 2.224,
+      "velocity": 3.661,
       "velocity_label": "exploding",
-      "combined_score": 1.78
+      "combined_score": 2.93
     },
     {
-      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-      "url": "https://news.ycombinator.com/item?id=46996490",
+      "title": "OpenAI has deleted the word 'safely' from its mission",
+      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.7,
-      "velocity": 2.078,
+      "base_score": 5.73,
+      "velocity": 3.533,
       "velocity_label": "exploding",
-      "combined_score": 24.42
+      "combined_score": 50.62
     },
     {
-      "title": "French police arrest nine people over suspected €10M Louvre ticket fraud",
-      "url": "https://www.theguardian.com/world/2026/feb/13/french-police-arrest-people-suspected-louvre-ticket-fraud",
+      "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
+      "url": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.68,
+      "velocity": 3.51,
+      "velocity_label": "exploding",
+      "combined_score": 32.29
+    },
+    {
+      "title": "Advanced Aerial Robotics Made Simple",
+      "url": "https://www.drehmflight.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.19,
+      "velocity": 3.5,
+      "velocity_label": "exploding",
+      "combined_score": 10.41
+    },
+    {
+      "title": "Moderna Won't Run Any Phase III Vaccine Trials as Skepticism Grows in US",
+      "url": "https://www.biospace.com/business/moderna-wont-run-phase-iii-vaccine-trials-as-skepticism-grows-in-us-bloomberg",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 3.308,
+      "velocity_label": "exploding",
+      "combined_score": 0.33
+    },
+    {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 3.286,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "CSS-Doodle",
+      "url": "https://css-doodle.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 3.167,
+      "velocity_label": "exploding",
+      "combined_score": 11.48
+    },
+    {
+      "title": "Why Tech Giants Are Accused of Causing Social Media Addiction [video]",
+      "url": "https://www.nytimes.com/video/technology/100000010701326/why-tech-giants-are-accused-of-causing-social-media-addiction.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 3.159,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 36.52,
+      "velocity": 3.13,
+      "velocity_label": "exploding",
+      "combined_score": 285.81
+    },
+    {
+      "title": "Show HN: Rethinking the UI = F(State) Model",
+      "url": "https://github.com/livetrails/targetjs",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 2.075,
+      "velocity": 3.096,
       "velocity_label": "exploding",
-      "combined_score": 0.05
+      "combined_score": 0.08
     },
     {
-      "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
-      "url": "https://github.com/nearai/ironclaw",
+      "title": "Open source is not about you (2018)",
+      "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.31,
-      "velocity": 2.074,
+      "base_score": 4.54,
+      "velocity": 3.053,
       "velocity_label": "exploding",
-      "combined_score": 1.61
+      "combined_score": 34.65
     },
     {
-      "title": "Sandwich Bill of Materials",
-      "url": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
+      "title": "Postgres Locks Explained: From Theory to Advanced Troubleshooting",
+      "url": "https://postgreslocksexplained.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.53,
-      "velocity": 2.0,
-      "velocity_label": "rising",
-      "combined_score": 2.65
+      "base_score": 0.1,
+      "velocity": 3.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
     },
     {
-      "title": "Faster Than Dijkstra?",
-      "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
+      "title": "Om Malik – Mad Money and the Big AI Race",
+      "url": "https://om.co/2026/02/13/mad-money-the-big-ai-race/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.98,
-      "velocity": 2.0,
-      "velocity_label": "rising",
-      "combined_score": 4.9
+      "base_score": 0.02,
+      "velocity": 2.933,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
     },
     {
-      "title": "colorForth",
-      "url": "https://colorforth.github.io/cf.htm",
+      "title": "Ruby Newbie is joining the Ruby Users forum",
+      "url": "https://www.rubyforum.org/t/ruby-newbie-is-joining-the-ruby-users-forum/97",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.2,
-      "velocity": 2.0,
-      "velocity_label": "rising",
-      "combined_score": 1.0
+      "base_score": 0.96,
+      "velocity": 2.767,
+      "velocity_label": "exploding",
+      "combined_score": 6.64
+    },
+    {
+      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.81,
+      "velocity": 2.754,
+      "velocity_label": "exploding",
+      "combined_score": 5.58
+    },
+    {
+      "title": "Dump Microsoft Fabric and Use ClickHouse for Data Analytics",
+      "url": "https://medium.com/@parade4940/stop-calling-it-saas-why-you-should-dump-microsoft-fabric-and-use-clickhouse-for-data-analytics-62e73b3cffbe",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 2.73,
+      "velocity_label": "exploding",
+      "combined_score": 0.07
+    },
+    {
+      "title": "WolfSSL sucks too, so now what?",
+      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.52,
+      "velocity": 2.667,
+      "velocity_label": "exploding",
+      "combined_score": 10.13
+    },
+    {
+      "title": "Atom: Private Offline AI Computer",
+      "url": "https://atomcomputers.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 2.583,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "agent",
+        "hit",
+        "piece",
+        "published"
+      ],
+      "concept_hint": "agent + hit + piece + published",
+      "cluster_size": 4,
+      "discussion_count": 3,
+      "void_score": 18.0,
+      "examples": [
+        {
+          "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agent",
+            "hit",
+            "piece",
+            "published"
+          ]
+        },
+        {
+          "title": "The \"AI agent hit piece\" situation clarifies how dumb we are acting",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agent",
+            "hit",
+            "piece"
+          ]
+        },
+        {
+          "title": "An AI agent published a hit piece on me",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agent",
+            "hit",
+            "piece",
+            "published"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
-      "title": "Polis: Open-source platform for large-scale civic deliberation",
-      "url": "https://pol.is/home2",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 4.98,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Open Source Is Not About You (2018)",
+      "title": "Open source is not about you (2018)",
       "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.62,
+      "score": 4.54,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -556,25 +588,15 @@
       ]
     },
     {
-      "title": "Warcraft III Peon Voice Notifications for Claude Code",
-      "url": "https://github.com/tonyyont/peon-ping",
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
       "source": "hackernews",
       "category": "tech",
-      "score": 14.19,
-      "relevance": 0.056,
+      "score": 0.68,
+      "relevance": 0.111,
       "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)",
-      "url": "https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 3.98,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
+        "open",
+        "source"
       ]
     },
     {
@@ -582,18 +604,29 @@
       "url": "https://news.ycombinator.com/item?id=46991591",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.58,
+      "score": 3.67,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
-      "url": "https://github.com/nearai/ironclaw",
+      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "url": "https://cloudrouter.dev/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.31,
+      "score": 1.33,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
+      "url": "https://www.moltis.org",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 1.14,
       "relevance": 0.056,
       "matching_tags": [
         "tools"
@@ -604,29 +637,18 @@
       "url": "https://github.com/lowobservable/oec",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.2,
+      "score": 0.45,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Iran Turns to Digital Surveillance Tools to Track Down Protesters",
-      "url": "https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html",
+      "title": "Spotify says its best developers haven't written code since Dec, thanks to AI",
+      "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.12,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
-      ]
-    },
-    {
-      "title": "code-simplifier.md",
-      "url": "https://github.com/getsentry/skills/blob/main/plugins/sentry-skills/agents/code-simplifier.md",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
+      "score": 0.32,
       "relevance": 0.056,
       "matching_tags": [
         "code"
