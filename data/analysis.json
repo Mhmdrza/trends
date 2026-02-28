@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-02-28T01:30:58.462966+00:00",
-  "scrape_timestamp": "2026-02-28T01:29:26.340719+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-02-28T06:34:59.634270+00:00",
+  "scrape_timestamp": "2026-02-28T06:33:31.222885+00:00",
+  "total_items_analyzed": 86,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 86,
       "status": "ok"
     },
     "twitter": {
@@ -27,516 +27,576 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Dan Simmons, author of Hyperion, has died",
-      "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
+      "title": "The Robotic Dexterity Deadlock",
+      "url": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.06,
-      "velocity": 19.9,
-      "velocity_label": "exploding",
-      "combined_score": 351.24
-    },
-    {
-      "title": "We Will Not Be Divided",
-      "url": "https://notdivided.org",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.02,
+      "base_score": 1.5,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 90.9
+      "combined_score": 67.5
     },
     {
-      "title": "USA Designates Anthropic a Supply Chain Risk",
-      "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-agencies-to-stop-using-anthropic-tech-over-ai-safety-dispute",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 15.273,
-      "velocity_label": "exploding",
-      "combined_score": 1.53
-    },
-    {
-      "title": "ChatGPT Health fails to recognise medical emergencies – study",
-      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.98,
-      "velocity": 13.929,
-      "velocity_label": "exploding",
-      "combined_score": 138.59
-    },
-    {
-      "title": "We gave terabytes of CI logs to an LLM",
-      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.03,
-      "velocity": 13.82,
-      "velocity_label": "exploding",
-      "combined_score": 104.69
-    },
-    {
-      "title": "Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users",
-      "url": "https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.73,
-      "velocity": 13.743,
-      "velocity_label": "exploding",
-      "combined_score": 59.44
-    },
-    {
-      "title": "Will AI Replace You? – Roast My Career",
-      "url": "https://candidate.perfectly.so/roast",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 13.667,
-      "velocity_label": "exploding",
-      "combined_score": 1.37
-    },
-    {
-      "title": "Modeling cycles of grift with evolutionary game theory",
-      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.29,
-      "velocity": 13.306,
-      "velocity_label": "exploding",
-      "combined_score": 42.91
-    },
-    {
-      "title": "Struere: Lovable for AI Agents",
-      "url": "https://struere.dev",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 12.983,
-      "velocity_label": "exploding",
-      "combined_score": 1.3
-    },
-    {
-      "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
-      "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.28,
-      "velocity": 12.221,
-      "velocity_label": "exploding",
-      "combined_score": 8.55
-    },
-    {
-      "title": "\"Just a little detail that wouldn't sell anything\"",
-      "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.43,
-      "velocity": 12.21,
-      "velocity_label": "exploding",
-      "combined_score": 43.65
-    },
-    {
-      "title": "Let's discuss sandbox isolation",
-      "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.36,
-      "velocity": 12.1,
-      "velocity_label": "exploding",
-      "combined_score": 41.14
-    },
-    {
-      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-      "url": "https://twitter.com/secwar/status/2027507717469049070",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 21.64,
-      "velocity": 11.917,
-      "velocity_label": "exploding",
-      "combined_score": 644.71
-    },
-    {
-      "title": "Allocating on the Stack",
-      "url": "https://go.dev/blog/allocation-optimizations",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.92,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 56.0
-    },
-    {
-      "title": "Rob Grant, creator of Red Dwarf, has died",
-      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.3,
-      "velocity": 11.583,
-      "velocity_label": "exploding",
-      "combined_score": 95.56
-    },
-    {
-      "title": "Debian Removes Free Pascal Compiler / Lazarus IDE",
-      "url": "https://forum.lazarus.freepascal.org/index.php?topic=73405.0",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 11.434,
-      "velocity_label": "exploding",
-      "combined_score": 39.73
-    },
-    {
-      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 10.462,
-      "velocity_label": "exploding",
-      "combined_score": 36.36
-    },
-    {
-      "title": "Building secure, scalable agent sandbox infrastructure",
-      "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.62,
-      "velocity": 10.406,
-      "velocity_label": "exploding",
-      "combined_score": 16.13
-    },
-    {
-      "title": "Heart attack deaths are rising in young adults. Here's why",
-      "url": "https://www.empirical.health/blog/heart-attacks-rising-young-people/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.07,
-      "velocity": 9.925,
-      "velocity_label": "exploding",
-      "combined_score": 125.8
-    },
-    {
-      "title": "Trump Bans Anthropic from All US Federal Agencies",
-      "url": "https://twitter.com/WhiteHouse/status/2027497719678255148",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.56,
-      "velocity": 9.854,
-      "velocity_label": "exploding",
-      "combined_score": 13.8
-    },
-    {
-      "title": "What was the first life restoration of a sauropod?",
-      "url": "https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 9.789,
-      "velocity_label": "exploding",
-      "combined_score": 7.1
-    },
-    {
-      "title": "Super Editor – Atomic file editor with automatic backups (Python and Go)",
-      "url": "https://news.ycombinator.com/item?id=47188684",
+      "title": "Saving No One",
+      "url": "https://netwars.pelicancrossing.net/2026/02/27/saving-no-one/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 9.652,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 0.48
+      "combined_score": 0.9
     },
     {
-      "title": "Smallest transformer that can add two 10-digit numbers",
-      "url": "https://github.com/anadim/AdderBoard",
+      "title": "Semantic Syntax Highlighting for Lisp in Emacs",
+      "url": "https://github.com/calsys456/lisp-semantic-hl.el",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.49,
-      "velocity": 9.48,
+      "base_score": 0.05,
+      "velocity": 16.392,
       "velocity_label": "exploding",
-      "combined_score": 11.61
+      "combined_score": 2.05
     },
     {
-      "title": "Sprites on the Web",
-      "url": "https://www.joshwcomeau.com/animation/sprites/",
+      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+      "url": "https://www.science.org/doi/10.1126/science.adt2760",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.29,
-      "velocity": 8.932,
+      "base_score": 0.89,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 28.81
+      "combined_score": 34.77
     },
     {
-      "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
-      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.3,
-      "velocity": 8.8,
+      "base_score": 3.65,
+      "velocity": 14.842,
       "velocity_label": "exploding",
-      "combined_score": 138.6
-    },
-    {
-      "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
-      "url": "https://retrotick.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.52,
-      "velocity": 8.453,
-      "velocity_label": "exploding",
-      "combined_score": 53.25
-    },
-    {
-      "title": "Altman says OpenAI agrees with Anthropic's red lines in Pentagon dispute",
-      "url": "https://thehill.com/policy/technology/5758898-altman-backs-anthropic-pentagon-stand/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 7.856,
-      "velocity_label": "exploding",
-      "combined_score": 6.68
-    },
-    {
-      "title": "Agent-md/session-commit: Update your AGENTS.md after each session",
-      "url": "https://github.com/Olshansk/agent-md",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.652,
-      "velocity_label": "exploding",
-      "combined_score": 0.38
-    },
-    {
-      "title": "Ask HN: Anthropic has stood its ground. What excuse is left for other companies?",
-      "url": "https://news.ycombinator.com/item?id=47188520",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.338,
-      "velocity_label": "exploding",
-      "combined_score": 0.73
-    },
-    {
-      "title": "Zugunruhe, and what makes things worth doing",
-      "url": "https://www.nathanzhao.cc/zugunruhe",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 7.327,
-      "velocity_label": "exploding",
-      "combined_score": 1.65
-    },
-    {
-      "title": "Don't Cite Unsold eBay Listing Prices",
-      "url": "https://blog.danlew.net/2026/01/17/dont-cite-unsold-ebay-listing-prices/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.37,
-      "velocity": 7.231,
-      "velocity_label": "exploding",
-      "combined_score": 6.69
-    },
-    {
-      "title": "An interactive intro to quadtrees",
-      "url": "https://growingswe.com/blog/quadtrees",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.25,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 38.91
-    },
-    {
-      "title": "Compact disc story (1998)",
-      "url": "https://www.researchgate.net/publication/294484774_Compact_disc_story",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.86,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 14.87
-    },
-    {
-      "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
-      "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.35,
-      "velocity": 6.752,
-      "velocity_label": "exploding",
-      "combined_score": 39.67
-    },
-    {
-      "title": "OpenAI raises $110B on $730B pre-money valuation",
-      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.51,
-      "velocity": 6.724,
-      "velocity_label": "exploding",
-      "combined_score": 176.69
-    },
-    {
-      "title": "Reading English from 1000 AD",
-      "url": "https://lewiscampbell.tech/blog/260224.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.65,
-      "velocity": 6.6,
-      "velocity_label": "exploding",
-      "combined_score": 27.23
-    },
-    {
-      "title": "$500K exit approved for Bay Area CEO days before harassment findings surface",
-      "url": "https://www.sfgate.com/bayarea/article/exit-bay-area-ceo-harassment-21943048.php",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.183,
-      "velocity_label": "exploding",
-      "combined_score": 0.46
-    },
-    {
-      "title": "Writing a Guide to SDF Fonts",
-      "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 6.085,
-      "velocity_label": "exploding",
-      "combined_score": 12.32
-    },
-    {
-      "title": "Replace Resend dry-run emails with Gmail drafts for manual review",
-      "url": "https://news.ycombinator.com/item?id=47188655",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.07,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Tell HN: MitID, Denmark's digital ID, was down",
-      "url": "https://news.ycombinator.com/item?id=47179038",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.75,
-      "velocity": 6.068,
-      "velocity_label": "exploding",
-      "combined_score": 56.88
+      "combined_score": 135.43
     },
     {
       "title": "Otters as Bioindicators of Estuarine Health",
       "url": "https://emt.pensoft.net/article/185117/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.21,
-      "velocity": 6.0,
+      "base_score": 0.34,
+      "velocity": 14.438,
       "velocity_label": "exploding",
-      "combined_score": 3.15
+      "combined_score": 12.27
     },
     {
-      "title": "Show HN: MQTT with Runtime Protobuf and Service Discovery (Zig)",
-      "url": "https://github.com/electricalgorithm/protomq",
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.965,
+      "base_score": 11.99,
+      "velocity": 13.42,
       "velocity_label": "exploding",
-      "combined_score": 0.3
+      "combined_score": 402.25
     },
     {
-      "title": "A better streams API is possible for JavaScript",
-      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "title": "OpenAI Reaches A.I. Agreement with Defense Dept. After Anthropic Clash",
+      "url": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.54,
-      "velocity": 5.879,
+      "base_score": 0.08,
+      "velocity": 13.074,
       "velocity_label": "exploding",
-      "combined_score": 81.42
+      "combined_score": 2.61
     },
     {
-      "title": "Ask HN: 2026, where is the best place in the world to create a startup?",
-      "url": "https://news.ycombinator.com/item?id=47188727",
+      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+      "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 12.888,
+      "velocity_label": "exploding",
+      "combined_score": 44.46
+    },
+    {
+      "title": "\"Tonight, we reached an agreement with the Dept. of War to deploy our models\"",
+      "url": "https://twitter.com/sama/status/2027578508042723599",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.38,
+      "velocity": 12.844,
+      "velocity_label": "exploding",
+      "combined_score": 12.2
+    },
+    {
+      "title": "Eschewing Zshell for Emacs Shell (2014)",
+      "url": "https://www.howardism.org/Technical/Emacs/eshell-fun.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.3,
+      "velocity": 12.2,
+      "velocity_label": "exploding",
+      "combined_score": 9.15
+    },
+    {
+      "title": "Inventing the Lisa user interface – Interactions",
+      "url": "https://dl.acm.org/doi/10.1145/242388.242405",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.29,
+      "velocity": 11.418,
+      "velocity_label": "exploding",
+      "combined_score": 8.28
+    },
+    {
+      "title": "Rob Grant, creator of Red Dwarf, has died",
+      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.73,
+      "velocity": 11.403,
+      "velocity_label": "exploding",
+      "combined_score": 106.33
+    },
+    {
+      "title": "Don't Cite Unsold eBay Listing Prices",
+      "url": "https://blog.danlew.net/2026/01/17/dont-cite-unsold-ebay-listing-prices/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 11.382,
+      "velocity_label": "exploding",
+      "combined_score": 13.94
+    },
+    {
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.7,
+      "velocity": 11.085,
+      "velocity_label": "exploding",
+      "combined_score": 185.67
+    },
+    {
+      "title": "Building secure, scalable agent sandbox infrastructure",
+      "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.82,
+      "velocity": 9.169,
+      "velocity_label": "exploding",
+      "combined_score": 18.8
+    },
+    {
+      "title": "Leaving Google has actively improved my life",
+      "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.56,
+      "velocity": 9.003,
+      "velocity_label": "exploding",
+      "combined_score": 170.16
+    },
+    {
+      "title": "Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web",
+      "url": "https://github.com/bntre/visual-lambda",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.04,
-      "velocity": 5.814,
+      "velocity": 8.991,
       "velocity_label": "exploding",
-      "combined_score": 0.58
+      "combined_score": 0.9
     },
     {
-      "title": "F-Droid Board of Directors nominations 2026",
-      "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
+      "title": "Let's discuss sandbox isolation",
+      "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.4,
-      "velocity": 5.623,
+      "base_score": 1.84,
+      "velocity": 8.932,
       "velocity_label": "exploding",
-      "combined_score": 47.79
+      "combined_score": 41.09
     },
     {
-      "title": "A star 1,540 times the size of our sun transform into a hypergiant",
-      "url": "https://www.space.com/astronomy/stars/astronomers-just-watched-a-star-1-540-times-the-size-of-our-sun-transform-into-a-hypergiant-will-it-go-supernova",
+      "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+      "url": "https://github.com/hjtenklooster/claude-file-recovery",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.08,
+      "velocity": 8.893,
+      "velocity_label": "exploding",
+      "combined_score": 24.01
+    },
+    {
+      "title": "Time-Travel Debugging: Replaying Production Bugs Locally",
+      "url": "https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 8.881,
+      "velocity_label": "exploding",
+      "combined_score": 1.55
+    },
+    {
+      "title": "AI Mistakes Are Infuriating Gamers as Developers Seek Savings",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-25/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.708,
+      "velocity_label": "exploding",
+      "combined_score": 0.44
+    },
+    {
+      "title": "We Will Not Be Divided",
+      "url": "https://notdivided.org",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 17.43,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 370.39
+    },
+    {
+      "title": "How do I cancel my ChatGPT subscription?",
+      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.21,
+      "velocity": 8.143,
+      "velocity_label": "exploding",
+      "combined_score": 4.28
+    },
+    {
+      "title": "NATO says iPhones are secure enough to handle classified data",
+      "url": "https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.958,
+      "velocity_label": "exploding",
+      "combined_score": 0.4
+    },
+    {
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 27.19,
+      "velocity": 7.78,
+      "velocity_label": "exploding",
+      "combined_score": 528.87
+    },
+    {
+      "title": "Californian pulls AI ballot measures, citing OpenAI intimidation",
+      "url": "https://www.politico.com/news/2026/02/27/californian-pulls-ai-ballot-measures-citing-openai-intimidation-00803117",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.42,
+      "velocity_label": "exploding",
+      "combined_score": 0.74
+    },
+    {
+      "title": "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
+      "url": "https://github.com/wkoszek/emuko",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 6.794,
+      "velocity_label": "exploding",
+      "combined_score": 11.72
+    },
+    {
+      "title": "Modeling cycles of grift with evolutionary game theory",
+      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.47,
+      "velocity": 6.766,
+      "velocity_label": "exploding",
+      "combined_score": 24.86
+    },
+    {
+      "title": "Tell HN: MitID, Denmark's digital ID, was down",
+      "url": "https://news.ycombinator.com/item?id=47179038",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.86,
+      "velocity": 6.706,
+      "velocity_label": "exploding",
+      "combined_score": 64.71
+    },
+    {
+      "title": "Show HN: I built a self-hosted course platform in Clojure",
+      "url": "https://clojure.stream",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.5,
+      "velocity": 6.686,
+      "velocity_label": "exploding",
+      "combined_score": 8.36
+    },
+    {
+      "title": "Why LLMs can't play chess",
+      "url": "https://www.nicowesterdale.com/blog/why-llms-cant-play-chess",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.547,
+      "velocity_label": "exploding",
+      "combined_score": 0.65
+    },
+    {
+      "title": "Varlock: .env Files Built for Sharing",
+      "url": "https://github.com/dmno-dev/varlock",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.368,
+      "velocity_label": "exploding",
+      "combined_score": 0.32
+    },
+    {
+      "title": "We gave terabytes of CI logs to an LLM",
+      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.31,
+      "velocity": 6.295,
+      "velocity_label": "exploding",
+      "combined_score": 52.09
+    },
+    {
+      "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.04,
+      "velocity": 6.257,
+      "velocity_label": "exploding",
+      "combined_score": 110.12
+    },
+    {
+      "title": "Debian Removes Free Pascal Compiler / Lazarus IDE",
+      "url": "https://forum.lazarus.freepascal.org/index.php?topic=73405.0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 6.193,
+      "velocity_label": "exploding",
+      "combined_score": 22.45
+    },
+    {
+      "title": "Allocating on the Stack",
+      "url": "https://go.dev/blog/allocation-optimizations",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.19,
+      "velocity": 6.125,
+      "velocity_label": "exploding",
+      "combined_score": 33.53
+    },
+    {
+      "title": "Stop Putting Secrets in .env Files",
+      "url": "https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.24,
+      "velocity": 6.06,
+      "velocity_label": "exploding",
+      "combined_score": 3.64
+    },
+    {
+      "title": "There's an enormous void of nothingness in our Universe",
+      "url": "https://www.skyatnightmagazine.com/space-science/bootes-void",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.6
+    },
+    {
+      "title": "AI Doomer Doublethink: The Orwellian Worldviews in the AGI Discourse",
+      "url": "https://internetofbugs.substack.com/p/ai-doomer-doublethink-the-orwellian",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Smallest transformer that can add two 10-digit numbers",
+      "url": "https://github.com/anadim/AdderBoard",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.0,
+      "velocity": 5.654,
+      "velocity_label": "exploding",
+      "combined_score": 28.27
+    },
+    {
+      "title": "Croatia declared free of landmines after 31 years",
+      "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.24,
+      "velocity": 5.583,
+      "velocity_label": "exploding",
+      "combined_score": 17.31
+    },
+    {
+      "title": "SAP's New Bonus System Rewarded Underperforming Bosses",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/sap-s-new-bonus-system-ended-up-rewarding-underperforming-bosses",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.214,
+      "velocity": 5.433,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "The most-seen UI on the internet? Redesigning turnstile and challenge pages",
+      "url": "https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.32,
+      "velocity": 5.401,
+      "velocity_label": "exploding",
+      "combined_score": 17.82
+    },
+    {
+      "title": "A new California law says all operating systems need to have age verification",
+      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.42,
+      "velocity": 5.242,
+      "velocity_label": "exploding",
+      "combined_score": 162.76
+    },
+    {
+      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
+      "url": "https://news.ycombinator.com/item?id=47191221",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.218,
       "velocity_label": "exploding",
       "combined_score": 0.13
     },
     {
-      "title": "Show HN: Lneto – IEEE802.3/IP/TCP/HTTP in 8kB of RAM in Go",
-      "url": "https://github.com/soypat/lan8720",
+      "title": "Gawk 5.4.0 is released, with replaced MinRX matcher",
+      "url": "https://lists.gnu.org/archive/html/info-gnu/2026-02/msg00011.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.899,
+      "base_score": 0.27,
+      "velocity": 5.2,
       "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 3.51
     },
     {
-      "title": "OpenAI is negotiating a deal with The Pentagon",
-      "url": "https://fortune.com/2026/02/27/openai-in-talks-with-pentagon-after-anthropic-blowup/",
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.726,
+      "base_score": 6.33,
+      "velocity": 5.156,
       "velocity_label": "exploding",
-      "combined_score": 0.47
+      "combined_score": 81.59
     },
     {
-      "title": "How to Allocate Memory",
-      "url": "https://geocar.sdf1.org/alloc.html",
+      "title": "Leveraging AI for Self-Learning",
+      "url": "https://techne98.com/blog/can-we-use-ai-for-self-learning/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.78,
-      "velocity": 4.655,
+      "base_score": 0.03,
+      "velocity": 4.976,
       "velocity_label": "exploding",
-      "combined_score": 9.08
+      "combined_score": 0.37
+    },
+    {
+      "title": "An interactive intro to quadtrees",
+      "url": "https://growingswe.com/blog/quadtrees",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.33,
+      "velocity": 4.806,
+      "velocity_label": "exploding",
+      "combined_score": 27.99
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "classified",
+        "deploy",
+        "dept",
+        "models",
+        "network",
+        "openai",
+        "war"
+      ],
+      "concept_hint": "classified + deploy + dept + models",
+      "cluster_size": 7,
+      "discussion_count": 4,
+      "void_score": 42.0,
+      "examples": [
+        {
+          "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+          "source": "hackernews",
+          "matching_keywords": [
+            "classified",
+            "deploy",
+            "dept",
+            "models",
+            "network",
+            "openai",
+            "war"
+          ]
+        },
+        {
+          "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+          "source": "hackernews",
+          "matching_keywords": [
+            "classified",
+            "deploy",
+            "models",
+            "network",
+            "openai"
+          ]
+        },
+        {
+          "title": "\"Tonight, we reached an agreement with the Dept. of War to deploy our models\"",
+          "source": "hackernews",
+          "matching_keywords": [
+            "deploy",
+            "dept",
+            "models",
+            "war"
+          ]
+        },
+        {
+          "title": "OpenAI Reaches A.I. Agreement with Defense Dept. After Anthropic Clash",
+          "source": "hackernews",
+          "matching_keywords": [
+            "dept",
+            "openai"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
       "title": "Get free Claude max 20x for open-source maintainers",
       "url": "https://claude.com/contact-sales/claude-for-oss",
       "source": "hackernews",
       "category": "tech",
-      "score": 7.29,
+      "score": 8.38,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -548,19 +608,7 @@
       "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.35,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Open Source Brain Stimulation: TDCS (Transcranial Direct Current Stimulation)",
-      "url": "https://www.youtube.com/watch?v=z1ZmxE8DnhE",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.04,
+      "score": 2.9,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -572,7 +620,7 @@
       "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.3,
+      "score": 3.73,
       "relevance": 0.056,
       "matching_tags": [
         "creator"
@@ -583,10 +631,54 @@
       "url": "https://antirez.com/news/160",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.15,
+      "score": 2.4,
       "relevance": 0.056,
       "matching_tags": [
         "code"
+      ]
+    },
+    {
+      "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
+      "url": "https://www.unfudged.io/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 1.45,
+      "relevance": 0.056,
+      "matching_tags": [
+        "source"
+      ]
+    },
+    {
+      "title": "Rtk – reduce Claude Code token usage",
+      "url": "https://github.com/rtk-ai/rtk",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.07,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Leveraging AI for Self-Learning",
+      "url": "https://techne98.com/blog/can-we-use-ai-for-self-learning/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.056,
+      "matching_tags": [
+        "learning"
+      ]
+    },
+    {
+      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
+      "url": "https://news.ycombinator.com/item?id=47191221",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "tools"
       ]
     }
   ]
