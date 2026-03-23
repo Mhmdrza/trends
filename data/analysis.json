@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-03-23T01:59:24.319608+00:00",
-  "scrape_timestamp": "2026-03-23T01:57:55.342094+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-03-23T07:06:50.766014+00:00",
+  "scrape_timestamp": "2026-03-23T07:05:29.653502+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,557 +27,516 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "iBook Clamshell",
-      "url": "https://www.ibook-clamshell.com/index.php/en/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.49,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 67.05
-    },
-    {
-      "title": "\"Collaboration\" Is Bullshit",
-      "url": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.9
-    },
-    {
-      "title": "Why Lab Coats Turned White",
-      "url": "https://www.asimov.press/p/lab-coat",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.16,
-      "velocity": 16.575,
-      "velocity_label": "exploding",
-      "combined_score": 48.07
-    },
-    {
-      "title": "Apple's intentional crippling of Mobile Safari",
-      "url": "https://pwa.gripe/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.8,
-      "velocity": 15.503,
-      "velocity_label": "exploding",
-      "combined_score": 186.03
-    },
-    {
-      "title": "Theodosian Land Walls of Constantinople (2025)",
-      "url": "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 14.517,
-      "velocity_label": "exploding",
-      "combined_score": 13.07
-    },
-    {
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.51,
-      "velocity": 14.438,
-      "velocity_label": "exploding",
-      "combined_score": 198.88
-    },
-    {
-      "title": "Bored of eating your own dogfood? Try smelling your own farts",
-      "url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.77,
-      "velocity": 14.306,
-      "velocity_label": "exploding",
-      "combined_score": 206.36
-    },
-    {
-      "title": "OpenAI to double workforce as business push intensifies",
-      "url": "https://www.ft.com/content/7ffea5b4-e8bc-47cd-adb4-257f84c8028b",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 13.011,
-      "velocity_label": "exploding",
-      "combined_score": 0.65
-    },
-    {
-      "title": "MAUI Is Coming to Linux",
-      "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.77,
-      "velocity": 12.136,
-      "velocity_label": "exploding",
-      "combined_score": 84.04
-    },
-    {
-      "title": "Trapped! Inside a self-driving car during an anti-robot attack",
-      "url": "https://www.seattletimes.com/business/trapped-inside-a-self-driving-car-during-an-anti-robot-attack/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 11.168,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "What Young Workers Are Doing to AI-Proof Themselves",
-      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.99,
-      "velocity": 11.16,
-      "velocity_label": "exploding",
-      "combined_score": 55.52
-    },
-    {
-      "title": "The solar-powered compact car driving Tunisia's electric vehicle revolution",
-      "url": "https://www.cnn.com/world/africa/electric-vehicle-solar-tunisia-spc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.13,
-      "velocity": 10.407,
-      "velocity_label": "exploding",
-      "combined_score": 3.38
-    },
-    {
-      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
-      "url": "https://noquiche.fyi/voodoo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.12,
-      "velocity": 10.159,
-      "velocity_label": "exploding",
-      "combined_score": 53.84
-    },
-    {
-      "title": "Why I love NixOS",
-      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.18,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 105.37
-    },
-    {
-      "title": "Teaching Claude to QA a mobile app",
-      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.71,
-      "velocity": 9.869,
-      "velocity_label": "exploding",
-      "combined_score": 17.52
-    },
-    {
-      "title": "OpenAI to nearly double headcount this year",
-      "url": "https://www.semafor.com/article/03/22/2026/openai-to-double-headcount",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 9.13,
-      "velocity_label": "exploding",
-      "combined_score": 0.91
-    },
-    {
-      "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
-      "url": "https://www.zerocalculators.com/features",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.66,
-      "velocity": 8.681,
-      "velocity_label": "exploding",
-      "combined_score": 14.32
-    },
-    {
-      "title": "Show HN: Revise – An AI Editor for Documents",
-      "url": "https://revise.io",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.49,
-      "velocity": 8.617,
-      "velocity_label": "exploding",
-      "combined_score": 32.1
-    },
-    {
-      "title": "JavaScript Is Enough",
-      "url": "https://geajs.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.99,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 42.29
-    },
-    {
-      "title": "Nibble – declarative bit-level binary parsing for Go using struct tags",
-      "url": "https://github.com/PavanKumarMS/nibble",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.045,
-      "velocity_label": "exploding",
-      "combined_score": 0.6
-    },
-    {
-      "title": "GrapheneOS refuses to comply with new age verification laws for operating system",
-      "url": "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.61,
-      "velocity": 7.906,
-      "velocity_label": "exploding",
-      "combined_score": 71.35
-    },
-    {
-      "title": "Brute-forcing my algorithmic ignorance",
-      "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.77,
-      "velocity": 7.708,
-      "velocity_label": "exploding",
-      "combined_score": 34.11
-    },
-    {
-      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.17,
-      "velocity": 7.544,
-      "velocity_label": "exploding",
-      "combined_score": 59.79
-    },
-    {
-      "title": "Learnings from training a font recognition model from scratch",
-      "url": "https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.37,
-      "velocity": 7.466,
-      "velocity_label": "exploding",
-      "combined_score": 6.91
-    },
-    {
-      "title": "Nexi Cancels FSFE: Asked for usernames and passwords",
-      "url": "https://fsfe.org/news/2026/news-20260316-01.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.361,
-      "velocity_label": "exploding",
-      "combined_score": 0.55
-    },
-    {
       "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
       "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.33,
-      "velocity": 7.347,
+      "base_score": 1.02,
+      "velocity": 16.53,
       "velocity_label": "exploding",
-      "combined_score": 6.06
+      "combined_score": 42.15
     },
     {
       "title": "Intuitions for Tranformer Circuits",
       "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 7.333,
+      "base_score": 0.51,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 1.1
+      "combined_score": 18.91
     },
     {
-      "title": "LLMs predict my coffee",
-      "url": "https://dynomight.net/coffee/",
+      "title": "CERN eggheads burn AI into silicon to stem data deluge",
+      "url": "https://www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.27,
-      "velocity": 7.181,
+      "base_score": 0.01,
+      "velocity": 13.585,
       "velocity_label": "exploding",
-      "combined_score": 22.8
+      "combined_score": 0.34
     },
     {
-      "title": "A case against currying",
-      "url": "https://emi-h.com/articles/a-case-against-currying.html",
+      "title": "Ordered Dithering with Arbitrary or Irregular Colour Palettes (2023)",
+      "url": "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.66,
-      "velocity": 6.829,
+      "base_score": 0.22,
+      "velocity": 13.567,
       "velocity_label": "exploding",
-      "combined_score": 45.41
+      "combined_score": 7.46
     },
     {
-      "title": "Reports of code's death are greatly exaggerated",
-      "url": "https://stevekrouse.com/precision",
+      "title": "This Linux FS was supposed to change everything–here's the dark reason it failed",
+      "url": "https://www.howtogeek.com/this-linux-filesystem-was-supposed-to-change-everything-heres-the-dark-reason-it-failed/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.61,
-      "velocity": 6.435,
+      "base_score": 0.01,
+      "velocity": 12.873,
       "velocity_label": "exploding",
-      "combined_score": 90.26
-    },
-    {
-      "title": "Iran war energy crisis is a renewable energy wake-up call",
-      "url": "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.38,
-      "velocity": 6.354,
-      "velocity_label": "exploding",
-      "combined_score": 53.69
+      "combined_score": 0.32
     },
     {
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.94,
-      "velocity": 6.167,
+      "base_score": 4.72,
+      "velocity": 12.119,
       "velocity_label": "exploding",
-      "combined_score": 45.33
+      "combined_score": 143.0
+    },
+    {
+      "title": "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
+      "url": "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 11.744,
+      "velocity_label": "exploding",
+      "combined_score": 4.11
     },
     {
       "title": "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
       "url": "https://arxiv.org/abs/2603.17099",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.29,
-      "velocity": 5.954,
+      "base_score": 0.38,
+      "velocity": 11.715,
       "velocity_label": "exploding",
-      "combined_score": 4.32
+      "combined_score": 11.13
     },
     {
-      "title": "Reverse-Engineering Google Flights",
-      "url": "https://ayushsaraswat.com/writing/reverse-engineering-google-flights/",
+      "title": "First and Lego Education Partnership Update",
+      "url": "https://community.firstinspires.org/first-lego-education-partnership-update",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.879,
+      "base_score": 0.6,
+      "velocity": 11.39,
       "velocity_label": "exploding",
-      "combined_score": 0.29
+      "combined_score": 17.08
     },
     {
-      "title": "Self-Recursive Ethics in a Longitudinal AI Ethics Monitor Log: Documented",
-      "url": "https://zenodo.org/records/19164044",
+      "title": "OpenClaw is a security nightmare dressed up as a daydream",
+      "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.63,
+      "velocity": 11.297,
+      "velocity_label": "exploding",
+      "combined_score": 187.25
+    },
+    {
+      "title": "George Hotz tells TiinyAI to cease and desist",
+      "url": "https://twitter.com/__tinygrad__/status/2035296981850185792",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.676,
+      "velocity": 10.5,
       "velocity_label": "exploding",
-      "combined_score": 0.14
+      "combined_score": 0.26
+    },
+    {
+      "title": "NUPA: Private post-scarcity engine with 99.999999% 100M Monte Carlo survival",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.4,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
     },
     {
       "title": "They're Vibe-Coding Spam Now",
       "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.53,
-      "velocity": 5.459,
+      "base_score": 1.38,
+      "velocity": 9.063,
       "velocity_label": "exploding",
-      "combined_score": 7.23
+      "combined_score": 31.27
     },
     {
-      "title": "Show HN: A New Social Network Called Plasas",
-      "url": "https://plasas.com",
+      "title": "Mapping the gap between emotional and logical decision analysis",
+      "url": "https://medium.com/@aldenpeterson/mapping-the-gap-between-emotional-and-logical-decision-analysis-ce754403e9d7",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.55,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "\"Collaboration\" Is Bullshit",
+      "url": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.29,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 27.41
+    },
+    {
+      "title": "iBook Clamshell",
+      "url": "https://www.ibook-clamshell.com/index.php/en/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.57,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 33.36
+    },
+    {
+      "title": "Storing Solar Energy as Ice for Air Conditioning",
+      "url": "https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.19,
+      "velocity": 8.205,
+      "velocity_label": "exploding",
+      "combined_score": 3.9
+    },
+    {
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.8,
+      "velocity": 8.041,
+      "velocity_label": "exploding",
+      "combined_score": 96.49
+    },
+    {
+      "title": "How do you usually discover new developer tools?",
+      "url": "https://news.ycombinator.com/item?id=47486223",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.44,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Teaching Claude to QA a mobile app",
+      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.06,
+      "velocity": 7.384,
+      "velocity_label": "exploding",
+      "combined_score": 19.57
+    },
+    {
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.76,
+      "velocity": 7.312,
+      "velocity_label": "exploding",
+      "combined_score": 160.14
+    },
+    {
+      "title": "Bored of eating your own dogfood? Try smelling your own farts",
+      "url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.02,
+      "velocity": 7.181,
+      "velocity_label": "exploding",
+      "combined_score": 108.07
+    },
+    {
+      "title": "Apple's John Ternus Profile: The Likely Successor to Tim Cook as CEO",
+      "url": "https://www.bloomberg.com/features/2026-apple-next-ceo/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.931,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Theodosian Land Walls of Constantinople (2025)",
+      "url": "https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 8.13
+    },
+    {
+      "title": "Apple's intentional crippling of Mobile Safari",
+      "url": "https://pwa.gripe/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.45,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 94.24
+    },
+    {
+      "title": "Show HN: Codala, a social network built on scanning barcodes",
+      "url": "https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.79,
+      "velocity": 6.862,
+      "velocity_label": "exploding",
+      "combined_score": 13.55
+    },
+    {
+      "title": "The Trillion Dollar Race to Automate Our Lives",
+      "url": "https://www.wsj.com/tech/ai/claude-code-cursor-codex-vibe-coding-52750531",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 6.5,
+      "velocity_label": "exploding",
+      "combined_score": 1.95
+    },
+    {
+      "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
+      "url": "https://www.zerocalculators.com/features",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.68,
+      "velocity": 6.238,
+      "velocity_label": "exploding",
+      "combined_score": 10.6
+    },
+    {
+      "title": "How to earn credibility with engineers (lessons from a college radio station)",
+      "url": "https://dev.jimgrey.net/2026/03/11/how-to-earn-credibility-with-engineers-lessons-from-a-college-radio-station/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.143,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.98,
+      "velocity": 6.093,
+      "velocity_label": "exploding",
+      "combined_score": 60.63
+    },
+    {
+      "title": "Germany has a shortage of workers turns to India for help",
+      "url": "https://www.bbc.com/news/articles/c3wlww83yv4o",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 5.394,
+      "velocity": 6.093,
       "velocity_label": "exploding",
-      "combined_score": 0.27
+      "combined_score": 0.3
+    },
+    {
+      "title": "MAUI Is Coming to Linux",
+      "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.4,
+      "velocity": 6.037,
+      "velocity_label": "exploding",
+      "combined_score": 51.31
+    },
+    {
+      "title": "The Shingles Virus May Be Aging You More Quickly",
+      "url": "https://www.wired.com/story/shingles-virus-aging/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Can you get root with only a cigarette lighter? (2024)",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.24,
+      "velocity": 5.97,
+      "velocity_label": "exploding",
+      "combined_score": 3.58
+    },
+    {
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 5.852,
+      "velocity_label": "exploding",
+      "combined_score": 21.21
+    },
+    {
+      "title": "Migrating the American Express Payment Network, Twice",
+      "url": "https://americanexpress.io/migrating-the-payments-network-twice/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.9,
+      "velocity": 5.786,
+      "velocity_label": "exploding",
+      "combined_score": 13.02
+    },
+    {
+      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+      "url": "https://noquiche.fyi/voodoo",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.41,
+      "velocity": 5.677,
+      "velocity_label": "exploding",
+      "combined_score": 34.2
+    },
+    {
+      "title": "I have solved the identity, trust, and memory hurdles with AI Agents",
+      "url": "https://01ai.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.542,
+      "velocity_label": "exploding",
+      "combined_score": 0.42
+    },
+    {
+      "title": "Snowflake makes cuts as part of 'targeted adjustments' to the company's strategy",
+      "url": "https://www.businessinsider.com/snowflake-layoffs-strategy-ai-growth-2026-3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.429,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
     },
     {
       "title": "You are not your job",
       "url": "https://jry.io/writing/you-are-not-your-job/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.17,
+      "base_score": 3.4,
       "velocity": 5.333,
       "velocity_label": "exploding",
-      "combined_score": 28.93
+      "combined_score": 45.33
     },
     {
-      "title": "Monuses and Heaps",
-      "url": "https://doisinkidney.com/posts/2026-03-03-monus-heaps.html",
+      "title": "JavaScript Is Enough",
+      "url": "https://geajs.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.51,
+      "base_score": 2.16,
       "velocity": 5.333,
       "velocity_label": "exploding",
-      "combined_score": 6.8
+      "combined_score": 28.8
     },
     {
-      "title": "Garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools",
-      "url": "https://github.com/garrytan/gstack",
+      "title": "Why I love NixOS",
+      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.328,
+      "base_score": 5.62,
+      "velocity": 5.107,
       "velocity_label": "exploding",
-      "combined_score": 0.53
+      "combined_score": 71.76
     },
     {
-      "title": "Five Years of Running a Systems Reading Group at Microsoft",
-      "url": "https://armaansood.com/posts/systems-reading-group/",
+      "title": "A Copy-Paste Bug That Broke PSpice AES-256 Encryption",
+      "url": "https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.62,
-      "velocity": 5.221,
+      "base_score": 0.42,
+      "velocity": 4.996,
       "velocity_label": "exploding",
-      "combined_score": 21.14
+      "combined_score": 5.25
     },
     {
-      "title": "Can the world get its supply of oil by bypassing the Strait of Hormuz?",
-      "url": "https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html",
+      "title": "Tesla faces wider probe of self-driving feature",
+      "url": "https://apnews.com/article/tesla-selfdriving-musk-regulators-7edce5705e93775e1b8bb77b5dd54007",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.46,
-      "velocity": 5.21,
+      "base_score": 0.18,
+      "velocity": 4.96,
       "velocity_label": "exploding",
-      "combined_score": 5.99
+      "combined_score": 2.23
     },
     {
-      "title": "A Review of Dice that came with The White Castle (2025)",
-      "url": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
+      "title": "Brute-forcing my algorithmic ignorance",
+      "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.86,
-      "velocity": 5.139,
+      "base_score": 1.85,
+      "velocity": 4.938,
       "velocity_label": "exploding",
-      "combined_score": 23.9
+      "combined_score": 22.84
     },
     {
-      "title": "Department of State advises Americans worldwide to exercise increased caution",
-      "url": "https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html",
+      "title": "Show HN: Revise – An AI Editor for Documents",
+      "url": "https://revise.io",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.33,
-      "velocity": 5.031,
+      "base_score": 1.54,
+      "velocity": 4.694,
       "velocity_label": "exploding",
-      "combined_score": 29.31
+      "combined_score": 18.07
     },
     {
-      "title": "Disintegration Fingerprinting: A Low-Cost Tool to Identify Falsified Medicines",
-      "url": "https://www.medrxiv.org/content/10.1101/2025.08.15.25333621v2",
+      "title": "GrapheneOS refuses to comply with new age verification laws for operating system",
+      "url": "https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 4.973,
+      "base_score": 4.07,
+      "velocity": 4.218,
       "velocity_label": "exploding",
-      "combined_score": 0.87
+      "combined_score": 42.92
     },
     {
-      "title": "More common mistakes to avoid when creating system architecture diagrams",
-      "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
+      "title": "Show HN: AddFox – Build Better Browser Extensions for Developers and AI",
+      "url": "https://addfox.dev",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.17,
-      "velocity": 4.956,
+      "base_score": 0.01,
+      "velocity": 4.087,
       "velocity_label": "exploding",
-      "combined_score": 26.89
+      "combined_score": 0.1
     },
     {
-      "title": "Node.js worker threads are problematic, but they work great for us",
-      "url": "https://www.inngest.com/blog/node-worker-threads",
+      "title": "Archaeologists Uncover Oldest Gold Relics in a 5th Millennium BC Tomb",
+      "url": "https://dailygalaxy.com/2026/03/bulgaria-varna-prehistoric-grave-with-oldest-gold-artifacts/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.08,
-      "velocity": 4.891,
+      "base_score": 0.01,
+      "velocity": 4.0,
       "velocity_label": "exploding",
-      "combined_score": 13.21
+      "combined_score": 0.1
     },
     {
-      "title": "25 Years of Eggs",
-      "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+      "title": "Google Patent: Sending Searchers to AI-Generated Pages over Your Site",
+      "url": "https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.59,
-      "velocity": 4.868,
+      "base_score": 0.01,
+      "velocity": 3.848,
       "velocity_label": "exploding",
-      "combined_score": 43.69
-    },
-    {
-      "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.13,
-      "velocity": 4.727,
-      "velocity_label": "exploding",
-      "combined_score": 25.17
-    },
-    {
-      "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
-      "url": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.12,
-      "velocity": 4.674,
-      "velocity_label": "exploding",
-      "combined_score": 13.09
+      "combined_score": 0.1
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "network",
-        "show",
-        "social"
-      ],
-      "concept_hint": "network + show + social",
-      "cluster_size": 3,
-      "discussion_count": 3,
-      "void_score": 13.5,
-      "examples": [
-        {
-          "title": "Show HN: Codala, a social network built on scanning barcodes",
-          "source": "hackernews",
-          "matching_keywords": [
-            "network",
-            "show",
-            "social"
-          ]
-        },
-        {
-          "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
-          "source": "hackernews",
-          "matching_keywords": [
-            "network",
-            "show",
-            "social"
-          ]
-        },
-        {
-          "title": "Show HN: A New Social Network Called Plasas",
-          "source": "hackernews",
-          "matching_keywords": [
-            "network",
-            "show",
-            "social"
-          ]
-        }
-      ]
-    }
-  ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
       "title": "HopTab – Open source macOS app switcher and tiler that replaces Cmd+Tab",
       "url": "https://www.royalbhati.com/hoptab",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.78,
+      "score": 1.89,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -589,7 +548,7 @@
       "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.97,
+      "score": 1.45,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -597,15 +556,27 @@
       ]
     },
     {
-      "title": "Garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools",
-      "url": "https://github.com/garrytan/gstack",
+      "title": "The Generative AI Policy Landscape in Open Source",
+      "url": "https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 0.02,
       "relevance": 0.111,
       "matching_tags": [
-        "code",
-        "tools"
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Open-source server panel in Rust (57MB RAM, 371 endpoints, zero cost)",
+      "url": "https://dockpanel.dev/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
       ]
     },
     {
@@ -613,7 +584,7 @@
       "url": "https://stevekrouse.com/precision",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.61,
+      "score": 7.66,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -624,7 +595,7 @@
       "url": "https://noquiche.fyi/voodoo",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.12,
+      "score": 2.41,
       "relevance": 0.056,
       "matching_tags": [
         "tools"
@@ -635,10 +606,32 @@
       "url": "https://nickakre.github.io/agentverse-social/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.02,
+      "score": 0.06,
       "relevance": 0.056,
       "matching_tags": [
         "open"
+      ]
+    },
+    {
+      "title": "How do you usually discover new developer tools?",
+      "url": "https://news.ycombinator.com/item?id=47486223",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "tools"
+      ]
+    },
+    {
+      "title": "Show HN: Kingsight – 6 AI agents that teach before letting you code",
+      "url": "https://github.com/kings-nexus/kingsight",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
       ]
     }
   ]
