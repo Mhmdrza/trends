@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-03-31T07:10:01.732972+00:00",
-  "scrape_timestamp": "2026-03-31T07:08:38.383531+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-03-31T13:11:58.741516+00:00",
+  "scrape_timestamp": "2026-03-31T13:10:34.167441+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -27,516 +27,613 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "I'm betting on ATProto",
-      "url": "https://brittanyellich.com/atproto/",
+      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.42,
-      "velocity": 18.0,
+      "base_score": 6.55,
+      "velocity": 17.37,
       "velocity_label": "exploding",
-      "combined_score": 108.9
+      "combined_score": 284.44
     },
     {
-      "title": "Principles and Gear",
-      "url": "https://arun.is/blog/on-running/",
+      "title": "One of the largest salt mines in the world exists under Lake Erie",
+      "url": "https://apnews.com/article/cleveland-salt-mine-winter-road-0daf091e3d56f65766bcf6a597683893",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.28,
-      "velocity": 18.0,
+      "base_score": 0.89,
+      "velocity": 15.571,
       "velocity_label": "exploding",
-      "combined_score": 12.6
+      "combined_score": 34.65
     },
     {
-      "title": "EchoMind – AI Voice Notes",
-      "url": "https://apps.apple.com/us/app/echomind-ai-voice-notes/id6760428216",
+      "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
+      "url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.89,
+      "velocity": 15.467,
+      "velocity_label": "exploding",
+      "combined_score": 34.41
+    },
+    {
+      "title": "Prediction: The Shopify CEO's Pull Request Will Never Be Merged nor Closed",
+      "url": "https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.27,
+      "velocity": 15.35,
+      "velocity_label": "exploding",
+      "combined_score": 10.36
+    },
+    {
+      "title": "Google Account Name Change",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-account-username-change/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 16.889,
+      "velocity": 15.201,
       "velocity_label": "exploding",
-      "combined_score": 0.42
-    },
-    {
-      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
-      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.69,
-      "velocity": 16.476,
-      "velocity_label": "exploding",
-      "combined_score": 28.42
-    },
-    {
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a",
-      "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 15.87,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "IronGlass Brings Legendary Soviet Cinema Lenses to Mirrorless Cameras",
-      "url": "https://petapixel.com/2026/02/19/ironglass-brings-legendary-soviet-cinema-lenses-to-mirrorless-cameras/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.59,
-      "velocity": 15.625,
-      "velocity_label": "exploding",
-      "combined_score": 23.05
-    },
-    {
-      "title": "A Nursing Home Owner Got a Pardon. The Families of His Patients Got Nothing",
-      "url": "https://www.propublica.org/article/joseph-schwartz-trump-pardon-skyline-nursing-home-patients",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.61,
-      "velocity": 14.071,
-      "velocity_label": "exploding",
-      "combined_score": 21.46
-    },
-    {
-      "title": "Don't sleep on your feedback infrastructure",
-      "url": "https://www.lumeforms.com/audit",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 13.929,
-      "velocity_label": "exploding",
-      "combined_score": 1.04
-    },
-    {
-      "title": "Recover Apple Keychain",
-      "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.24,
-      "velocity": 12.873,
-      "velocity_label": "exploding",
-      "combined_score": 39.91
-    },
-    {
-      "title": "William Blake, Remote by the Sea",
-      "url": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.8,
-      "velocity": 12.854,
-      "velocity_label": "exploding",
-      "combined_score": 25.71
-    },
-    {
-      "title": "Memopt – GPU memory infrastructure for AI clusters",
-      "url": "https://memopt.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 12.129,
-      "velocity_label": "exploding",
-      "combined_score": 0.3
-    },
-    {
-      "title": "R3 Bio pitched “brainless clones” to serve the role of backup human bodies",
-      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.42,
-      "velocity": 11.785,
-      "velocity_label": "exploding",
-      "combined_score": 41.84
-    },
-    {
-      "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
-      "url": "https://www.opengridworks.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.08,
-      "velocity": 11.033,
-      "velocity_label": "exploding",
-      "combined_score": 29.79
-    },
-    {
-      "title": "Shor's algorithm is possible with as few as 10k reconfigurable atomic qubits",
-      "url": "https://arxiv.org/abs/2603.28627",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.214,
-      "velocity_label": "exploding",
-      "combined_score": 0.51
-    },
-    {
-      "title": "Seeing like a spreadsheet",
-      "url": "https://davidoks.blog/p/how-the-spreadsheet-reshaped-america",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.54,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 38.82
-    },
-    {
-      "title": "A sea of sparks: Seeing radioactivity",
-      "url": "https://maurycyz.com/projects/spinthariscope/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.98,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 24.7
-    },
-    {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.83,
-      "velocity": 10.032,
-      "velocity_label": "exploding",
-      "combined_score": 196.37
-    },
-    {
-      "title": "Good CTE Bad CTE",
-      "url": "https://boringsql.com/posts/good-cte-bad-cte/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 9.767,
-      "velocity_label": "exploding",
-      "combined_score": 0.49
-    },
-    {
-      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
-      "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.45,
-      "velocity": 9.748,
-      "velocity_label": "exploding",
-      "combined_score": 10.97
-    },
-    {
-      "title": "2026 has been the most pivotal year in my career and it's only March",
-      "url": "https://nullprogram.com/blog/2026/03/29/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 9.15,
-      "velocity_label": "exploding",
-      "combined_score": 0.92
-    },
-    {
-      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "url": "https://anishathalye.com/macbook-touchscreen/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.85,
-      "velocity": 8.69,
-      "velocity_label": "exploding",
-      "combined_score": 105.37
-    },
-    {
-      "title": "Universal Claude.md – cut Claude output tokens",
-      "url": "https://github.com/drona23/claude-token-efficient",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.88,
-      "velocity": 8.352,
-      "velocity_label": "exploding",
-      "combined_score": 81.01
-    },
-    {
-      "title": "What we learned building 100 API integrations with OpenCode",
-      "url": "https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 8.19,
-      "velocity_label": "exploding",
-      "combined_score": 6.96
-    },
-    {
-      "title": "Claude usage limits hitting faster than expected",
-      "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7zg7h/investigating_usage_limits_hitting_faster_than/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 7.746,
-      "velocity_label": "exploding",
-      "combined_score": 3.29
-    },
-    {
-      "title": "Roulette Computers: Hidden Devices That Predict Spins",
-      "url": "https://www.roulette-computers.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.3,
-      "velocity": 7.686,
-      "velocity_label": "exploding",
-      "combined_score": 24.98
-    },
-    {
-      "title": "Seems like a bad idea: \"One login to connect Glassdoor and Indeed\"",
-      "url": "https://www.glassdoor.ca/about/onelogin/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 7.614,
-      "velocity_label": "exploding",
-      "combined_score": 1.71
-    },
-    {
-      "title": "We Used to Think Everybody Heard a Voice Inside Their Heads – But We Were Wrong",
-      "url": "https://www.sciencealert.com/we-used-to-think-everybody-heard-a-voice-inside-their-heads-but-we-were-wrong",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.61,
-      "velocity_label": "exploding",
-      "combined_score": 0.76
-    },
-    {
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "url": "https://ollama.com/blog/mlx",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.41,
-      "velocity": 7.458,
-      "velocity_label": "exploding",
-      "combined_score": 44.94
+      "combined_score": 0.38
     },
     {
       "title": "Car Seats as Contraception",
       "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/731812",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.49,
-      "velocity": 7.333,
+      "base_score": 2.42,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 27.32
+      "combined_score": 89.74
     },
     {
-      "title": "A rational non-commutative 4×4x48 matrix multiplication algorithm",
-      "url": "https://arxiv.org/abs/2603.18699",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.114,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Take better notes, by hand",
-      "url": "https://brianschrader.com/archive/take-better-notes-by-hand/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.23,
-      "velocity": 7.049,
-      "velocity_label": "exploding",
-      "combined_score": 56.92
-    },
-    {
-      "title": "Researchers find 3,500-year-old loom that reveals textile revolution",
-      "url": "https://web.ua.es/en/actualidad-universitaria/2026/marzo2026/23-31/ua-researchers-find-3-500-year-old-loom-that-reveals-key-aspects-of-textile-revolution-in-the-bronze-age.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.19,
-      "velocity": 7.017,
-      "velocity_label": "exploding",
-      "combined_score": 20.88
-    },
-    {
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.95,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 172.05
-    },
-    {
-      "title": "Show HN: TaskTrace, a local-first activity log that gives LLMs context",
-      "url": "https://tasktrace.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.84,
-      "velocity_label": "exploding",
-      "combined_score": 0.51
-    },
-    {
-      "title": "The ladder is missing rungs – Engineering Progression When AI Ate the Middle",
-      "url": "https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.44,
-      "velocity": 6.532,
-      "velocity_label": "exploding",
-      "combined_score": 23.52
-    },
-    {
-      "title": "Rock Star: Reading the Rosetta Stone",
-      "url": "https://www.historytoday.com/archive/feature/original-rock-star",
+      "title": "Shor's algorithm is possible with as few as 10k reconfigurable atomic qubits",
+      "url": "https://arxiv.org/abs/2603.28627",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.09,
-      "velocity": 6.5,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 1.46
-    },
-    {
-      "title": "Artemis II is not safe to fly",
-      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.06,
-      "velocity": 6.333,
-      "velocity_label": "exploding",
-      "combined_score": 64.28
-    },
-    {
-      "title": "Corebot 26.03 released with Intel PantherLake support",
-      "url": "https://blogs.coreboot.org/blog/2026/03/30/coreboot-26-03-release/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.322,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Emerging Litigation Risks in Financing AI Data Centers Boom",
-      "url": "https://www.quinnemanuel.com/the-firm/publications/client-alert-emerging-litigation-risks-in-financing-ai-data-centers-boom/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 6.307,
-      "velocity_label": "exploding",
-      "combined_score": 1.58
-    },
-    {
-      "title": "Sandflare – I built a sandbox that launches AI agent VMs in ~300ms",
-      "url": "https://news.ycombinator.com/item?id=47583255",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 6.296,
-      "velocity_label": "exploding",
-      "combined_score": 0.79
-    },
-    {
-      "title": "Seeds of doubt:The dark side of an Italian energy giant's green jet fuel promise",
-      "url": "https://www.politico.eu/article/seeds-of-doubt-the-dark-side-of-enis-green-jet-fuel-promise/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.261,
-      "velocity_label": "exploding",
-      "combined_score": 0.47
-    },
-    {
-      "title": "Write Native Web HTML and CSS for Roblox UI",
-      "url": "https://twitter.com/xeno_mouse/status/2038759250453729685",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.257,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Clojure: The Documentary, official trailer [video]",
-      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.55,
-      "velocity": 6.031,
-      "velocity_label": "exploding",
-      "combined_score": 23.37
-    },
-    {
-      "title": "Vulnerability research is cooked",
-      "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.19,
-      "velocity": 5.967,
-      "velocity_label": "exploding",
-      "combined_score": 47.58
+      "combined_score": 3.34
     },
     {
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.7,
-      "velocity": 5.542,
+      "base_score": 17.43,
+      "velocity": 14.381,
       "velocity_label": "exploding",
-      "combined_score": 106.69
+      "combined_score": 626.65
     },
     {
-      "title": "Andrej Karpathy on supply chain attacks",
-      "url": "https://twitter.com/karpathy/status/2038849654423798197",
+      "title": "Oscar Reutersvärd (2021)",
+      "url": "https://escherinhetpaleis.nl/en/about-escher/escher-today/oscar-reutersvard",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.51,
+      "velocity": 13.778,
+      "velocity_label": "exploding",
+      "combined_score": 17.57
+    },
+    {
+      "title": "Rock Star: Reading the Rosetta Stone",
+      "url": "https://www.historytoday.com/archive/feature/original-rock-star",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 13.567,
+      "velocity_label": "exploding",
+      "combined_score": 4.75
+    },
+    {
+      "title": "Sony halts memory card shipments due to NAND shortage",
+      "url": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.07,
+      "velocity": 12.629,
+      "velocity_label": "exploding",
+      "combined_score": 33.78
+    },
+    {
+      "title": "R3 Bio pitched “brainless clones” to serve the role of backup human bodies",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.66,
+      "velocity": 12.241,
+      "velocity_label": "exploding",
+      "combined_score": 50.8
+    },
+    {
+      "title": "Can humans have babies in space? It may be harder than expected",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/having-babies-in-space-may-be-harder-than-expected",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.469,
+      "velocity": 10.276,
       "velocity_label": "exploding",
-      "combined_score": 0.14
+      "combined_score": 0.26
+    },
+    {
+      "title": "Unit: A self-replicating Forth mesh agent running in a browser tab",
+      "url": "https://davidcanhelp.github.io/unit/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 10.243,
+      "velocity_label": "exploding",
+      "combined_score": 12.04
+    },
+    {
+      "title": "Nobody Is Coming to Save Your Career",
+      "url": "https://alifeengineered.substack.com/p/nobody-is-coming-to-save-your-career",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.163,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.92,
+      "velocity": 10.02,
+      "velocity_label": "exploding",
+      "combined_score": 73.15
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.13,
+      "velocity": 9.556,
+      "velocity_label": "exploding",
+      "combined_score": 218.11
+    },
+    {
+      "title": "U.S. stocks are set to deliver their worst quarter in nearly four years",
+      "url": "https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.32,
+      "velocity": 9.131,
+      "velocity_label": "exploding",
+      "combined_score": 30.13
+    },
+    {
+      "title": "Geakg: Generative Executable Algorithm Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2603.27922",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.972,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "The Joy of Barely Understanding Foreign Media",
+      "url": "https://saint-angels.github.io/essays/comprehensible_input/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "How to change a dialog box's message loop to do a Msg­Wait­For­Multiple­Objects",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.583,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "A curated list of high-signal analyses from the Claude Code source leak",
+      "url": "https://github.com/nblintao/awesome-claude-code-postleak-insights",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.536,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "I'm betting on ATProto",
+      "url": "https://brittanyellich.com/atproto/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.17,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 67.36
     },
     {
       "title": "Google's 200M-parameter time-series foundation model with 16k context",
       "url": "https://github.com/google-research/timesfm",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.0,
-      "velocity": 5.217,
+      "base_score": 2.96,
+      "velocity": 8.247,
       "velocity_label": "exploding",
-      "combined_score": 13.04
+      "combined_score": 61.03
     },
     {
-      "title": "Bird brains (2023)",
-      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "title": "Russia slowly trying to splinter its internet from rest of world, analysts say",
+      "url": "https://www.theguardian.com/world/2026/mar/31/russia-splinter-internet-blackouts-telegram-analysts",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.05,
-      "velocity": 5.069,
+      "base_score": 0.01,
+      "velocity": 8.139,
       "velocity_label": "exploding",
-      "combined_score": 76.68
+      "combined_score": 0.2
     },
     {
-      "title": "Q4_0 KV cache collapses 92.5% at 64K on DGX Spark GB10 (unified memory paradox)",
-      "url": "https://github.com/Memoriant/dgx-spark-kv-cache-benchmark",
+      "title": "Marketplace for bots? Who needs that?",
+      "url": "https://botstall.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.917,
+      "velocity_label": "exploding",
+      "combined_score": 0.59
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.85,
+      "velocity": 7.738,
+      "velocity_label": "exploding",
+      "combined_score": 190.55
+    },
+    {
+      "title": "30 Years Ago, Robots Learned to Walk Without Falling",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.21,
+      "velocity": 7.698,
+      "velocity_label": "exploding",
+      "combined_score": 4.04
+    },
+    {
+      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+      "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.26,
+      "velocity": 7.602,
+      "velocity_label": "exploding",
+      "combined_score": 23.95
+    },
+    {
+      "title": "Water utility announces it's ditching fluoride then reveals it did so years ago",
+      "url": "https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 5.059,
+      "velocity": 7.083,
       "velocity_label": "exploding",
-      "combined_score": 0.25
+      "combined_score": 0.35
     },
     {
-      "title": "Show HN: Coasts – Containerized Hosts for Agents",
-      "url": "https://github.com/coast-guard/coasts",
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.19,
-      "velocity": 4.991,
+      "base_score": 0.02,
+      "velocity": 7.075,
       "velocity_label": "exploding",
-      "combined_score": 14.85
+      "combined_score": 0.35
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.3,
+      "velocity": 7.049,
+      "velocity_label": "exploding",
+      "combined_score": 163.88
+    },
+    {
+      "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+      "url": "https://github.com/virpo/pegboard",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 7.01,
+      "velocity_label": "exploding",
+      "combined_score": 12.09
+    },
+    {
+      "title": "William Blake, Remote by the Sea",
+      "url": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.85,
+      "velocity": 6.838,
+      "velocity_label": "exploding",
+      "combined_score": 14.53
+    },
+    {
+      "title": "OpenClaw vs. Amazon Quick Suite",
+      "url": "https://news.ycombinator.com/item?id=47586747",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "What major works of literature were written after age of 85? 75? 65?",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/25/what-major-works-of-literature-were-written-after-age-of-85-75-65/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 6.808,
+      "velocity_label": "exploding",
+      "combined_score": 6.13
+    },
+    {
+      "title": "Recover Apple Keychain",
+      "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.35,
+      "velocity": 6.653,
+      "velocity_label": "exploding",
+      "combined_score": 22.45
+    },
+    {
+      "title": "Cosmic.voyage – collaborative science-fiction universe on tilde",
+      "url": "https://cosmic.voyage",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.571,
+      "velocity_label": "exploding",
+      "combined_score": 0.33
+    },
+    {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.72,
+      "velocity": 6.398,
+      "velocity_label": "exploding",
+      "combined_score": 107.48
+    },
+    {
+      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
+      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.95,
+      "velocity": 6.148,
+      "velocity_label": "exploding",
+      "combined_score": 14.6
+    },
+    {
+      "title": "Entirety of Wikinews to be shut down",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-03-31/News_and_notes",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.31,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 4.65
+    },
+    {
+      "title": "Unilever Foods to Combine with McCormick",
+      "url": "https://www.unilever.com/investors/unilever-foods-to-combine-with-mccormick/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Seeing like a spreadsheet",
+      "url": "https://davidoks.blog/p/how-the-spreadsheet-reshaped-america",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.73,
+      "velocity": 5.967,
+      "velocity_label": "exploding",
+      "combined_score": 25.81
+    },
+    {
+      "title": "A sea of sparks: Seeing radioactivity",
+      "url": "https://maurycyz.com/projects/spinthariscope/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.06,
+      "velocity": 5.967,
+      "velocity_label": "exploding",
+      "combined_score": 15.81
+    },
+    {
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.8,
+      "velocity": 5.756,
+      "velocity_label": "exploding",
+      "combined_score": 155.4
+    },
+    {
+      "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
+      "url": "https://www.opengridworks.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.65,
+      "velocity": 5.729,
+      "velocity_label": "exploding",
+      "combined_score": 23.63
+    },
+    {
+      "title": "Anthropic: Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 5.658,
+      "velocity_label": "exploding",
+      "combined_score": 5.09
+    },
+    {
+      "title": "As electric truck demand craters, GM lays off workers and idles plant",
+      "url": "https://arstechnica.com/cars/2026/03/gm-idles-electric-truck-factory-lays-off-1300-workers-for-a-month/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.646,
+      "velocity_label": "exploding",
+      "combined_score": 0.28
+    },
+    {
+      "title": "Researchers find 3,500-year-old loom that reveals textile revolution",
+      "url": "https://web.ua.es/en/actualidad-universitaria/2026/marzo2026/23-31/ua-researchers-find-3-500-year-old-loom-that-reveals-key-aspects-of-textile-revolution-in-the-bronze-age.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 5.582,
+      "velocity_label": "exploding",
+      "combined_score": 20.24
+    },
+    {
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.55,
+      "velocity": 5.464,
+      "velocity_label": "exploding",
+      "combined_score": 75.81
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "claude",
+        "code",
+        "leak",
+        "source"
+      ],
+      "concept_hint": "claude + code + leak + source",
+      "cluster_size": 4,
+      "discussion_count": 5,
+      "void_score": 50.0,
+      "examples": [
+        {
+          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+          "source": "hackernews",
+          "matching_keywords": [
+            "claude",
+            "code",
+            "source"
+          ]
+        },
+        {
+          "title": "Anthropic: Claude Code users hitting usage limits 'way faster than expected'",
+          "source": "hackernews",
+          "matching_keywords": [
+            "claude",
+            "code"
+          ]
+        },
+        {
+          "title": "Learn Claude Code by doing, not reading",
+          "source": "hackernews",
+          "matching_keywords": [
+            "claude",
+            "code"
+          ]
+        },
+        {
+          "title": "A curated list of high-signal analyses from the Claude Code source leak",
+          "source": "hackernews",
+          "matching_keywords": [
+            "claude",
+            "code",
+            "leak",
+            "source"
+          ]
+        },
+        {
+          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+          "source": "hackernews",
+          "matching_keywords": [
+            "claude",
+            "code",
+            "leak",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.167,
+      "matching_tags": [
+        "code",
+        "source",
+        "tools"
+      ]
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 9.85,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "source"
+      ]
+    },
+    {
+      "title": "A curated list of high-signal analyses from the Claude Code source leak",
+      "url": "https://github.com/nblintao/awesome-claude-code-postleak-insights",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "source"
+      ]
+    },
     {
       "title": "Learn Claude Code by doing, not reading",
       "url": "https://claude.nagdy.me/",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.73,
+      "score": 4.08,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -547,48 +644,26 @@
       "url": "https://dani2442.github.io/posts/continuous-rl/",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.25,
+      "score": 2.37,
       "relevance": 0.056,
       "matching_tags": [
         "learning"
       ]
     },
     {
-      "title": "Claude Code bug can silently 10-20x API costs",
-      "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
+      "title": "Anthropic: Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.21,
+      "score": 0.36,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Claude Code v2.1.88 Sourcemap",
-      "url": "https://unpkg.com/@anthropic-ai/claude-code@2.1.88/cli.js.map",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.03,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "Seeds of doubt:The dark side of an Italian energy giant's green jet fuel promise",
-      "url": "https://www.politico.eu/article/seeds-of-doubt-the-dark-side-of-enis-green-jet-fuel-promise/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.03,
-      "relevance": 0.056,
-      "matching_tags": [
-        "side"
-      ]
-    },
-    {
-      "title": "Show HN: Claudebase: Sync your Claude Code env across machines via GitHub",
-      "url": "https://github.com/rohithzr/claudebase",
+      "title": "Morse Code Tree",
+      "url": "https://www.johndcook.com/blog/2026/03/31/morse-code-tree/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
