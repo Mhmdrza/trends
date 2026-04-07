@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-04-07T07:12:08.145400+00:00",
-  "scrape_timestamp": "2026-04-07T07:10:39.201878+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-04-07T13:13:46.315216+00:00",
+  "scrape_timestamp": "2026-04-07T13:12:17.901254+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -27,516 +27,580 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Solod – A subset of Go that translates to C",
-      "url": "https://github.com/solod-dev/solod",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 62.55
-    },
-    {
-      "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.84,
-      "velocity": 15.863,
-      "velocity_label": "exploding",
-      "combined_score": 191.94
-    },
-    {
-      "title": "Dear Heroku: Uhh What's Going On?",
-      "url": "https://judoscale.com/blog/heroku-whats-going-on",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.68,
-      "velocity": 15.625,
-      "velocity_label": "exploding",
-      "combined_score": 26.56
-    },
-    {
-      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.02,
-      "velocity": 13.577,
-      "velocity_label": "exploding",
-      "combined_score": 170.39
-    },
-    {
-      "title": "Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting",
-      "url": "https://github.com/4RH1T3CT0R7/ttf-doom",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.6,
-      "velocity": 12.21,
-      "velocity_label": "exploding",
-      "combined_score": 18.32
-    },
-    {
-      "title": "Show HN: Weird Clocks",
-      "url": "https://clocks.specr.net",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.53,
-      "velocity": 12.167,
-      "velocity_label": "exploding",
-      "combined_score": 16.12
-    },
-    {
-      "title": "Don't let AI touch your production database",
-      "url": "https://boringsql.com/posts/dont-let-ai-to-prod/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 11.95,
-      "velocity_label": "exploding",
-      "combined_score": 0.6
-    },
-    {
-      "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
-      "url": "https://github.com/roscopeco/anos",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.88,
-      "velocity": 11.402,
-      "velocity_label": "exploding",
-      "combined_score": 25.08
-    },
-    {
-      "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
-      "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.19,
-      "velocity": 11.059,
-      "velocity_label": "exploding",
-      "combined_score": 115.84
-    },
-    {
-      "title": "Show HN: Tusk for macOS and Gnome",
-      "url": "https://shapemachine.xyz/tusk/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.1,
-      "velocity": 10.3,
-      "velocity_label": "exploding",
-      "combined_score": 28.33
-    },
-    {
       "title": "Peptides: where to begin?",
       "url": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.35,
-      "velocity": 10.0,
+      "base_score": 6.03,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 83.75
+      "combined_score": 199.74
     },
     {
-      "title": "A macOS bug that causes TCP networking to stop working after 49.7 days",
-      "url": "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking",
+      "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+      "url": "https://adashape.com",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.76,
-      "velocity": 9.733,
+      "base_score": 0.45,
+      "velocity": 11.923,
       "velocity_label": "exploding",
-      "combined_score": 67.16
+      "combined_score": 13.41
+    },
+    {
+      "title": "Running Out of Disk Space in Production",
+      "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.63,
+      "velocity": 9.705,
+      "velocity_label": "exploding",
+      "combined_score": 15.28
+    },
+    {
+      "title": "Graph-go – zero config, full visibility",
+      "url": "https://github.com/guilherme-grimm/graph-go",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.3,
+      "velocity": 9.556,
+      "velocity_label": "exploding",
+      "combined_score": 7.17
     },
     {
       "title": "My Experience as a Rice Farmer",
       "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.29,
-      "velocity": 8.867,
+      "base_score": 3.65,
+      "velocity": 9.405,
       "velocity_label": "exploding",
-      "combined_score": 6.43
+      "combined_score": 85.82
     },
     {
-      "title": "The cult of vibe coding is dogfooding run amok",
-      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+      "title": "Dear Heroku: Uhh What's Going On?",
+      "url": "https://judoscale.com/blog/heroku-whats-going-on",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 12.07,
-      "velocity": 8.852,
+      "base_score": 1.39,
+      "velocity": 9.292,
       "velocity_label": "exploding",
-      "combined_score": 267.1
+      "combined_score": 32.29
     },
     {
-      "title": "Ask HN: How do you handle marketing as a solo technical founder?",
-      "url": "https://news.ycombinator.com/item?id=47667504",
+      "title": "AI singer now occupies eleven spots on iTunes singles chart",
+      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.78,
-      "velocity": 8.447,
+      "base_score": 7.24,
+      "velocity": 8.932,
       "velocity_label": "exploding",
-      "combined_score": 37.59
+      "combined_score": 161.67
     },
     {
-      "title": "Agent Reading Test",
-      "url": "https://agentreadingtest.com",
+      "title": "Solod – A subset of Go that translates to C",
+      "url": "https://github.com/solod-dev/solod",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.89,
-      "velocity": 8.236,
+      "base_score": 2.04,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 18.33
+      "combined_score": 43.35
     },
     {
       "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
       "url": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.05,
-      "velocity": 7.892,
+      "base_score": 0.96,
+      "velocity": 8.153,
       "velocity_label": "exploding",
-      "combined_score": 0.99
+      "combined_score": 19.57
     },
     {
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
+      "title": "Show HN: An open source CI/CD action to audit and fix AI generated UI code",
+      "url": "https://news.ycombinator.com/item?id=47674652",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.75,
-      "velocity": 7.728,
+      "base_score": 0.03,
+      "velocity": 7.98,
       "velocity_label": "exploding",
-      "combined_score": 111.1
+      "combined_score": 0.6
     },
     {
-      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.69,
-      "velocity": 7.716,
-      "velocity_label": "exploding",
-      "combined_score": 71.18
-    },
-    {
-      "title": "58% of PRs in our largest monorepo merge without human review",
-      "url": "https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review",
+      "title": "Show HN: The AI Software Factory",
+      "url": "https://gethuman.sh/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.507,
+      "velocity": 7.821,
       "velocity_label": "exploding",
-      "combined_score": 0.19
+      "combined_score": 0.2
+    },
+    {
+      "title": "AI agents can communicate with each other, and can't be caught",
+      "url": "https://arxiv.org/abs/2604.04757",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 7.644,
+      "velocity_label": "exploding",
+      "combined_score": 0.96
     },
     {
       "title": "Apollo Guidance Computer restoration videos",
       "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.37,
-      "velocity": 7.471,
+      "base_score": 0.89,
+      "velocity": 7.587,
       "velocity_label": "exploding",
-      "combined_score": 6.91
+      "combined_score": 16.88
     },
     {
-      "title": "Porting Go's strings package to C",
-      "url": "https://antonz.org/porting-go-strings/",
+      "title": "Linux extreme performance H1 load generator",
+      "url": "https://www.gcannon.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.74,
-      "velocity": 7.444,
+      "base_score": 0.43,
+      "velocity": 7.571,
       "velocity_label": "exploding",
-      "combined_score": 13.77
+      "combined_score": 8.14
     },
     {
-      "title": "What happens when a destructor throws",
-      "url": "https://www.sandordargo.com/blog/2026/04/01/when-a-destructor-throws",
+      "title": "A Fire Sale Has U.S. Office Buildings Going for 90% Off",
+      "url": "https://www.wsj.com/real-estate/commercial/a-fire-sale-has-u-s-office-buildings-going-for-90-off-8fa8b5d8",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.48,
-      "velocity": 7.333,
+      "base_score": 0.02,
+      "velocity": 7.133,
       "velocity_label": "exploding",
-      "combined_score": 8.8
+      "combined_score": 0.36
     },
     {
-      "title": "Book review: There Is No Antimemetics Division",
-      "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
+      "title": "Blackholing My Email",
+      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.92,
-      "velocity": 7.312,
+      "base_score": 0.69,
+      "velocity": 6.833,
       "velocity_label": "exploding",
-      "combined_score": 89.94
+      "combined_score": 11.79
+    },
+    {
+      "title": "The best tools for sending an email if you go silent",
+      "url": "https://blog.alcazarsec.com/posts/best-email-dead-mans-switches",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.82,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Octopoda open source agent OS with memory, loop detection, and audit trails",
+      "url": "https://github.com/RyjoxTechnologies/Octopoda-OS",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.698,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Every GPU That Mattered",
+      "url": "https://sheets.works/data-viz/every-gpu",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.68,
+      "velocity": 6.65,
+      "velocity_label": "exploding",
+      "combined_score": 44.56
+    },
+    {
+      "title": "Show HN: Cova – Finds and fixes monitoring blind spots across your stack",
+      "url": "https://getcova.ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.49,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Show HN: 100 days of an AI agent in production what behavioral drift looks like",
+      "url": "https://cathedral-ai.com/cathedral-beta",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.354,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Why 'Cost Disease' Is the Secret Force Behind America's Toxic Solitude",
+      "url": "https://www.derekthompson.org/p/why-cost-disease-is-the-secret-force",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.208,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+      "url": "https://github.com/roscopeco/anos",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.33,
+      "velocity": 6.182,
+      "velocity_label": "exploding",
+      "combined_score": 20.55
+    },
+    {
+      "title": "Extended Thinking Is Load-Bearing for Senior Engineering Workflows",
+      "url": "https://gist.github.com/benvanik/e6c610997e4b06b82385622048079818",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.102,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "url": "https://locker.dev",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.56,
+      "velocity": 6.077,
+      "velocity_label": "exploding",
+      "combined_score": 23.7
+    },
+    {
+      "title": "Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting",
+      "url": "https://github.com/4RH1T3CT0R7/ttf-doom",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.76,
+      "velocity": 5.919,
+      "velocity_label": "exploding",
+      "combined_score": 11.25
+    },
+    {
+      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.45,
+      "velocity": 5.65,
+      "velocity_label": "exploding",
+      "combined_score": 76.98
     },
     {
       "title": "Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?",
       "url": "https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.76,
-      "velocity": 7.256,
+      "base_score": 0.84,
+      "velocity": 5.538,
       "velocity_label": "exploding",
-      "combined_score": 13.79
+      "combined_score": 11.63
+    },
+    {
+      "title": "Scriba – an open source agent that turns your voice into a knowledge base",
+      "url": "https://github.com/giovannialberto/scriba",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.52,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "AI agents that teach, debate and quiz you in real time",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.422,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.16,
+      "velocity": 5.395,
+      "velocity_label": "exploding",
+      "combined_score": 29.14
+    },
+    {
+      "title": "Trump's next budget once again calls for cuts to science",
+      "url": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.363,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Facebook account hijacked, attackers use AI photos of victims to promote crypto",
+      "url": "https://twitter.com/i/status/2041271005285601621",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.266,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Are We Idiocracy Yet?",
+      "url": "https://idiocracy.wtf/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.13,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 132.96
+    },
+    {
+      "title": "Agent Reading Test",
+      "url": "https://agentreadingtest.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.95,
+      "velocity": 5.24,
+      "velocity_label": "exploding",
+      "combined_score": 12.45
+    },
+    {
+      "title": "Show HN: AgentLint – ESLint for your coding agents",
+      "url": "https://github.com/samilozturk/agentlint",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.163,
+      "velocity_label": "exploding",
+      "combined_score": 0.52
+    },
+    {
+      "title": "Second Revision of 6502 Laptop",
+      "url": "https://codeberg.org/TechPaula/LT6502b",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.97,
+      "velocity": 5.125,
+      "velocity_label": "exploding",
+      "combined_score": 12.43
+    },
+    {
+      "title": "Floating point from scratch: Hard Mode",
+      "url": "https://essenceia.github.io/projects/floating_dragon/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.5,
+      "velocity": 5.017,
+      "velocity_label": "exploding",
+      "combined_score": 6.27
+    },
+    {
+      "title": "Show HN: Tusk for macOS and Gnome",
+      "url": "https://shapemachine.xyz/tusk/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.62,
+      "velocity": 4.99,
+      "velocity_label": "exploding",
+      "combined_score": 20.21
+    },
+    {
+      "title": "Record wind and solar saved UK from gas imports worth £1B in March 2026",
+      "url": "https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 4.872,
+      "velocity_label": "exploding",
+      "combined_score": 1.22
+    },
+    {
+      "title": "Show HN: Nexulta – AI-powered crypto price predictions and market analysis",
+      "url": "https://nexulta.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.636,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
     },
     {
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
       "url": "https://github.com/kitfunso/hippo-memory",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.07,
-      "velocity": 6.921,
+      "base_score": 1.47,
+      "velocity": 4.553,
       "velocity_label": "exploding",
-      "combined_score": 18.51
+      "combined_score": 16.73
     },
     {
-      "title": "Show HN: System that keeps apps running when a server or region goes down",
-      "url": "https://news.ycombinator.com/item?id=47671303",
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.844,
+      "base_score": 0.81,
+      "velocity": 4.55,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 9.21
     },
     {
-      "title": "Australia's most-decorated living soldier arrested over alleged war crimes",
-      "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo",
+      "title": "AI may be making us think and write more alike",
+      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.778,
+      "base_score": 1.75,
+      "velocity": 4.5,
       "velocity_label": "exploding",
-      "combined_score": 0.34
+      "combined_score": 19.69
     },
     {
-      "title": "Show HN: Annexa – Generate EU AI Act technical documentation from your codebase",
-      "url": "https://annexa.eu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.757,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "One of America's Largest 3D Print Farms Started in a Closet",
-      "url": "https://www.thestartupstorys.com/2026/03/kason-knight-3d-print-farm-revenue-cut-startup-story.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.683,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Show HN: The two storage engine families behind every database (animated) [video]",
-      "url": "https://www.youtube.com/watch?v=c4YtYzyAf3I",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.584,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "AI is changing how small online sellers decide what to make",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "title": "An experimental Linux distribution that Redefines the filesystem hierarchy",
+      "url": "https://www.gobolinux.org/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 6.361,
+      "velocity": 4.476,
       "velocity_label": "exploding",
-      "combined_score": 0.32
+      "combined_score": 0.22
     },
     {
-      "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
-      "url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.67,
-      "velocity": 6.223,
+      "base_score": 4.37,
+      "velocity": 4.446,
       "velocity_label": "exploding",
-      "combined_score": 10.42
+      "combined_score": 48.58
     },
     {
-      "title": "After 20 years I turned off Google Adsense for my websites (2025)",
-      "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+      "title": "The cult of vibe coding is dogfooding run amok",
+      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.48,
-      "velocity": 6.112,
+      "base_score": 12.76,
+      "velocity": 4.437,
       "velocity_label": "exploding",
-      "combined_score": 53.18
+      "combined_score": 141.56
     },
     {
-      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
-      "url": "https://weianmao.github.io/tri-attention-project-page/",
+      "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.042,
+      "base_score": 4.8,
+      "velocity": 4.385,
       "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Vite Vulnerable to Arbitrary File Read via Vite Dev Server WebSocket",
-      "url": "https://github.com/advisories/GHSA-p9ff-h696-f583",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.936,
-      "velocity_label": "exploding",
-      "combined_score": 0.45
-    },
-    {
-      "title": "Ask HN: Is building a company around an open-source AI agent platform realistic?",
-      "url": "https://news.ycombinator.com/item?id=47671502",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.592,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "The Last Quiet Thing",
-      "url": "https://www.terrygodier.com/the-last-quiet-thing",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.75,
-      "velocity": 5.395,
-      "velocity_label": "exploding",
-      "combined_score": 50.58
-    },
-    {
-      "title": "Why Your Engineering Team Is Slow (It's the Codebase, Not the People)",
-      "url": "https://piechowski.io/post/codebase-drag-audit/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.175,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Show HN: I vibe-coded a Hitster clone from my phone",
-      "url": "https://dplatz.de/blog/2026/vibe-coding-hitstar.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.136,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Reducto releases Deep Extract",
-      "url": "https://reducto.ai/blog/reducto-deep-extract-agent",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.56,
-      "velocity": 5.039,
-      "velocity_label": "exploding",
-      "combined_score": 7.06
-    },
-    {
-      "title": "SOM: A minimal Smalltalk for teaching of and research on Virtual Machines",
-      "url": "http://som-st.github.io/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.44,
-      "velocity": 5.005,
-      "velocity_label": "exploding",
-      "combined_score": 5.51
+      "combined_score": 52.62
     },
     {
       "title": "A cryptography engineer's perspective on quantum computing timelines",
       "url": "https://words.filippo.io/crqc-timeline/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.99,
-      "velocity": 4.981,
+      "base_score": 8.16,
+      "velocity": 4.26,
       "velocity_label": "exploding",
-      "combined_score": 87.05
+      "combined_score": 86.91
     },
     {
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "url": "https://github.com/matthartman/ghost-pepper",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 19.57,
-      "velocity": 4.964,
+      "base_score": 6.92,
+      "velocity": 4.249,
       "velocity_label": "exploding",
-      "combined_score": 242.86
-    },
-    {
-      "title": "Show HN: GovAuctions lets you browse government auctions at once",
-      "url": "https://www.govauctions.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.78,
-      "velocity": 4.95,
-      "velocity_label": "exploding",
-      "combined_score": 46.78
-    },
-    {
-      "title": "I built an autonomous AI team with a COO, QA engineer, and security auditor",
-      "url": "https://github.com/Farid046/PocketTeam",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.812,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Sheets: Terminal based spreadsheet tool",
-      "url": "https://github.com/maaslalani/sheets",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.7,
-      "velocity": 4.687,
-      "velocity_label": "exploding",
-      "combined_score": 31.63
-    },
-    {
-      "title": "What being ripped off taught me",
-      "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.82,
-      "velocity": 4.542,
-      "velocity_label": "exploding",
-      "combined_score": 77.44
-    },
-    {
-      "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
-      "url": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.99,
-      "velocity": 4.529,
-      "velocity_label": "exploding",
-      "combined_score": 56.5
-    },
-    {
-      "title": "Ask HN: How are you controlling costs and enforcing limits for LLM calls?",
-      "url": "https://news.ycombinator.com/item?id=47671453",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.511,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
+      "combined_score": 73.51
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "agent",
+        "audit",
+        "open",
+        "source"
+      ],
+      "concept_hint": "agent + audit + open + source",
+      "cluster_size": 4,
+      "discussion_count": 4,
+      "void_score": 32.0,
+      "examples": [
+        {
+          "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Octopoda open source agent OS with memory, loop detection, and audit trails",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agent",
+            "audit",
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: An open source CI/CD action to audit and fix AI generated UI code",
+          "source": "hackernews",
+          "matching_keywords": [
+            "audit",
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Scriba – an open source agent that turns your voice into a knowledge base",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agent",
+            "open",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
+    {
+      "title": "Show HN: An open source CI/CD action to audit and fix AI generated UI code",
+      "url": "https://news.ycombinator.com/item?id=47674652",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.167,
+      "matching_tags": [
+        "code",
+        "open",
+        "source"
+      ]
+    },
     {
       "title": "Battle for Wesnoth: open-source, turn-based strategy game",
       "url": "https://www.wesnoth.org",
       "source": "hackernews",
       "category": "tech",
-      "score": 6.49,
+      "score": 7.26,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -544,11 +608,11 @@
       ]
     },
     {
-      "title": "An open-source 240-antenna array to bounce signals off the Moon",
-      "url": "https://moonrf.com/",
+      "title": "Octopoda open source agent OS with memory, loop detection, and audit trails",
+      "url": "https://github.com/RyjoxTechnologies/Octopoda-OS",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.41,
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -556,20 +620,8 @@
       ]
     },
     {
-      "title": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models",
-      "url": "https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.03,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Ask HN: Is building a company around an open-source AI agent platform realistic?",
-      "url": "https://news.ycombinator.com/item?id=47671502",
+      "title": "Scriba – an open source agent that turns your voice into a knowledge base",
+      "url": "https://github.com/giovannialberto/scriba",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
@@ -584,10 +636,54 @@
       "url": "https://github.com/anthropics/claude-code/issues/42796",
       "source": "hackernews",
       "category": "tech",
-      "score": 18.1,
+      "score": 21.52,
       "relevance": 0.056,
       "matching_tags": [
         "code"
+      ]
+    },
+    {
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 2.16,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Show HN: Real-time surveys via QR code, built with Cloudflare Durable Objects",
+      "url": "https://rifts.to/blog/building-real-time-surveys-cloudflare-durable-objects",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "The best tools for sending an email if you go silent",
+      "url": "https://blog.alcazarsec.com/posts/best-email-dead-mans-switches",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "tools"
+      ]
+    },
+    {
+      "title": "Show HN: Rac-delta – open protocol for differential dir sync (Rust/Node SDKs)",
+      "url": "https://raccreative.github.io/rac-delta-docs/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
       ]
     }
   ]
