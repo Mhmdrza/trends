@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-04-14T07:27:21.963819+00:00",
-  "scrape_timestamp": "2026-04-14T07:25:53.502393+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-04-14T13:20:08.549999+00:00",
+  "scrape_timestamp": "2026-04-14T13:18:39.180032+00:00",
+  "total_items_analyzed": 90,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 90,
       "status": "ok"
     },
     "twitter": {
@@ -27,516 +27,661 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "New Orleans's Car-Crash Conspiracy",
-      "url": "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.95,
-      "velocity": 15.625,
-      "velocity_label": "exploding",
-      "combined_score": 76.17
-    },
-    {
-      "title": "Distributed DuckDB Instance",
-      "url": "https://github.com/citguru/openduck",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 14.25,
-      "velocity_label": "exploding",
-      "combined_score": 10.33
-    },
-    {
-      "title": "Design and implementation of DuckDB internals",
-      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.14,
-      "velocity": 14.224,
-      "velocity_label": "exploding",
-      "combined_score": 40.54
-    },
-    {
-      "title": "Why it’s impossible to measure England’s coastline",
-      "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.64,
-      "velocity": 14.042,
-      "velocity_label": "exploding",
-      "combined_score": 22.47
-    },
-    {
-      "title": "I shipped a transaction bug, so I built a linter",
-      "url": "https://leonh.fr/posts/go-transaction-linter/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.38,
-      "velocity": 13.245,
-      "velocity_label": "exploding",
-      "combined_score": 12.58
-    },
-    {
-      "title": "Lean proved this program correct; then I found a bug",
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.85,
-      "velocity": 12.702,
-      "velocity_label": "exploding",
-      "combined_score": 122.26
-    },
-    {
-      "title": "DPRK IT Worker Captcha",
-      "url": "https://nkcaptcha.com/",
+      "title": "Reshard Button",
+      "url": "https://pgdog.dev/blog/reshard-button",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 12.667,
+      "velocity": 19.5,
       "velocity_label": "exploding",
-      "combined_score": 0.32
+      "combined_score": 0.49
     },
     {
-      "title": "The Journal of C Language Translation",
-      "url": "http://jclt.iecc.com/",
+      "title": "What is jj and why should I care?",
+      "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.2,
-      "velocity": 12.333,
+      "base_score": 2.21,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 6.17
+      "combined_score": 99.45
     },
     {
-      "title": "Tool to explore regularly sampled time series",
-      "url": "https://github.com/rajivsam/tseda",
+      "title": "The secrets of the Shinkansen",
+      "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.14,
-      "velocity": 12.002,
+      "base_score": 2.92,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 4.2
+      "combined_score": 131.4
     },
     {
-      "title": "Show HN: Continual Learning with .md",
-      "url": "https://github.com/SunAndClouds/ReadMe",
+      "title": "A name is succession, legacy and celebration in Japan's Kabuki theater",
+      "url": "https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.53,
-      "velocity": 11.971,
+      "base_score": 0.17,
+      "velocity": 16.643,
       "velocity_label": "exploding",
-      "combined_score": 15.86
+      "combined_score": 7.07
     },
     {
-      "title": "Air Powered Segment Display? [video]",
-      "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+      "title": "A new spam policy for “back button hijacking”",
+      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.15,
-      "velocity": 11.891,
+      "base_score": 9.53,
+      "velocity": 15.648,
       "velocity_label": "exploding",
-      "combined_score": 34.19
+      "combined_score": 372.8
     },
     {
-      "title": "This year’s insane timeline of hacks",
-      "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.71,
-      "velocity": 11.469,
-      "velocity_label": "exploding",
-      "combined_score": 163.72
-    },
-    {
-      "title": "The AI revolution in math has arrived",
-      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.52,
-      "velocity": 11.033,
-      "velocity_label": "exploding",
-      "combined_score": 41.93
-    },
-    {
-      "title": "The disappearing and unappreciated art of audible alerts [video]",
-      "url": "https://www.youtube.com/watch?v=nXdVG45wveo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.009,
-      "velocity_label": "exploding",
-      "combined_score": 0.83
-    },
-    {
-      "title": "Ascending into the Realm of Japanese Charts",
-      "url": "https://www.chartography.net/p/ascending-into-the-realm-of-japanese",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 10.875,
-      "velocity_label": "exploding",
-      "combined_score": 15.77
-    },
-    {
-      "title": "If you started a company two years ago, many assumptions are no longer true",
-      "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.81,
-      "velocity": 10.283,
-      "velocity_label": "exploding",
-      "combined_score": 97.94
-    },
-    {
-      "title": "B-trees and database indexes (2024)",
-      "url": "https://planetscale.com/blog/btrees-and-database-indexes",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.62,
-      "velocity": 10.119,
-      "velocity_label": "exploding",
-      "combined_score": 40.98
-    },
-    {
-      "title": "Visualizing CPU Pipelining (2024)",
-      "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.93,
-      "velocity": 9.914,
-      "velocity_label": "exploding",
-      "combined_score": 23.05
-    },
-    {
-      "title": "What we learned building a Rust runtime for TypeScript",
-      "url": "https://encore.dev/blog/rust-runtime",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.83,
-      "velocity": 9.008,
-      "velocity_label": "exploding",
-      "combined_score": 18.69
-    },
-    {
-      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "url": "https://github.com/fabienmillet/WiiFin",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.27,
-      "velocity": 8.922,
-      "velocity_label": "exploding",
-      "combined_score": 50.63
-    },
-    {
-      "title": "Stonks-CLI – track your investment portfolios from the terminal",
-      "url": "https://github.com/igoropaniuk/stonks-cli",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.886,
-      "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "Nvidia AIStore – scalable storage for AI applications",
-      "url": "https://aistore.nvidia.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.743,
-      "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "DaVinci Resolve releases Photo Editor",
+      "title": "DaVinci Resolve – Photo",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.41,
-      "velocity": 8.4,
+      "base_score": 10.29,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 113.61
+      "combined_score": 381.59
     },
     {
-      "title": "Huion Devices in the Desktop Stack",
-      "url": "http://who-t.blogspot.com/2026/04/huion-devices-in-desktop-stack.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 8.063,
-      "velocity_label": "exploding",
-      "combined_score": 0.81
-    },
-    {
-      "title": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.82,
-      "velocity": 7.505,
-      "velocity_label": "exploding",
-      "combined_score": 221.77
-    },
-    {
-      "title": "Global imbalances are back with no clear path to resolution",
-      "url": "https://www.reuters.com/markets/global-imbalances-are-back-theres-no-fix-sight-2026-04-08/",
+      "title": "AI-Powered Bioacoustics",
+      "url": "https://birdnet.cornell.edu/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 7.119,
+      "velocity": 14.75,
       "velocity_label": "exploding",
-      "combined_score": 0.53
+      "combined_score": 1.11
     },
     {
-      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+      "title": "TanStack Start Now Support React Server Components",
+      "url": "https://tanstack.com/blog/react-server-components",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.17,
-      "velocity": 7.057,
+      "base_score": 1.62,
+      "velocity": 14.051,
       "velocity_label": "exploding",
-      "combined_score": 20.64
+      "combined_score": 56.91
     },
     {
-      "title": "Show HN: Tsplat – Render Gaussian Splats directly in your terminal",
-      "url": "https://github.com/darshanmakwana412/tsplat",
+      "title": "The acyclic e-graph: Cranelift's mid-end optimizer",
+      "url": "https://cfallin.org/blog/2026/04/09/aegraph/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.07,
-      "velocity": 6.93,
+      "velocity": 12.338,
       "velocity_label": "exploding",
-      "combined_score": 1.21
+      "combined_score": 2.16
     },
     {
-      "title": "Unmasking the Creator of Bitcoin [audio]",
-      "url": "https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html",
+      "title": "ShadowChat: Extortion-Proof Signal Fork",
+      "url": "https://github.com/goldstraw/shadowchat",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.762,
+      "velocity": 12.233,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 0.31
     },
     {
-      "title": "Just Enough Chimera Linux",
-      "url": "https://www.dwarmstrong.org/chimera-install-zfs/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.74,
-      "velocity": 6.257,
-      "velocity_label": "exploding",
-      "combined_score": 11.58
-    },
-    {
-      "title": "Write less code, be more responsible",
-      "url": "https://blog.orhun.dev/code-responsibly/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.4,
-      "velocity": 6.083,
-      "velocity_label": "exploding",
-      "combined_score": 21.29
-    },
-    {
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.52,
-      "velocity": 5.993,
-      "velocity_label": "exploding",
-      "combined_score": 187.58
-    },
-    {
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.38,
-      "velocity": 5.876,
-      "velocity_label": "exploding",
-      "combined_score": 108.42
-    },
-    {
-      "title": "Technical SEO vs. content optimization: which one moves rankings?",
-      "url": "https://news.ycombinator.com/item?id=47762333",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.778,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "Make tmux pretty and usable (2024)",
-      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.96,
-      "velocity": 5.708,
-      "velocity_label": "exploding",
-      "combined_score": 99.31
-    },
-    {
-      "title": "Linux 7.0 Released with New Hardware Support, Optimizations and Self-Healing XFS",
-      "url": "https://www.phoronix.com/news/Linux-7.0-Released",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.669,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-      "url": "https://spectrum.ieee.org/mems-photonics",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.42,
-      "velocity": 5.61,
-      "velocity_label": "exploding",
-      "combined_score": 19.92
-    },
-    {
-      "title": "A soft robot has no problem moving with no motor and no gears",
-      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.11,
-      "velocity": 5.587,
-      "velocity_label": "exploding",
-      "combined_score": 1.54
-    },
-    {
-      "title": "Servo is now available on crates.io",
-      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.62,
-      "velocity": 5.562,
-      "velocity_label": "exploding",
-      "combined_score": 92.06
-    },
-    {
-      "title": "Paul Craig Roberts: 3 ways greater Israel wrecked the peace talks",
-      "url": "https://news.ycombinator.com/item?id=47761984",
+      "title": "We tested the insider trading claim on Polymarket with Taleb-proof methods",
+      "url": "https://www.convexly.app/blog/polymarket-whale-audit",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.06,
-      "velocity": 5.556,
+      "velocity": 11.946,
       "velocity_label": "exploding",
-      "combined_score": 0.83
+      "combined_score": 1.79
     },
     {
-      "title": "Paul Craig Roberts: 3 ways greater Israel wrecked the peace talks",
-      "url": "https://www.youtube.com/watch?v=BW-OrMPa-5c",
+      "title": "The Case Against Gameplay Loops",
+      "url": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.556,
+      "base_score": 0.1,
+      "velocity": 11.625,
       "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "Who Gets Guggenheims?",
-      "url": "https://www.publicbooks.org/who-gets-guggenheims/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "Why don't lighthouses look like this anymore? [video]",
-      "url": "https://www.youtube.com/watch?v=WA0L5xznsKE",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.076,
-      "velocity_label": "exploding",
-      "combined_score": 0.38
-    },
-    {
-      "title": "Sometimes powerful people just do dumb shit",
-      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.6,
-      "velocity": 5.075,
-      "velocity_label": "exploding",
-      "combined_score": 32.99
-    },
-    {
-      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
-      "url": "https://ndaybench.winfunc.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 4.896,
-      "velocity_label": "exploding",
-      "combined_score": 9.91
-    },
-    {
-      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "url": "https://amd-gaia.ai/docs",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.69,
-      "velocity": 4.737,
-      "velocity_label": "exploding",
-      "combined_score": 20.01
-    },
-    {
-      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-      "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.32,
-      "velocity": 4.71,
-      "velocity_label": "exploding",
-      "combined_score": 86.19
+      "combined_score": 2.91
     },
     {
       "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
       "url": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.58,
-      "velocity": 4.656,
+      "base_score": 1.22,
+      "velocity": 11.079,
       "velocity_label": "exploding",
-      "combined_score": 6.75
+      "combined_score": 33.79
     },
     {
-      "title": "OpenAI snub shows UK's energy costs are killing industry",
-      "url": "https://www.thetimes.com/business/economics/article/open-ai-uk-energy-costs-nuclear-wind-wvs36bwdw",
+      "title": "Anastasia (1997) live action reference material",
+      "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.45,
+      "velocity": 11.007,
+      "velocity_label": "exploding",
+      "combined_score": 12.38
+    },
+    {
+      "title": "Roblox devs now need a subscription to share their games freely",
+      "url": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.5,
+      "velocity": 10.93,
+      "velocity_label": "exploding",
+      "combined_score": 40.99
+    },
+    {
+      "title": "Distributed DuckDB Instance",
+      "url": "https://github.com/citguru/openduck",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.25,
+      "velocity": 10.822,
+      "velocity_label": "exploding",
+      "combined_score": 33.82
+    },
+    {
+      "title": "The exponential curve behind open source backlogs",
+      "url": "https://armanckeser.com/writing/jellyfin-flow",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 10.098,
+      "velocity_label": "exploding",
+      "combined_score": 1.51
+    },
+    {
+      "title": "Air Powered Segment Display? [video]",
+      "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.34,
+      "velocity": 9.75,
+      "velocity_label": "exploding",
+      "combined_score": 32.66
+    },
+    {
+      "title": "Let's talk about Animation Quality",
+      "url": "https://theorangeduck.com/page/animation-quality",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.581,
+      "velocity": 9.25,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 0.23
     },
     {
-      "title": "I just want simple S3",
-      "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
+      "title": "I shipped a transaction bug, so I built a linter",
+      "url": "https://leonh.fr/posts/go-transaction-linter/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.76,
-      "velocity": 4.542,
+      "base_score": 0.61,
+      "velocity": 8.947,
       "velocity_label": "exploding",
-      "combined_score": 31.34
+      "combined_score": 13.64
+    },
+    {
+      "title": "The Compression Paradox in AI: Meaning Breaks Before Models Hallucinate",
+      "url": "https://figshare.com/articles/preprint/The_Compression_Paradox_in_AI_Why_Meaning_Breaks_Before_Models_Hallucinate/31985466",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.512,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+      "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.88,
+      "velocity": 7.448,
+      "velocity_label": "exploding",
+      "combined_score": 16.39
+    },
+    {
+      "title": "Rust Threads on the GPU",
+      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.36,
+      "velocity": 7.444,
+      "velocity_label": "exploding",
+      "combined_score": 25.31
+    },
+    {
+      "title": "The Canary in the Payment Rail",
+      "url": "https://blog.satsrail.com/the-canary-in-the-payment-rail/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.55
+    },
+    {
+      "title": "The NPCs That Test Themselves",
+      "url": "https://aarils.com/personal/the-npcs-that-test-themselves",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.55
+    },
+    {
+      "title": "Can Claude Fly a Plane?",
+      "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.23,
+      "velocity": 7.269,
+      "velocity_label": "exploding",
+      "combined_score": 40.52
+    },
+    {
+      "title": "Apple and Amazon Ink Satellite Deal Amid Globalstar Takeover",
+      "url": "https://www.macrumors.com/2026/04/14/apple-and-amazon-ink-satellite-deal-globalstar/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.254,
+      "velocity_label": "exploding",
+      "combined_score": 0.54
+    },
+    {
+      "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
+      "url": "https://news.ycombinator.com/item?id=47764215",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 7.166,
+      "velocity_label": "exploding",
+      "combined_score": 25.98
+    },
+    {
+      "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.054,
+      "velocity_label": "exploding",
+      "combined_score": 0.53
+    },
+    {
+      "title": "Why it’s impossible to measure England’s coastline",
+      "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.85,
+      "velocity": 6.804,
+      "velocity_label": "exploding",
+      "combined_score": 14.46
+    },
+    {
+      "title": "KDE Merges Per-Screen Virtual Desktops After 21 Years",
+      "url": "https://www.phoronix.com/news/KDE-Per-Screen-Virt-Desktops",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.779,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Hollywood stars sign open letter protesting the Paramount-Warner Bros. merger",
+      "url": "https://www.nbcnews.com/business/media/hollywood-letter-paramount-warner-bros-merger-rcna331499",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.457,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "A soft robot has no problem moving with no motor and no gears",
+      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.66,
+      "velocity": 6.385,
+      "velocity_label": "exploding",
+      "combined_score": 10.54
+    },
+    {
+      "title": "Show HN: Answer 9 questions, get a Matter firmware with safe boundaries",
+      "url": "https://anna.software/main",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.375,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "The Journal of C Language Translation",
+      "url": "http://jclt.iecc.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.27,
+      "velocity": 6.238,
+      "velocity_label": "exploding",
+      "combined_score": 4.21
+    },
+    {
+      "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+      "url": "https://github.com/lasect/pg_6502",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.53,
+      "velocity": 6.218,
+      "velocity_label": "exploding",
+      "combined_score": 8.24
+    },
+    {
+      "title": "Introspective Diffusion Language Models",
+      "url": "https://introspective-diffusion.github.io/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.42,
+      "velocity": 6.196,
+      "velocity_label": "exploding",
+      "combined_score": 22.0
+    },
+    {
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.52,
+      "velocity": 6.148,
+      "velocity_label": "exploding",
+      "combined_score": 7.99
+    },
+    {
+      "title": "The AI revolution in math has arrived",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.61,
+      "velocity": 6.087,
+      "velocity_label": "exploding",
+      "combined_score": 24.5
+    },
+    {
+      "title": "Show HN: Write better Go integration tests with open source dockertest v4",
+      "url": "https://github.com/ory/dockertest/tree/v4",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.064,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Game Oriented Assembly Lisp",
+      "url": "https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.926,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.09,
+      "velocity": 5.665,
+      "velocity_label": "exploding",
+      "combined_score": 72.09
+    },
+    {
+      "title": "What we learned building a Rust runtime for TypeScript",
+      "url": "https://encore.dev/blog/rust-runtime",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.94,
+      "velocity": 5.537,
+      "velocity_label": "exploding",
+      "combined_score": 13.01
+    },
+    {
+      "title": "Design and implementation of DuckDB internals",
+      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.62,
+      "velocity": 5.403,
+      "velocity_label": "exploding",
+      "combined_score": 21.88
+    },
+    {
+      "title": "If you started a company two years ago, many assumptions are no longer true",
+      "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.07,
+      "velocity": 5.234,
+      "velocity_label": "exploding",
+      "combined_score": 53.25
+    },
+    {
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "url": "https://github.com/fabienmillet/WiiFin",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.25,
+      "velocity": 5.175,
+      "velocity_label": "exploding",
+      "combined_score": 42.05
+    },
+    {
+      "title": "B-trees and database indexes (2024)",
+      "url": "https://planetscale.com/blog/btrees-and-database-indexes",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.68,
+      "velocity": 5.132,
+      "velocity_label": "exploding",
+      "combined_score": 21.55
+    },
+    {
+      "title": "Building a BLE Sensor Scanner with Nim and BleuIO",
+      "url": "https://www.bleuio.com/blog/building-a-ble-sensor-scanner-with-nim-and-bleuio/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.118,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "The M×N problem of tool calling and open-source models",
+      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.44,
+      "velocity": 4.939,
+      "velocity_label": "exploding",
+      "combined_score": 5.43
+    },
+    {
+      "title": "Visualizing CPU Pipelining (2024)",
+      "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.0,
+      "velocity": 4.926,
+      "velocity_label": "exploding",
+      "combined_score": 12.32
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "agents",
+        "building",
+        "open",
+        "show",
+        "source"
+      ],
+      "concept_hint": "agents + building + open + show",
+      "cluster_size": 5,
+      "discussion_count": 6,
+      "void_score": 90.0,
+      "examples": [
+        {
+          "title": "The M×N problem of tool calling and open-source models",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "The exponential curve behind open source backlogs",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agents",
+            "building",
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Omega Walls–open-source stateful runtime defense for RAG and AI agents",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agents",
+            "open",
+            "show",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Write better Go integration tests with open source dockertest v4",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
       "url": "https://amd-gaia.ai/docs",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.69,
+      "score": 1.8,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "The M×N problem of tool calling and open-source models",
+      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.44,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "The exponential curve behind open source backlogs",
+      "url": "https://armanckeser.com/writing/jellyfin-flow",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.06,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Codacy: Code-level detection of AI model, tools and agent usage",
+      "url": "https://blog.codacy.com/which-ai-tools-are-your-devs-using-solving-the-shadow-ai-problem-with-ai-inventory",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "tools"
+      ]
+    },
+    {
+      "title": "Show HN: DollhouseMCP 2.0, open-source MCP composable AI building blocks",
+      "url": "https://dollhousemcp.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: I built a Claude Code plugin that ships production-ready SaaS product",
+      "url": "https://github.com/saasroo/build-saas",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "saas"
+      ]
+    },
+    {
+      "title": "Show HN: Omega Walls–open-source stateful runtime defense for RAG and AI agents",
+      "url": "https://synqra.tech/omega-walls",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Write better Go integration tests with open source dockertest v4",
+      "url": "https://github.com/ory/dockertest/tree/v4",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -548,54 +693,65 @@
       "url": "https://blog.orhun.dev/code-responsibly/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.4,
+      "score": 2.25,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Show HN: Continual Learning with .md",
-      "url": "https://github.com/SunAndClouds/ReadMe",
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.53,
+      "score": 0.52,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
+        "open"
       ]
     },
     {
-      "title": "Claude Code may be burning your limits with invisible tokens",
-      "url": "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.46,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "Technical SEO vs. content optimization: which one moves rankings?",
-      "url": "https://news.ycombinator.com/item?id=47762333",
+      "title": "Claude Code is thinking too much",
+      "url": "https://news.ycombinator.com/item?id=47765103",
       "source": "hackernews",
       "category": "tech",
       "score": 0.03,
       "relevance": 0.056,
       "matching_tags": [
-        "content"
+        "code"
       ]
     },
     {
-      "title": "Unmasking the Creator of Bitcoin [audio]",
-      "url": "https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html",
+      "title": "Why Everyone Is Obsessed with Claude Code – Enrico Tartarotti [video]",
+      "url": "https://www.youtube.com/watch?v=gzt52Trk9w0",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Why arent Karpathy's LLM coding principles Claude Code defaults?",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills/issues/65",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "creator"
+        "code"
+      ]
+    },
+    {
+      "title": "Hollywood stars sign open letter protesting the Paramount-Warner Bros. merger",
+      "url": "https://www.nbcnews.com/business/media/hollywood-letter-paramount-warner-bros-merger-rcna331499",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
       ]
     }
   ]
