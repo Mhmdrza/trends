@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-01T13:14:11.593776+00:00",
-  "scrape_timestamp": "2026-05-01T13:12:46.046033+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-05-01T19:08:04.616925+00:00",
+  "scrape_timestamp": "2026-05-01T19:06:38.997738+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,504 +27,504 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Grok 4.3",
-      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "title": "A Letter from Dijkstra on APL (1982)",
+      "url": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.17,
-      "velocity": 18.0,
+      "base_score": 0.91,
+      "velocity": 12.375,
       "velocity_label": "exploding",
-      "combined_score": 232.65
+      "combined_score": 28.15
     },
     {
-      "title": "Softmax, can you derive the Jacobian? And should you care?",
-      "url": "https://idlemachines.co.uk/essays/softmax",
+      "title": "Article explains a method to estimate parameter count of closed sourcemodels",
+      "url": "https://www.lesswrong.com/posts/veFMEzDDyWaer2Sms/sanity-checking-incompressible-knowledge-probes",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.85,
-      "velocity": 15.625,
+      "base_score": 0.04,
+      "velocity": 12.0,
       "velocity_label": "exploding",
-      "combined_score": 33.2
-    },
-    {
-      "title": "A more efficient implementation of Shor's algorithm",
-      "url": "https://lwn.net/Articles/1066156/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 15.625,
-      "velocity_label": "exploding",
-      "combined_score": 3.91
-    },
-    {
-      "title": "Music with Lyrics Interferes with Cognitive Tasks (2023)",
-      "url": "https://journalofcognition.org/articles/10.5334/joc.273",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 14.306,
-      "velocity_label": "exploding",
-      "combined_score": 3.22
-    },
-    {
-      "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
-      "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.27,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 37.04
-    },
-    {
-      "title": "The Rotary Un-Smartphone (2023)",
-      "url": "https://skysedge.com/telecom/RUSP/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 10.167,
-      "velocity_label": "exploding",
-      "combined_score": 13.98
-    },
-    {
-      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.92,
-      "velocity": 10.107,
-      "velocity_label": "exploding",
-      "combined_score": 48.51
+      "combined_score": 1.2
     },
     {
       "title": "Advanced Quantization Algorithm for LLMs",
       "url": "https://github.com/intel/auto-round",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 9.981,
+      "base_score": 1.21,
+      "velocity": 11.508,
       "velocity_label": "exploding",
-      "combined_score": 2.99
+      "combined_score": 34.81
     },
     {
-      "title": "Art and War with a Master Storyteller",
-      "url": "https://www.realcleardefense.com/articles/2026/05/01/art_and_war_with_a_master_storyteller_1179885.html",
+      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+      "url": "https://news.ycombinator.com/item?id=47972888",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.854,
+      "base_score": 1.36,
+      "velocity": 11.25,
       "velocity_label": "exploding",
-      "combined_score": 0.44
+      "combined_score": 38.25
     },
     {
-      "title": "OpenWarp",
-      "url": "https://openwarp.zerx.dev",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.69,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 57.16
-    },
-    {
-      "title": "Maladaptive Frugality",
-      "url": "https://herbertlui.net/maladaptive-frugality/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.94,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 62.47
-    },
-    {
-      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.17,
-      "velocity": 8.178,
-      "velocity_label": "exploding",
-      "combined_score": 44.36
-    },
-    {
-      "title": "New mechanical panoramic film camera from Jeff Bridges",
-      "url": "https://wideluxx.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.81,
-      "velocity": 7.972,
-      "velocity_label": "exploding",
-      "combined_score": 56.0
-    },
-    {
-      "title": "Hyper Personal Software",
-      "url": "https://paulwrites.software/articles/hyps/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.396,
-      "velocity_label": "exploding",
-      "combined_score": 0.55
-    },
-    {
-      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
-      "url": "https://www.pagetable.com/?p=1854",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.35,
-      "velocity": 7.213,
-      "velocity_label": "exploding",
-      "combined_score": 6.31
-    },
-    {
-      "title": "If Claude writes the code, what makes me still a developer?",
-      "url": "https://betweentheprompts.com/if-claude-writes-the-code/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.889,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "SpaceX spending on Starship tops $15B in rush for airline-like rocketry",
-      "url": "https://www.reuters.com/business/autos-transportation/spacex-spending-starship-tops-15-billion-rush-airline-like-rocketry-2026-05-01/",
+      "title": "GDC Vibe Check – I Asked Nine Game Developers the Same Four Questions [video]",
+      "url": "https://www.youtube.com/watch?v=BbiPKtIIJIA",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.813,
+      "velocity": 10.968,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 0.27
     },
     {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "title": "Auto Polo",
+      "url": "https://en.wikipedia.org/wiki/Auto_polo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.81,
-      "velocity": 6.719,
+      "base_score": 1.39,
+      "velocity": 10.4,
       "velocity_label": "exploding",
-      "combined_score": 114.39
-    },
-    {
-      "title": "The Attention Your Phone Stole Was Gone",
-      "url": "https://thinkingrock.substack.com/p/the-attention-your-phone-stole-was",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.607,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Your Website Is Not for You",
-      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.59,
-      "velocity": 6.6,
-      "velocity_label": "exploding",
-      "combined_score": 26.24
-    },
-    {
-      "title": "Apple accidentally left Claude.md files Apple Support app",
-      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.51,
-      "velocity": 6.594,
-      "velocity_label": "exploding",
-      "combined_score": 24.89
-    },
-    {
-      "title": "How we run iSCSI over the internet",
-      "url": "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.49,
-      "velocity": 6.55,
-      "velocity_label": "exploding",
-      "combined_score": 8.02
-    },
-    {
-      "title": "Workflow Engine for Async Microservice Flows",
-      "url": "https://littlehorse.io/blog/callbacks",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.533,
-      "velocity_label": "exploding",
-      "combined_score": 0.65
-    },
-    {
-      "title": "Long-term support for Determinate Secure Packages 25.11",
-      "url": "https://determinate.systems/blog/secure-packages-2511-support/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.518,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "What Strings Will Trump Attach to Dollar Lifelines?",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-05-01/us-dollar-backstop-is-weakened-by-politicized-swap-line-decisions",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Only One Side Will Be the True Successor to MS-DOS – OS/2 1.x",
-      "url": "https://blisscast.wordpress.com/2026/04/21/os2-gui-wonderland-12b/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.479,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
-      "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.59,
-      "velocity": 6.459,
-      "velocity_label": "exploding",
-      "combined_score": 25.68
-    },
-    {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.92,
-      "velocity": 6.347,
-      "velocity_label": "exploding",
-      "combined_score": 189.13
-    },
-    {
-      "title": "Show HN: MappyMail – The cheapest way to send letters online",
-      "url": "https://mappymail.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.282,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Ling-2.6-1T: A Trillion-Parameter Comprehensive Flagship Model for Complex Tasks",
-      "url": "https://huggingface.co/inclusionAI/Ling-2.6-1T",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.129,
-      "velocity_label": "exploding",
-      "combined_score": 0.31
-    },
-    {
-      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.52,
-      "velocity": 6.081,
-      "velocity_label": "exploding",
-      "combined_score": 7.91
-    },
-    {
-      "title": "American Dads Became the Parents Their Fathers Never Were",
-      "url": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.13,
-      "velocity": 6.017,
-      "velocity_label": "exploding",
-      "combined_score": 47.08
-    },
-    {
-      "title": "A 1960s art school experiment that redefined creativity",
-      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.44,
-      "velocity": 5.861,
-      "velocity_label": "exploding",
-      "combined_score": 21.1
-    },
-    {
-      "title": "Bolt Graphics Targets FP64 HPC Workloads with Zeus GPU",
-      "url": "https://www.hpcwire.com/2026/04/22/bolt-graphics-targets-fp64-hpc-workloads-with-zeus-gpu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.823,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Ask HN: How do you feel about AI assisted blogging?",
-      "url": "https://news.ycombinator.com/item?id=47974256",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.809,
-      "velocity_label": "exploding",
-      "combined_score": 0.44
-    },
-    {
-      "title": "Wkdomains scan of Y Combinator.com – no llms.txt",
-      "url": "https://wkdomains.com/bot/ycombinator.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.737,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "Apple accidentally left Claude.md files in today's Apple Support app update",
-      "url": "https://twitter.com/CodeByNZ/status/2050123209698066789",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.698,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Xmemory: Benchmarking Structured AI Memory Against RAG and Hybrid RAG",
-      "url": "https://arxiv.org/abs/2604.27906",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.669,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "An AI reasoning system just discovered a candidate universal law in astrophysics",
-      "url": "https://blankline.org/research/universal-bimodal-drift-rate",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.352,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "The Church Rock Uranium Mill Spill",
-      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.14,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 15.2
-    },
-    {
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.8,
-      "velocity": 5.288,
-      "velocity_label": "exploding",
-      "combined_score": 103.12
-    },
-    {
-      "title": "Show HN: Stanzio, AI presentation tool that designs each slide as real HTML",
-      "url": "https://stanzio.fly.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.276,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.09,
-      "velocity_label": "exploding",
-      "combined_score": 0.38
+      "combined_score": 36.14
     },
     {
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.81,
-      "velocity": 4.994,
+      "base_score": 4.76,
+      "velocity": 10.299,
       "velocity_label": "exploding",
-      "combined_score": 35.08
+      "combined_score": 122.56
     },
     {
-      "title": "Can I disable all data collection from my vehicle?",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "url": "https://www.pagetable.com/?p=1854",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 10.66,
-      "velocity": 4.964,
+      "base_score": 1.32,
+      "velocity": 10.083,
       "velocity_label": "exploding",
-      "combined_score": 132.29
+      "combined_score": 33.28
     },
     {
-      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "title": "The California Government Is Coming for Your E-Bikes",
+      "url": "https://sfstandard.com/2026/04/30/e-bike-regulation-license-plates-laws-dmv/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.96,
-      "velocity": 4.917,
+      "base_score": 0.07,
+      "velocity": 9.759,
       "velocity_label": "exploding",
-      "combined_score": 24.1
+      "combined_score": 1.71
+    },
+    {
+      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.34,
+      "velocity": 8.769,
+      "velocity_label": "exploding",
+      "combined_score": 182.83
+    },
+    {
+      "title": "Strong types are a non-negotiable for LLMs",
+      "url": "https://hireup.team/articles/strong-types-for-llms",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.657,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.46,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 222.28
+    },
+    {
+      "title": "AI Uses Less Water Than the Public Thinks",
+      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.68,
+      "velocity": 8.433,
+      "velocity_label": "exploding",
+      "combined_score": 35.42
+    },
+    {
+      "title": "The end of \"Just ask Sarah\"",
+      "url": "https://simme.dev/posts/the-end-of-just-ask-sarah/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.31,
+      "velocity": 8.261,
+      "velocity_label": "exploding",
+      "combined_score": 6.4
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=47975570",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.18,
+      "velocity": 7.755,
+      "velocity_label": "exploding",
+      "combined_score": 61.65
+    },
+    {
+      "title": "An open letter asking NHS England to keep its code open",
+      "url": "https://keepthingsopen.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.54,
+      "velocity": 7.755,
+      "velocity_label": "exploding",
+      "combined_score": 29.86
+    },
+    {
+      "title": "Softmax, can you derive the Jacobian? And should you care?",
+      "url": "https://idlemachines.co.uk/essays/softmax",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.73,
+      "velocity": 7.708,
+      "velocity_label": "exploding",
+      "combined_score": 33.34
+    },
+    {
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=47975571",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.78,
+      "velocity": 7.507,
+      "velocity_label": "exploding",
+      "combined_score": 70.94
+    },
+    {
+      "title": "Artemis II Fault Tolerance",
+      "url": "https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 1.28
+    },
+    {
+      "title": "The Resonance of Berkshire Hathaway",
+      "url": "https://tinkelenberg.com/posts/the-resonance-of-berkshire-hathaway/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "I wrote a beginner friendly guide to integrating AI into projects",
+      "url": "https://www.amazon.co.uk/Building-AI-Developers-Guide-Integrating-ebook/dp/B0GX3B3MV1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.271,
+      "velocity_label": "exploding",
+      "combined_score": 0.73
+    },
+    {
+      "title": "I built GeoGuesser for guns, and its making money (no technical experince)",
+      "url": "https://gunguesser.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 7.251,
+      "velocity_label": "exploding",
+      "combined_score": 1.09
+    },
+    {
+      "title": "OpenAI's advanced security: passkeys replace passwords/SMS and disable training",
+      "url": "https://infosec.exchange/@tychotithonus/116500494420882843",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.207,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "DeepSeek v4, and the end of the OpenAI/Microsoft AGI clause",
+      "url": "https://simonw.substack.com/p/deepseek-v4-and-the-end-of-the-openaimicrosoft",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.14,
+      "velocity_label": "exploding",
+      "combined_score": 0.36
+    },
+    {
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 7.075,
+      "velocity_label": "exploding",
+      "combined_score": 4.07
+    },
+    {
+      "title": "Inspect and filter every HTTP request leaving your microVM",
+      "url": "https://slicervm.com/blog/programmable-microvm-egress/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.664,
+      "velocity_label": "exploding",
+      "combined_score": 0.33
+    },
+    {
+      "title": "Sally McKee, who coined the term \"the memory wall\", has died",
+      "url": "https://www.online-tribute.com/SallyMcKee",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.96,
+      "velocity": 6.619,
+      "velocity_label": "exploding",
+      "combined_score": 15.89
+    },
+    {
+      "title": "ICANN opens applications for new generic top-level domains first time since 2012",
+      "url": "https://www.theregister.com/2026/05/01/icann_new_gtld_applications/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 6.557,
+      "velocity_label": "exploding",
+      "combined_score": 0.82
+    },
+    {
+      "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
+      "url": "https://github.com/whohas/whohas",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.99,
+      "velocity": 6.271,
+      "velocity_label": "exploding",
+      "combined_score": 15.52
+    },
+    {
+      "title": "Music with Lyrics Interferes with Cognitive Tasks (2023)",
+      "url": "https://journalofcognition.org/articles/10.5334/joc.273",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 6.231,
+      "velocity_label": "exploding",
+      "combined_score": 7.63
+    },
+    {
+      "title": "CachyOS Linux Performance Leading over Ubuntu 26.04 LTS, Fedora Workstation 44",
+      "url": "https://www.phoronix.com/review/cachyos-ubuntu-2604-fedora-44",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.915,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
+      "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.71,
+      "velocity": 5.891,
+      "velocity_label": "exploding",
+      "combined_score": 39.91
+    },
+    {
+      "title": "Bsky.land – a photo stream from the Bluesky firehose",
+      "url": "https://bsky.land/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "OpenWarp",
+      "url": "https://openwarp.zerx.dev",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.78,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 50.4
+    },
+    {
+      "title": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.32,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 70.93
+    },
+    {
+      "title": "New mechanical panoramic film camera from Jeff Bridges",
+      "url": "https://wideluxx.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.38,
+      "velocity": 5.069,
+      "velocity_label": "exploding",
+      "combined_score": 42.84
+    },
+    {
+      "title": "Show HN: My Private GitHub on Postgres",
+      "url": "https://github.com/calebwin/gitgres",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 5.003,
+      "velocity_label": "exploding",
+      "combined_score": 4.5
     },
     {
       "title": "I Got Sick of Remembering Port Numbers",
       "url": "https://gregraiz.com/blog/local-vibe/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.31,
-      "velocity": 4.858,
+      "base_score": 3.21,
+      "velocity": 4.938,
       "velocity_label": "exploding",
-      "combined_score": 28.06
+      "combined_score": 39.62
     },
     {
-      "title": "Reverse Engineering SimTower",
-      "url": "https://phulin.me/blog/simtower",
+      "title": "The exotic particles that could break the Standard Model",
+      "url": "https://www.nature.com/articles/d41586-026-01387-x",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.01,
-      "velocity": 4.765,
+      "base_score": 0.04,
+      "velocity": 4.871,
       "velocity_label": "exploding",
-      "combined_score": 35.86
+      "combined_score": 0.49
     },
     {
-      "title": "Recovering files from beyond the grave using PhotoRec",
-      "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+      "title": "Can I disable all data collection from my vehicle?",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.92,
-      "velocity": 4.674,
+      "base_score": 11.83,
+      "velocity": 4.821,
+      "velocity_label": "exploding",
+      "combined_score": 142.58
+    },
+    {
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.53,
+      "velocity": 4.788,
+      "velocity_label": "exploding",
+      "combined_score": 42.25
+    },
+    {
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.745,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Doom port for the GL-iNet GL-BE10000 Slate 7 Pro travel router",
+      "url": "https://github.com/atc1441/Slate7_pro_Doom",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.481,
+      "velocity_label": "exploding",
+      "combined_score": 0.11
+    },
+    {
+      "title": "It's Possible to Learn in Our Sleep. Should We?",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 4.167,
+      "velocity_label": "exploding",
+      "combined_score": 1.25
+    },
+    {
+      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.67,
+      "velocity": 4.164,
+      "velocity_label": "exploding",
+      "combined_score": 6.97
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=47975676",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.99,
+      "velocity": 4.129,
+      "velocity_label": "exploding",
+      "combined_score": 30.86
+    },
+    {
+      "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+      "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.07,
+      "velocity": 4.019,
       "velocity_label": "exploding",
       "combined_score": 10.75
     },
     {
-      "title": "Show HN: Glyph – byte-exact substring retrieval (~1.5ms, FM-index)",
-      "url": "https://github.com/yasha1971-coder/glyph-engine",
+      "title": "Numbers and the launch algorithm of an indie game that was featured on itch.io",
+      "url": "https://blog.luden.io/how-we-stayed-on-the-front-page-of-itch-io-for-over-a-month-8e0d0cf1cc17",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.574,
+      "base_score": 0.06,
+      "velocity": 3.883,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 0.58
+    },
+    {
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.29,
+      "velocity": 3.728,
+      "velocity_label": "exploding",
+      "combined_score": 95.91
+    },
+    {
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.27,
+      "velocity": 3.569,
+      "velocity_label": "exploding",
+      "combined_score": 20.25
     }
   ],
   "niche_opportunities": [],
@@ -532,15 +532,15 @@
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Anthropic's anti-distillation defense,reverse-engineered from Claude Code source",
-      "url": "https://wanlanglin.github.io/-awesome-cc-harness/en/",
+      "title": "An open letter asking NHS England to keep its code open",
+      "url": "https://keepthingsopen.com",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.02,
+      "score": 1.54,
       "relevance": 0.111,
       "matching_tags": [
         "code",
-        "source"
+        "open"
       ]
     },
     {
@@ -548,32 +548,32 @@
       "url": "https://twitter.com/theo/status/2049645973350363168",
       "source": "hackernews",
       "category": "tech",
-      "score": 22.1,
+      "score": 23.43,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "If Claude writes the code, what makes me still a developer?",
-      "url": "https://betweentheprompts.com/if-claude-writes-the-code/",
+      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.02,
+      "score": 8.34,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Only One Side Will Be the True Successor to MS-DOS – OS/2 1.x",
-      "url": "https://blisscast.wordpress.com/2026/04/21/os2-gui-wonderland-12b/",
+      "title": "Numbers and the launch algorithm of an indie game that was featured on itch.io",
+      "url": "https://blog.luden.io/how-we-stayed-on-the-front-page-of-itch-io-for-over-a-month-8e0d0cf1cc17",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
+      "score": 0.06,
       "relevance": 0.056,
       "matching_tags": [
-        "side"
+        "indie"
       ]
     }
   ]
