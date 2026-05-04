@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-04T13:52:43.282827+00:00",
-  "scrape_timestamp": "2026-05-04T13:50:31.842665+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-05-04T19:25:30.028704+00:00",
+  "scrape_timestamp": "2026-05-04T19:24:03.984572+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,248 +27,338 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
-      "url": "https://guille.site/posts/abstract-nonsense/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.3,
-      "velocity": 13.929,
-      "velocity_label": "exploding",
-      "combined_score": 10.45
-    },
-    {
-      "title": "From RSS to Atom",
-      "url": "https://susam.net/from-rss-to-atom.html",
+      "title": "Ways to Make Cold",
+      "url": "https://hackaday.com/2026/05/04/strange-ways-to-make-cold/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 13.25,
+      "velocity": 18.633,
       "velocity_label": "exploding",
-      "combined_score": 0.33
+      "combined_score": 0.47
     },
     {
-      "title": "A treasure trove of fossils rewrites the story of early life",
-      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
+      "title": "PyInfra 3.8.0",
+      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.79,
-      "velocity": 13.12,
+      "base_score": 2.96,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 25.91
+      "combined_score": 133.2
     },
     {
-      "title": "Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",
-      "url": "https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html",
+      "title": "The Shape of a Guitar Pick",
+      "url": "https://www.johndcook.com/blog/2026/05/03/guitar-pick/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.73,
-      "velocity": 12.604,
+      "base_score": 0.02,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 23.0
+      "combined_score": 0.9
     },
     {
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+      "title": "Stitch together lots of little HTML pages with navigations for interactions",
+      "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.33,
-      "velocity": 12.526,
+      "base_score": 1.61,
+      "velocity": 12.699,
       "velocity_label": "exploding",
-      "combined_score": 41.65
-    },
-    {
-      "title": "World's biggest RC A380 [video]",
-      "url": "https://www.youtube.com/watch?v=wr9YLGbhxng",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.85,
-      "velocity": 12.273,
-      "velocity_label": "exploding",
-      "combined_score": 26.08
-    },
-    {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.98,
-      "velocity": 11.475,
-      "velocity_label": "exploding",
-      "combined_score": 200.24
-    },
-    {
-      "title": "GameStop's CEO gave the most awkward interview about how it would pay for eBay",
-      "url": "https://www.businessinsider.com/gamestop-ceos-awkward-interview-after-billion-ebay-offer-2026-5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.143,
-      "velocity_label": "exploding",
-      "combined_score": 0.84
-    },
-    {
-      "title": "Humanoid Robot Actuators",
-      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.63,
-      "velocity": 10.611,
-      "velocity_label": "exploding",
-      "combined_score": 69.77
-    },
-    {
-      "title": "Introduction to Atom",
-      "url": "https://validator.w3.org/feed/docs/atom.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.81,
-      "velocity": 10.4,
-      "velocity_label": "exploding",
-      "combined_score": 47.06
-    },
-    {
-      "title": "The AI Governance Gap",
-      "url": "https://news.ycombinator.com/item?id=48008604",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 1.0
-    },
-    {
-      "title": "I Vibe-Coded the App of My Dreams and Only Lost My Mind Twice",
-      "url": "https://www.wsj.com/tech/ai/vibe-coding-dashboards-replit-lovable-09cc79b1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.832,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "Talking to 35 Strangers at the Gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.19,
-      "velocity": 8.444,
-      "velocity_label": "exploding",
-      "combined_score": 67.34
-    },
-    {
-      "title": "Yann LeCun's $1B Bet Against LLMs [video]",
-      "url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.046,
-      "velocity_label": "exploding",
-      "combined_score": 0.6
-    },
-    {
-      "title": "Newton's law of gravity passes its biggest test",
-      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.32,
-      "velocity": 7.919,
-      "velocity_label": "exploding",
-      "combined_score": 6.34
-    },
-    {
-      "title": "K3sup – bootstrap K3s over SSH in < 60s",
-      "url": "https://github.com/alexellis/k3sup",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.24,
-      "velocity": 7.55,
-      "velocity_label": "exploding",
-      "combined_score": 23.41
-    },
-    {
-      "title": "Over 8M Thermos jars and bottles recalled after 3 people lost vision",
-      "url": "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.06,
-      "velocity": 7.387,
-      "velocity_label": "exploding",
-      "combined_score": 38.04
+      "combined_score": 51.11
     },
     {
       "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
       "url": "https://reiner.org/neural-net-ciphers",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.57,
-      "velocity": 7.206,
+      "base_score": 1.47,
+      "velocity": 12.167,
       "velocity_label": "exploding",
-      "combined_score": 10.27
+      "combined_score": 44.71
     },
     {
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+      "title": "Newton's law of gravity passes its biggest test",
+      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.16,
-      "velocity": 7.173,
+      "base_score": 2.02,
+      "velocity": 11.772,
       "velocity_label": "exploding",
-      "combined_score": 20.8
+      "combined_score": 59.45
     },
     {
-      "title": "Show HN: Ableton Live MCP",
-      "url": "https://github.com/bschoepke/ableton-live-mcp",
+      "title": "Show HN: nfsdiag - a NFS diagnostic application",
+      "url": "https://github.com/lsferreira42/nfsdiag",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.95,
-      "velocity": 7.041,
+      "base_score": 0.06,
+      "velocity": 11.718,
       "velocity_label": "exploding",
-      "combined_score": 34.32
+      "combined_score": 1.76
     },
     {
-      "title": "United flight collides with truck and pole as it lands at Newark",
-      "url": "https://www.cnn.com/2026/05/03/us/united-airlines-newark-truck-streetlight",
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.43,
-      "velocity": 6.686,
+      "base_score": 8.9,
+      "velocity": 11.635,
       "velocity_label": "exploding",
-      "combined_score": 7.19
+      "combined_score": 258.88
     },
     {
-      "title": "Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets",
-      "url": "https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11",
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.29,
-      "velocity": 6.684,
+      "base_score": 13.84,
+      "velocity": 10.083,
       "velocity_label": "exploding",
-      "combined_score": 4.85
+      "combined_score": 348.88
     },
     {
-      "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
-      "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.28,
-      "velocity": 6.571,
+      "base_score": 2.54,
+      "velocity": 9.605,
       "velocity_label": "exploding",
-      "combined_score": 4.6
+      "combined_score": 60.99
     },
     {
-      "title": "Denuvo has been cracked in all single-player games it previously protected",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks",
+      "title": "What five years of solo development taught me",
+      "url": "https://www.tylerevan.dev/writing/five-years-solo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.97,
-      "velocity": 6.524,
+      "base_score": 0.01,
+      "velocity": 9.367,
       "velocity_label": "exploding",
-      "combined_score": 113.68
+      "combined_score": 0.23
     },
     {
-      "title": "Margin – A Streak Tracker for Readers",
-      "url": "https://www.readmargin.club/",
+      "title": "UK Fuel Price Intelligence",
+      "url": "https://www.fuelinsight.co.uk",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.79,
+      "velocity": 9.292,
+      "velocity_label": "exploding",
+      "combined_score": 41.58
+    },
+    {
+      "title": "World's biggest RC A380 [video]",
+      "url": "https://www.youtube.com/watch?v=wr9YLGbhxng",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.72,
+      "velocity": 9.094,
+      "velocity_label": "exploding",
+      "combined_score": 39.1
+    },
+    {
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.48,
+      "velocity": 8.635,
+      "velocity_label": "exploding",
+      "combined_score": 53.54
+    },
+    {
+      "title": "Scqos – A 9-gate pre-execution coherence kernel for deterministic computation",
+      "url": "https://indigo-major-newt-582.mypinata.cloud/ipfs/bafkreifpkzdkmjka26nm4q7gdnzry7hm53a5kngjzyeyuouau64gyhiexy",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.24,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "One API for WhatsApp, SMS, and Email. SendAPI",
+      "url": "https://news.ycombinator.com/item?id=48013343",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.071,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Flock Holding Closed Police Conference, Requires Police Consent for Marketing",
+      "url": "https://ipvm.com/reports/flock-closed-police-marketing",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.22,
+      "velocity": 8.042,
+      "velocity_label": "exploding",
+      "combined_score": 4.42
+    },
+    {
+      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.32,
+      "velocity": 8.0,
+      "velocity_label": "exploding",
+      "combined_score": 26.4
+    },
+    {
+      "title": "A treasure trove of fossils rewrites the story of early life",
+      "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.22,
+      "velocity": 7.64,
+      "velocity_label": "exploding",
+      "combined_score": 23.3
+    },
+    {
+      "title": "OpenAI Finalizes $10B Joint Venture with PE Firms to Deploy AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 7.58,
+      "velocity_label": "exploding",
+      "combined_score": 2.65
+    },
+    {
+      "title": "Grove.el: an Obsidian-like note-taking mode for Emacs",
+      "url": "https://github.com/jonathanchu/grove",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.467,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
+    },
+    {
+      "title": "The Road to a Billion-Token Context",
+      "url": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.18,
+      "velocity": 7.313,
+      "velocity_label": "exploding",
+      "combined_score": 21.57
+    },
+    {
+      "title": "Who do Americans spend time with over their lives?",
+      "url": "https://ourworldindata.org/who-do-americans-spend-time-with-over-their-lives",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.172,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Fun with polynomials and linear algebra; or, slight abstract nonsense",
+      "url": "https://guille.site/posts/abstract-nonsense/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.61,
+      "velocity": 7.143,
+      "velocity_label": "exploding",
+      "combined_score": 10.89
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.13,
+      "velocity": 7.022,
+      "velocity_label": "exploding",
+      "combined_score": 212.95
+    },
+    {
+      "title": "Pentagon announces deal with seven AI companies for classified systems",
+      "url": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.011,
+      "velocity_label": "exploding",
+      "combined_score": 0.53
+    },
+    {
+      "title": "Trusted Remote Execution: Policy-Enforced Scripts for AI Agents and Humans",
+      "url": "https://aws.amazon.com/blogs/opensource/introducing-trusted-remote-execution-policy-enforced-scripts-for-ai-agents-and-humans/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.778,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.12,
+      "velocity": 6.5,
+      "velocity_label": "exploding",
+      "combined_score": 18.2
+    },
+    {
+      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
+      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.61,
+      "velocity": 6.426,
+      "velocity_label": "exploding",
+      "combined_score": 25.86
+    },
+    {
+      "title": "AI Won't Save Us from the Talent Crisis We Created (Sep 25, 2025)",
+      "url": "https://techtrenches.dev/p/ai-wont-save-us-from-the-talent-crisis",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.257,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.06,
+      "velocity": 6.174,
+      "velocity_label": "exploding",
+      "combined_score": 31.8
+    },
+    {
+      "title": "Days without GitHub incidents",
+      "url": "https://www.dayswithoutgithubincident.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.66,
+      "velocity": 6.004,
+      "velocity_label": "exploding",
+      "combined_score": 69.95
+    },
+    {
+      "title": "African economies are more resilient than ever",
+      "url": "https://www.ft.com/content/d84cc813-777b-4729-9784-7c6d2bdb04aa",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.6
+    },
+    {
+      "title": "Media Queries Range Syntax",
+      "url": "https://ishadeed.com/article/range-syntax/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -277,254 +367,164 @@
       "combined_score": 0.15
     },
     {
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.22,
-      "velocity": 5.899,
-      "velocity_label": "exploding",
-      "combined_score": 165.46
-    },
-    {
-      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.97,
-      "velocity": 5.787,
-      "velocity_label": "exploding",
-      "combined_score": 28.5
-    },
-    {
-      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.13,
-      "velocity": 5.59,
-      "velocity_label": "exploding",
-      "combined_score": 57.72
-    },
-    {
-      "title": "Supercollider",
-      "url": "https://supercollider.github.io/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 4.53
-    },
-    {
-      "title": "Cordouan Lighthouse",
-      "url": "https://en.wikipedia.org/wiki/Cordouan_Lighthouse",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.45,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 6.0
-    },
-    {
-      "title": "Catch Streams",
-      "url": "https://blog.ptidej.net/catch-streams/",
+      "title": "Achieving CVE Remediation in an Era of Escalating Vulnerabilities with Nix",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.333,
+      "velocity": 5.714,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 0.14
     },
     {
-      "title": "Using metacognition to get a model upgrade",
-      "url": "https://12gramsofcarbon.com/p/agentics-using-metacognition-to-get",
+      "title": "How Monero's proof of work works",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.197,
+      "base_score": 3.56,
+      "velocity": 5.442,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 48.44
     },
     {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.14,
-      "velocity": 5.107,
+      "base_score": 1.77,
+      "velocity": 5.297,
       "velocity_label": "exploding",
-      "combined_score": 78.39
+      "combined_score": 23.44
     },
     {
-      "title": "I built my own hair electrolysis machine",
-      "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+      "title": "'Kitten Space Agency', the Spiritual Successor to 'Kerbal Space Program' (2025)",
+      "url": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.35,
-      "velocity": 5.081,
+      "base_score": 0.81,
+      "velocity": 5.06,
       "velocity_label": "exploding",
-      "combined_score": 42.56
+      "combined_score": 10.25
     },
     {
-      "title": "Brain scans reveal 3 ADHD subtypes",
-      "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.86,
-      "velocity": 4.827,
+      "base_score": 1.58,
+      "velocity": 4.948,
       "velocity_label": "exploding",
-      "combined_score": 34.51
+      "combined_score": 19.54
     },
     {
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "title": "Texico: Learn the principles of programming without even touching a computer",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.07,
-      "velocity": 4.806,
+      "base_score": 1.81,
+      "velocity": 4.82,
       "velocity_label": "exploding",
-      "combined_score": 48.9
+      "combined_score": 21.81
     },
     {
-      "title": "Security through obscurity is not bad",
-      "url": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
+      "title": "Trillions in Retirement Dollars Flow into Opaque Trusts",
+      "url": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.59,
-      "velocity": 4.796,
-      "velocity_label": "exploding",
-      "combined_score": 55.03
-    },
-    {
-      "title": "A.I.-Themed High School Is Put on Hold After Parental Backlash",
-      "url": "https://www.nytimes.com/2026/04/27/nyregion/nyc-ai-high-school-halted.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.764,
-      "velocity_label": "exploding",
-      "combined_score": 0.48
-    },
-    {
-      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
-      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.53,
-      "velocity": 4.683,
-      "velocity_label": "exploding",
-      "combined_score": 29.62
-    },
-    {
-      "title": "U.S. Fed policymakers stance on interest rate hikes",
-      "url": "https://www.reuters.com/graphics/USA-ECONOMY/FED/gdpzajoegvw/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
+      "base_score": 0.66,
       "velocity": 4.667,
+      "velocity_label": "exploding",
+      "combined_score": 7.7
+    },
+    {
+      "title": "US Supreme Court temporarily restores access to mail-order abortion pills",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/mifepristone-abortion-pill-supreme-court",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.659,
       "velocity_label": "exploding",
       "combined_score": 0.12
     },
     {
-      "title": "The Road to a Billion-Token Context",
-      "url": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
+      "title": "DHS demanded Google surrender data on Canadians over anti-ICE posts",
+      "url": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.91,
-      "velocity": 4.658,
+      "base_score": 0.08,
+      "velocity": 4.644,
       "velocity_label": "exploding",
-      "combined_score": 10.6
+      "combined_score": 0.93
     },
     {
-      "title": "LLMs Are Not a Higher Level of Abstraction",
-      "url": "https://www.lelanthran.com/chap15/content.html",
+      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.29,
-      "velocity": 4.598,
+      "base_score": 1.15,
+      "velocity": 4.543,
       "velocity_label": "exploding",
-      "combined_score": 37.82
+      "combined_score": 13.06
     },
     {
-      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "title": "Websites for Humans",
+      "url": "https://felix.plesoianu.ro/web/log//websites-for-humans.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 10.16,
-      "velocity": 4.476,
+      "base_score": 0.01,
+      "velocity": 4.3,
       "velocity_label": "exploding",
-      "combined_score": 113.68
+      "combined_score": 0.11
     },
     {
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.46,
-      "velocity": 4.436,
+      "base_score": 3.28,
+      "velocity": 4.126,
       "velocity_label": "exploding",
-      "combined_score": 38.37
+      "combined_score": 33.84
     },
     {
-      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
-      "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+      "title": "From CVS to Git, thirty years of source control",
+      "url": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.02,
-      "velocity": 4.278,
+      "base_score": 1.44,
+      "velocity": 4.1,
       "velocity_label": "exploding",
-      "combined_score": 10.91
+      "combined_score": 14.76
     },
     {
-      "title": "Trump administration cites national security in stalling 165 wind farms",
-      "url": "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
+      "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+      "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.199,
+      "base_score": 0.24,
+      "velocity": 4.016,
       "velocity_label": "exploding",
-      "combined_score": 0.42
+      "combined_score": 2.41
     },
     {
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+      "title": "Alberta voter list leak is a potential public safety disaster",
+      "url": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.75,
-      "velocity": 4.055,
+      "base_score": 1.6,
+      "velocity": 3.985,
       "velocity_label": "exploding",
-      "combined_score": 17.74
+      "combined_score": 15.94
     },
     {
-      "title": "Show HN: Safety layer between AI agents and databases",
-      "url": "https://github.com/fazhq/faz",
+      "title": "Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline",
+      "url": "https://geeksandgamers.com/remove-star-wars-sequel-trilogy/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 3.825,
+      "base_score": 0.51,
+      "velocity": 3.964,
       "velocity_label": "exploding",
-      "combined_score": 0.38
-    },
-    {
-      "title": "Nuclear receptor 4A1 linked to health effects of coffee: study",
-      "url": "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.78,
-      "velocity": 3.727,
-      "velocity_label": "exploding",
-      "combined_score": 25.91
-    },
-    {
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 14.17,
-      "velocity": 3.725,
-      "velocity_label": "exploding",
-      "combined_score": 131.97
+      "combined_score": 5.05
     }
   ],
   "niche_opportunities": [],
@@ -532,48 +532,25 @@
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
-      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 4.84,
-      "relevance": 0.111,
-      "matching_tags": [
-        "code",
-        "source"
-      ]
-    },
-    {
       "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "url": "https://github.com/aattaran/deepclaude",
       "source": "hackernews",
       "category": "tech",
-      "score": 8.88,
+      "score": 10.21,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "I built my own hair electrolysis machine",
-      "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+      "title": "From CVS to Git, thirty years of source control",
+      "url": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.35,
+      "score": 1.44,
       "relevance": 0.056,
       "matching_tags": [
-        "machine"
-      ]
-    },
-    {
-      "title": "Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",
-      "url": "https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.73,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
+        "source"
       ]
     }
   ]
