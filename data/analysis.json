@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-19T19:52:59.270819+00:00",
-  "scrape_timestamp": "2026-05-19T19:51:30.421354+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-05-20T02:53:39.629836+00:00",
+  "scrape_timestamp": "2026-05-20T02:52:13.627438+00:00",
+  "total_items_analyzed": 90,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 90,
       "status": "ok"
     },
     "twitter": {
@@ -27,564 +27,566 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Gemini Omni",
-      "url": "https://deepmind.google/models/gemini-omni/",
+      "title": "The Silver Swan",
+      "url": "https://thebowesmuseum.org.uk/collections/the-silver-swan/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.67,
-      "velocity": 25.125,
-      "velocity_label": "exploding",
-      "combined_score": 104.9
-    },
-    {
-      "title": "Gemini Omni",
-      "url": "https://geminiomni.studio",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 25.125,
-      "velocity_label": "exploding",
-      "combined_score": 0.63
-    },
-    {
-      "title": "Colonization of Venus",
-      "url": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.29,
+      "base_score": 0.35,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 103.05
+      "combined_score": 15.75
     },
     {
-      "title": "KV Sharing, MHC, and Compressed Attention",
-      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "title": "Disney erased FiveThirtyEight",
+      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.2,
-      "velocity": 16.375,
+      "base_score": 6.29,
+      "velocity": 14.2,
       "velocity_label": "exploding",
-      "combined_score": 8.19
-    },
-    {
-      "title": "Hanoi’s humble beer glass and the memory of a nation",
-      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.33,
-      "velocity": 15.031,
-      "velocity_label": "exploding",
-      "combined_score": 49.98
-    },
-    {
-      "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
-      "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 14.8,
-      "velocity_label": "exploding",
-      "combined_score": 3.7
-    },
-    {
-      "title": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
-      "url": "https://github.com/Diolinux/PhotoGIMP",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.36,
-      "velocity": 12.775,
-      "velocity_label": "exploding",
-      "combined_score": 139.25
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.25,
-      "velocity": 11.009,
-      "velocity_label": "exploding",
-      "combined_score": 144.49
-    },
-    {
-      "title": "Show HN: Gaussian Splat of a Strawberry",
-      "url": "https://superspl.at/scene/84df8849",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.69,
-      "velocity": 10.195,
-      "velocity_label": "exploding",
-      "combined_score": 170.51
-    },
-    {
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.97,
-      "velocity": 9.846,
-      "velocity_label": "exploding",
-      "combined_score": 220.79
-    },
-    {
-      "title": "Show HN: Haystack – Review the PRs that need human attention",
-      "url": "https://haystackeditor.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.26,
-      "velocity": 9.838,
-      "velocity_label": "exploding",
-      "combined_score": 6.39
-    },
-    {
-      "title": "War game exposed U.S. vulnerability to low-tech warfare",
-      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.79,
-      "velocity": 9.466,
-      "velocity_label": "exploding",
-      "combined_score": 42.36
-    },
-    {
-      "title": "'Capitalism has to become more humane': a Stanford economist on big tech",
-      "url": "https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.82,
-      "velocity": 9.357,
-      "velocity_label": "exploding",
-      "combined_score": 19.18
-    },
-    {
-      "title": "An Apple (II) for Teacher",
-      "url": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.71,
-      "velocity": 9.292,
-      "velocity_label": "exploding",
-      "combined_score": 16.49
-    },
-    {
-      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.1,
-      "velocity": 9.177,
-      "velocity_label": "exploding",
-      "combined_score": 25.24
-    },
-    {
-      "title": "Why are university students booing big tech at graduation ceremonies?",
-      "url": "https://english.elpais.com/technology/2026-05-19/generational-rejection-of-ai-why-are-university-students-booing-big-tech-at-graduation-ceremonies.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 8.964,
-      "velocity_label": "exploding",
-      "combined_score": 0.9
-    },
-    {
-      "title": "Anyone on the Internet Can Ring Your Doorbell",
-      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.4,
-      "velocity": 8.658,
-      "velocity_label": "exploding",
-      "combined_score": 51.95
-    },
-    {
-      "title": "OpenBSD 7.9",
-      "url": "https://www.openbsd.org/79.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.54,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 138.98
-    },
-    {
-      "title": "Polypad",
-      "url": "https://polypad.amplify.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.33,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 49.51
-    },
-    {
-      "title": "A brief investigation into the GPT-5.5 regression claims",
-      "url": "https://www.stet.sh/blog/gpt-55-high-regression-check-graphql-go-tools",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.4,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
-      "url": "https://superlog.sh/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.83,
-      "velocity": 8.295,
-      "velocity_label": "exploding",
-      "combined_score": 17.21
-    },
-    {
-      "title": "Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.11,
-      "velocity": 8.025,
-      "velocity_label": "exploding",
-      "combined_score": 82.46
-    },
-    {
-      "title": "ACSM Publishes Updated Resistance Training Guidelines",
-      "url": "https://acsm.org/resistance-training-guidelines-update-2026/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.889,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.97,
-      "velocity": 7.708,
-      "velocity_label": "exploding",
-      "combined_score": 134.32
-    },
-    {
-      "title": "Is It Worth Investing in Index Funds? What 90% of Investors Get Wrong About Fees",
-      "url": "https://comuniq.xyz/post?t=1109",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.524,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
-      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.28,
-      "velocity": 7.432,
-      "velocity_label": "exploding",
-      "combined_score": 23.78
-    },
-    {
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "url": "https://setpose.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.05,
-      "velocity": 6.68,
-      "velocity_label": "exploding",
-      "combined_score": 17.54
-    },
-    {
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 6.597,
-      "velocity_label": "exploding",
-      "combined_score": 1.48
-    },
-    {
-      "title": "Stop 'tokenmaxxing' and deploy AI sensibly instead",
-      "url": "https://www.nature.com/articles/s42256-026-01253-5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.08,
-      "velocity": 6.533,
-      "velocity_label": "exploding",
-      "combined_score": 1.31
+      "combined_score": 223.3
     },
     {
       "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
       "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.03,
-      "velocity": 6.531,
+      "base_score": 1.75,
+      "velocity": 13.024,
       "velocity_label": "exploding",
-      "combined_score": 16.82
+      "combined_score": 56.98
     },
     {
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "title": "Deciphering the Hashihara Castle Town Map",
+      "url": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.2,
-      "velocity": 6.457,
+      "base_score": 0.18,
+      "velocity": 12.427,
       "velocity_label": "exploding",
-      "combined_score": 3.23
+      "combined_score": 5.59
     },
     {
-      "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-      "url": "https://www.kv4p.com/",
+      "title": "Tell HN: Google banned Railway's account. Everything down",
+      "url": "https://news.ycombinator.com/item?id=48201330",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.57,
-      "velocity": 6.143,
+      "base_score": 0.25,
+      "velocity": 11.255,
       "velocity_label": "exploding",
-      "combined_score": 39.47
+      "combined_score": 7.03
     },
     {
-      "title": "Graduates are booing pep talks on AI at college commencements",
-      "url": "https://www.boston25news.com/news/business/graduates-are-booing/A42H2XSTVQ2ZHHVBCKC3X7P32Y/",
+      "title": "KV Sharing, MHC, and Compressed Attention",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.17,
-      "velocity": 6.083,
+      "base_score": 0.3,
+      "velocity": 10.875,
       "velocity_label": "exploding",
-      "combined_score": 2.59
+      "combined_score": 8.16
     },
     {
-      "title": "Nespresso Coffee Capsule Info",
-      "url": "https://docs.google.com/spreadsheets/d/1kZJCdTmqQla2ha3DDYyixQDIUuf9wLvt3122akBkhgM/edit?gid=745674875#gid=745674875",
+      "title": "Era: From Nature publication to catalyzing Computational Discovery",
+      "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.26,
+      "velocity": 10.439,
+      "velocity_label": "exploding",
+      "combined_score": 6.79
+    },
+    {
+      "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
+      "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.51,
+      "velocity": 10.4,
+      "velocity_label": "exploding",
+      "combined_score": 13.26
+    },
+    {
+      "title": "Gemini CLI will stop working from June 18, 2026",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.14,
+      "velocity": 10.347,
+      "velocity_label": "exploding",
+      "combined_score": 29.49
+    },
+    {
+      "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "url": "https://superlog.sh/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.14,
+      "velocity": 10.16,
+      "velocity_label": "exploding",
+      "combined_score": 28.96
+    },
+    {
+      "title": "I’ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 19.41,
+      "velocity": 10.083,
+      "velocity_label": "exploding",
+      "combined_score": 489.29
+    },
+    {
+      "title": "Show HN: Haystack – Review the PRs that need human attention",
+      "url": "https://haystackeditor.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.42,
+      "velocity": 9.79,
+      "velocity_label": "exploding",
+      "combined_score": 10.28
+    },
+    {
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.44,
+      "velocity": 9.767,
+      "velocity_label": "exploding",
+      "combined_score": 59.58
+    },
+    {
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.8,
+      "velocity": 9.463,
+      "velocity_label": "exploding",
+      "combined_score": 89.89
+    },
+    {
+      "title": "Google Cloud has blocked our account, making some Railway services unavailable",
+      "url": "https://twitter.com/i/status/2056883076496789854",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.15,
+      "velocity": 8.906,
+      "velocity_label": "exploding",
+      "combined_score": 3.34
+    },
+    {
+      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
+      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.27,
+      "velocity": 8.817,
+      "velocity_label": "exploding",
+      "combined_score": 72.08
+    },
+    {
+      "title": "Who Wins the Future: Chips vs. Frontier LLMs",
+      "url": "https://medium.com/@vektormemory/who-wins-the-future-chips-vs-frontier-llms-1e8e0ca42641",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 8.431,
+      "velocity_label": "exploding",
+      "combined_score": 0.84
+    },
+    {
+      "title": "Enterprise AI: Mystery Meat, Kill Zones, Cognitive Surrender, Vibe Bombs",
+      "url": "https://kyield.com/insights/newsletter/2026/05/vibe-bombs-cognitive-surrender.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.0,
+      "velocity": 8.356,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 0.21
     },
     {
-      "title": "SaaSpocalypse now? These founders don't think so",
-      "url": "https://betakit.com/saaspocalypse-now-these-founders-dont-think-so/",
+      "title": "Apple Taps Virtual Avatar Firm Animato's Expertise and Intellectual Property",
+      "url": "https://www.macrumors.com/2026/05/19/apple-acquires-animato/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.35,
+      "velocity": 7.587,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 0.19
     },
     {
-      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "title": "Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.38,
-      "velocity": 5.254,
+      "base_score": 0.1,
+      "velocity": 7.492,
       "velocity_label": "exploding",
-      "combined_score": 31.26
+      "combined_score": 1.87
     },
     {
-      "title": "Glacier-free topography reveals potential future lakes in ice-covered terrain",
-      "url": "https://www.nature.com/articles/s41467-026-72548-9",
+      "title": "Why \"Fast AI\" and \"Safe AI\" Were Never in Conflict",
+      "url": "https://www.enkryptai.com/blog/why-fast-ai-and-safe-ai-were-never-actually-in-conflict",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.392,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Hanoi’s humble beer glass and the memory of a nation",
+      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.85,
+      "velocity": 7.312,
+      "velocity_label": "exploding",
+      "combined_score": 33.82
+    },
+    {
+      "title": "Dumb ways for an open source project to die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.02,
+      "velocity": 7.305,
+      "velocity_label": "exploding",
+      "combined_score": 55.16
+    },
+    {
+      "title": "Anthropic hires OpenAI cofounder Andrej Karpathy",
+      "url": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 5.221,
+      "velocity": 7.194,
       "velocity_label": "exploding",
-      "combined_score": 0.39
-    },
-    {
-      "title": "I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert",
-      "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.75,
-      "velocity": 5.156,
-      "velocity_label": "exploding",
-      "combined_score": 48.34
-    },
-    {
-      "title": "Show HN: Yt-x v0.8.0 – Browse, play, and download YouTube from the terminal",
-      "url": "https://github.com/Benexl/yt-x",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.041,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Peter Neumann has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.29,
-      "velocity": 5.017,
-      "velocity_label": "exploding",
-      "combined_score": 41.26
-    },
-    {
-      "title": "PyTorch Landscape",
-      "url": "https://pytorch.landscape2.io",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.25,
-      "velocity": 4.938,
-      "velocity_label": "exploding",
-      "combined_score": 15.43
-    },
-    {
-      "title": "Ensemble-bias-detector – property tests for voting aggregators",
-      "url": "https://github.com/fuentesamurai/ensemble-bias-detector",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.821,
-      "velocity_label": "exploding",
-      "combined_score": 0.36
-    },
-    {
-      "title": "Cursor Introduces Composer 2.5",
-      "url": "https://cursor.com/blog/composer-2-5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.7,
-      "velocity": 4.806,
-      "velocity_label": "exploding",
-      "combined_score": 68.48
+      "combined_score": 0.54
     },
     {
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.01,
-      "velocity": 4.782,
+      "base_score": 8.33,
+      "velocity": 7.06,
       "velocity_label": "exploding",
-      "combined_score": 59.9
+      "combined_score": 147.03
     },
     {
-      "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
-      "url": "https://github.com/vostride/id-agent",
+      "title": "Gemini Omni",
+      "url": "https://deepmind.google/models/gemini-omni/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.02,
-      "velocity": 4.762,
+      "base_score": 4.46,
+      "velocity": 6.917,
       "velocity_label": "exploding",
-      "combined_score": 12.14
+      "combined_score": 77.12
     },
     {
-      "title": "The Mass Matrix and the Mug, Why a Robot Slows Down When It Picks Something Up",
-      "url": "https://atomsfrontier.substack.com/p/the-mass-matrix-and-the-mug-why-a",
+      "title": "Railway Is Down",
+      "url": "https://status.railway.com?resubmit=hn",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.735,
+      "base_score": 0.1,
+      "velocity": 6.667,
       "velocity_label": "exploding",
-      "combined_score": 0.36
+      "combined_score": 1.67
     },
     {
-      "title": "Ask HN: Is there a good code intelligence MCP server yet?",
-      "url": "https://news.ycombinator.com/item?id=48198129",
+      "title": "Microsoft is 1.84 Peters, Google is 0.66. What's the Peter unit?",
+      "url": "https://github.com/zozo123/peter-gt-your-org",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.17,
+      "velocity": 6.632,
+      "velocity_label": "exploding",
+      "combined_score": 2.82
+    },
+    {
+      "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
+      "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.32,
+      "velocity": 6.599,
+      "velocity_label": "exploding",
+      "combined_score": 5.28
+    },
+    {
+      "title": "Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.15,
+      "velocity": 6.3,
+      "velocity_label": "exploding",
+      "combined_score": 49.61
+    },
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.6,
+      "velocity": 6.238,
+      "velocity_label": "exploding",
+      "combined_score": 102.93
+    },
+    {
+      "title": "Alternatives to HN for \"tech outside of AI\" discussion?",
+      "url": "https://news.ycombinator.com/item?id=48202486",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 4.697,
+      "velocity": 6.042,
       "velocity_label": "exploding",
-      "combined_score": 0.23
+      "combined_score": 0.3
     },
     {
-      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "title": "Growing Neural Cellular Automata",
+      "url": "https://distill.pub/2020/growing-ca/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.23,
-      "velocity": 4.668,
+      "base_score": 0.84,
+      "velocity": 5.929,
       "velocity_label": "exploding",
-      "combined_score": 26.02
+      "combined_score": 12.45
     },
     {
-      "title": "MailFlow – self-hosted email client with threading, mobile swipe, and IMAP/OAuth",
-      "url": "https://github.com/maathimself/mailflow",
+      "title": "Architect of the UK Online Safety Act Calls for Its Complete Repeal",
+      "url": "https://prestonbyrne.com/2026/05/19/architect-of-the-uk-online-safety-act-calls-for-its-complete-repeal/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.9,
+      "velocity_label": "exploding",
+      "combined_score": 0.44
+    },
+    {
+      "title": "Lisp in Web-Based Applications (2001)",
+      "url": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 5.891,
+      "velocity_label": "exploding",
+      "combined_score": 7.22
+    },
+    {
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.69,
+      "velocity": 5.758,
+      "velocity_label": "exploding",
+      "combined_score": 38.72
+    },
+    {
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.22,
+      "velocity": 5.757,
+      "velocity_label": "exploding",
+      "combined_score": 103.92
+    },
+    {
+      "title": "Peter Neumann has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.41,
+      "velocity": 5.756,
+      "velocity_label": "exploding",
+      "combined_score": 49.07
+    },
+    {
+      "title": "Generalization Dynamics of LM Pre-Training",
+      "url": "https://jiaxin-wen.github.io/blog/generalization-dynamics",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.641,
+      "velocity": 5.688,
       "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 0.14
     },
     {
-      "title": "Perhaps the Poll Voting plugin should be ready soon",
-      "url": "https://postwits.com",
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.5,
+      "base_score": 12.99,
+      "velocity": 5.65,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 183.48
+    },
+    {
+      "title": "OpenBSD 7.9",
+      "url": "https://www.openbsd.org/79.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.81,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 104.13
+    },
+    {
+      "title": "Polypad",
+      "url": "https://polypad.amplify.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.42,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 32.27
+    },
+    {
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.81,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 104.13
+    },
+    {
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.77,
+      "velocity": 5.27,
+      "velocity_label": "exploding",
+      "combined_score": 141.89
+    },
+    {
+      "title": "Show HN: Yt-x v0.8.0 – Browse, play, and download YouTube from the terminal",
+      "url": "https://github.com/Benexl/yt-x",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.15,
+      "velocity": 5.229,
+      "velocity_label": "exploding",
+      "combined_score": 1.96
+    },
+    {
+      "title": "Copyright Office Rejected My Attempt to Copyright a Tweet",
+      "url": "https://www.techdirt.com/2014/08/04/copyright-office-rejected-my-attempt-to-copyright-tweet/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.2,
+      "velocity_label": "exploding",
+      "combined_score": 0.52
+    },
+    {
+      "title": "Show HN: Gaussian Splat of a Strawberry",
+      "url": "https://superspl.at/scene/84df8849",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.62,
+      "velocity": 5.052,
+      "velocity_label": "exploding",
+      "combined_score": 96.24
+    },
+    {
+      "title": "El Niño is coming. The last time ocean temp. looked like this, millions died",
+      "url": "https://respublicamgz.substack.com/p/a-super-el-nino-is-coming-the-last",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.75,
+      "velocity": 4.973,
+      "velocity_label": "exploding",
+      "combined_score": 9.32
+    },
+    {
+      "title": "An Apple (II) for Teacher",
+      "url": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.77,
+      "velocity": 4.89,
+      "velocity_label": "exploding",
+      "combined_score": 9.41
+    },
+    {
+      "title": "Cyoda-Go: The Enterprise Edbms",
+      "url": "https://github.com/Cyoda-platform/cyoda-go",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.8,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "account",
+        "blocked",
+        "cloud",
+        "google",
+        "railway"
+      ],
+      "concept_hint": "account + blocked + cloud + google",
+      "cluster_size": 5,
+      "discussion_count": 3,
+      "void_score": 22.5,
+      "examples": [
+        {
+          "title": "Railway Blocked by Google Cloud",
+          "source": "hackernews",
+          "matching_keywords": [
+            "blocked",
+            "cloud",
+            "google",
+            "railway"
+          ]
+        },
+        {
+          "title": "Tell HN: Google banned Railway's account. Everything down",
+          "source": "hackernews",
+          "matching_keywords": [
+            "account",
+            "google",
+            "railway"
+          ]
+        },
+        {
+          "title": "Google Cloud has blocked our account, making some Railway services unavailable",
+          "source": "hackernews",
+          "matching_keywords": [
+            "account",
+            "blocked",
+            "cloud",
+            "google",
+            "railway"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
-      "title": "Dumb Ways for an Open Source Project to Die",
+      "title": "Dumb ways for an open source project to die",
       "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 3.02,
       "relevance": 0.111,
       "matching_tags": [
         "open",
         "source"
-      ]
-    },
-    {
-      "title": "WTF happened to Claude Code ext in antigravity?",
-      "url": "https://antigravity.google/docs/ide-getting-started?app=antigravity",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.02,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "Ask HN: Is there a good code intelligence MCP server yet?",
-      "url": "https://news.ycombinator.com/item?id=48198129",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.02,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "The tool that made our AI agent better at using its tools",
-      "url": "https://www.kapa.ai/blog/the-tool-that-made-our-ai-agent-better-at-using-its-tools",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
-      ]
-    },
-    {
-      "title": "Show HN: I made a 2D Lua game engine using Rust with code and asset live reload",
-      "url": "https://usagiengine.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
       ]
     }
   ]
