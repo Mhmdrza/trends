@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-26T02:50:02.102781+00:00",
-  "scrape_timestamp": "2026-05-26T02:48:38.606330+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-05-26T09:47:48.175878+00:00",
+  "scrape_timestamp": "2026-05-26T09:46:17.631196+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -27,318 +27,438 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Ferrari Luce",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "title": "TP-7 Field Recorder",
+      "url": "https://teenage.engineering/products/tp-7",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.98,
+      "base_score": 0.23,
+      "velocity": 27.5,
+      "velocity_label": "exploding",
+      "combined_score": 15.81
+    },
+    {
+      "title": "Squares in Squares",
+      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.89,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 179.1
+      "combined_score": 40.05
     },
     {
-      "title": "Exit IP VPN servers mitigation rollout",
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "title": "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
+      "url": "https://github.com/ghetea-patrick/riscrithm",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.48,
-      "velocity": 13.883,
+      "base_score": 0.38,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 120.79
-    },
-    {
-      "title": "Jensen–Shannon Divergence",
-      "url": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.95,
-      "velocity": 13.778,
-      "velocity_label": "exploding",
-      "combined_score": 32.72
-    },
-    {
-      "title": "CPPL: A Circuit Prompt Programming Language",
-      "url": "https://arxiv.org/abs/2605.17892",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.46,
-      "velocity": 11.772,
-      "velocity_label": "exploding",
-      "combined_score": 13.54
-    },
-    {
-      "title": "Show HN: Write your BPF programs in Go, not C",
-      "url": "https://github.com/boratanrikulu/gobee",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.07,
-      "velocity": 10.58,
-      "velocity_label": "exploding",
-      "combined_score": 28.3
-    },
-    {
-      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
-      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.01,
-      "velocity": 10.364,
-      "velocity_label": "exploding",
-      "combined_score": 155.72
-    },
-    {
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.34,
-      "velocity": 9.462,
-      "velocity_label": "exploding",
-      "combined_score": 268.25
-    },
-    {
-      "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
-      "url": "https://www.trychert.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.23,
-      "velocity": 9.225,
-      "velocity_label": "exploding",
-      "combined_score": 74.5
-    },
-    {
-      "title": "Models Have Blind Spots: Debugging Unfamiliar Code with a Multi-LLM Loop",
-      "url": "https://sosuke.com/models-have-blind-spots-debugging-unfamiliar-code-with-a-multi-llm-loop/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.139,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "Garden Grove chemical tank cools, risk of catastrophic explosion eliminated",
-      "url": "https://ktla.com/news/orange-county/garden-grove-chemical-tank-crack-explosion-risk/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 8.778,
-      "velocity_label": "exploding",
-      "combined_score": 2.63
-    },
-    {
-      "title": "AI errno(2) values",
-      "url": "https://www.netmeister.org/blog/ai-errno.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.46,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 31.02
+      "combined_score": 17.1
     },
     {
       "title": "Mathematical Patterns in African American HAIRSTYLEs",
       "url": "https://math.buffalo.edu/mad/special/gilmer-gloria_HAIRSTYLES.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 8.4,
+      "base_score": 0.34,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 15.3
+    },
+    {
+      "title": "Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms",
+      "url": "https://www.nature.com/articles/s41592-026-03066-1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 16.813,
       "velocity_label": "exploding",
       "combined_score": 1.26
     },
     {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "title": "The Skeuomorphism Nobody Talks About [video]",
+      "url": "https://www.youtube.com/watch?v=3Q-G9x315-g",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.71,
-      "velocity": 8.161,
+      "base_score": 0.47,
+      "velocity": 15.077,
       "velocity_label": "exploding",
-      "combined_score": 75.69
+      "combined_score": 17.72
     },
     {
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "The Lottery – Shirley Jackson (1948)",
+      "url": "https://www.newyorker.com/magazine/1948/06/26/the-lottery",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.77,
-      "velocity": 8.158,
+      "base_score": 0.66,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 56.5
+      "combined_score": 24.48
     },
     {
-      "title": "How Shamir's Secret Sharing Works",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.69,
-      "velocity": 8.063,
-      "velocity_label": "exploding",
-      "combined_score": 13.91
-    },
-    {
-      "title": "Ente's Legacy Kit Feature",
-      "url": "https://ente.com/blog/legacy-kit/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.063,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "LLM proactively bypassed pnpm's anti-supply-chain-attack config",
-      "url": "https://twitter.com/encrypted/status/2058658244328124562",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.009,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "Yoti age checks share facial photos and device fingerprints with third parties",
-      "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.66,
-      "velocity": 7.927,
-      "velocity_label": "exploding",
-      "combined_score": 32.9
-    },
-    {
-      "title": "This big university system is embracing AI. Students and faculty aren't on board",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.865,
-      "velocity_label": "exploding",
-      "combined_score": 0.59
-    },
-    {
-      "title": "Stop paying twice Looking for testers for self hosted+Android app cloud drive",
-      "url": "https://play.google.com/apps/testing/com.freecloud.android",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.678,
-      "velocity_label": "exploding",
-      "combined_score": 0.38
-    },
-    {
-      "title": "She Can Mentally Time Travel. Why Did Everyone Think She Was Lying?",
-      "url": "https://www.popularmechanics.com/science/a70866475/teenager-hyperthymesia-memory-condition/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.11,
-      "velocity": 7.477,
-      "velocity_label": "exploding",
-      "combined_score": 2.06
-    },
-    {
-      "title": "What we lost when we stopped letting kids leave the front yard",
-      "url": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.77,
-      "velocity": 7.396,
-      "velocity_label": "exploding",
-      "combined_score": 32.73
-    },
-    {
-      "title": "Does Anybody Actually Like React?",
+      "title": "Does anybody like React?",
       "url": "https://jsx.lol",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.49,
-      "velocity": 7.333,
+      "base_score": 5.42,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 27.32
+      "combined_score": 179.54
     },
     {
-      "title": "AI SEO: compare with your competitor",
-      "url": "https://usefox.co/competitor-analyzer",
+      "title": "A Comma and a Question Mark",
+      "url": "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.333,
+      "base_score": 0.32,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 0.37
-    },
-    {
-      "title": "Gnutella: A Protocol Outliving the World That Created It",
-      "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.21,
-      "velocity": 7.075,
-      "velocity_label": "exploding",
-      "combined_score": 56.78
-    },
-    {
-      "title": "State of the Fin 2026-05-24",
-      "url": "https://jellyfin.org/posts/state-of-the-fin-2026-05-24/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.756,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "The physicists who convinced Fermilab to send Brazil's emails",
-      "url": "https://buttondown.com/blog/brazil-fermilab-email",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.76,
-      "velocity": 6.741,
-      "velocity_label": "exploding",
-      "combined_score": 12.81
-    },
-    {
-      "title": "C extensions, portability, and alternative compilers",
-      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.13,
-      "velocity": 6.69,
-      "velocity_label": "exploding",
-      "combined_score": 35.63
-    },
-    {
-      "title": "Taiwan Overtakes India as Fifth-Largest Stock Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/tsmc-s-relentless-rise-powers-taiwan-s-market-value-above-india",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.619,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
+      "combined_score": 10.6
     },
     {
       "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
       "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.22,
-      "velocity": 6.414,
+      "base_score": 3.27,
+      "velocity": 12.818,
       "velocity_label": "exploding",
-      "combined_score": 35.6
+      "combined_score": 104.79
     },
     {
-      "title": "Matchmaker: A Powerful and Modern Searcher",
-      "url": "https://github.com/Squirreljetpack/matchmaker",
+      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.4,
+      "velocity": 12.666,
+      "velocity_label": "exploding",
+      "combined_score": 107.66
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.04,
+      "velocity": 12.061,
+      "velocity_label": "exploding",
+      "combined_score": 91.66
+    },
+    {
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.25,
+      "velocity": 11.767,
+      "velocity_label": "exploding",
+      "combined_score": 154.44
+    },
+    {
+      "title": "What it takes to transpose a matrix",
+      "url": "https://gudok.xyz/transpose/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.62,
+      "velocity": 11.667,
+      "velocity_label": "exploding",
+      "combined_score": 18.08
+    },
+    {
+      "title": "Yoti age checks share facial photos and device fingerprints with third parties",
+      "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.06,
+      "velocity": 11.16,
+      "velocity_label": "exploding",
+      "combined_score": 57.47
+    },
+    {
+      "title": "Market Makers Print Money",
+      "url": "https://zozo123.github.io/market-making-sandbox/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.743,
+      "velocity_label": "exploding",
+      "combined_score": 0.27
+    },
+    {
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.41,
+      "velocity": 9.45,
+      "velocity_label": "exploding",
+      "combined_score": 104.19
+    },
+    {
+      "title": "How Shamir's Secret Sharing Works",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.49,
+      "velocity": 9.45,
+      "velocity_label": "exploding",
+      "combined_score": 58.83
+    },
+    {
+      "title": "Trump admin shutting key US researchers out of global virus response talks",
+      "url": "https://www.cnn.com/2026/05/25/politics/global-virus-response-trump-administration",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 6.042,
+      "velocity": 9.285,
       "velocity_label": "exploding",
-      "combined_score": 0.45
+      "combined_score": 0.7
     },
     {
-      "title": "Cited AI Workspace: No More Re-Uploading Files",
-      "url": "https://uumuse.ai/en",
+      "title": "K-Pop Group BTS Wins Artist of the Year at the American Music Awards",
+      "url": "https://liveclip.substack.com/p/bts-wins-artist-of-the-year-bruno-mars-billboard",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.615,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "Ferrari Luce",
+      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.71,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 206.34
+    },
+    {
+      "title": "24/7 Renewables Outcompete Fossil Fuels on Costs",
+      "url": "https://www.irena.org/News/pressreleases/2026/May/24-7-Renewables-Outcompete-Fossil-Fuels-on-Firm-Costs",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.275,
+      "velocity_label": "exploding",
+      "combined_score": 0.41
+    },
+    {
+      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+      "url": "https://github.com/tantara/openbrief",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.76,
+      "velocity": 8.103,
+      "velocity_label": "exploding",
+      "combined_score": 15.4
+    },
+    {
+      "title": "Show HN: Write your BPF programs in Go, not C",
+      "url": "https://github.com/boratanrikulu/gobee",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 8.038,
+      "velocity_label": "exploding",
+      "combined_score": 29.14
+    },
+    {
+      "title": "Designing for and against the manufactured normalcy field (2012)",
+      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.28,
+      "velocity": 8.037,
+      "velocity_label": "exploding",
+      "combined_score": 5.63
+    },
+    {
+      "title": "Enhanced Games: Think Olympics with No Rigid Doping Rules",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.976,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Flatpak Will Depend on Systemd",
+      "url": "https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Physical Lens on the Cell",
+      "url": "https://physicallensonthecell.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "I made a new home for your New Tabs",
+      "url": "https://chromewebstore.google.com/detail/blank-â-new-tab/obbnmkphkmkeglaholjgnhedaoppdljf",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.125,
+      "velocity_label": "exploding",
+      "combined_score": 0.53
+    },
+    {
+      "title": "Jensen–Shannon Divergence",
+      "url": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 23.86
+    },
+    {
+      "title": "Spent an afternoon on a perf issue that 56 bytes of padding fixed",
+      "url": "https://cong-or.xyz/false-sharing-cache-lines",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.821,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "url": "https://dynip.dev/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.36,
+      "velocity": 6.813,
+      "velocity_label": "exploding",
+      "combined_score": 23.16
+    },
+    {
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "url": "https://support.apple.com/en-us/127115",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.56,
+      "velocity": 6.584,
+      "velocity_label": "exploding",
+      "combined_score": 42.14
+    },
+    {
+      "title": "Will MySpace ever lose its monopoly? (2007)",
+      "url": "https://www.theguardian.com/technology/2007/feb/08/business.comment",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.22,
+      "velocity": 6.5,
+      "velocity_label": "exploding",
+      "combined_score": 3.58
+    },
+    {
+      "title": "Hacker News front page as a site",
+      "url": "https://thefrontpage.dev/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.64,
+      "velocity": 6.464,
+      "velocity_label": "exploding",
+      "combined_score": 58.83
+    },
+    {
+      "title": "Show HN: Fungible – A local personal finance app in the terminal",
+      "url": "https://github.com/tomfunk/fungible",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 6.374,
+      "velocity_label": "exploding",
+      "combined_score": 3.67
+    },
+    {
+      "title": "Exit IP VPN servers mitigation rollout",
+      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.58,
+      "velocity": 6.329,
+      "velocity_label": "exploding",
+      "combined_score": 72.46
+    },
+    {
+      "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
+      "url": "https://github.com/andreoliwa/logseq-doctor",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 6.308,
+      "velocity_label": "exploding",
+      "combined_score": 1.42
+    },
+    {
+      "title": "What we lost when we stopped letting kids leave the front yard",
+      "url": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.21,
+      "velocity": 6.252,
+      "velocity_label": "exploding",
+      "combined_score": 81.43
+    },
+    {
+      "title": "Nobody cracks open a programming book anymore",
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.41,
+      "velocity": 6.207,
+      "velocity_label": "exploding",
+      "combined_score": 83.95
+    },
+    {
+      "title": "Show HN: A small game where you have to guess the stars of GitHub repositories",
+      "url": "https://starguessr.vincentwill.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.159,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Chinese Room re-visited: How LLM's have real but different understanding of word",
+      "url": "https://www.lesswrong.com/posts/PpCHgKsg2xDdPDQhu/the-chinese-room-re-visited-how-llm-s-have-real-but",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.144,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "Show HN: OpenFeed – private dev news in your new tab, with LinkedIn and X feeds",
+      "url": "https://github.com/kwanUm/open-feed",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.057,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Proposals for cyber-propaganda de-escalation",
+      "url": "https://www.tandfonline.com/eprint/3VSGIKQQFNMBQXMCS7BR",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -347,184 +467,64 @@
       "combined_score": 0.15
     },
     {
-      "title": "Nobody cracks open a programming book anymore",
-      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "title": "CPPL: A Circuit Prompt Programming Language",
+      "url": "https://arxiv.org/abs/2605.17892",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.95,
-      "velocity": 5.569,
+      "base_score": 0.51,
+      "velocity": 6.03,
       "velocity_label": "exploding",
-      "combined_score": 41.07
+      "combined_score": 7.69
     },
     {
-      "title": "Magnifica Humanitas",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "title": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 25.08,
-      "velocity": 5.333,
+      "base_score": 10.05,
+      "velocity": 5.969,
       "velocity_label": "exploding",
-      "combined_score": 334.4
+      "combined_score": 149.96
     },
     {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.36,
-      "velocity": 5.231,
-      "velocity_label": "exploding",
-      "combined_score": 17.79
-    },
-    {
-      "title": "Trendshift – trending OSS ranked by momentum, not star count",
-      "url": "https://trendshift.io",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.214,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "LibreOffice Tips and Tricks: Replacing Microsoft Fonts (2020)",
-      "url": "https://blog.documentfoundation.org/blog/2020/09/08/libreoffice-tt-replacing-microsoft-fonts/",
+      "title": "Dangerously-skip-permissions is the only safe mode",
+      "url": "https://www.granola.ai/blog/dangerously-skip-permissions-is-the-only-safe-mode",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.141,
+      "velocity": 5.933,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 0.15
     },
     {
-      "title": "Computer Systems Design and Related Services Employment Statistics",
-      "url": "https://fred.stlouisfed.org/series/ces6054150001",
+      "title": "Micropatching Brings the Abandoned Equation Editor Back to Life (2018)",
+      "url": "https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.105,
+      "base_score": 0.35,
+      "velocity": 5.812,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 5.09
     },
     {
-      "title": "The Social Contract of Writing",
-      "url": "https://jola.dev/posts/the-social-contract-of-writing",
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.854,
+      "base_score": 14.51,
+      "velocity": 5.572,
       "velocity_label": "exploding",
-      "combined_score": 0.24
+      "combined_score": 202.13
     },
     {
-      "title": "Stack Overflow Sold to Tech Giant Prosus for $1.8B (2021)",
-      "url": "https://www.wsj.com/business/deals/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400",
+      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.23,
-      "velocity": 4.853,
+      "base_score": 6.75,
+      "velocity": 5.504,
       "velocity_label": "exploding",
-      "combined_score": 2.79
-    },
-    {
-      "title": "He Lost It at the Movies",
-      "url": "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 4.806,
-      "velocity_label": "exploding",
-      "combined_score": 10.09
-    },
-    {
-      "title": "GitHub commit Verification logic flaw and bypass",
-      "url": "https://news.ycombinator.com/item?id=48274410",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.798,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Cox Media fined after bragging it spied on users through their phones",
-      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.16,
-      "velocity": 4.762,
-      "velocity_label": "exploding",
-      "combined_score": 1.9
-    },
-    {
-      "title": "The analog computer museum's online library",
-      "url": "https://www.analogmuseum.org/english/library.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.27,
-      "velocity": 4.552,
-      "velocity_label": "exploding",
-      "combined_score": 3.07
-    },
-    {
-      "title": "Reticulum: Source-privacy claim vs. routing metadata",
-      "url": "https://codeberg.org/MarSik/reticulum-audit/src/branch/main/reticulum-source-privacy-flaw.md",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 4.415,
-      "velocity_label": "exploding",
-      "combined_score": 0.77
-    },
-    {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.86,
-      "velocity": 4.071,
-      "velocity_label": "exploding",
-      "combined_score": 29.11
-    },
-    {
-      "title": "Pinned – daily geography pin-drop game (pinned.engineering)",
-      "url": "https://www.pinned.engineering/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.909,
-      "velocity_label": "exploding",
-      "combined_score": 0.1
-    },
-    {
-      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.45,
-      "velocity": 3.655,
-      "velocity_label": "exploding",
-      "combined_score": 49.8
-    },
-    {
-      "title": "Hacker News front page as a site",
-      "url": "https://thefrontpage.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.08,
-      "velocity": 3.653,
-      "velocity_label": "exploding",
-      "combined_score": 19.0
-    },
-    {
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.54,
-      "velocity": 3.637,
-      "velocity_label": "exploding",
-      "combined_score": 23.1
+      "combined_score": 92.89
     }
   ],
   "niche_opportunities": [],
@@ -532,38 +532,15 @@
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 6.86,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
       "title": "Maia-3: free and open source",
       "url": "https://lichess.org/@/ashtonanderson/blog/introducing-maia-3-free-and-open-source/vCPPRtX3",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.14,
+      "score": 0.34,
       "relevance": 0.111,
       "matching_tags": [
         "open",
         "source"
-      ]
-    },
-    {
-      "title": "Nobody cracks open a programming book anymore",
-      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 2.95,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
       ]
     },
     {
@@ -571,43 +548,32 @@
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.77,
+      "score": 10.05,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Reticulum: Source-privacy claim vs. routing metadata",
-      "url": "https://codeberg.org/MarSik/reticulum-audit/src/branch/main/reticulum-source-privacy-flaw.md",
+      "title": "Nobody cracks open a programming book anymore",
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.07,
+      "score": 5.41,
       "relevance": 0.056,
       "matching_tags": [
-        "source"
+        "open"
       ]
     },
     {
-      "title": "Crypto code commits fall 75% as developers move to AI projects",
-      "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
+      "title": "Dehydration's role in learning and memory",
+      "url": "https://www.cshl.edu/dehydrations-role-in-learning-and-memory/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.03,
+      "score": 1.1,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "Models Have Blind Spots: Debugging Unfamiliar Code with a Multi-LLM Loop",
-      "url": "https://sosuke.com/models-have-blind-spots-debugging-unfamiliar-code-with-a-multi-llm-loop/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
+        "learning"
       ]
     }
   ]
