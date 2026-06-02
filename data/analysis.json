@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-01T21:30:00.267972+00:00",
-  "scrape_timestamp": "2026-06-01T21:28:33.464157+00:00",
-  "total_items_analyzed": 89,
+  "timestamp": "2026-06-02T03:37:52.946605+00:00",
+  "scrape_timestamp": "2026-06-02T03:35:50.688147+00:00",
+  "total_items_analyzed": 87,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 89,
+      "count": 87,
       "status": "ok"
     },
     "twitter": {
@@ -27,576 +27,520 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Macron announces 93B euros in 'Choose France' investments",
-      "url": "https://www.euractiv.com/news/macron-announces-93-bn-euros-in-choose-france-investments/",
+      "title": "Remember This",
+      "url": "https://theamericanscholar.org/you-must-remember-this/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.38,
-      "velocity": 18.905,
-      "velocity_label": "exploding",
-      "combined_score": 17.96
-    },
-    {
-      "title": "Sysadmining Like It's 2009",
-      "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.23,
+      "base_score": 0.04,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 55.35
+      "combined_score": 1.8
     },
     {
-      "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
-      "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.92,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 41.4
-    },
-    {
-      "title": "The Infosec Phrasebook",
-      "url": "https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.39,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 17.55
-    },
-    {
-      "title": "Google Seeks to Raise $80B for AI Infrastructure",
-      "url": "https://www.wsj.com/tech/ai/google-seeks-to-raise-80-billion-for-ai-infrastructure-05a379be",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 16.743,
-      "velocity_label": "exploding",
-      "combined_score": 0.42
-    },
-    {
-      "title": "Alphabet to Raise $80B in Equity Capital for Al Spending",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 16.611,
-      "velocity_label": "exploding",
-      "combined_score": 1.25
-    },
-    {
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.23,
-      "velocity": 16.219,
-      "velocity_label": "exploding",
-      "combined_score": 130.97
-    },
-    {
-      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
-      "url": "https://news.ycombinator.com/item?id=48356312",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 14.23,
-      "velocity_label": "exploding",
-      "combined_score": 28.82
-    },
-    {
-      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.79,
-      "velocity": 13.852,
-      "velocity_label": "exploding",
-      "combined_score": 27.36
-    },
-    {
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.4,
-      "velocity": 13.417,
-      "velocity_label": "exploding",
-      "combined_score": 248.21
-    },
-    {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.84,
-      "velocity": 12.617,
-      "velocity_label": "exploding",
-      "combined_score": 247.29
-    },
-    {
-      "title": "Nvidia Cosmos 3",
-      "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.78,
-      "velocity": 12.3,
-      "velocity_label": "exploding",
-      "combined_score": 54.74
-    },
-    {
-      "title": "What \"Memory Compiler\" Means: From Bitcells to GDS Tiling",
-      "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.853,
-      "velocity_label": "exploding",
-      "combined_score": 0.89
-    },
-    {
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.35,
-      "velocity": 11.822,
-      "velocity_label": "exploding",
-      "combined_score": 69.46
-    },
-    {
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 3.5
-    },
-    {
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 13.0,
-      "velocity": 11.508,
-      "velocity_label": "exploding",
-      "combined_score": 374.02
-    },
-    {
-      "title": "Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices",
-      "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.51,
-      "velocity": 11.348,
-      "velocity_label": "exploding",
-      "combined_score": 14.47
-    },
-    {
-      "title": "Build a Basic AI Agent from Scratch: Tools",
-      "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 10.738,
-      "velocity_label": "exploding",
-      "combined_score": 2.42
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (June 2026)",
-      "url": "https://news.ycombinator.com/item?id=48357724",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.79,
-      "velocity": 10.115,
-      "velocity_label": "exploding",
-      "combined_score": 95.84
-    },
-    {
-      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.21,
-      "velocity": 9.687,
-      "velocity_label": "exploding",
-      "combined_score": 101.95
-    },
-    {
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.62,
-      "velocity": 9.153,
-      "velocity_label": "exploding",
-      "combined_score": 288.79
-    },
-    {
-      "title": "Windows GOG DOS Games on M-Series Macs",
-      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.16,
-      "velocity": 8.63,
-      "velocity_label": "exploding",
-      "combined_score": 46.6
-    },
-    {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.66,
-      "velocity": 8.557,
-      "velocity_label": "exploding",
-      "combined_score": 78.29
-    },
-    {
-      "title": "The Genius of the Barn Owl's Feathers",
-      "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.15,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 24.44
-    },
-    {
-      "title": "Bringing Goodnotes to the Web with Swift and WebAssembly",
-      "url": "https://www.swift.org/blog/bringing-goodnotes-to-web-with-swift/",
+      "title": "Jan – Personal Intelligence that answers only to you",
+      "url": "https://www.jan.ai/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 8.495,
+      "velocity": 16.375,
       "velocity_label": "exploding",
-      "combined_score": 0.42
-    },
-    {
-      "title": "Qwen3.7-Plus: Multimodal Agent Intelligence",
-      "url": "https://qwen.ai/blog?id=qwen3.7-plus",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.43,
-      "velocity": 8.479,
-      "velocity_label": "exploding",
-      "combined_score": 9.11
+      "combined_score": 0.82
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
       "url": "https://30fps.net/pages/255-vs-256-division/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.85,
-      "velocity": 8.4,
+      "base_score": 3.38,
+      "velocity": 14.2,
       "velocity_label": "exploding",
-      "combined_score": 38.85
+      "combined_score": 119.99
     },
     {
-      "title": "Superintelligence: The Idea That Eats Smart People (2016)",
-      "url": "https://idlewords.com/talks/superintelligence.htm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.27,
-      "velocity": 8.103,
-      "velocity_label": "exploding",
-      "combined_score": 45.98
-    },
-    {
-      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.63,
-      "velocity": 8.091,
-      "velocity_label": "exploding",
-      "combined_score": 93.65
-    },
-    {
-      "title": "Going multi-cloud with an in-housed status page",
-      "url": "https://blog.railway.com/p/multi-cloud-status-page",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.944,
-      "velocity_label": "exploding",
-      "combined_score": 0.79
-    },
-    {
-      "title": "Is Python Becoming Pinyin?",
-      "url": "https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.54,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 30.29
-    },
-    {
-      "title": "Handmade Hawaiian Islands Map",
-      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.53,
-      "velocity": 7.708,
-      "velocity_label": "exploding",
-      "combined_score": 10.21
-    },
-    {
-      "title": "A 10 year old Xeon is all you need",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.29,
-      "velocity": 7.656,
-      "velocity_label": "exploding",
-      "combined_score": 196.94
-    },
-    {
-      "title": "I missed Network integrated tools on Windows so I built a Linux equivalent",
-      "url": "https://github.com/thongor77/nmlinux",
+      "title": "Putin could pay a personal price for failure in Ukraine",
+      "url": "https://www.ft.com/content/7b986a53-3f7b-40fc-99ef-953905963ce3",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.06,
-      "velocity": 7.449,
+      "velocity": 12.667,
       "velocity_label": "exploding",
-      "combined_score": 1.12
+      "combined_score": 1.9
     },
     {
       "title": "What appear to be biochemical processes may be a natural feature of geology",
       "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.12,
-      "velocity": 7.361,
+      "base_score": 3.02,
+      "velocity": 11.772,
       "velocity_label": "exploding",
-      "combined_score": 39.01
+      "combined_score": 88.88
     },
     {
-      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+      "title": "Debug Project",
+      "url": "https://debug.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.76,
-      "velocity": 7.181,
+      "base_score": 2.74,
+      "velocity": 10.4,
       "velocity_label": "exploding",
-      "combined_score": 139.3
+      "combined_score": 71.24
     },
     {
-      "title": "Linux Basics for Hackers (2019)",
-      "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.34,
-      "velocity": 7.115,
+      "base_score": 3.15,
+      "velocity": 9.907,
       "velocity_label": "exploding",
-      "combined_score": 23.83
+      "combined_score": 78.02
+    },
+    {
+      "title": "Superintelligence: The Idea That Eats Smart People (2016)",
+      "url": "https://idlewords.com/talks/superintelligence.htm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.65,
+      "velocity": 9.753,
+      "velocity_label": "exploding",
+      "combined_score": 89.0
+    },
+    {
+      "title": "Show HN: Textile – A desktop app for weaving together bits of text",
+      "url": "https://www.gettextile.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 9.246,
+      "velocity_label": "exploding",
+      "combined_score": 10.86
+    },
+    {
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.33,
+      "velocity": 9.239,
+      "velocity_label": "exploding",
+      "combined_score": 100.01
+    },
+    {
+      "title": "CVE-2026-31525: Linux Kernel Privilege Escalation Flaw",
+      "url": "https://www.sentinelone.com/vulnerability-database/cve-2026-31525/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.052,
+      "velocity_label": "exploding",
+      "combined_score": 0.45
+    },
+    {
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.05,
+      "velocity": 8.785,
+      "velocity_label": "exploding",
+      "combined_score": 23.06
+    },
+    {
+      "title": "The true reason C++ always wins [video]",
+      "url": "https://www.youtube.com/watch?v=I7fEsbksKRE",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.65,
+      "velocity_label": "exploding",
+      "combined_score": 0.43
+    },
+    {
+      "title": "Sysadmining Like It's 2009",
+      "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.46,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 31.02
+    },
+    {
+      "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+      "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.01,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 21.46
+    },
+    {
+      "title": "I Got $4.84 from a Class Action and They Didn't Want Me to Have It",
+      "url": "https://labnotes.org/i-got-4-84-from-a-class-action-settlement-and-they-really-really-didnt-want-me-to-have-it/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 8.458,
+      "velocity_label": "exploding",
+      "combined_score": 1.48
     },
     {
       "title": "GitHub and the crime against software",
       "url": "https://eblog.fly.dev/githubbad.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.1,
-      "velocity": 6.875,
+      "base_score": 3.5,
+      "velocity": 7.878,
       "velocity_label": "exploding",
-      "combined_score": 36.09
+      "combined_score": 68.93
     },
     {
-      "title": "Using Git's rerere feature to escape recurring conflict hell",
-      "url": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
+      "title": "Constant Q Transform – A Visual Guide",
+      "url": "https://brendanjameslynskey.github.io/ConstantQ-Transform/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.45,
-      "velocity": 6.839,
+      "base_score": 0.12,
+      "velocity": 7.625,
       "velocity_label": "exploding",
-      "combined_score": 24.79
+      "combined_score": 2.29
     },
     {
-      "title": "The Pope isn't AGI-pilled",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "title": "Bacteria Solved the Mystery of Inheritance",
+      "url": "https://worksinprogress.co/issue/how-bacteria-solved-the-mystery-of-inheritance/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 19.39,
+      "velocity": 7.565,
+      "velocity_label": "exploding",
+      "combined_score": 366.72
+    },
+    {
+      "title": "U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box",
+      "url": "https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.4,
+      "velocity": 7.529,
+      "velocity_label": "exploding",
+      "combined_score": 7.53
+    },
+    {
+      "title": "Texas adds another solar farm as ERCOT grid demand soars",
+      "url": "https://electrek.co/2026/06/01/texas-adds-another-huge-solar-farm-ercot-grid-demand-soars/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 7.359,
+      "velocity_label": "exploding",
+      "combined_score": 0.92
+    },
+    {
+      "title": "Announcing Zstandard in Rust",
+      "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.41,
+      "velocity": 7.218,
+      "velocity_label": "exploding",
+      "combined_score": 7.4
+    },
+    {
+      "title": "Show HN: Linux Journey for iOS",
+      "url": "https://apps.apple.com/us/app/linux-journey/id6770861660",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 6.833,
+      "velocity": 7.15,
       "velocity_label": "exploding",
-      "combined_score": 0.51
+      "combined_score": 0.54
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.35,
+      "velocity": 7.003,
+      "velocity_label": "exploding",
+      "combined_score": 181.2
+    },
+    {
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.22,
+      "velocity": 6.99,
+      "velocity_label": "exploding",
+      "combined_score": 126.17
+    },
+    {
+      "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+      "url": "https://news.ycombinator.com/item?id=48356312",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.06,
+      "velocity": 6.962,
+      "velocity_label": "exploding",
+      "combined_score": 18.45
     },
     {
       "title": "GrapheneOS Speech Services version 2 released",
       "url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.46,
-      "velocity": 6.609,
+      "base_score": 1.28,
+      "velocity": 6.89,
       "velocity_label": "exploding",
-      "combined_score": 7.6
+      "combined_score": 22.05
     },
     {
-      "title": "Updates to GitHub Copilot billing and plans",
-      "url": "https://github.blog/changelog/2026-06-01-updates-to-github-copilot-billing-and-plans/",
+      "title": "Squillions: How Money Laundering Won",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.41,
+      "velocity": 6.833,
+      "velocity_label": "exploding",
+      "combined_score": 7.0
+    },
+    {
+      "title": "WordPress continues to be the best tool for new websites",
+      "url": "https://alprado.com/blog/wordpress-continues-to-be-the-perfect-tool-for-new-websites/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 6.567,
+      "velocity": 6.693,
       "velocity_label": "exploding",
       "combined_score": 0.33
     },
     {
-      "title": "Show HN: A CSS 3D Engine (no WebGL)",
-      "url": "https://github.com/LayoutitStudio/polycss",
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.81,
-      "velocity": 6.476,
+      "base_score": 9.04,
+      "velocity": 6.547,
       "velocity_label": "exploding",
-      "combined_score": 13.11
+      "combined_score": 147.97
     },
     {
-      "title": "Remote work, not AI, has sidelined recent college graduates, research finds",
-      "url": "https://text.npr.org/nx-s1-5843076",
+      "title": "Ask HN: Who wants to be hired? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48357724",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.25,
+      "velocity": 6.505,
+      "velocity_label": "exploding",
+      "combined_score": 85.38
+    },
+    {
+      "title": "Lid-lifting Kiwi author forced to sit in silence at writers' festival",
+      "url": "https://www.rnz.co.nz/life/books/lid-lifting-kiwi-author-forced-to-sit-in-silence-at-writers-festival",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.34,
+      "velocity": 6.472,
+      "velocity_label": "exploding",
+      "combined_score": 5.5
+    },
+    {
+      "title": "macOS needs its grid back",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.42,
+      "velocity": 5.984,
+      "velocity_label": "exploding",
+      "combined_score": 21.24
+    },
+    {
+      "title": "Angry devs vow to flee GitHub Copilot as metered billing takes hold",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.1,
-      "velocity": 6.242,
+      "velocity": 5.914,
       "velocity_label": "exploding",
-      "combined_score": 1.56
+      "combined_score": 1.48
     },
     {
-      "title": "Remote work – not AI – has sidelined recent college graduates, research finds",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.66,
+      "velocity": 5.67,
+      "velocity_label": "exploding",
+      "combined_score": 80.23
+    },
+    {
+      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
+      "url": "https://matse.illinois.edu/news/85775",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.38,
+      "velocity": 5.625,
+      "velocity_label": "exploding",
+      "combined_score": 5.34
+    },
+    {
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 13.6,
+      "velocity": 5.492,
+      "velocity_label": "exploding",
+      "combined_score": 186.72
+    },
+    {
+      "title": "A Virtual Processor Brings Back the Free Lunch",
+      "url": "https://arxiv.org/abs/2605.30507",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.242,
+      "velocity": 5.257,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.13
     },
     {
-      "title": "University System Went All in on A.I. Now It's Tearing Itself Apart",
-      "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+      "title": "Anyone seen a CC- serial prefix on legacy networking hardware?",
+      "url": "https://news.ycombinator.com/item?id=48342117",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.227,
+      "base_score": 0.36,
+      "velocity": 5.126,
       "velocity_label": "exploding",
-      "combined_score": 0.47
+      "combined_score": 4.61
     },
     {
-      "title": "I made my phone slow on purpose",
-      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+      "title": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
+      "url": "https://www.bbc.com/news/articles/cy5222wn410o",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.02,
-      "velocity": 6.204,
+      "base_score": 0.12,
+      "velocity": 5.046,
       "velocity_label": "exploding",
-      "combined_score": 46.84
+      "combined_score": 1.51
     },
     {
-      "title": "Complicated truth about European economic stagnation and living standards",
-      "url": "https://drthad.substack.com/p/complicated-truth-about-european",
+      "title": "Handmade Hawaiian Islands Map",
+      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.87,
+      "velocity": 4.938,
+      "velocity_label": "exploding",
+      "combined_score": 10.74
+    },
+    {
+      "title": "Election interlopers register 5K+ domains, hope to catch some voting phish",
+      "url": "https://www.theregister.com/security/2026/06/01/5k-election-domains-registered-ahead-of-us-midterms/5249764",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 4.798,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.46,
+      "velocity": 4.74,
+      "velocity_label": "exploding",
+      "combined_score": 52.85
+    },
+    {
+      "title": "A dire warning from Oracle co-founder Larry Ellison",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.054,
+      "velocity": 4.667,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 0.12
     },
     {
-      "title": "The Filamentary Funnels That Form Stars",
-      "url": "https://www.universetoday.com/articles/the-filamentary-funnels-that-form-stars",
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.65,
+      "velocity": 4.331,
+      "velocity_label": "exploding",
+      "combined_score": 28.69
+    },
+    {
+      "title": "SpaceX Vow to Loft 1M AI Satellites Could Spark Doomsday Dive",
+      "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 6.0,
+      "velocity": 4.324,
       "velocity_label": "exploding",
-      "combined_score": 0.3
+      "combined_score": 0.22
     },
     {
-      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "url": "https://blainsmith.com/articles/httptrace-with-go/",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.76,
-      "velocity": 5.903,
+      "base_score": 5.28,
+      "velocity": 4.299,
       "velocity_label": "exploding",
-      "combined_score": 25.97
+      "combined_score": 56.75
+    },
+    {
+      "title": "Ask HN: Who is hiring? (June 2026)",
+      "url": "https://news.ycombinator.com/item?id=48357725",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.32,
+      "velocity": 4.225,
+      "velocity_label": "exploding",
+      "combined_score": 56.19
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.59,
+      "velocity": 4.153,
+      "velocity_label": "exploding",
+      "combined_score": 26.89
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "80b",
-        "alphabet",
-        "capital",
-        "equity",
-        "raise"
-      ],
-      "concept_hint": "80b + alphabet + capital + equity",
-      "cluster_size": 5,
-      "discussion_count": 3,
-      "void_score": 22.5,
-      "examples": [
-        {
-          "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-          "source": "hackernews",
-          "matching_keywords": [
-            "80b",
-            "alphabet",
-            "capital",
-            "equity",
-            "raise"
-          ]
-        },
-        {
-          "title": "Google Seeks to Raise $80B for AI Infrastructure",
-          "source": "hackernews",
-          "matching_keywords": [
-            "80b",
-            "raise"
-          ]
-        },
-        {
-          "title": "Alphabet to Raise $80B in Equity Capital for Al Spending",
-          "source": "hackernews",
-          "matching_keywords": [
-            "80b",
-            "alphabet",
-            "capital",
-            "equity",
-            "raise"
-          ]
-        }
-      ]
-    }
-  ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Build a Basic AI Agent from Scratch: Tools",
-      "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
+      "title": "KageSec. Open-source DAST scanner that outfound ZAP on PortSwigger's test app",
+      "url": "https://pypi.org/project/kagesec/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.09,
-      "relevance": 0.056,
+      "score": 0.01,
+      "relevance": 0.111,
       "matching_tags": [
-        "tools"
-      ]
-    },
-    {
-      "title": "I missed Network integrated tools on Windows so I built a Linux equivalent",
-      "url": "https://github.com/thongor77/nmlinux",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.06,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
+        "open",
+        "source"
       ]
     }
   ]
