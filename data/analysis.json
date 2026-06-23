@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-23T09:33:42.894400+00:00",
-  "scrape_timestamp": "2026-06-23T09:32:10.942353+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-06-23T14:42:03.795558+00:00",
+  "scrape_timestamp": "2026-06-23T14:40:29.229395+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -27,428 +27,458 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "An Introduction to YOLO26",
-      "url": "https://blog.roboflow.com/yolo26/",
+      "title": "Plotnine",
+      "url": "https://plotnine.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.07,
-      "velocity": 27.5,
-      "velocity_label": "exploding",
-      "combined_score": 73.56
-    },
-    {
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.37,
+      "base_score": 2.03,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 106.65
+      "combined_score": 91.35
     },
     {
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
+      "title": "The Traditional Vi",
+      "url": "https://ex-vi.sourceforge.net/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.94,
-      "velocity": 12.797,
+      "base_score": 0.8,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 94.06
+      "combined_score": 36.0
     },
     {
-      "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
-      "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+      "title": "Matrix and Quaternion FAQ",
+      "url": "https://j3d.org/matrix_faq/matrfaq_latest.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.44,
-      "velocity": 11.637,
+      "base_score": 0.29,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 12.8
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.51,
-      "velocity": 10.423,
-      "velocity_label": "exploding",
-      "combined_score": 39.35
-    },
-    {
-      "title": "ytr: YouTube Radio for Emacs",
-      "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.4,
-      "velocity": 10.215,
-      "velocity_label": "exploding",
-      "combined_score": 35.75
-    },
-    {
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "url": "https://arxiv.org/abs/2606.03748",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.48,
-      "velocity": 10.211,
-      "velocity_label": "exploding",
-      "combined_score": 12.25
-    },
-    {
-      "title": "Feedback on the logo for my programming language, Lopo",
-      "url": "https://github.com/dominexmacedon-docs/lopo-docs/blob/main/lopo.png",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.445,
-      "velocity_label": "exploding",
-      "combined_score": 0.24
-    },
-    {
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.62,
-      "velocity": 8.904,
-      "velocity_label": "exploding",
-      "combined_score": 214.14
-    },
-    {
-      "title": "Windows NT for GameCube/Wii",
-      "url": "https://github.com/Wack0/entii-for-workcubes",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.86,
-      "velocity": 8.817,
-      "velocity_label": "exploding",
-      "combined_score": 18.96
-    },
-    {
-      "title": "My Mathematical Regression",
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.64,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 98.6
-    },
-    {
-      "title": "A1 Road Collision Density Visualisation",
-      "url": "https://visquill.com/gallery/uk-a1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.417,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "Job application asked for my SAT scores",
-      "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.29,
-      "velocity": 8.289,
-      "velocity_label": "exploding",
-      "combined_score": 130.34
-    },
-    {
-      "title": "How sad should I be about ChatGPT? (2022)",
-      "url": "https://robertheaton.com/chatgpt/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 7.917,
-      "velocity_label": "exploding",
-      "combined_score": 1.19
-    },
-    {
-      "title": "How Lume Works: The Retrieval Primitives",
-      "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 1.14
-    },
-    {
-      "title": "GLM-5.2 – How to Run Locally",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.36,
-      "velocity": 7.55,
-      "velocity_label": "exploding",
-      "combined_score": 120.05
-    },
-    {
-      "title": "1,700 free online courses from top universities",
-      "url": "https://www.openculture.com/freeonlinecourses",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.44,
-      "velocity": 7.426,
-      "velocity_label": "exploding",
-      "combined_score": 45.3
-    },
-    {
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.61,
-      "velocity": 7.397,
-      "velocity_label": "exploding",
-      "combined_score": 29.77
+      "combined_score": 13.05
     },
     {
       "title": "Improvements to Std:Format in C++26",
       "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.27,
-      "velocity": 7.333,
+      "base_score": 0.6,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 4.95
+      "combined_score": 22.25
     },
     {
-      "title": "Finding the Best Dog Treat with Statistics",
-      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "title": "Package Managers need global hooks",
+      "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.5,
-      "velocity": 7.233,
+      "base_score": 1.1,
+      "velocity": 14.438,
       "velocity_label": "exploding",
-      "combined_score": 27.12
+      "combined_score": 39.7
     },
     {
-      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "title": "The Coming Loop",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.47,
-      "velocity": 7.093,
+      "base_score": 2.97,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 150.19
+      "combined_score": 98.38
     },
     {
-      "title": "Canyon HUD helmet for road riding",
-      "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
+      "title": "How Lume Works: The Retrieval Primitives",
+      "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.63,
-      "velocity": 6.6,
+      "base_score": 0.1,
+      "velocity": 12.458,
       "velocity_label": "exploding",
-      "combined_score": 43.39
+      "combined_score": 3.11
     },
     {
-      "title": "Prompt Injection as Role Confusion",
-      "url": "https://role-confusion.github.io",
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.35,
-      "velocity": 6.521,
+      "base_score": 0.24,
+      "velocity": 11.0,
       "velocity_label": "exploding",
-      "combined_score": 54.61
+      "combined_score": 6.6
     },
     {
-      "title": "ggsql 0.4.1: new release adds spatial plotting and in-layer aggregation",
-      "url": "https://opensource.posit.co/blog/2026-06-23_ggsql_0_4_1/",
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.17,
+      "velocity": 10.954,
+      "velocity_label": "exploding",
+      "combined_score": 251.12
+    },
+    {
+      "title": "8086 Segmented Memory was a good idea",
+      "url": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.69,
+      "velocity": 10.909,
+      "velocity_label": "exploding",
+      "combined_score": 46.09
+    },
+    {
+      "title": "Spying on kids to save kids from spying is stupid",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.72,
+      "velocity": 10.438,
+      "velocity_label": "exploding",
+      "combined_score": 18.79
+    },
+    {
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.79,
+      "velocity": 10.314,
+      "velocity_label": "exploding",
+      "combined_score": 149.29
+    },
+    {
+      "title": "An Introduction to YOLO26",
+      "url": "https://blog.roboflow.com/yolo26/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.34,
+      "velocity": 10.083,
+      "velocity_label": "exploding",
+      "combined_score": 33.78
+    },
+    {
+      "title": "The new HTTP QUERY method explained",
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.94,
+      "velocity": 9.495,
+      "velocity_label": "exploding",
+      "combined_score": 93.53
+    },
+    {
+      "title": "Elevated error rate across multiple models",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 9.201,
+      "velocity_label": "exploding",
+      "combined_score": 31.74
+    },
+    {
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.47,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 73.74
+    },
+    {
+      "title": "Quake Turns 30 Today",
+      "url": "https://videocardz.com/newz/quake-turns-30-today",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.482,
+      "velocity": 8.444,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.21
     },
     {
-      "title": "Show HN: Founder Pass – 6 indie dev tools lifetime for $14 (first 10 only)",
-      "url": "https://xiaohou2503687-design.github.io/shipfast-oss/founder.html",
+      "title": "CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp",
+      "url": "https://github.com/ryukinix/cl-bbs",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.4,
+      "velocity": 8.269,
+      "velocity_label": "exploding",
+      "combined_score": 8.27
+    },
+    {
+      "title": "The Elastic Loop: A framework for everyone delegating work to machines",
+      "url": "https://elastic-loop.robert-glaser.de/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.475,
+      "velocity": 8.247,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.21
     },
     {
-      "title": "Death by a Thousand Comments",
-      "url": "https://royalicing.com/2026/death-by-a-thousand-comments",
+      "title": "Former hacker saw the light–and now wants to collect all of it",
+      "url": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.28,
-      "velocity": 6.333,
+      "base_score": 0.01,
+      "velocity": 8.08,
       "velocity_label": "exploding",
-      "combined_score": 4.43
+      "combined_score": 0.2
+    },
+    {
+      "title": "Intel Arc G3 Extreme Handheld Gaming Performance",
+      "url": "https://www.lttlabs.com/articles/2026/06/23/msi-claw-8-ex-ai-cg3em-with-intel-arc-g3-extreme",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.021,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Anthropic – Elevated error rate across multiple models",
+      "url": "https://downdetector.com.br/en/status/claude-ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.903,
+      "velocity_label": "exploding",
+      "combined_score": 0.4
     },
     {
       "title": "Who Does What? Team Topologies for the Agentic Platform",
       "url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.11,
-      "velocity": 6.004,
+      "base_score": 0.69,
+      "velocity": 7.629,
       "velocity_label": "exploding",
-      "combined_score": 1.65
+      "combined_score": 13.16
     },
     {
-      "title": "standard.site",
-      "url": "https://standard.site/",
+      "title": "You already have a Git server",
+      "url": "https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.52,
+      "velocity": 7.585,
+      "velocity_label": "exploding",
+      "combined_score": 9.86
+    },
+    {
+      "title": "Aproov – matchmaking for SaaS founders and creators: LTD, rev share, or cash",
+      "url": "https://aproov.es",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.967,
+      "velocity": 7.333,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 0.18
     },
     {
-      "title": "EU Member States (and Google) suddenly want to keep cookie banners",
-      "url": "https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.41,
-      "velocity": 5.85,
-      "velocity_label": "exploding",
-      "combined_score": 6.0
-    },
-    {
-      "title": "Hospitals switched to pen and paper to defeat a national cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo",
+      "title": "Zombie unicorns are haunting Silicon Valley",
+      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 5.654,
+      "velocity": 7.233,
       "velocity_label": "exploding",
-      "combined_score": 0.28
+      "combined_score": 0.36
     },
     {
-      "title": "Show HN: Describe a research topic, get a daily-updated ArXiv/S2 dataset",
-      "url": "https://fineset.io",
+      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.64,
+      "velocity": 7.048,
+      "velocity_label": "exploding",
+      "combined_score": 11.28
+    },
+    {
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.554,
+      "velocity": 6.821,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.93,
+      "velocity": 6.807,
+      "velocity_label": "exploding",
+      "combined_score": 83.9
+    },
+    {
+      "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+      "url": "https://github.com/imtomt/ymawky/tree/linux",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 6.186,
+      "velocity_label": "exploding",
+      "combined_score": 10.67
+    },
+    {
+      "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+      "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.81,
+      "velocity": 5.879,
+      "velocity_label": "exploding",
+      "combined_score": 26.6
+    },
+    {
+      "title": "How to Use WindowSill with Ollama for Private AI Writing",
+      "url": "https://getwindowsill.app/blog/windowsill-ollama-private-ai-writing",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.689,
       "velocity_label": "exploding",
       "combined_score": 0.14
     },
     {
-      "title": "The Startup Graveyard – what killed 16 startups",
-      "url": "https://kasspian.com/graveyard",
+      "title": "A skill pack that stops coding agents from agreeing with bad startup ideas",
+      "url": "https://github.com/machinesoul11/anti-sycophant-ai-agent-skills",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.45,
+      "base_score": 0.01,
+      "velocity": 5.545,
       "velocity_label": "exploding",
-      "combined_score": 0.55
+      "combined_score": 0.14
+    },
+    {
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.29,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 70.53
+    },
+    {
+      "title": "80386 Early Start Memory Access",
+      "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.306,
+      "velocity_label": "exploding",
+      "combined_score": 0.4
+    },
+    {
+      "title": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
+      "url": "https://github.com/latitude-dev/latitude-llm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.225,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 11.04,
+      "velocity": 5.08,
+      "velocity_label": "exploding",
+      "combined_score": 140.21
+    },
+    {
+      "title": "FDA Allows New Sunscreen, but Consumers Are Still Being Burned by Cronyism",
+      "url": "https://www.independent.org/article/2026/06/12/fda-new-sunscreen/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.012,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.67,
+      "velocity": 5.0,
+      "velocity_label": "exploding",
+      "combined_score": 33.38
+    },
+    {
+      "title": "Pew Research: AI adoption is rising. Trust isn't",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.725,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
     },
     {
       "title": "Cyberdecks, going analog, and convivial technology",
       "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.93,
-      "velocity": 5.333,
+      "base_score": 2.25,
+      "velocity": 4.655,
       "velocity_label": "exploding",
-      "combined_score": 25.73
+      "combined_score": 26.18
     },
     {
-      "title": "DisplayMate",
-      "url": "https://www.displaymate.com/",
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "url": "https://arxiv.org/abs/2606.03748",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.59,
-      "velocity": 5.333,
+      "base_score": 0.66,
+      "velocity": 4.539,
       "velocity_label": "exploding",
-      "combined_score": 21.2
+      "combined_score": 7.49
     },
     {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "title": "Oracle shed about 20k roles globally in the last year",
+      "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.77,
-      "velocity": 5.105,
+      "base_score": 2.25,
+      "velocity": 4.536,
       "velocity_label": "exploding",
-      "combined_score": 35.35
+      "combined_score": 25.51
     },
     {
-      "title": "GLM-5.2 is the step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.1,
-      "velocity": 5.016,
+      "base_score": 9.82,
+      "velocity": 4.529,
       "velocity_label": "exploding",
-      "combined_score": 1.25
+      "combined_score": 111.19
     },
     {
-      "title": "Building Blocks of GenAI Product Evaluation",
-      "url": "https://yinghonglan.substack.com/p/building-blocks-of-genai-product",
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.871,
+      "base_score": 3.62,
+      "velocity": 4.304,
       "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 38.95
     },
     {
-      "title": "Watch me build out an 80s style BBS over SSH",
-      "url": "https://news.ycombinator.com/item?id=48642325",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.695,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Japanese symbols that speak without words",
-      "url": "https://arun.is/blog/japan-symbols/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.42,
-      "velocity": 4.457,
-      "velocity_label": "exploding",
-      "combined_score": 38.11
-    },
-    {
-      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "url": "https://puzzlelair.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.7,
-      "velocity": 4.417,
-      "velocity_label": "exploding",
-      "combined_score": 40.86
-    },
-    {
-      "title": "Why AI Problems Are Becoming Philosophical Problems",
-      "url": "https://kunyuan.substack.com/p/07concept-entrywhy-ai-problems-are",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.222,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Show HN: Enigma Simulator – Encrypt Like WWII",
-      "url": "https://enigma-simulator.waibsite.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.209,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "vilearn – an interactive vi tutorial",
-      "url": "https://git.sr.ht/~libele/vilearn",
+      "title": "I sleep less when I exercise more",
+      "url": "https://mdickens.me/2026/05/18/I_sleep_less_when_I_exercise_more/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -457,90 +487,144 @@
       "combined_score": 0.1
     },
     {
-      "title": "window.showDirectoryPicker opens up a whole new world",
-      "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.6,
-      "velocity": 4.042,
-      "velocity_label": "exploding",
-      "combined_score": 26.28
-    },
-    {
-      "title": "The text in Claude Code’s “Extended Thinking” output",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.2,
-      "velocity": 4.018,
-      "velocity_label": "exploding",
-      "combined_score": 62.27
-    },
-    {
-      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
-      "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.55,
-      "velocity": 3.949,
-      "velocity_label": "exploding",
-      "combined_score": 15.3
-    },
-    {
-      "title": "Gemini models increasingly stucking in thinking loop",
-      "url": "https://news.ycombinator.com/item?id=48642229",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 3.772,
-      "velocity_label": "exploding",
-      "combined_score": 1.13
-    },
-    {
-      "title": "Change 'arxiv' to 'autoarxiv' in URL to run agent on any paper",
-      "url": "https://digg.com/tech/m9r4hegw",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 3.755,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Show HN: Algorithm-free video hosting that doesn't recompress your master",
-      "url": "https://longplayplatform.com/",
+      "title": "Show HN: Zova – Objects, vectors and records in one SQLite file",
+      "url": "https://github.com/ata-sesli/zova",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 3.743,
+      "velocity": 4.11,
       "velocity_label": "exploding",
-      "combined_score": 0.09
+      "combined_score": 0.1
     },
     {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
+      "title": "Ask HN: Advice for new chief commercial officer at tech firm?",
+      "url": "https://news.ycombinator.com/item?id=48645743",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.92,
-      "velocity": 3.593,
+      "base_score": 0.01,
+      "velocity": 3.829,
       "velocity_label": "exploding",
-      "combined_score": 35.21
+      "combined_score": 0.1
+    },
+    {
+      "title": "DisplayMate",
+      "url": "https://www.displaymate.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.69,
+      "velocity": 3.75,
+      "velocity_label": "exploding",
+      "combined_score": 15.84
+    },
+    {
+      "title": "Trump's Prescription Drug Shakedown: How He Made Other Countries Pay Up",
+      "url": "https://asurawebmaster.blogspot.com/2026/06/trumps-prescription-drug-shakedown-how.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 3.655,
+      "velocity_label": "exploding",
+      "combined_score": 0.37
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "agents",
+        "open",
+        "show",
+        "source"
+      ],
+      "concept_hint": "agents + open + show + source",
+      "cluster_size": 4,
+      "discussion_count": 5,
+      "void_score": 30.0,
+      "examples": [
+        {
+          "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Oak – Git alternative designed for agents",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agents",
+            "show"
+          ]
+        },
+        {
+          "title": "Show HN: AI Agents the Unix Way – built with bash, curl, and jq",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agents",
+            "show"
+          ]
+        },
+        {
+          "title": "Swarm – open-source control center for Claude Code / Gemini / Codex agents",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agents",
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agents",
+            "open",
+            "show",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
-      "title": "Show HN: Founder Pass – 6 indie dev tools lifetime for $14 (first 10 only)",
-      "url": "https://xiaohou2503687-design.github.io/shipfast-oss/founder.html",
+      "title": "Swarm – open-source control center for Claude Code / Gemini / Codex agents",
+      "url": "https://github.com/miopea/swarm",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
+      "relevance": 0.167,
+      "matching_tags": [
+        "code",
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+      "url": "https://github.com/shumaiOne/shumai",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.26,
       "relevance": 0.111,
       "matching_tags": [
-        "indie",
-        "tools"
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
+      "url": "https://github.com/latitude-dev/latitude-llm",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
       ]
     },
     {
@@ -548,7 +632,7 @@
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
       "source": "hackernews",
       "category": "tech",
-      "score": 36.34,
+      "score": 40.23,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
@@ -559,43 +643,21 @@
       "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
       "source": "hackernews",
       "category": "tech",
-      "score": 6.2,
+      "score": 6.38,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "GLM-5.2 is the step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.1,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
-      ]
-    },
-    {
-      "title": "Wlog: Claude Code token/cost/tool dashboard, single binary, no Grafana",
-      "url": "https://github.com/openwong2kim/wlog",
+      "title": "Aproov – matchmaking for SaaS founders and creators: LTD, rev share, or cash",
+      "url": "https://aproov.es",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "What's in America's Code?",
-      "url": "https://www.boozallen.com/expertise/cybersecurity/whats-in-americas-code.html",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
+        "saas"
       ]
     }
   ]
