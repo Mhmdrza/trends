@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-07T02:45:15.071497+00:00",
-  "scrape_timestamp": "2026-07-07T02:43:46.865559+00:00",
-  "total_items_analyzed": 89,
+  "timestamp": "2026-07-07T09:36:38.138340+00:00",
+  "scrape_timestamp": "2026-07-07T09:34:25.559285+00:00",
+  "total_items_analyzed": 86,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 89,
+      "count": 86,
       "status": "ok"
     },
     "twitter": {
@@ -27,516 +27,556 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "'Our business today is not healthy': MSFT looks to 'reset' gaming division",
-      "url": "https://fortune.com/2026/07/06/microsoft-xbox-layoffs-gaming-division-1600-4800-employees/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 14.25,
-      "velocity_label": "exploding",
-      "combined_score": 1.07
-    },
-    {
-      "title": "Stet – a Markdown editor where every AI edit needs your sign-off",
-      "url": "https://www.getstet.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 13.644,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "1k Words: A Writing Contest",
-      "url": "https://writingclub.world/1picture1000words",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 12.571,
-      "velocity_label": "exploding",
-      "combined_score": 43.69
-    },
-    {
-      "title": "Linux on the Atari Jaguar",
-      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.42,
-      "velocity": 12.019,
-      "velocity_label": "exploding",
-      "combined_score": 42.67
-    },
-    {
-      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-      "url": "https://github.com/V4bel/Januscape",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.2,
-      "velocity": 11.843,
-      "velocity_label": "exploding",
-      "combined_score": 35.53
-    },
-    {
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 40.54
-    },
-    {
-      "title": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.34,
-      "velocity": 10.875,
-      "velocity_label": "exploding",
-      "combined_score": 117.99
-    },
-    {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.85,
-      "velocity": 10.262,
-      "velocity_label": "exploding",
-      "combined_score": 47.46
-    },
-    {
-      "title": "Resetting Xbox",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.07,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 304.26
-    },
-    {
-      "title": "Rotman Lens",
-      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.12,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 28.0
-    },
-    {
-      "title": "How Much Is AI Manipulating Us?",
-      "url": "https://americanrefugees.substack.com/p/how-much-is-ai-manipulating-us",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.13,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 3.25
-    },
-    {
-      "title": "Microsoft to cut 4,800 jobs in major Xbox and gaming division 'reset'",
-      "url": "https://www.fastcompany.com/91569769/xbox-layoffs-microsoft-sharma",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 9.858,
-      "velocity_label": "exploding",
-      "combined_score": 0.74
-    },
-    {
-      "title": "Evaluation order and nontermination in query languages",
-      "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.27,
-      "velocity": 9.733,
-      "velocity_label": "exploding",
-      "combined_score": 6.57
-    },
-    {
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.37,
-      "velocity": 9.707,
-      "velocity_label": "exploding",
-      "combined_score": 178.85
-    },
-    {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.69,
-      "velocity": 9.107,
-      "velocity_label": "exploding",
-      "combined_score": 15.71
-    },
-    {
-      "title": "Taste when your user has no eyes",
-      "url": "https://twitter.com/renzo_viale/status/2068730076989186283",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.444,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "Egypt Is Building a New Nile",
-      "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.42,
-      "velocity": 8.289,
-      "velocity_label": "exploding",
-      "combined_score": 50.15
-    },
-    {
-      "title": "Woman's hip replacement disintegrates, causing metal poisoning",
-      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.31,
-      "velocity": 8.157,
-      "velocity_label": "exploding",
-      "combined_score": 6.32
-    },
-    {
-      "title": "Show HN: Pulpie – Models for Cleaning the Web",
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.17,
-      "velocity": 7.694,
-      "velocity_label": "exploding",
-      "combined_score": 22.51
-    },
-    {
-      "title": "The LLVM Compiler Infrastructure",
-      "url": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 7.389,
-      "velocity_label": "exploding",
-      "combined_score": 10.16
-    },
-    {
-      "title": "Taiganet.com, Home of the WS4000 Simulator",
-      "url": "https://www.taiganet.com/",
+      "title": "Inkfield",
+      "url": "https://www.inkfield.studio",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.2,
-      "velocity": 7.167,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 3.58
+      "combined_score": 9.0
     },
     {
-      "title": "How Do Synthesizers Work? (An Interactive Exploration)",
-      "url": "https://perthirtysix.com/how-the-heck-do-synthesizers-work",
+      "title": "M/PC – A Concatenative OS",
+      "url": "https://wiki.xxiivv.com/site/m_pc.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.033,
+      "base_score": 0.78,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 35.1
     },
     {
-      "title": "Road to Elm 1.0",
-      "url": "https://elm-lang.org/news/faster-builds",
+      "title": "Tiny-C Reference Manual Excerpt",
+      "url": "https://permacomputer.solarpunk.au/?p=204",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.33,
-      "velocity": 6.917,
+      "base_score": 0.2,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 92.16
+      "combined_score": 9.0
     },
     {
-      "title": "Link Site",
-      "url": "https://xxsml.com",
+      "title": "OpenSSH 10.4/10.4p1 Released",
+      "url": "https://www.openssh.org/txt/release-10.4",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.917,
+      "base_score": 1.02,
+      "velocity": 13.778,
       "velocity_label": "exploding",
-      "combined_score": 0.52
-    },
-    {
-      "title": "Python 3.14 compiled to metal – no interpreter",
-      "url": "https://github.com/can1357/pon",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.62,
-      "velocity": 6.838,
-      "velocity_label": "exploding",
-      "combined_score": 44.79
+      "combined_score": 35.13
     },
     {
       "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
       "url": "https://arxiv.org/abs/2607.02112",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.35,
-      "velocity": 6.817,
+      "base_score": 0.57,
+      "velocity": 13.386,
       "velocity_label": "exploding",
-      "combined_score": 5.96
+      "combined_score": 19.07
     },
     {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "Rotman Lens",
+      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.29,
-      "velocity": 6.745,
+      "base_score": 1.6,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 4.89
+      "combined_score": 53.0
     },
     {
-      "title": "Building a Datacenter in My Dorm Room",
-      "url": "https://corvaglia.dev/blog/2026/datacenter-in-dorm/",
+      "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+      "url": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.717,
+      "base_score": 1.4,
+      "velocity": 13.162,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 46.07
     },
     {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.88,
-      "velocity": 6.6,
+      "base_score": 2.42,
+      "velocity": 12.933,
       "velocity_label": "exploding",
-      "combined_score": 97.02
+      "combined_score": 78.25
     },
     {
-      "title": "Max Ginsburg, War Pieta, 2007",
-      "url": "https://narrativepainting.net/max-ginsburg-war-pieta-2007/",
+      "title": "Complexity theorist Steven Rudich (1961-2024)",
+      "url": "https://blog.computationalcomplexity.org/2024/11/steven-rudich-1961-2024.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.533,
+      "base_score": 0.1,
+      "velocity": 12.911,
       "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Poly/ML – A Standard ML Implementation",
-      "url": "https://github.com/polyml/polyml",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 6.333,
-      "velocity_label": "exploding",
-      "combined_score": 5.38
+      "combined_score": 3.23
     },
     {
       "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
       "url": "https://github.com/MaximeRivest/Riddle",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.4,
-      "velocity": 6.272,
+      "base_score": 8.7,
+      "velocity": 12.805,
       "velocity_label": "exploding",
-      "combined_score": 53.31
+      "combined_score": 278.5
     },
     {
-      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-      "url": "https://andonlabs.com/blog/fable5-vending-bench",
+      "title": "Companies hire more after AI adoption",
+      "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.53,
-      "velocity": 6.092,
+      "base_score": 0.46,
+      "velocity": 12.37,
       "velocity_label": "exploding",
-      "combined_score": 53.76
+      "combined_score": 14.23
     },
     {
-      "title": "Kernel Anti-Cheat Is an Overreach",
-      "url": "https://nooneshappy.com/article/kernel-anti-cheat-is-an-overreach/",
+      "title": "The LLVM Compiler Infrastructure",
+      "url": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.36,
-      "velocity": 6.053,
+      "base_score": 0.81,
+      "velocity": 12.154,
       "velocity_label": "exploding",
-      "combined_score": 5.45
+      "combined_score": 24.61
     },
     {
-      "title": "Claude Fable 5 Backlash Grows",
-      "url": "https://tech.yahoo.com/ai/claude/articles/claude-fable-5-backlash-grows-213000534.html",
+      "title": "Taiganet.com, Home of the WS4000 Simulator",
+      "url": "https://www.taiganet.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.933,
+      "base_score": 0.28,
+      "velocity": 10.852,
       "velocity_label": "exploding",
-      "combined_score": 0.89
+      "combined_score": 7.6
     },
     {
-      "title": "Decomposer: Learning to Decompile Symbolic Music (Like MIDI) to Programs",
-      "url": "https://arxiv.org/abs/2607.01849",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.871,
+      "base_score": 1.31,
+      "velocity": 10.626,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 34.8
     },
     {
-      "title": "Windows 11 will soon be able to reinstall itself and drivers without a USB drive",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-will-soon-be-able-to-reinstall-itself-and-your-drivers-using-without-a-usb-key-via-new-cloud-rebuild-recovery-method",
+      "title": "Let's Reinvent the Scroll Wheel",
+      "url": "https://scrollpods.app/blog/lets-reinvent-the-scroll-wheel",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.801,
+      "base_score": 0.02,
+      "velocity": 10.2,
       "velocity_label": "exploding",
-      "combined_score": 0.58
-    },
-    {
-      "title": "Full Writeup of the Windows GDID",
-      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.76,
-      "velocity": 5.795,
-      "velocity_label": "exploding",
-      "combined_score": 11.01
-    },
-    {
-      "title": "I'm Betting My Company on Proactive Agents",
-      "url": "https://polylane.com/blog/proactive-agents/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.723,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Clojure 1.13 adds support for checked keys",
-      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.57,
-      "velocity": 5.665,
-      "velocity_label": "exploding",
-      "combined_score": 36.4
-    },
-    {
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.33,
-      "velocity": 5.646,
-      "velocity_label": "exploding",
-      "combined_score": 18.77
-    },
-    {
-      "title": "Aluminum foil (2021)",
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.03,
-      "velocity": 5.635,
-      "velocity_label": "exploding",
-      "combined_score": 56.77
-    },
-    {
-      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
-      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.08,
-      "velocity": 5.515,
-      "velocity_label": "exploding",
-      "combined_score": 83.84
-    },
-    {
-      "title": "Show HN: LLM Thought Visualization",
-      "url": "https://github.com/ninjahawk/Subtext",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 5.32,
-      "velocity_label": "exploding",
-      "combined_score": 1.2
-    },
-    {
-      "title": "Craig Mod built his own Good Reads",
-      "url": "https://craigmod.com/roden/115/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 5.267,
-      "velocity_label": "exploding",
-      "combined_score": 2.37
+      "combined_score": 0.51
     },
     {
       "title": "The Music of Destruction",
       "url": "https://thebaffler.com/latest/the-music-of-destruction-fuelling",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.17,
-      "velocity": 5.25,
+      "base_score": 0.41,
+      "velocity": 10.083,
       "velocity_label": "exploding",
-      "combined_score": 2.23
+      "combined_score": 10.34
     },
     {
-      "title": "How ChatGPT Picks Sources (I Read the Network Traffic, Not the Outputs)",
-      "url": "https://suganthan.com/blog/how-chatgpt-picks-sources/",
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.09,
-      "velocity": 4.948,
+      "base_score": 2.96,
+      "velocity": 9.838,
       "velocity_label": "exploding",
-      "combined_score": 1.11
+      "combined_score": 72.8
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "Evaluation order and nontermination in query languages",
+      "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.71,
-      "velocity": 4.858,
+      "base_score": 0.42,
+      "velocity": 9.676,
       "velocity_label": "exploding",
-      "combined_score": 45.06
+      "combined_score": 10.16
+    },
+    {
+      "title": "Poly/ML – A Standard ML Implementation",
+      "url": "https://github.com/polyml/polyml",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.94,
+      "velocity": 9.556,
+      "velocity_label": "exploding",
+      "combined_score": 22.46
+    },
+    {
+      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
+      "url": "https://transformer-circuits.pub/2026/workspace/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 9.477,
+      "velocity_label": "exploding",
+      "combined_score": 0.95
+    },
+    {
+      "title": "As Amazon lets Mechanical Turk fade, Mercor hits a $2B gross run rate",
+      "url": "https://runtimewire.com/article/as-amazon-lets-mechanical-turk-fade-mercor-hits-a-2-billion-gross-run-rate",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.2,
+      "velocity": 8.747,
+      "velocity_label": "exploding",
+      "combined_score": 4.37
+    },
+    {
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.12,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 45.05
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.17,
+      "velocity": 8.41,
+      "velocity_label": "exploding",
+      "combined_score": 66.65
     },
     {
       "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
       "url": "https://instantvideos.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.27,
-      "velocity": 4.523,
+      "base_score": 0.64,
+      "velocity": 8.14,
       "velocity_label": "exploding",
-      "combined_score": 3.05
+      "combined_score": 13.02
     },
     {
-      "title": "Not everything should cost a token: the case for deterministic AI",
-      "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+      "title": "The Event-Sourced Domain Modeling Language Is Now Open-Source",
+      "url": "https://www.esdm.io/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.23,
-      "velocity": 4.299,
+      "base_score": 0.01,
+      "velocity": 7.889,
       "velocity_label": "exploding",
-      "combined_score": 2.47
+      "combined_score": 0.2
+    },
+    {
+      "title": "Giving a domain a hill to climb: benchmarking as data activation",
+      "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.19,
+      "velocity": 7.592,
+      "velocity_label": "exploding",
+      "combined_score": 3.61
+    },
+    {
+      "title": "Built a mobile action game in Unreal Engine 5.7 over six months",
+      "url": "https://play.google.com/store/apps/details?id=com.prayerpathgames.thejudges&hl=en_US",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.469,
+      "velocity_label": "exploding",
+      "combined_score": 0.56
+    },
+    {
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.64,
+      "velocity": 7.46,
+      "velocity_label": "exploding",
+      "combined_score": 179.77
+    },
+    {
+      "title": "Learning to code is still worthwhile",
+      "url": "https://stevekrouse.com/learn-to-code",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.13,
+      "velocity": 7.437,
+      "velocity_label": "exploding",
+      "combined_score": 95.37
+    },
+    {
+      "title": "Full Writeup of the Windows GDID",
+      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.15,
+      "velocity": 7.288,
+      "velocity_label": "exploding",
+      "combined_score": 20.95
+    },
+    {
+      "title": "You're probably on the wrong Cloud box",
+      "url": "https://gelkao.com/blog/how-cost-efficient-is-mytimeplan-com-cloud/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.035,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Show HN: FaultFixer – For websites and apps to self-heal themselves",
+      "url": "https://faultfixer.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.671,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Same Query, Three Results: Benchmarking ParadeDB and Postgres FTS",
+      "url": "https://www.paradedb.com/blog/benchmarker-iteration",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.661,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Show HN: A router that drops costs by roughly 45%",
+      "url": "https://www.flexinference.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.542,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.52,
+      "velocity": 6.351,
+      "velocity_label": "exploding",
+      "combined_score": 24.13
+    },
+    {
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.29,
+      "velocity": 6.295,
+      "velocity_label": "exploding",
+      "combined_score": 114.72
+    },
+    {
+      "title": "Tencent Releases Hy3 Model",
+      "url": "https://hy.tencent.com/research/hy3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.268,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "AI coding assistant is quietly shipping your secrets",
+      "url": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.255,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "1k Words: A Writing Contest",
+      "url": "https://writingclub.world/1picture1000words",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 6.238,
+      "velocity_label": "exploding",
+      "combined_score": 22.61
+    },
+    {
+      "title": "Turn any web page into sticky notes with Free Chrome Web Extension",
+      "url": "https://chromewebstore.google.com/detail/sticky-note-web-clipper-â/gniilbpapgommpalikcclpcnbcamgila",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.146,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.67,
+      "velocity": 5.978,
+      "velocity_label": "exploding",
+      "combined_score": 24.96
+    },
+    {
+      "title": "A Self-maintaining filesystem for static blogs",
+      "url": "https://dan-webnotes.com/posts/2026-07-01-self-maintaining-filesystem-static-blogs/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.807,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Linux on the Atari Jaguar",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.1,
+      "velocity": 5.706,
+      "velocity_label": "exploding",
+      "combined_score": 29.96
+    },
+    {
+      "title": "Dolosse – a South African invention used over the world",
+      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.57,
+      "velocity": 5.36,
+      "velocity_label": "exploding",
+      "combined_score": 7.64
+    },
+    {
+      "title": "Show HN: Disguise any article as VS Code, Excel or Slack – with a boss key",
+      "url": "https://sneakread.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.346,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Apricot Computers: An underrated British brand",
+      "url": "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.42,
+      "velocity": 5.017,
+      "velocity_label": "exploding",
+      "combined_score": 17.81
+    },
+    {
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.33,
+      "velocity": 4.901,
+      "velocity_label": "exploding",
+      "combined_score": 4.04
+    },
+    {
+      "title": "Learning another language appears to slow brain ageing by up to 13 years",
+      "url": "https://www.theguardian.com/education/2026/jul/06/learning-another-language-appears-to-slow-brain-ageing-scientists-say",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.19,
+      "velocity": 4.87,
+      "velocity_label": "exploding",
+      "combined_score": 2.31
+    },
+    {
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.51,
+      "velocity": 4.806,
+      "velocity_label": "exploding",
+      "combined_score": 6.13
+    },
+    {
+      "title": "Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections",
+      "url": "https://arxiv.org/abs/2602.15654",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.685,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "open",
+        "show",
+        "source"
+      ],
+      "concept_hint": "open + show + source",
+      "cluster_size": 3,
+      "discussion_count": 3,
+      "void_score": 13.5,
+      "examples": [
+        {
+          "title": "Show HN: VibeRaven – open-source CLI that finds RLS/auth gaps your agent leaves",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Ex Situ, open-source spatial index of displaced cultural artifacts",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        },
+        {
+          "title": "The Event-Sourced Domain Modeling Language Is Now Open-Source",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
       "title": "Learning to code is still worthwhile",
       "url": "https://stevekrouse.com/learn-to-code",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.85,
+      "score": 5.13,
       "relevance": 0.111,
       "matching_tags": [
         "code",
@@ -544,11 +584,35 @@
       ]
     },
     {
-      "title": "Show HN: Otari: your open-source LLM control plane",
-      "url": "https://github.com/mozilla-ai/otari",
+      "title": "Show HN: VibeRaven – open-source CLI that finds RLS/auth gaps your agent leaves",
+      "url": "https://github.com/ohad6k/VibeRaven",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.14,
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Ex Situ, open-source spatial index of displaced cultural artifacts",
+      "url": "https://exsitu.app/map",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "The Event-Sourced Domain Modeling Language Is Now Open-Source",
+      "url": "https://www.esdm.io/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -560,10 +624,32 @@
       "url": "https://openwrt.org/toh/openwrt/one",
       "source": "hackernews",
       "category": "tech",
-      "score": 7.37,
+      "score": 9.64,
       "relevance": 0.056,
       "matching_tags": [
         "open"
+      ]
+    },
+    {
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 3.33,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.73,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
       ]
     },
     {
@@ -571,32 +657,43 @@
       "url": "https://arxiv.org/abs/2607.02112",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.35,
+      "score": 0.57,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
       ]
     },
     {
-      "title": "Machine Is a Server. Do Not Power Down",
-      "url": "https://adlternative.github.io/posts/ai/from-local-agent-to-cloud-agent/",
+      "title": "Learning another language appears to slow brain ageing by up to 13 years",
+      "url": "https://www.theguardian.com/education/2026/jul/06/learning-another-language-appears-to-slow-brain-ageing-scientists-say",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "machine"
-      ]
-    },
-    {
-      "title": "Decomposer: Learning to Decompile Symbolic Music (Like MIDI) to Programs",
-      "url": "https://arxiv.org/abs/2607.01849",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
+      "score": 0.19,
       "relevance": 0.056,
       "matching_tags": [
         "learning"
+      ]
+    },
+    {
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Uncertainty in LLMs",
+      "url": "https://arxiv.org/abs/2606.32032",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "learning"
+      ]
+    },
+    {
+      "title": "Show HN: Disguise any article as VS Code, Excel or Slack – with a boss key",
+      "url": "https://sneakread.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
       ]
     }
   ]
