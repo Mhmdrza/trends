@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-07T12:55:06.728748+00:00",
-  "scrape_timestamp": "2026-08-07T12:53:45.388213+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-08-07T18:51:20.875889+00:00",
+  "scrape_timestamp": "2026-08-07T18:49:46.661378+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,318 +27,258 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Reverse Jevons Paradox",
-      "url": "https://mht.wtf/post/jevons/",
+      "title": "Dev services, spun up in seconds",
+      "url": "https://github.com/sndsabin/servitor",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.16,
-      "velocity": 16.417,
+      "base_score": 0.01,
+      "velocity": 15.188,
       "velocity_label": "exploding",
-      "combined_score": 47.61
+      "combined_score": 0.38
     },
     {
-      "title": "Learning to fly FPV drones with AI flight coach",
-      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+      "title": "\"It's unclear how Sopwith escaped to the general public.\"",
+      "url": "https://unsung.aresluna.org/its-unclear-how-sopwith-escaped-to-the-general-public/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.27,
-      "velocity": 15.286,
+      "base_score": 0.45,
+      "velocity": 14.2,
       "velocity_label": "exploding",
-      "combined_score": 10.32
+      "combined_score": 15.98
+    },
+    {
+      "title": "Clone latency on FSx for OpenZFS: from 10 minutes to 16 seconds",
+      "url": "https://stagdb.com/blog/fsx-openzfs-clone-latency/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 13.3,
+      "velocity_label": "exploding",
+      "combined_score": 0.33
     },
     {
       "title": "The BBC Tetris Companion",
       "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.29,
-      "velocity": 12.667,
+      "base_score": 0.82,
+      "velocity": 11.667,
       "velocity_label": "exploding",
-      "combined_score": 9.18
+      "combined_score": 23.92
     },
     {
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "title": "São Paulo resident transforms degraded area into urban forest",
+      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.18,
-      "velocity": 12.324,
+      "base_score": 4.59,
+      "velocity": 11.113,
       "velocity_label": "exploding",
-      "combined_score": 67.17
+      "combined_score": 127.52
     },
     {
-      "title": "Atomic Clocks",
-      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+      "title": "TypeStax: A type scale generator with vintage audio hardware interface",
+      "url": "https://www.typestax.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.84,
-      "velocity": 10.083,
+      "base_score": 0.58,
+      "velocity": 10.182,
       "velocity_label": "exploding",
-      "combined_score": 46.38
-    },
-    {
-      "title": "What Is the Point of Anthropology?",
-      "url": "https://quillette.substack.com/p/what-is-the-point-of-anthropology",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "A quine in Piet – a GIF image that prints itself [video]",
-      "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.28,
-      "velocity": 9.091,
-      "velocity_label": "exploding",
-      "combined_score": 6.36
-    },
-    {
-      "title": "Software development with AI is starting to feel like cooking steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.78,
-      "velocity": 9.0,
-      "velocity_label": "exploding",
-      "combined_score": 220.05
-    },
-    {
-      "title": "Framework discloses data breach via Metabase 0-day",
-      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.7,
-      "velocity": 8.876,
-      "velocity_label": "exploding",
-      "combined_score": 37.72
-    },
-    {
-      "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-      "url": "https://text.npr.org/nx-s1-5922530",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 8.857,
-      "velocity_label": "exploding",
-      "combined_score": 2.66
-    },
-    {
-      "title": "PEP 841 – Adding Frozen Syntax to Optimize Immutable Types",
-      "url": "https://peps.python.org/pep-0841/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.833,
-      "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.48,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 222.7
+      "combined_score": 14.76
     },
     {
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.25,
-      "velocity": 8.252,
+      "base_score": 19.68,
+      "velocity": 9.405,
       "velocity_label": "exploding",
-      "combined_score": 170.19
-    },
-    {
-      "title": "A game studio turned it's last $6M into Slack",
-      "url": "https://twitter.com/a16z/status/2085518489700421954",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.12,
-      "velocity_label": "exploding",
-      "combined_score": 0.61
-    },
-    {
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.35,
-      "velocity": 7.785,
-      "velocity_label": "exploding",
-      "combined_score": 26.27
-    },
-    {
-      "title": "Incident Response in the Age of AI (Incident Fest)",
-      "url": "https://www.uptimelabs.io/articles/incident-response-ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Can you reverse engineer an ASIC?",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.82,
-      "velocity": 7.269,
-      "velocity_label": "exploding",
-      "combined_score": 33.07
-    },
-    {
-      "title": "Radical Study Suggests Life on Earth Arose Twice",
-      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.168,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 462.71
     },
     {
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.63,
-      "velocity": 7.137,
+      "base_score": 11.62,
+      "velocity": 8.251,
       "velocity_label": "exploding",
-      "combined_score": 136.13
+      "combined_score": 239.7
     },
     {
-      "title": "Show HN: I used LLM to reverse-engineer secure-enclaved fingerprint scanner",
-      "url": "https://github.com/wrobelda/goodix-fp-spi-linux",
+      "title": "Managed Deep Agents Is Now in Public Beta",
+      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 7.096,
+      "velocity": 7.692,
       "velocity_label": "exploding",
-      "combined_score": 0.35
+      "combined_score": 0.38
     },
     {
-      "title": "D-Wave shows off its new entry in quantum computing race",
-      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "title": "Building Community Out of Strangers",
+      "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.18,
+      "velocity": 7.233,
+      "velocity_label": "exploding",
+      "combined_score": 3.25
+    },
+    {
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 6.744,
+      "velocity_label": "exploding",
+      "combined_score": 2.36
+    },
+    {
+      "title": "White House Ballroom Construction Must Stop, Appeals Court Rules",
+      "url": "https://www.wsj.com/politics/policy/white-house-ballroom-construction-must-stop-appeals-court-rules-7494d8b8",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.037,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Facing AI 'Apocalypse,' Once-Hot Software Companies Race to Reinvent Themselves",
-      "url": "https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.635,
+      "velocity": 6.715,
       "velocity_label": "exploding",
       "combined_score": 0.17
+    },
+    {
+      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+      "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 6.573,
+      "velocity_label": "exploding",
+      "combined_score": 1.15
+    },
+    {
+      "title": "Estrogen masculinizes neural pathways and sex-specific behaviors",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2851224/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 6.571,
+      "velocity_label": "exploding",
+      "combined_score": 1.15
+    },
+    {
+      "title": "Talk to Claude Code. Force Yourself to Slow Down and Think",
+      "url": "https://github.com/tmshapland/audiochatty-plugin",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 6.312,
+      "velocity_label": "exploding",
+      "combined_score": 0.79
+    },
+    {
+      "title": "I Still Write Code by Hand and How AI Is Helping Me",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.131,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.31,
+      "velocity": 6.093,
+      "velocity_label": "exploding",
+      "combined_score": 50.42
+    },
+    {
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.45,
+      "velocity": 6.02,
+      "velocity_label": "exploding",
+      "combined_score": 36.88
+    },
+    {
+      "title": "Petri Nets as a Music Sequencer",
+      "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 10.35
+    },
+    {
+      "title": "TensorLift: Auto Extraction of ISA Semantics from Accelerator RTL via MLIR",
+      "url": "https://arxiv.org/abs/2604.13523",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "An AI agent with $15, 46 hours, and no way to send email",
+      "url": "https://write.as/ih3l0kd78lpb1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.48,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "'Asimov was right' about rules for robots, says ex-US Cyber Director",
+      "url": "https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.337,
+      "velocity_label": "exploding",
+      "combined_score": 0.53
+    },
+    {
+      "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
+      "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.14,
+      "velocity": 5.315,
+      "velocity_label": "exploding",
+      "combined_score": 15.15
+    },
+    {
+      "title": "A Revised Haskell 2010 Language Report",
+      "url": "https://blog.haskell.org/revised-haskell-2010-report/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.295,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
     },
     {
       "title": "Why Estonians invite strangers into their back gardens each summer",
       "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.59,
-      "velocity": 6.575,
+      "base_score": 2.16,
+      "velocity": 5.256,
       "velocity_label": "exploding",
-      "combined_score": 26.14
+      "combined_score": 28.38
     },
     {
-      "title": "Show HN: A free mini game that makes you a smarter fly fisherperson",
-      "url": "https://read-the-water.netlify.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.26,
-      "velocity": 6.133,
-      "velocity_label": "exploding",
-      "combined_score": 3.99
-    },
-    {
-      "title": "New York Data Center Ban Won't Solve Its Grid Problems",
-      "url": "https://spectrum.ieee.org/new-york-data-center-ban",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.891,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Follow-up: I asked last month about CTI aggregators for CISOs",
-      "url": "https://www.reddit.com/r/cybersecurity/s/kdQNImG0TQ",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.871,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Show HN: Curio, a place for HTML files",
-      "url": "https://letscurio.app",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.822,
-      "velocity_label": "exploding",
-      "combined_score": 0.29
-    },
-    {
-      "title": "Earth's molten core reversed direction",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.686,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.12,
-      "velocity": 5.65,
-      "velocity_label": "exploding",
-      "combined_score": 29.95
-    },
-    {
-      "title": "DOGE overstated savings, government watchdog says",
-      "url": "https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.329,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.54,
-      "velocity": 5.313,
-      "velocity_label": "exploding",
-      "combined_score": 126.72
-    },
-    {
-      "title": "A Pledge for Scientists",
-      "url": "https://bastian.rieck.me/blog/2026/pledge/",
+      "title": "A New GLP-1 Weight Journey Tracker",
+      "url": "https://glp1.psvisual.de/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -347,184 +287,244 @@
       "combined_score": 0.13
     },
     {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.09,
+      "velocity": 5.189,
+      "velocity_label": "exploding",
+      "combined_score": 27.11
+    },
+    {
+      "title": "A Research Lab for Open Source",
+      "url": "https://stewardshiplab.org/ideas/a-research-lab-for-open-source/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.112,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "Atomic Clocks",
+      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.29,
+      "velocity": 5.107,
+      "velocity_label": "exploding",
+      "combined_score": 29.24
+    },
+    {
+      "title": "USA Today Co., partners with Palantir to analyze audience data",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.6,
+      "velocity": 5.036,
+      "velocity_label": "exploding",
+      "combined_score": 32.73
+    },
+    {
+      "title": "Planned satellite megaconstellations could generate runaway space debris",
+      "url": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.96,
+      "velocity_label": "exploding",
+      "combined_score": 0.37
+    },
+    {
+      "title": "Hacker News MCP and Debug View",
+      "url": "https://github.com/coolvegan/go-hackernews",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.851,
+      "velocity_label": "exploding",
+      "combined_score": 0.36
+    },
+    {
+      "title": "Show HN: Design Engineering as a Service",
+      "url": "https://www.designshippers.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.812,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "A quine in Piet – a GIF image that prints itself [video]",
+      "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.79,
+      "velocity": 4.736,
+      "velocity_label": "exploding",
+      "combined_score": 9.35
+    },
+    {
+      "title": "AI agents fake identities, target real people in new security incident",
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.15,
+      "velocity": 4.679,
+      "velocity_label": "exploding",
+      "combined_score": 1.75
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.54,
+      "velocity": 4.674,
+      "velocity_label": "exploding",
+      "combined_score": 29.68
+    },
+    {
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.18,
+      "velocity": 4.547,
+      "velocity_label": "exploding",
+      "combined_score": 13.41
+    },
+    {
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.11,
+      "velocity": 4.496,
+      "velocity_label": "exploding",
+      "combined_score": 23.72
+    },
+    {
+      "title": "State Department Wants Palantir's Advice on Free Speech",
+      "url": "https://theintercept.com/2026/08/07/state-department-palantir-free-speech-surveillance/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.25,
+      "velocity": 4.25,
+      "velocity_label": "exploding",
+      "combined_score": 2.66
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 4.167,
+      "velocity_label": "exploding",
+      "combined_score": 3.75
+    },
+    {
+      "title": "New Mexico Survivors' Truth Commission – Jeffrey Epstein at Zorro Ranch [pdf]",
+      "url": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/5/c0/5c02523e-a611-4240-834f-4ad70bb0a471/6a7354a02d933.pdf.pdf",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 4.133,
+      "velocity_label": "exploding",
+      "combined_score": 0.93
+    },
+    {
+      "title": "OpenAI slows release of Astra model, citing cyber capabilities",
+      "url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.042,
+      "velocity_label": "exploding",
+      "combined_score": 0.1
+    },
+    {
+      "title": "Four simple rules behind Japan's most liveable cities",
+      "url": "https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.58,
+      "velocity": 4.038,
+      "velocity_label": "exploding",
+      "combined_score": 36.14
+    },
+    {
+      "title": "Show HN: hpc-sandbox-benchmarks – compare sandbox providers with real workloads",
+      "url": "https://github.com/starslingdev/hpc-sandbox-benchmarks",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 3.97,
+      "velocity_label": "exploding",
+      "combined_score": 0.1
+    },
+    {
+      "title": "Show HN: BotWave – A simple way of playing with FM using Raspberry Pi devices",
+      "url": "https://botwave.dpip.lol/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 3.815,
+      "velocity_label": "exploding",
+      "combined_score": 0.1
+    },
+    {
       "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.17,
-      "velocity": 5.171,
+      "base_score": 2.83,
+      "velocity": 3.783,
       "velocity_label": "exploding",
-      "combined_score": 28.05
+      "combined_score": 26.77
     },
     {
-      "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
-      "url": "https://arxiv.org/abs/2607.25373",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.23,
-      "velocity": 5.107,
+      "base_score": 1.51,
+      "velocity": 3.775,
       "velocity_label": "exploding",
-      "combined_score": 2.94
+      "combined_score": 14.25
     },
     {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.33,
-      "velocity": 4.73,
-      "velocity_label": "exploding",
-      "combined_score": 39.38
-    },
-    {
-      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-      "url": "https://zenodo.org/records/21359923",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 4.726,
-      "velocity_label": "exploding",
-      "combined_score": 2.01
-    },
-    {
-      "title": "A new extinct Pleistocene species of spadefoot toad from La Brea",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/02724634.2026.2689465",
+      "title": "UntitledSource – Watch the VOD on Kick",
+      "url": "https://kick.com/untitledsource/videos/019fdc9c-d308-7801-a096-69fdff17311e",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.667,
+      "velocity": 3.625,
       "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
-      "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.21,
-      "velocity": 4.655,
-      "velocity_label": "exploding",
-      "combined_score": 37.35
-    },
-    {
-      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.65,
-      "velocity_label": "exploding",
-      "combined_score": 0.35
+      "combined_score": 0.09
     },
     {
       "title": "Quake – 30th Anniversary Update",
       "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.03,
-      "velocity": 4.542,
+      "base_score": 6.57,
+      "velocity": 3.513,
       "velocity_label": "exploding",
-      "combined_score": 68.47
+      "combined_score": 57.69
     },
     {
-      "title": "The simple elegance of the integrated timing belt loopback fastener",
-      "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.61,
-      "velocity": 4.519,
+      "base_score": 10.81,
+      "velocity": 3.501,
       "velocity_label": "exploding",
-      "combined_score": 18.19
-    },
-    {
-      "title": "Stop Donating Your Vacation Days to Your Boss [audio] [video]",
-      "url": "https://www.youtube.com/watch?v=y-0ueVPQfuU",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.395,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.75,
-      "velocity": 4.393,
-      "velocity_label": "exploding",
-      "combined_score": 52.17
-    },
-    {
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.09,
-      "velocity": 4.375,
-      "velocity_label": "exploding",
-      "combined_score": 55.67
-    },
-    {
-      "title": "Why People with Taste Are About to Win Everything",
-      "url": "https://twitter.com/i/status/2085423340139741354",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.365,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "São Paulo resident transforms degraded area into urban forest",
-      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.06,
-      "velocity": 4.34,
-      "velocity_label": "exploding",
-      "combined_score": 33.2
-    },
-    {
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.33,
-      "velocity": 4.055,
-      "velocity_label": "exploding",
-      "combined_score": 43.9
-    },
-    {
-      "title": "STV: A full-motion video codec for the Atari ST",
-      "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.89,
-      "velocity": 3.988,
-      "velocity_label": "exploding",
-      "combined_score": 8.87
-    },
-    {
-      "title": "Flock Pitched a Plan to Turn Uber and Lyft Drivers into Roaming Surveillance",
-      "url": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 3.972,
-      "velocity_label": "exploding",
-      "combined_score": 0.3
-    },
-    {
-      "title": "\"It's unclear how Sopwith escaped to the general public.\"",
-      "url": "https://unsung.aresluna.org/its-unclear-how-sopwith-escaped-to-the-general-public/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 3.967,
-      "velocity_label": "exploding",
-      "combined_score": 1.78
+      "combined_score": 94.62
     }
   ],
   "niche_opportunities": [],
@@ -536,7 +536,7 @@
       "url": "https://nanochess.org/the_am29000_computer.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.23,
+      "score": 2.29,
       "relevance": 0.111,
       "matching_tags": [
         "code",
@@ -544,11 +544,23 @@
       ]
     },
     {
-      "title": "Show HN: Certo – An open source platform to deliver Open Badges",
-      "url": "https://github.com/schroedinger-Hat/certo",
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.06,
+      "score": 1.48,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "A Research Lab for Open Source",
+      "url": "https://stewardshiplab.org/ideas/a-research-lab-for-open-source/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -560,32 +572,65 @@
       "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
       "source": "hackernews",
       "category": "tech",
-      "score": 4.75,
+      "score": 5.46,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Learning to fly FPV drones with AI flight coach",
-      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.27,
+      "score": 2.77,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
+        "code"
       ]
     },
     {
-      "title": "Inimitable product is the new \"make great content\"",
-      "url": "https://sparktoro.com/blog/inimitable-product-is-the-new-make-great-content/",
+      "title": "Software is about people, not code (2020)",
+      "url": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 1.08,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "The End of No Code",
+      "url": "https://blog.exe.dev/the-end-of-no-code",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.2,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Talk to Claude Code. Force Yourself to Slow Down and Think",
+      "url": "https://github.com/tmshapland/audiochatty-plugin",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.05,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "I Still Write Code by Hand and How AI Is Helping Me",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "content"
+        "code"
       ]
     }
   ]
