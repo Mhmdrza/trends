@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-10T07:25:28.221190+00:00",
-  "scrape_timestamp": "2026-08-10T07:23:25.085055+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-08-10T12:59:08.916295+00:00",
+  "scrape_timestamp": "2026-08-10T12:57:43.264232+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -27,358 +27,228 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "How Golden Is Silence, Actually?",
-      "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.07,
-      "velocity": 21.167,
-      "velocity_label": "exploding",
-      "combined_score": 56.62
-    },
-    {
-      "title": "Towers of Silence",
-      "url": "https://99percentinvisible.org/episode/579-towers-of-silence/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 19.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.49
-    },
-    {
-      "title": "An Interesting Fourier Transform – 1/F Noise",
-      "url": "https://www.dsprelated.com/showarticle/40.php",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.16,
+      "base_score": 4.95,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 7.2
+      "combined_score": 222.75
     },
     {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
+      "title": "Nearest Pint",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.15,
+      "base_score": 0.74,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 51.75
-    },
-    {
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.06,
-      "velocity": 14.833,
-      "velocity_label": "exploding",
-      "combined_score": 76.39
-    },
-    {
-      "title": "When Compilers Disagree About UTF‑8",
-      "url": "https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.5,
-      "velocity": 14.833,
-      "velocity_label": "exploding",
-      "combined_score": 18.54
-    },
-    {
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.59,
-      "velocity": 14.438,
-      "velocity_label": "exploding",
-      "combined_score": 21.3
-    },
-    {
-      "title": "The Hacker's Renaissance (2025)",
-      "url": "https://phrack.org/issues/72/19#article",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.27,
-      "velocity": 13.426,
-      "velocity_label": "exploding",
-      "combined_score": 76.19
-    },
-    {
-      "title": "The Renaissance Was Edited Before Anyone Asked for It Back",
-      "url": "https://thetraces.substack.com/p/the-renaissance-was-edited-before",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 13.124,
-      "velocity_label": "exploding",
-      "combined_score": 0.33
-    },
-    {
-      "title": "How We Pushed CDC into Postgres",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.91,
-      "velocity": 12.458,
-      "velocity_label": "exploding",
-      "combined_score": 28.34
-    },
-    {
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.06,
-      "velocity": 12.4,
-      "velocity_label": "exploding",
-      "combined_score": 32.86
-    },
-    {
-      "title": "Show HN: 35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease",
-      "url": "https://consciousnesslibrary.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.28,
-      "velocity": 11.987,
-      "velocity_label": "exploding",
-      "combined_score": 8.39
-    },
-    {
-      "title": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
-      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.27,
-      "velocity": 11.65,
-      "velocity_label": "exploding",
-      "combined_score": 95.24
-    },
-    {
-      "title": "I made tinnitus my friend, then it disappeared [video]",
-      "url": "https://mynoise.net/vlog.php?ep=20260803",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.46,
-      "velocity": 11.13,
-      "velocity_label": "exploding",
-      "combined_score": 68.45
-    },
-    {
-      "title": "Port the Enlightenment desktop environment to NetBSD",
-      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.97,
-      "velocity_label": "exploding",
-      "combined_score": 0.27
-    },
-    {
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "url": "https://foldingglobes.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.51,
-      "velocity": 10.919,
-      "velocity_label": "exploding",
-      "combined_score": 13.92
-    },
-    {
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.65,
-      "velocity": 10.718,
-      "velocity_label": "exploding",
-      "combined_score": 17.42
-    },
-    {
-      "title": "Japanese court overturns Red RAW video patent",
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.17,
-      "velocity": 10.454,
-      "velocity_label": "exploding",
-      "combined_score": 30.58
-    },
-    {
-      "title": "The German Mittelstand",
-      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 10.4,
-      "velocity_label": "exploding",
-      "combined_score": 15.08
-    },
-    {
-      "title": "Touring the Consensus, Six Months In",
-      "url": "https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.21,
-      "velocity": 10.4,
-      "velocity_label": "exploding",
-      "combined_score": 5.46
-    },
-    {
-      "title": "Are AI agents our industry's industrial robots?",
-      "url": "https://www.marcusoft.net/2026/08/ai-robots.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 10.098,
-      "velocity_label": "exploding",
-      "combined_score": 0.76
-    },
-    {
-      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "url": "https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 10.056,
-      "velocity_label": "exploding",
-      "combined_score": 0.75
-    },
-    {
-      "title": "If experience is the goal, then you always win",
-      "url": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.85,
-      "velocity": 9.608,
-      "velocity_label": "exploding",
-      "combined_score": 20.42
-    },
-    {
-      "title": "AI Is Rewiring South Korea's Careers, Dating and Culture",
-      "url": "https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 9.452,
-      "velocity_label": "exploding",
-      "combined_score": 0.47
-    },
-    {
-      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
-      "url": "https://alphabetsoup.club",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.76,
-      "velocity": 9.221,
-      "velocity_label": "exploding",
-      "combined_score": 17.52
-    },
-    {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.02,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 234.18
-    },
-    {
-      "title": "Transmission has been forked as \"ReTransmission\"",
-      "url": "https://github.com/transmission/transmission/discussions/9031",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.43,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 9.14
-    },
-    {
-      "title": "Crickets as pets",
-      "url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.41,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 29.96
-    },
-    {
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.46,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 107.38
-    },
-    {
-      "title": "A partial digestion of the HRT counterexample",
-      "url": "https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 7.708,
-      "velocity_label": "exploding",
-      "combined_score": 6.55
-    },
-    {
-      "title": "The main way I've seen people turn ideologically crazy (2025)",
-      "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.43,
-      "velocity": 7.647,
-      "velocity_label": "exploding",
-      "combined_score": 46.45
-    },
-    {
-      "title": "Why does Apple have an office in a small town close to Hamburg?",
-      "url": "https://alsterrunde.com/why-does-apple-have-an-office-in-a-small-town-close-to-hamburg/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.617,
-      "velocity_label": "exploding",
-      "combined_score": 0.57
-    },
-    {
-      "title": "Is Europe safer than America?",
-      "url": "https://www.economist.com/graphic-detail/2026/08/09/is-europe-safer-than-america",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.505,
-      "velocity_label": "exploding",
-      "combined_score": 0.75
-    },
-    {
-      "title": "Royal Navy drone cameras sent signals to China",
-      "url": "https://www.independent.co.uk/news/uk/home-news/royal-navy-drone-cameras-china-mod-b3030094.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.39,
-      "velocity_label": "exploding",
-      "combined_score": 0.37
+      "combined_score": 33.3
     },
     {
       "title": "Slap ROM Patcher",
       "url": "https://nyuu.page/projects/slap/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 7.333,
+      "base_score": 0.46,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 2.2
+      "combined_score": 17.06
     },
     {
-      "title": "Contra DSPy and GEPA",
-      "url": "https://benanderson.work/blog/contra-dspy-gepa/",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.0,
+      "velocity": 14.385,
+      "velocity_label": "exploding",
+      "combined_score": 215.78
+    },
+    {
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.72,
+      "velocity": 12.571,
+      "velocity_label": "exploding",
+      "combined_score": 54.06
+    },
+    {
+      "title": "A Promising Heart Drug Fails, Challenging a Long-Held Theory of Disease",
+      "url": "https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 12.315,
+      "velocity_label": "exploding",
+      "combined_score": 0.92
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.03,
+      "velocity": 12.007,
+      "velocity_label": "exploding",
+      "combined_score": 60.94
+    },
+    {
+      "title": "The Ambition Project",
+      "url": "https://www.betonit.ai/p/the-ambition-project",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.66,
+      "velocity": 11.667,
+      "velocity_label": "exploding",
+      "combined_score": 19.25
+    },
+    {
+      "title": "Tail-call optimization in C is relatively recent",
+      "url": "https://lwn.net/Articles/1034703/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.45,
+      "velocity": 10.1,
+      "velocity_label": "exploding",
+      "combined_score": 11.36
+    },
+    {
+      "title": "Because It's Not Fun Enough: why languages fail",
+      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.81,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 20.25
+    },
+    {
+      "title": "An alias-based formulation of the borrow checker (2018)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.18,
+      "velocity": 9.896,
+      "velocity_label": "exploding",
+      "combined_score": 4.45
+    },
+    {
+      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "url": "https://publicdomainreview.org/collection/marnameh/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.84,
+      "velocity": 9.688,
+      "velocity_label": "exploding",
+      "combined_score": 20.34
+    },
+    {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.19,
+      "velocity": 9.629,
+      "velocity_label": "exploding",
+      "combined_score": 4.57
+    },
+    {
+      "title": "Category Theory Illustrated: From Sets to Categories",
+      "url": "https://abuseofnotation.github.io/category-theory-illustrated/02_category/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.23
+    },
+    {
+      "title": "The agent principal-agent problem",
+      "url": "https://crawshaw.io/blog/agent-principal-agent",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.681,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.92,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 19.55
+    },
+    {
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.6,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 34.0
+    },
+    {
+      "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
+      "url": "https://twitter.com/finkd/status/2086755195535413696",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 8.479,
+      "velocity_label": "exploding",
+      "combined_score": 2.54
+    },
+    {
+      "title": "Bring Back the Blue-Book Exam",
+      "url": "https://www.theatlantic.com/magazine/2026/09/higher-education-in-person-written-exams/687954/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.846,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 7.815,
+      "velocity_label": "exploding",
+      "combined_score": 26.96
+    },
+    {
+      "title": "Turn your AI chat into a document generation engine",
+      "url": "https://docuqueue.com/mcp",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.471,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.66,
+      "velocity": 7.444,
+      "velocity_label": "exploding",
+      "combined_score": 49.51
+    },
+    {
+      "title": "We 10×Ed Our AWS Bill by Checking Our AWS Bill",
+      "url": "https://ultrathink.art/blog/the-cost-dashboard-that-couldnt-see-itself",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -387,182 +257,411 @@
       "combined_score": 0.18
     },
     {
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 9.79,
-      "velocity": 7.312,
+      "base_score": 1.06,
+      "velocity": 7.201,
       "velocity_label": "exploding",
-      "combined_score": 178.97
+      "combined_score": 19.08
     },
     {
-      "title": "Taylor Farms recalls salsa and guacamole over salmonella risk",
-      "url": "https://www.cnbc.com/2026/08/09/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk.html",
+      "title": "Mnemara – a memory layer that keeps Claude agents continuous",
+      "url": "https://github.com/mekickdemons-creator/mnemara",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.47,
-      "velocity": 7.048,
+      "base_score": 0.04,
+      "velocity": 6.802,
       "velocity_label": "exploding",
-      "combined_score": 8.28
+      "combined_score": 0.68
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "title": "Signal is working on a paid option to create an account without a phone number",
+      "url": "https://aboutsignal.com/news/signal-login-registration-without-a-phone-number/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.06,
-      "velocity": 6.846,
+      "base_score": 0.01,
+      "velocity": 6.755,
       "velocity_label": "exploding",
-      "combined_score": 35.26
+      "combined_score": 0.17
     },
     {
-      "title": "Kimi K3 Sandbox Escape Exposes Weak Links in Agent Testing",
-      "url": "https://ai-updates.net/kimi-k3-sandbox-escape-agent-testing/",
+      "title": "ATProto for Distributed Systems Engineers",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.28,
+      "velocity": 6.402,
+      "velocity_label": "exploding",
+      "combined_score": 20.49
+    },
+    {
+      "title": "Japanese court overturns Red RAW video patent",
+      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.42,
+      "velocity": 6.396,
+      "velocity_label": "exploding",
+      "combined_score": 22.71
+    },
+    {
+      "title": "How Golden Is Silence, Actually?",
+      "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.35,
+      "velocity": 6.389,
+      "velocity_label": "exploding",
+      "combined_score": 21.56
+    },
+    {
+      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.25,
+      "velocity": 6.224,
+      "velocity_label": "exploding",
+      "combined_score": 19.45
+    },
+    {
+      "title": "I explored Tokyo and found peace there",
+      "url": "https://www.kulman.sk/en/how-i-explored-tokyo-and-found-peace/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.2,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
+      "url": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.09,
+      "velocity": 6.1,
+      "velocity_label": "exploding",
+      "combined_score": 16.62
+    },
+    {
+      "title": "I made tinnitus my friend, then it disappeared [video]",
+      "url": "https://mynoise.net/vlog.php?ep=20260803",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.81,
+      "velocity": 6.052,
+      "velocity_label": "exploding",
+      "combined_score": 57.64
+    },
+    {
+      "title": "Squeak/Smalltalk 6.1 Release Notes",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 6.042,
+      "velocity_label": "exploding",
+      "combined_score": 1.81
+    },
+    {
+      "title": "Can Extreme Morning Sickness Be Cured?",
+      "url": "https://www.newyorker.com/news/essay/can-extreme-morning-sickness-be-cured",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 6.633,
+      "velocity": 6.042,
       "velocity_label": "exploding",
-      "combined_score": 0.5
+      "combined_score": 0.45
     },
     {
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
+      "title": "How We Pushed CDC into Postgres",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.07,
-      "velocity": 6.473,
+      "base_score": 1.36,
+      "velocity": 6.037,
       "velocity_label": "exploding",
-      "combined_score": 49.68
+      "combined_score": 20.53
+    },
+    {
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "url": "https://lordgoati.us/blog/tail-call/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.68,
+      "velocity": 5.847,
+      "velocity_label": "exploding",
+      "combined_score": 9.94
+    },
+    {
+      "title": "Touring the Consensus, Six Months In",
+      "url": "https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 5.65,
+      "velocity_label": "exploding",
+      "combined_score": 3.25
+    },
+    {
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.01,
+      "velocity": 5.529,
+      "velocity_label": "exploding",
+      "combined_score": 13.96
+    },
+    {
+      "title": "Transmission has been forked as \"ReTransmission\"",
+      "url": "https://github.com/transmission/transmission/discussions/9031",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.59,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 7.87
+    },
+    {
+      "title": "Crickets as pets",
+      "url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.43,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 19.07
+    },
+    {
+      "title": "The Problem with Vibe-Coded Flattery",
+      "url": "https://tedium.co/2026/08/09/vibe-coding-insincerity/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Banking AI XSS: The exploit is in the payment reference",
+      "url": "https://positive.security/blog/banking-ai-xss",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.2,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.64,
+      "velocity": 5.017,
+      "velocity_label": "exploding",
+      "combined_score": 83.28
+    },
+    {
+      "title": "Apple M1 Series SoCs to See ~1 Watt Power Savings with Linux 7.3",
+      "url": "https://www.phoronix.com/news/Apple-M1-Power-Savings-Linux-73",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.828,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "The main way I've seen people turn ideologically crazy (2025)",
+      "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.2,
+      "velocity": 4.807,
+      "velocity_label": "exploding",
+      "combined_score": 38.46
     },
     {
       "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
       "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.71,
-      "velocity": 6.409,
+      "base_score": 3.94,
+      "velocity": 4.755,
       "velocity_label": "exploding",
-      "combined_score": 59.44
+      "combined_score": 46.84
     },
     {
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "title": "Show HN: I made alchemical-cosmological PCB badges",
+      "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.92,
-      "velocity": 6.224,
+      "base_score": 0.2,
+      "velocity": 4.53,
       "velocity_label": "exploding",
-      "combined_score": 29.87
+      "combined_score": 2.27
     },
     {
-      "title": "We Build an Autonomous SRE Agent for Kubernetes Deployments",
-      "url": "https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments",
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.19,
+      "base_score": 3.48,
+      "velocity": 4.429,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 38.53
     },
     {
-      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "url": "https://kibotronics.net/unlisted/lilly-machines/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.98,
-      "velocity": 6.091,
-      "velocity_label": "exploding",
-      "combined_score": 45.38
-    },
-    {
-      "title": "Scaling Logical Reasoning on Modern HPC Hardware",
-      "url": "https://surface.syr.edu/etd/2351/",
+      "title": "Training was just a side effect",
+      "url": "https://fffej.substack.com/p/training-was-just-a-side-effect",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.075,
+      "velocity": 4.167,
       "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "'Every millimetre counts': Inside the beast tunnelling under Sydney Harbour",
-      "url": "https://www.smh.com.au/national/nsw/every-millimetre-counts-inside-the-beast-tunnelling-under-sydney-harbour-20260804-p60la1.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.879,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Dark mode toggles: two states are enough",
-      "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.806,
-      "velocity_label": "exploding",
-      "combined_score": 0.58
-    },
-    {
-      "title": "Why Wall Street is ignoring big tech's debt [video]",
-      "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.13,
-      "velocity": 5.357,
-      "velocity_label": "exploding",
-      "combined_score": 41.92
-    },
-    {
-      "title": "The Ambition Project",
-      "url": "https://www.betonit.ai/p/the-ambition-project",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.35,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 4.59
+      "combined_score": 0.1
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
-  "personal_relevance": [
+  "linguistic_voids": [
     {
-      "title": "Who Should Pay for Source Code Availability?",
-      "url": "https://kristoff.it/blog/source-code-availability/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.111,
-      "matching_tags": [
-        "code",
-        "source"
+      "concept_cluster": [
+        "30b",
+        "glimmer",
+        "local",
+        "meta",
+        "model",
+        "muse",
+        "open",
+        "weight"
+      ],
+      "concept_hint": "30b + glimmer + local + meta",
+      "cluster_size": 8,
+      "discussion_count": 3,
+      "void_score": 36.0,
+      "examples": [
+        {
+          "title": "Meta Muse Glimmer – open weights 30B local coding model",
+          "source": "hackernews",
+          "matching_keywords": [
+            "30b",
+            "glimmer",
+            "local",
+            "meta",
+            "model",
+            "muse",
+            "open"
+          ]
+        },
+        {
+          "title": "Meta's new open-weight model targets local agentic AI",
+          "source": "hackernews",
+          "matching_keywords": [
+            "local",
+            "meta",
+            "model",
+            "open",
+            "weight"
+          ]
+        },
+        {
+          "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
+          "source": "hackernews",
+          "matching_keywords": [
+            "30b",
+            "glimmer",
+            "meta",
+            "model",
+            "muse",
+            "open",
+            "weight"
+          ]
+        }
       ]
-    },
+    }
+  ],
+  "personal_relevance": [
     {
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.7,
+      "score": 6.41,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "TheoremDB – A public workspace for machine mathematics",
-      "url": "https://theoremdb.org/",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.21,
+      "score": 4.46,
       "relevance": 0.056,
       "matching_tags": [
-        "machine"
+        "open"
+      ]
+    },
+    {
+      "title": "Influencers face backlash over Meta 'pervert glasses' content",
+      "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.38,
+      "relevance": 0.056,
+      "matching_tags": [
+        "content"
+      ]
+    },
+    {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.19,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "Meta releases Muse Glimmer, 30B parameter open-weight edge model",
+      "url": "https://twitter.com/finkd/status/2086755195535413696",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.12,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.07,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "Training was just a side effect",
+      "url": "https://fffej.substack.com/p/training-was-just-a-side-effect",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "side"
       ]
     }
   ]
