@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-15T06:31:56.822174+00:00",
-  "scrape_timestamp": "2026-08-15T06:30:28.612054+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-08-15T12:30:39.813917+00:00",
+  "scrape_timestamp": "2026-08-15T12:29:09.023826+00:00",
+  "total_items_analyzed": 90,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 90,
       "status": "ok"
     },
     "twitter": {
@@ -27,567 +27,540 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "The Ploopy A+ Trackball Is Here",
-      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.47,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 66.15
-    },
-    {
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.43,
+      "base_score": 2.58,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 64.35
+      "combined_score": 116.1
     },
     {
-      "title": "Super Mario Derivations",
-      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.07,
-      "velocity": 18.0,
+      "base_score": 4.17,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 48.15
-    },
-    {
-      "title": "Racket v9.3",
-      "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.68,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 30.6
-    },
-    {
-      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-      "url": "https://arxiv.org/abs/2608.11158",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.56,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 25.2
-    },
-    {
-      "title": "Did the AI Bubble Just Pop?",
-      "url": "https://www.youtube.com/watch?v=wrFH8PvDPFE",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.45
-    },
-    {
-      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-      "url": "https://arxiv.org/abs/1811.03459",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.07,
-      "velocity": 16.1,
-      "velocity_label": "exploding",
-      "combined_score": 43.07
-    },
-    {
-      "title": "ICTP Announces 2026 Dirac Medal Recipients (Physics)",
-      "url": "https://www.ictp.it/news/2026/8/ictp-announces-2026-dirac-medal-recipients",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 13.646,
-      "velocity_label": "exploding",
-      "combined_score": 5.12
-    },
-    {
-      "title": "The End of Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.23,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 7.62
-    },
-    {
-      "title": "High-Performance Array-Backed LRU Hash Table",
-      "url": "https://github.com/adanil-code/LRUHashTable",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.21,
-      "velocity": 12.004,
-      "velocity_label": "exploding",
-      "combined_score": 6.3
-    },
-    {
-      "title": "Open WireGuard Endpoints",
-      "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.47,
-      "velocity": 11.906,
-      "velocity_label": "exploding",
-      "combined_score": 13.99
-    },
-    {
-      "title": "A humble cabbage became one of the Forbidden City’s treasures (2025)",
-      "url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.79,
-      "velocity": 11.817,
-      "velocity_label": "exploding",
-      "combined_score": 23.34
-    },
-    {
-      "title": "Every exterior shot in The Taking of Pelham 123",
-      "url": "https://iafisher.com/2026/07/pelham-123",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.49,
-      "velocity": 11.475,
-      "velocity_label": "exploding",
-      "combined_score": 14.06
-    },
-    {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.0,
-      "velocity": 11.35,
-      "velocity_label": "exploding",
-      "combined_score": 141.88
-    },
-    {
-      "title": "Stop sending me huge PRs; a rant",
-      "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.24,
-      "velocity": 11.244,
-      "velocity_label": "exploding",
-      "combined_score": 62.97
-    },
-    {
-      "title": "Show HN: Ember – Redshift safe color palettes",
-      "url": "https://github.com/carpdiem/ember",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.15,
-      "velocity": 10.842,
-      "velocity_label": "exploding",
-      "combined_score": 31.17
-    },
-    {
-      "title": "I close SSH port 22 (and what I use instead)",
-      "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.31,
-      "velocity": 10.156,
-      "velocity_label": "exploding",
-      "combined_score": 33.26
-    },
-    {
-      "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
-      "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 9.554,
-      "velocity_label": "exploding",
-      "combined_score": 0.48
-    },
-    {
-      "title": "Patterns and Problems in Multiagent Systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.45,
-      "velocity_label": "exploding",
-      "combined_score": 0.24
-    },
-    {
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.81,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 59.71
-    },
-    {
-      "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
-      "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.35,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 28.69
-    },
-    {
-      "title": "Robots That Walk and Talk Are Coming to Car Factories",
-      "url": "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.361,
-      "velocity_label": "exploding",
-      "combined_score": 0.55
-    },
-    {
-      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
-      "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.38,
-      "velocity": 7.36,
-      "velocity_label": "exploding",
-      "combined_score": 25.39
+      "combined_score": 154.64
     },
     {
       "title": "destruction-certificate.txt",
       "url": "https://stallman.org/articles/destruction-certificate.txt",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.09,
-      "velocity": 7.333,
+      "base_score": 0.47,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 1.65
-    },
-    {
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.71,
-      "velocity": 6.987,
-      "velocity_label": "exploding",
-      "combined_score": 12.4
-    },
-    {
-      "title": "Earth.nullschool.net",
-      "url": "https://earth.nullschool.net/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.09,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 18.85
-    },
-    {
-      "title": "Hacking Fiber to the Home",
-      "url": "https://hackaday.com/2026/08/13/hacking-fiber-to-the-home/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.786,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "url": "https://luacad.ad-si.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.15,
-      "velocity": 6.62,
-      "velocity_label": "exploding",
-      "combined_score": 19.03
-    },
-    {
-      "title": "Ultraviolet Bird Photography",
-      "url": "https://uvbirds.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.69,
-      "velocity": 6.6,
-      "velocity_label": "exploding",
-      "combined_score": 27.89
-    },
-    {
-      "title": "Show HN: A website for exploring historical photographs of my city",
-      "url": "https://yesterdays.maprva.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.3,
-      "velocity": 6.547,
-      "velocity_label": "exploding",
-      "combined_score": 4.91
+      "combined_score": 17.43
     },
     {
       "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
       "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.43,
-      "velocity": 6.5,
+      "base_score": 0.74,
+      "velocity": 13.567,
       "velocity_label": "exploding",
-      "combined_score": 6.99
+      "combined_score": 25.1
     },
     {
-      "title": "WhatCable: Know what your USB-C cable can do",
-      "url": "https://www.whatcable.uk/",
+      "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
+      "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.91,
-      "velocity": 6.283,
+      "base_score": 1.36,
+      "velocity": 12.948,
       "velocity_label": "exploding",
-      "combined_score": 30.0
+      "combined_score": 44.02
     },
     {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.28,
-      "velocity": 6.2,
+      "base_score": 2.83,
+      "velocity": 11.92,
       "velocity_label": "exploding",
-      "combined_score": 66.34
+      "combined_score": 84.33
+    },
+    {
+      "title": "The Color of White Light",
+      "url": "https://ludens.cl/photo/spectra/spectra.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 11.667,
+      "velocity_label": "exploding",
+      "combined_score": 2.04
+    },
+    {
+      "title": "If Star Wars had a $10 Budget [video]",
+      "url": "https://www.youtube.com/watch?v=0qy8Bnb9C1o",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 11.469,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Coin-sized device can hack a Boeing 737",
+      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.03,
+      "velocity": 10.743,
+      "velocity_label": "exploding",
+      "combined_score": 54.52
+    },
+    {
+      "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
+      "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.12,
+      "velocity": 10.631,
+      "velocity_label": "exploding",
+      "combined_score": 29.77
     },
     {
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
       "url": "https://chenxiachan.github.io/thoughtdag/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.175,
+      "base_score": 0.73,
+      "velocity": 10.356,
       "velocity_label": "exploding",
-      "combined_score": 0.62
+      "combined_score": 18.9
     },
     {
-      "title": "Behold the 'glueball,' a new form of matter",
-      "url": "https://www.science.org/content/article/behold-glueball-strange-new-form-matter",
+      "title": "Understanding WCAG 2.2 as ePub and PDF",
+      "url": "https://doeken.org/wcag-ebook",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.35,
+      "velocity": 9.846,
+      "velocity_label": "exploding",
+      "combined_score": 8.62
+    },
+    {
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.82,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 38.67
+    },
+    {
+      "title": "Super Mario Derivations",
+      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 29.32
+    },
+    {
+      "title": "Racket v9.3",
+      "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.18,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 25.07
+    },
+    {
+      "title": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.96,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 41.65
+    },
+    {
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "url": "https://arxiv.org/abs/2608.11158",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.57,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 12.11
+    },
+    {
+      "title": "Title: Show HN: Gitoro – European Git Hosting, CI/CD and Collaboration Platform",
+      "url": "https://gitoro.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 8.166,
+      "velocity_label": "exploding",
+      "combined_score": 0.82
+    },
+    {
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.52,
+      "velocity": 8.162,
+      "velocity_label": "exploding",
+      "combined_score": 10.61
+    },
+    {
+      "title": "The Non-Orientability of OAuth (2024)",
+      "url": "https://workshop.vennfactory.com/p/the-non-orientability-of-oauth",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.0,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Show HN: A website for exploring historical photographs of my city",
+      "url": "https://yesterdays.maprva.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.42,
+      "velocity": 7.536,
+      "velocity_label": "exploding",
+      "combined_score": 7.91
+    },
+    {
+      "title": "Truth is no stranger to fiction",
+      "url": "https://vincemichael.com/2026/06/18/truth-is-no-stranger-to-fiction/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Neural Networks: Backpropagation Concept with Manual Calculation",
+      "url": "https://medium.easyread.co/neural-networks-backpropagation-concept-with-manual-calculation-748ac0f53783",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Execution Is Getting Cheap Faster Than Verification Is",
+      "url": "https://bharatsharma.pro/articles/execution-is-cheap-verification-isnt",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.042,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "A humble cabbage became one of the Forbidden City’s treasures (2025)",
+      "url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.8,
+      "velocity": 6.669,
+      "velocity_label": "exploding",
+      "combined_score": 13.34
+    },
+    {
+      "title": "Europe is stuck between \"rock and a hard place\" on launch costs & rocket reuse",
+      "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.658,
+      "velocity_label": "exploding",
+      "combined_score": 0.67
+    },
+    {
+      "title": "Show HN: Ember – Redshift safe color palettes",
+      "url": "https://github.com/carpdiem/ember",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.28,
+      "velocity": 6.428,
+      "velocity_label": "exploding",
+      "combined_score": 20.57
+    },
+    {
+      "title": "AI Just Had Another Math Breakthrough–With Help from a High-School Dropout",
+      "url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.393,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "STL Studio – a free, self-hosted library manager for 3D print files",
+      "url": "https://github.com/RBStephenson/STL-Studio",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.183,
       "velocity_label": "exploding",
       "combined_score": 0.15
     },
     {
-      "title": "An Autonomous Framework for Systematic Factor Invest via Agentic AI",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.898,
-      "velocity_label": "exploding",
-      "combined_score": 0.29
-    },
-    {
-      "title": "Israel's done little to rein in spiraling settler violence against Palestinians",
-      "url": "https://apnews.com/article/israel-palestinians-settler-violence-us-siege-west-bank-bd4ae76cec1773c1c09233cc0b33a378",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.827,
-      "velocity_label": "exploding",
-      "combined_score": 0.58
-    },
-    {
-      "title": "Seven books I keep close because I love them",
-      "url": "https://blog.plover.com/2026/08/02/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.71,
-      "velocity": 5.745,
-      "velocity_label": "exploding",
-      "combined_score": 82.01
-    },
-    {
-      "title": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east",
+      "title": "Show HN: DigitalEscapeTools – Privacy Tools",
+      "url": "https://github.com/abdomk1998/awesome-digital-escape-tools",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.533,
+      "velocity": 6.141,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
+      "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.47,
+      "velocity": 5.967,
+      "velocity_label": "exploding",
+      "combined_score": 21.93
+    },
+    {
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 5.896,
+      "velocity_label": "exploding",
+      "combined_score": 7.22
+    },
+    {
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 5.693,
+      "velocity_label": "exploding",
+      "combined_score": 6.69
+    },
+    {
+      "title": "z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point",
+      "url": "https://nand2mario.github.io/posts/2026/z486/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 5.684,
+      "velocity_label": "exploding",
+      "combined_score": 0.99
+    },
+    {
+      "title": "Show HN: Website Font Usage Explorer",
+      "url": "https://explorer.withfudge.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.505,
       "velocity_label": "exploding",
       "combined_score": 0.14
     },
     {
-      "title": "Differential Heuristics",
-      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+      "title": "T3X/0 a Minimal Procedural Language",
+      "url": "https://t3x.org/t3x/0/index.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.36,
+      "base_score": 0.01,
+      "velocity": 5.426,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.05,
       "velocity": 5.333,
       "velocity_label": "exploding",
-      "combined_score": 18.13
+      "combined_score": 40.67
     },
     {
-      "title": "The TEMU-Fication of Software, Digital Goods and Services",
-      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
+      "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.17,
-      "velocity": 5.313,
+      "base_score": 1.59,
+      "velocity": 5.333,
       "velocity_label": "exploding",
-      "combined_score": 42.11
+      "combined_score": 21.2
     },
     {
-      "title": "Backtesting Congress members stock trades by the disclosure date",
-      "url": "https://investingpaths.com/tools/congress",
+      "title": "Writing and Reading Practices Revisited",
+      "url": "https://www.laviniamarin.eu/writing-and-reading-practices-revisited/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 5.214,
+      "base_score": 0.01,
+      "velocity": 5.25,
       "velocity_label": "exploding",
-      "combined_score": 0.91
+      "combined_score": 0.13
     },
     {
-      "title": "Google Opens the Gates of AI Slop Hell",
-      "url": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.075,
+      "base_score": 1.07,
+      "velocity": 5.056,
       "velocity_label": "exploding",
-      "combined_score": 0.76
+      "combined_score": 13.52
     },
     {
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
+      "title": "Earth.nullschool.net",
+      "url": "https://earth.nullschool.net/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.4,
-      "velocity": 5.034,
+      "base_score": 1.15,
+      "velocity": 4.489,
       "velocity_label": "exploding",
-      "combined_score": 5.03
+      "combined_score": 12.91
     },
     {
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.69,
-      "velocity": 4.96,
+      "base_score": 0.08,
+      "velocity": 4.356,
       "velocity_label": "exploding",
-      "combined_score": 33.36
+      "combined_score": 0.87
     },
     {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "url": "https://luacad.ad-si.com",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.79,
-      "velocity": 4.728,
+      "base_score": 1.21,
+      "velocity": 4.316,
       "velocity_label": "exploding",
-      "combined_score": 9.34
+      "combined_score": 13.06
     },
     {
-      "title": "Global Mastercard outage stopping shopping in Sydney",
-      "url": "https://www.smh.com.au/national/global-mastercard-outage-stopping-shopping-in-sydney-20260815-p60omk.html",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.667,
+      "base_score": 6.22,
+      "velocity": 4.308,
       "velocity_label": "exploding",
-      "combined_score": 0.47
+      "combined_score": 66.99
     },
     {
-      "title": "Show HN: Local Duolingo like course authoring for independent creators",
-      "url": "https://www.asakiri.com/",
+      "title": "Ultraviolet Bird Photography",
+      "url": "https://uvbirds.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.645,
+      "base_score": 1.94,
+      "velocity": 4.278,
       "velocity_label": "exploding",
-      "combined_score": 0.46
+      "combined_score": 20.75
     },
     {
-      "title": "Game Developers Conference – Royalty Free Sound Effects",
-      "url": "https://sonniss.com/gameaudiogdc/",
+      "title": "The mathematical beauty of hyperbezier curves",
+      "url": "https://linebender.org/blog/hyperbezier/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.23,
-      "velocity": 4.504,
+      "base_score": 0.38,
+      "velocity": 4.26,
       "velocity_label": "exploding",
-      "combined_score": 2.59
+      "combined_score": 4.05
     },
     {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "title": "SXSW 2008: Download Squad and Google OpenSocial [video]",
+      "url": "https://www.youtube.com/watch?v=--pAsR70_5U",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.54,
-      "velocity": 4.462,
+      "base_score": 0.01,
+      "velocity": 4.22,
       "velocity_label": "exploding",
-      "combined_score": 72.96
+      "combined_score": 0.11
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.04,
+      "velocity": 4.154,
+      "velocity_label": "exploding",
+      "combined_score": 52.35
+    },
+    {
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.75,
+      "velocity": 4.036,
+      "velocity_label": "exploding",
+      "combined_score": 7.57
+    },
+    {
+      "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
+      "url": "https://silentshark.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 3.871,
+      "velocity_label": "exploding",
+      "combined_score": 6.68
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "agents",
-        "coding",
-        "local",
-        "show"
-      ],
-      "concept_hint": "agents + coding + local + show",
-      "cluster_size": 4,
-      "discussion_count": 4,
-      "void_score": 24.0,
-      "examples": [
-        {
-          "title": "Show HN: Bernstein – run 44 CLI coding agents from one deterministic scheduler",
-          "source": "hackernews",
-          "matching_keywords": [
-            "agents",
-            "coding",
-            "show"
-          ]
-        },
-        {
-          "title": "Show HN: Local Duolingo like course authoring for independent creators",
-          "source": "hackernews",
-          "matching_keywords": [
-            "local",
-            "show"
-          ]
-        },
-        {
-          "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-          "source": "hackernews",
-          "matching_keywords": [
-            "agents",
-            "local",
-            "show"
-          ]
-        },
-        {
-          "title": "Show HN: NexusMem – local memory for coding agents, not just Git log",
-          "source": "hackernews",
-          "matching_keywords": [
-            "agents",
-            "coding",
-            "local",
-            "show"
-          ]
-        }
-      ]
-    }
-  ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
       "title": "Ntfy – open-source Push to Mobile",
       "url": "https://ntfy.sh/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.52,
+      "score": 1.61,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Open source, audited by GLM-5.3",
+      "url": "https://huggingface.co/spaces/zai-org/OpenVuln",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Unsession.dev – open-source session management",
+      "url": "https://unsession.dev/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -599,7 +572,7 @@
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.0,
+      "score": 6.22,
       "relevance": 0.056,
       "matching_tags": [
         "hacking"
@@ -610,32 +583,32 @@
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.45,
+      "score": 4.58,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Open WireGuard Endpoints",
-      "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+      "title": "Show HN: DigitalEscapeTools – Privacy Tools",
+      "url": "https://github.com/abdomk1998/awesome-digital-escape-tools",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.47,
+      "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "tools"
       ]
     },
     {
-      "title": "Hacking Fiber to the Home",
-      "url": "https://hackaday.com/2026/08/13/hacking-fiber-to-the-home/",
+      "title": "Dual Battery Automation in Home Assistant (Part 2)",
+      "url": "https://du.nkel.dev/blog/2026-07-26_dual_battery_automation/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.02,
+      "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "hacking"
+        "automation"
       ]
     }
   ]
