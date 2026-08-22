@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-22T06:34:17.126071+00:00",
-  "scrape_timestamp": "2026-08-22T06:32:11.627806+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-08-22T12:31:26.453935+00:00",
+  "scrape_timestamp": "2026-08-22T12:30:02.846707+00:00",
+  "total_items_analyzed": 87,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 87,
       "status": "ok"
     },
     "twitter": {
@@ -27,566 +27,516 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Zig's Io.Threaded Is Neat",
-      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "title": "Ozone: The fault is not in our trees, but in ourselves",
+      "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.45,
-      "velocity": 18.0,
+      "base_score": 0.34,
+      "velocity": 19.583,
       "velocity_label": "exploding",
-      "combined_score": 20.25
+      "combined_score": 16.65
     },
     {
-      "title": "People of ACM – Russ Cox",
-      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.42,
-      "velocity": 13.682,
-      "velocity_label": "exploding",
-      "combined_score": 48.57
-    },
-    {
-      "title": "Run 290B+ frontier MoE models locally on your gaming PC",
-      "url": "https://github.com/FlashML-org/FreeToken",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 13.657,
-      "velocity_label": "exploding",
-      "combined_score": 6.83
-    },
-    {
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.66,
-      "velocity": 12.933,
-      "velocity_label": "exploding",
-      "combined_score": 53.67
-    },
-    {
-      "title": "GitHub, autoscaling, and the component substitution fallacy",
-      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.47,
-      "velocity": 10.662,
-      "velocity_label": "exploding",
-      "combined_score": 12.53
-    },
-    {
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "title": "What Shape Is a Bubble?",
+      "url": "https://negroniventurestudios.com/2026/07/27/what-shape-is-a-bubble/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 10.542,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 0.26
+      "combined_score": 0.37
     },
     {
-      "title": "Stop Making TUIs",
-      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "title": "Galactic Compass 2: now with new augmented reality mode",
+      "url": "https://interconnected.org/home/2026/08/21/galactic",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.93,
-      "velocity": 9.978,
+      "base_score": 0.19,
+      "velocity": 12.957,
       "velocity_label": "exploding",
-      "combined_score": 73.09
-    },
-    {
-      "title": "A look under our trunk: what's in our compute",
-      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.17,
-      "velocity": 9.405,
-      "velocity_label": "exploding",
-      "combined_score": 51.02
-    },
-    {
-      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.72,
-      "velocity": 9.133,
-      "velocity_label": "exploding",
-      "combined_score": 107.77
-    },
-    {
-      "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
-      "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 8.921,
-      "velocity_label": "exploding",
-      "combined_score": 0.89
-    },
-    {
-      "title": "New U.S. tariffs in effect after trade talks fail",
-      "url": "https://www.cbc.ca/news/world/livestory/midnight-deadline-trump-tariffs-trade-deal-leblanc-greer-9.7310605",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.9,
-      "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
-      "url": "https://tumbleforth.hardcoded.net/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.86,
-      "velocity": 8.817,
-      "velocity_label": "exploding",
-      "combined_score": 18.96
-    },
-    {
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.36,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 177.65
-    },
-    {
-      "title": "Quantifying the honey bee dance floor",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.28,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 5.95
-    },
-    {
-      "title": "How Thailand Resisted Colonization",
-      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.32,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 6.8
-    },
-    {
-      "title": "OTel isn't going well (and I made a spreadsheet about it)",
-      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.28,
-      "velocity": 8.473,
-      "velocity_label": "exploding",
-      "combined_score": 27.11
-    },
-    {
-      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-      "url": "https://github.com/peterkelly/rex",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.21,
-      "velocity": 8.284,
-      "velocity_label": "exploding",
-      "combined_score": 4.35
-    },
-    {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.55,
-      "velocity": 8.259,
-      "velocity_label": "exploding",
-      "combined_score": 32.0
-    },
-    {
-      "title": "Canada vows to match Trump's 50% tariffs after trade deal talks fail",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.256,
-      "velocity_label": "exploding",
-      "combined_score": 0.62
+      "combined_score": 6.15
     },
     {
       "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
       "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.29,
-      "velocity": 8.1,
+      "base_score": 1.96,
+      "velocity": 12.458,
       "velocity_label": "exploding",
-      "combined_score": 26.12
+      "combined_score": 61.05
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.81,
+      "velocity": 10.833,
+      "velocity_label": "exploding",
+      "combined_score": 265.69
+    },
+    {
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.46,
+      "velocity": 10.229,
+      "velocity_label": "exploding",
+      "combined_score": 11.76
+    },
+    {
+      "title": "How to Fingerprint AI Models When Prompts Lie",
+      "url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.883,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "Meteoric – Drones that clear clouds over solar farms",
+      "url": "https://meteoric.earth/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "The faces behind the feeds: Gen Z's private lives and public posts – in pictures",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/22/the-faces-behind-the-feeds-gen-zs-private-lives-and-public-posts-in-pictures",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.167,
+      "velocity_label": "exploding",
+      "combined_score": 0.23
+    },
+    {
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.59,
+      "velocity": 8.852,
+      "velocity_label": "exploding",
+      "combined_score": 13.06
+    },
+    {
+      "title": "Zig’s io.threaded is neat",
+      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.66,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 35.27
+    },
+    {
+      "title": "A map of individual trees in NYC at the genus level",
+      "url": "https://nyctreegenusmap.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.465,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Rich User Experience, UX and Desktopization of War",
+      "url": "https://contemporary-home-computing.org/RUE/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.433,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "ESP32 Firmware Development with Docker Sandboxes",
+      "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 8.222,
+      "velocity_label": "exploding",
+      "combined_score": 9.66
+    },
+    {
+      "title": "Dashboard Touch, a build-your-own version of Touch ID",
+      "url": "https://www.anildash.com/2026/08/20/introducing-dashboard-touch/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.139,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.76,
+      "velocity": 6.853,
+      "velocity_label": "exploding",
+      "combined_score": 47.29
+    },
+    {
+      "title": "People of ACM – Russ Cox",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.64,
+      "velocity": 6.557,
+      "velocity_label": "exploding",
+      "combined_score": 26.88
+    },
+    {
+      "title": "Mark Zuckerberg Buys an Irish Castle",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "Why trauma changes how our memory engages with our conscious experience",
+      "url": "https://www.scientificamerican.com/article/why-trauma-changes-how-our-memory-engages-with-our-conscious-experience/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.399,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Show HN: 2 Weeks 1-on-1 Web Design Mentorship Program (Registration Open)",
+      "url": "https://web-studio-mentorship.vercel.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.85,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Compile-time improvements in LLVM 23",
+      "url": "https://aengelke.net/llvm23-ct.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.778,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Run 290B+ frontier MoE models locally on your gaming PC",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.26,
+      "velocity": 5.777,
+      "velocity_label": "exploding",
+      "combined_score": 3.76
+    },
+    {
+      "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+      "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.738,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.78,
+      "velocity": 5.477,
+      "velocity_label": "exploding",
+      "combined_score": 51.76
+    },
+    {
+      "title": "GitHub, autoscaling, and the component substitution fallacy",
+      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.52,
+      "velocity": 5.456,
+      "velocity_label": "exploding",
+      "combined_score": 7.09
+    },
+    {
+      "title": "How Thailand Resisted Colonization",
+      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.52,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 6.93
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.1,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 134.67
+    },
+    {
+      "title": "A look under our trunk: what's in our compute",
+      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.45,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 32.67
+    },
+    {
+      "title": "PRóspera, the libertarian utopia off the coast of Honduras",
+      "url": "https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.2,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.09,
+      "velocity": 5.192,
+      "velocity_label": "exploding",
+      "combined_score": 14.15
+    },
+    {
+      "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
+      "url": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 4.91,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.01,
+      "velocity": 4.875,
+      "velocity_label": "exploding",
+      "combined_score": 73.25
+    },
+    {
+      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
+      "url": "https://tumbleforth.hardcoded.net/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.95,
+      "velocity": 4.863,
+      "velocity_label": "exploding",
+      "combined_score": 11.55
+    },
+    {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 4.859,
+      "velocity_label": "exploding",
+      "combined_score": 8.38
+    },
+    {
+      "title": "Construction Physics: Los Angeles' ADUs, electrical transformer manufacturing",
+      "url": "https://www.construction-physics.com/p/reading-list-082226",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
     },
     {
       "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
       "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.65,
-      "velocity": 7.914,
+      "base_score": 0.66,
+      "velocity": 4.822,
       "velocity_label": "exploding",
-      "combined_score": 12.86
+      "combined_score": 7.96
     },
     {
-      "title": "How orchids inspired the work of Charles Darwin",
-      "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 7.686,
-      "velocity_label": "exploding",
-      "combined_score": 2.69
-    },
-    {
-      "title": "Ozone: The fault is not in our trees, but in ourselves",
-      "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 3.81
-    },
-    {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 16.13,
-      "velocity": 7.086,
-      "velocity_label": "exploding",
-      "combined_score": 285.76
-    },
-    {
-      "title": "SpessaSynth: SF2/DLS JavaScript Synthesizer Online Demo",
-      "url": "https://spessasus.github.io/SpessaSynth/",
+      "title": "Apexyx Mesh: offline agent mesh for Termux/Android with 421 hermetic self-tests",
+      "url": "https://github.com/xhall-beep/ApexYX-Sovereign",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.048,
+      "velocity": 4.822,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 0.12
     },
     {
-      "title": "Everyone says assembly is untyped—everyone is wrong",
-      "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+      "title": "The spelled-out intro to NNs and backpropagation: building micrograd [video]",
+      "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.95,
-      "velocity": 7.016,
+      "base_score": 0.01,
+      "velocity": 4.733,
       "velocity_label": "exploding",
-      "combined_score": 16.66
+      "combined_score": 0.12
     },
     {
-      "title": "How I came to write that paper with Leslie Lamport",
-      "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.62,
-      "velocity": 6.811,
+      "base_score": 5.92,
+      "velocity": 4.655,
       "velocity_label": "exploding",
-      "combined_score": 10.56
+      "combined_score": 68.89
     },
     {
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.76,
-      "velocity": 6.747,
+      "base_score": 5.03,
+      "velocity": 4.542,
       "velocity_label": "exploding",
-      "combined_score": 97.16
-    },
-    {
-      "title": "Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff",
-      "url": "https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 6.572,
-      "velocity_label": "exploding",
-      "combined_score": 1.15
+      "combined_score": 57.11
     },
     {
       "title": "I ran Photoshop on a £0.60 computer chip",
       "url": "https://pointinthecloud.com/2026-08-19-144600.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.85,
-      "velocity": 6.521,
+      "base_score": 2.0,
+      "velocity": 4.542,
       "velocity_label": "exploding",
-      "combined_score": 30.16
+      "combined_score": 22.71
     },
     {
-      "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
-      "url": "https://news.ycombinator.com/item?id=49397022",
+      "title": "Show HN: Mread – Read Paid Medium Article For Free in Terminal",
+      "url": "https://github.com/mukundzha/mread",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 6.46,
+      "base_score": 0.03,
+      "velocity": 4.519,
       "velocity_label": "exploding",
-      "combined_score": 0.97
+      "combined_score": 0.34
     },
     {
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 10.0,
-      "velocity": 6.125,
+      "base_score": 6.83,
+      "velocity": 4.502,
       "velocity_label": "exploding",
-      "combined_score": 153.12
+      "combined_score": 76.87
     },
     {
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.46,
-      "velocity": 6.072,
+      "base_score": 17.14,
+      "velocity": 4.502,
       "velocity_label": "exploding",
-      "combined_score": 113.25
-    },
-    {
-      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.07,
-      "velocity": 5.992,
-      "velocity_label": "exploding",
-      "combined_score": 180.8
-    },
-    {
-      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
-      "url": "https://krishna-modi12.github.io/frontend-design-pro/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.828,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Silicon Valley Executives Are Tech Fans. Just Not for Their Kids",
-      "url": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 5.725,
-      "velocity_label": "exploding",
-      "combined_score": 1.29
-    },
-    {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 19.46,
-      "velocity": 5.674,
-      "velocity_label": "exploding",
-      "combined_score": 276.04
-    },
-    {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.08,
-      "velocity": 5.468,
-      "velocity_label": "exploding",
-      "combined_score": 14.76
+      "combined_score": 192.91
     },
     {
       "title": "Using an old Android phone as a music player",
       "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.82,
-      "velocity": 5.421,
-      "velocity_label": "exploding",
-      "combined_score": 11.11
-    },
-    {
-      "title": "How e‐Paper works and how to work with it",
-      "url": "https://github.com/bitbank2/bb_epaper/wiki/How-e%E2%80%90Paper-works-and-how-to-work-with-it",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.384,
-      "velocity_label": "exploding",
-      "combined_score": 0.27
-    },
-    {
-      "title": "The road to ACID transactions in Cassandra 6",
-      "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-      "source": "hackernews",
-      "category": "tech",
       "base_score": 0.96,
-      "velocity": 5.379,
+      "velocity": 4.46,
       "velocity_label": "exploding",
-      "combined_score": 12.91
+      "combined_score": 10.7
     },
     {
-      "title": "Flat Chair by Sara Paculdo",
-      "url": "https://paculdo.com/innovative-housewares-inside-out-design-oliso/",
+      "title": "How orchids inspired the work of Charles Darwin",
+      "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.65,
-      "velocity": 5.333,
+      "base_score": 0.16,
+      "velocity": 4.278,
       "velocity_label": "exploding",
-      "combined_score": 22.0
+      "combined_score": 1.71
     },
     {
-      "title": "DuckDB V2 PEG-based SQL parser",
-      "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+      "url": "https://github.com/peterkelly/rex",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.71,
-      "velocity": 5.285,
+      "base_score": 0.28,
+      "velocity": 4.241,
       "velocity_label": "exploding",
-      "combined_score": 9.38
+      "combined_score": 2.97
     },
     {
-      "title": "GPT 5.6 Sol 20% price reduction",
-      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "title": "OTel isn’t going well",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.5,
-      "velocity": 5.254,
+      "base_score": 2.31,
+      "velocity": 4.231,
       "velocity_label": "exploding",
-      "combined_score": 6.57
+      "combined_score": 24.43
     },
     {
-      "title": "The coolest anti-surveillance tools at Defcon [video]",
-      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.18,
-      "velocity": 5.167,
+      "base_score": 1.64,
+      "velocity": 4.212,
       "velocity_label": "exploding",
-      "combined_score": 28.16
-    },
-    {
-      "title": "Origins of Self-Awareness – from experiencing consciousness to feeling grateful",
-      "url": "https://chatgpt.com/share/6a892f1d-1968-83e8-9471-018eb408ba2d",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.812,
-      "velocity_label": "exploding",
-      "combined_score": 0.48
+      "combined_score": 17.27
     },
     {
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.96,
-      "velocity": 4.728,
+      "base_score": 5.88,
+      "velocity": 4.138,
       "velocity_label": "exploding",
-      "combined_score": 58.63
-    },
-    {
-      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-      "url": "https://arxiv.org/abs/2608.19880",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.539,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Show HN: ScreenshotM8 – Full Page Screenshot Tool",
-      "url": "https://chromewebstore.google.com/detail/screenshotm8-screenshot-t/ocmjnpmhpndnpmgipknfbhcjdgokgiml",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.519,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.68,
-      "velocity": 4.447,
-      "velocity_label": "exploding",
-      "combined_score": 52.03
+      "combined_score": 60.82
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "canada",
-        "fail",
-        "match",
-        "talks",
-        "tariffs",
-        "trade"
-      ],
-      "concept_hint": "canada + fail + match + talks",
-      "cluster_size": 6,
-      "discussion_count": 3,
-      "void_score": 27.0,
-      "examples": [
-        {
-          "title": "New U.S. tariffs in effect after trade talks fail",
-          "source": "hackernews",
-          "matching_keywords": [
-            "fail",
-            "talks",
-            "tariffs",
-            "trade"
-          ]
-        },
-        {
-          "title": "Canada vows to match Trump's 50% tariffs after trade deal talks fail",
-          "source": "hackernews",
-          "matching_keywords": [
-            "canada",
-            "fail",
-            "match",
-            "talks",
-            "tariffs",
-            "trade"
-          ]
-        },
-        {
-          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-          "source": "hackernews",
-          "matching_keywords": [
-            "canada",
-            "match",
-            "talks",
-            "tariffs",
-            "trade"
-          ]
-        }
-      ]
-    }
-  ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
       "title": "The coolest anti-surveillance tools at Defcon [video]",
       "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.18,
+      "score": 2.65,
       "relevance": 0.056,
       "matching_tags": [
         "tools"
@@ -597,54 +547,32 @@
       "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.12,
+      "score": 1.17,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
       ]
     },
     {
-      "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
-      "url": "https://github.com/aravpanwar/decayfmt",
+      "title": "Show HN: 2 Weeks 1-on-1 Web Design Mentorship Program (Registration Open)",
+      "url": "https://web-studio-mentorship.vercel.app",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.79,
+      "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-      "url": "https://arxiv.org/abs/2608.19880",
+      "title": "Claude Code Adds Concise Output Style Option",
+      "url": "https://digg.com/tech/fktxxvtg",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
-      ]
-    },
-    {
-      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
-      "url": "https://krishna-modi12.github.io/frontend-design-pro/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "machine"
-      ]
-    },
-    {
-      "title": "Void Tools API – Blockchain Tools for AI Agents (Pay in Void Tokens)",
-      "url": "https://news.ycombinator.com/item?id=49396884",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
+        "code"
       ]
     }
   ]
