@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-29T20:21:47.949289+00:00",
-  "scrape_timestamp": "2026-08-29T20:20:08.202487+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-08-30T03:23:17.801694+00:00",
+  "scrape_timestamp": "2026-08-30T03:21:44.213533+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,18 +27,48 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Should the press \"run toward\" AI?",
-      "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 19.056,
+      "base_score": 4.13,
+      "velocity": 37.0,
       "velocity_label": "exploding",
-      "combined_score": 0.48
+      "combined_score": 382.02
     },
     {
-      "title": "vLLM v0.28.0",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "title": "Hy4 Preview",
+      "url": "https://hy.tencent.ai/research/hy4-preview",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 37.0,
+      "velocity_label": "exploding",
+      "combined_score": 2.77
+    },
+    {
+      "title": "Quantifying Colour",
+      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.86,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 38.7
+    },
+    {
+      "title": "Creating the Aetheryte Radio",
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.92,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 41.4
+    },
+    {
+      "title": "Kmart Digicam Mod Part 2",
+      "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.14,
@@ -47,484 +77,454 @@
       "combined_score": 6.3
     },
     {
-      "title": "Glacier Mice",
-      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "title": "LibreOffice 28.8",
+      "url": "https://en.libre-office.fr/article.php/libreoffice-26-8-release-key-features-you-need-to-know",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.73,
+      "base_score": 0.01,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 122.85
-    },
-    {
-      "title": "A safe MySQL upgrade that wasn't so safe",
-      "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 15.188,
-      "velocity_label": "exploding",
-      "combined_score": 0.76
-    },
-    {
-      "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
-      "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.65,
-      "velocity": 13.533,
-      "velocity_label": "exploding",
-      "combined_score": 21.99
-    },
-    {
-      "title": "You or Someone You Love Could Be Next",
-      "url": "https://robertreich.substack.com/p/you-or-someone-you-love-could-be",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 12.063,
-      "velocity_label": "exploding",
-      "combined_score": 0.9
-    },
-    {
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "url": "https://tucker.wales/writing/bias-towards-action/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.6,
-      "velocity": 11.583,
-      "velocity_label": "exploding",
-      "combined_score": 17.38
-    },
-    {
-      "title": "One Model, Many Views: Type-Safe Transforms with Valibot and Doba",
-      "url": "https://valibot.dev/blog/same-data-different-shapes/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 10.491,
-      "velocity_label": "exploding",
-      "combined_score": 0.79
-    },
-    {
-      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
-      "url": "https://galaxium.app",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.26,
-      "velocity": 10.044,
-      "velocity_label": "exploding",
-      "combined_score": 31.64
-    },
-    {
-      "title": "Europe's last regular standard-gauge steam passenger service",
-      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 9.671,
-      "velocity_label": "exploding",
-      "combined_score": 33.61
-    },
-    {
-      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
-      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.47,
-      "velocity": 9.1,
-      "velocity_label": "exploding",
-      "combined_score": 10.69
-    },
-    {
-      "title": "Monzo Stand-In",
-      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.02,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 42.92
-    },
-    {
-      "title": "AI and the Commons",
-      "url": "https://creativecommons.org/ai-and-the-commons/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.85
-    },
-    {
-      "title": "Manifesto – who we are and what do we want (2002)",
-      "url": "https://www.inventati.org/who/manifesto",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.72,
-      "velocity": 8.236,
-      "velocity_label": "exploding",
-      "combined_score": 35.42
-    },
-    {
-      "title": "Time complexity of operations on Python's built-in types",
-      "url": "https://docs.python.org/3.16/library/time-complexity.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.32,
-      "velocity": 8.175,
-      "velocity_label": "exploding",
-      "combined_score": 26.98
-    },
-    {
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.38,
-      "velocity": 7.369,
-      "velocity_label": "exploding",
-      "combined_score": 43.85
-    },
-    {
-      "title": "Syzygies and Higher Groupoids",
-      "url": "https://hidden-phenomena.com/articles/anima",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 17.2,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 297.42
-    },
-    {
-      "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
-      "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.49,
-      "velocity": 6.811,
-      "velocity_label": "exploding",
-      "combined_score": 8.34
-    },
-    {
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.88,
-      "velocity": 6.69,
-      "velocity_label": "exploding",
-      "combined_score": 64.9
-    },
-    {
-      "title": "A better SQL in 11 lines of code",
-      "url": "https://prela-lang.org/tutorial/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.57,
-      "velocity": 6.517,
-      "velocity_label": "exploding",
-      "combined_score": 9.29
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 14.74,
-      "velocity": 6.442,
-      "velocity_label": "exploding",
-      "combined_score": 237.38
-    },
-    {
-      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.66,
-      "velocity": 6.209,
-      "velocity_label": "exploding",
-      "combined_score": 41.29
-    },
-    {
-      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.36,
-      "velocity": 6.125,
-      "velocity_label": "exploding",
-      "combined_score": 20.83
-    },
-    {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.125,
-      "velocity_label": "exploding",
-      "combined_score": 0.46
-    },
-    {
-      "title": "Slop.speak – translate human speak to AI slop",
-      "url": "https://slop-speak.pages.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.083,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.72,
-      "velocity": 6.064,
-      "velocity_label": "exploding",
-      "combined_score": 26.08
-    },
-    {
-      "title": "There oughta be a Lego marble run",
-      "url": "https://there.oughta.be/a/lego-marble-run",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.042,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "EVE Online moves to Python 3",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.21,
-      "velocity": 6.022,
-      "velocity_label": "exploding",
-      "combined_score": 63.39
+      "combined_score": 0.45
     },
     {
       "title": "Nancy Grace Roman Space Telescope",
       "url": "https://science.nasa.gov/mission/roman-space-telescope/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.28,
-      "velocity": 5.55,
+      "base_score": 2.44,
+      "velocity": 14.411,
       "velocity_label": "exploding",
-      "combined_score": 17.76
+      "combined_score": 87.91
     },
     {
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "title": "Recovering Corrupt Zip Files",
+      "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.97,
-      "velocity": 5.475,
+      "base_score": 0.59,
+      "velocity": 13.514,
       "velocity_label": "exploding",
-      "combined_score": 13.28
-    },
-    {
-      "title": "DIY Gene Gun [video]",
-      "url": "https://www.youtube.com/watch?v=gRIMH3cx0iw",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.386,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Htmx 4.0",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.83,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 144.4
-    },
-    {
-      "title": "Eight Things to Know about Large Language Models(2023)",
-      "url": "https://arxiv.org/abs/2304.00612",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.277,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "Appetite for insect protein is early evidence of an El Niño shock wave",
-      "url": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.229,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
-      "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.071,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 19.93
     },
     {
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.23,
-      "velocity": 5.022,
+      "base_score": 6.16,
+      "velocity": 13.44,
       "velocity_label": "exploding",
-      "combined_score": 40.55
+      "combined_score": 206.98
     },
     {
-      "title": "The elementary school pickup incident and the road ahead",
-      "url": "https://shitposting.ai/pickup-incident/",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.014,
+      "base_score": 3.77,
+      "velocity": 12.3,
       "velocity_label": "exploding",
-      "combined_score": 0.38
+      "combined_score": 115.93
     },
     {
-      "title": "All-in-one AI job search platform, resume to offer",
-      "url": "https://rezoom.io/",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.899,
+      "base_score": 1.99,
+      "velocity": 12.194,
       "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 60.67
     },
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.04,
-      "velocity": 4.895,
+      "base_score": 4.22,
+      "velocity": 11.477,
       "velocity_label": "exploding",
-      "combined_score": 61.68
+      "combined_score": 121.08
     },
     {
       "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
       "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
       "source": "hackernews",
       "category": "tech",
+      "base_score": 0.43,
+      "velocity": 11.44,
+      "velocity_label": "exploding",
+      "combined_score": 12.3
+    },
+    {
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.707,
+      "velocity_label": "exploding",
+      "combined_score": 0.54
+    },
+    {
+      "title": "A safe MySQL upgrade that wasn't so safe",
+      "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 10.479,
+      "velocity_label": "exploding",
+      "combined_score": 12.31
+    },
+    {
+      "title": "Best AI Quiz Generator?",
+      "url": "https://quizroom.ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 10.131,
+      "velocity_label": "exploding",
+      "combined_score": 0.76
+    },
+    {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 9.41,
+      "velocity_label": "exploding",
+      "combined_score": 32.47
+    },
+    {
+      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.86,
+      "velocity": 9.21,
+      "velocity_label": "exploding",
+      "combined_score": 111.9
+    },
+    {
+      "title": "EVE Online moves to Python 3",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.66,
+      "velocity": 8.726,
+      "velocity_label": "exploding",
+      "combined_score": 123.48
+    },
+    {
+      "title": "What we want is a hunter gatherer lifestyle with space age tools (2022)",
+      "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 8.554,
+      "velocity_label": "exploding",
+      "combined_score": 31.01
+    },
+    {
+      "title": "Glacier Mice",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.46,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 73.53
+    },
+    {
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.51,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 32.09
+    },
+    {
+      "title": "How-to-Dev",
+      "url": "https://howtodev.vercel.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.43
+    },
+    {
+      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.7,
+      "velocity": 8.159,
+      "velocity_label": "exploding",
+      "combined_score": 14.28
+    },
+    {
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.01,
+      "velocity": 8.063,
+      "velocity_label": "exploding",
+      "combined_score": 60.67
+    },
+    {
+      "title": "Establishing the United States Space Academy – The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.896,
+      "velocity_label": "exploding",
+      "combined_score": 0.39
+    },
+    {
+      "title": "Is it safe to call print in a Python signal handler?",
+      "url": "https://iafisher.com/2026/08/sigprint",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.27,
+      "velocity": 7.831,
+      "velocity_label": "exploding",
+      "combined_score": 5.29
+    },
+    {
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.739,
+      "velocity_label": "exploding",
+      "combined_score": 0.58
+    },
+    {
+      "title": "President Trump Signs Executive Order to Create US Space Academy",
+      "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "source": "hackernews",
+      "category": "tech",
       "base_score": 0.1,
-      "velocity": 4.81,
+      "velocity": 7.717,
       "velocity_label": "exploding",
-      "combined_score": 1.2
+      "combined_score": 1.93
     },
     {
-      "title": "Zod v4.5 adds schema compilation (3-9x faster validation)",
-      "url": "https://twitter.com/colinhacks/status/2093725420462182512",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "url": "https://typebase.io",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 7.365,
+      "velocity_label": "exploding",
+      "combined_score": 25.41
+    },
+    {
+      "title": "40k Pounds of Pabst Blue Ribbon Beer Reported Stolen in California",
+      "url": "https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.8,
+      "velocity": 6.472,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.87,
+      "velocity": 6.463,
+      "velocity_label": "exploding",
+      "combined_score": 14.06
+    },
+    {
+      "title": "Incorrect geo location for some Cloudflare WARP users – Cloudflare Status",
+      "url": "https://www.cloudflarestatus.com/incidents/9g65dxfbcjln",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.444,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "url": "https://galaxium.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.6,
+      "velocity": 6.136,
+      "velocity_label": "exploding",
+      "combined_score": 24.54
+    },
+    {
+      "title": "Popular code generator for TanStack Query hit by supply chain worm",
+      "url": "https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.092,
+      "velocity_label": "exploding",
+      "combined_score": 0.61
+    },
+    {
+      "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 6.035,
+      "velocity_label": "exploding",
+      "combined_score": 0.91
+    },
+    {
+      "title": "China's AI Revolution and the Ideology of Xi Jinping",
+      "url": "https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.725,
+      "velocity_label": "exploding",
+      "combined_score": 0.43
+    },
+    {
+      "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+      "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 5.543,
+      "velocity_label": "exploding",
+      "combined_score": 0.69
+    },
+    {
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.44,
+      "velocity": 5.529,
+      "velocity_label": "exploding",
+      "combined_score": 19.91
+    },
+    {
+      "title": "World's first battery-powered self-unloading bulk carrier starts in Australia",
+      "url": "https://www.bunkerindex.com/articles/article.php?a=23396&h=worlds-first-battery-powered-self-unloading-bulk-carrier-enters-service-in-australia",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.42,
+      "velocity_label": "exploding",
+      "combined_score": 0.41
+    },
+    {
+      "title": "I ran out of AI tokens in one app while holding unused tokens in another",
+      "url": "https://news.ycombinator.com/item?id=49495398",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.41,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.83,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 24.4
+    },
+    {
+      "title": "Monzo Stand-In",
+      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.15,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 28.67
+    },
+    {
+      "title": "I co-founded Burning Man. The festival has lost its soul",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.52,
+      "velocity": 4.828,
+      "velocity_label": "exploding",
+      "combined_score": 30.42
+    },
+    {
+      "title": "Show HN: TypeGPU Realtime Physics Sandbox",
+      "url": "https://typegpu-sandbox.pages.dev",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.719,
       "velocity_label": "exploding",
       "combined_score": 0.12
     },
     {
-      "title": "Show HN: AI images and videos from text, free, no signup",
-      "url": "https://seiseiai.io/",
+      "title": "Time complexity of operations on Python's built-in types",
+      "url": "https://docs.python.org/3.16/library/time-complexity.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.52,
+      "velocity": 4.692,
+      "velocity_label": "exploding",
+      "combined_score": 17.83
+    },
+    {
+      "title": "Tell HN: STOP making Vibe Slop websites that LAG on my MBP and workstation",
+      "url": "https://news.ycombinator.com/item?id=49495392",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.615,
+      "velocity": 4.644,
       "velocity_label": "exploding",
       "combined_score": 0.12
     },
     {
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.86,
-      "velocity": 4.174,
+      "base_score": 17.6,
+      "velocity": 4.463,
       "velocity_label": "exploding",
-      "combined_score": 29.84
+      "combined_score": 196.35
     },
     {
-      "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt",
-      "url": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
+      "title": "There's no such thing as Just a Tool",
+      "url": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.167,
+      "base_score": 0.02,
+      "velocity": 4.429,
       "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 0.22
     },
     {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.73,
-      "velocity": 4.094,
+      "base_score": 2.41,
+      "velocity": 4.251,
       "velocity_label": "exploding",
-      "combined_score": 27.94
-    },
-    {
-      "title": "Curvature Beziers: Improving on a timeless recipe",
-      "url": "https://acko.net/blog/curvature-beziers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.91,
-      "velocity": 4.067,
-      "velocity_label": "exploding",
-      "combined_score": 19.42
-    },
-    {
-      "title": "Show HN: Deckle – A macOS app that overlays paper texture onto your screen",
-      "url": "https://github.com/YellowFoxH4XOR/deckle",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.057,
-      "velocity_label": "exploding",
-      "combined_score": 0.1
-    },
-    {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.44,
-      "velocity": 3.833,
-      "velocity_label": "exploding",
-      "combined_score": 100.05
-    },
-    {
-      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.15,
-      "velocity": 3.732,
-      "velocity_label": "exploding",
-      "combined_score": 10.73
+      "combined_score": 25.61
     }
   ],
   "niche_opportunities": [],
@@ -536,7 +536,7 @@
       "url": "https://github.com/stemdeckapp/stemdeck",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.73,
+      "score": 2.98,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -544,37 +544,15 @@
       ]
     },
     {
-      "title": "Show HN: SSH Ache – open-source desktop SSH client with SFTP, tunnels and MCP",
-      "url": "https://github.com/SSH-Ache/ssh-ache",
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "url": "https://github.com/mk6i/open-oscar-server",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
+      "score": 0.07,
       "relevance": 0.111,
       "matching_tags": [
         "open",
         "source"
-      ]
-    },
-    {
-      "title": "GLM-5.3 is now open-weight",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 11.62,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
-      ]
-    },
-    {
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 1.73,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
       ]
     },
     {
@@ -582,21 +560,21 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.43,
+      "score": 3.77,
       "relevance": 0.056,
       "matching_tags": [
         "productivity"
       ]
     },
     {
-      "title": "A better SQL in 11 lines of code",
-      "url": "https://prela-lang.org/tutorial/",
+      "title": "What we want is a hunter gatherer lifestyle with space age tools (2022)",
+      "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.57,
+      "score": 1.45,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "tools"
       ]
     },
     {
@@ -604,21 +582,54 @@
       "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.47,
+      "score": 0.7,
       "relevance": 0.056,
       "matching_tags": [
         "passive"
       ]
     },
     {
-      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "title": "Popular code generator for TanStack Query hit by supply chain worm",
+      "url": "https://www.aikido.dev/blog/popular-code-generator-for-tanstack-query-hit-by-supply-chain-worm",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.21,
+      "score": 0.04,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "code"
+      ]
+    },
+    {
+      "title": "Tyler Cowen grills Acemoglu on liberalism, automation, edu elitism",
+      "url": "https://www.youtube.com/watch?v=e5O1Y-5phEU",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "automation"
+      ]
+    },
+    {
+      "title": "Show HN: Memnest, local-first memory shared by pi, Claude Code and Codex",
+      "url": "https://github.com/Blue-B/memnest",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "The Engineer as a Learning-System Builder",
+      "url": "https://eug.github.io/posts/engineer-as-learning-system-builder.html",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "learning"
       ]
     }
   ]
