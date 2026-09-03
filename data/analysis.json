@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-03T15:44:28.096931+00:00",
-  "scrape_timestamp": "2026-09-03T15:42:23.923945+00:00",
-  "total_items_analyzed": 85,
+  "timestamp": "2026-09-03T20:29:15.588972+00:00",
+  "scrape_timestamp": "2026-09-03T20:26:00.102798+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 85,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,553 +27,613 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Grok Outage",
-      "url": "https://status.x.ai/",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.62,
+      "base_score": 5.62,
+      "velocity": 21.75,
+      "velocity_label": "exploding",
+      "combined_score": 305.59
+    },
+    {
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.65,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 27.9
+      "combined_score": 569.25
     },
     {
-      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
-      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "title": "Parque Arqueológico do Solstício",
+      "url": "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.02,
-      "velocity": 15.437,
+      "base_score": 0.77,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 77.95
+      "combined_score": 34.65
     },
     {
-      "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
-      "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
+      "title": "Intrusive linked lists (2019)",
+      "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.45,
-      "velocity": 11.938,
+      "base_score": 1.59,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 43.28
+      "combined_score": 71.55
     },
     {
-      "title": "The Browser's Main Thread Is Expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "title": "The death of San Francisco's Market Street",
+      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.14,
-      "velocity": 11.766,
+      "base_score": 0.15,
+      "velocity": 15.467,
       "velocity_label": "exploding",
-      "combined_score": 121.77
+      "combined_score": 5.8
     },
     {
-      "title": "\"42\" Is Not a Random Number",
-      "url": "https://alex-jacobs.com/posts/42-is-not-a-random-number/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 11.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
-      "url": "https://compute.cheap/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.67,
-      "velocity": 9.376,
-      "velocity_label": "exploding",
-      "combined_score": 15.7
-    },
-    {
-      "title": "A Conversation with Paul Graham, Founder of YC [video]",
-      "url": "https://www.youtube.com/watch?v=5bxp78i96S8",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.324,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "ChatGPT, Claude, and Grok Are Down",
-      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 9.226,
-      "velocity_label": "exploding",
-      "combined_score": 0.92
-    },
-    {
-      "title": "Revolut Receives Conditional Approval to Form a US National Bank",
-      "url": "https://www.revolut.com/news/revolut_receives_conditional_approval_from_u_s_office_of_the_comptroller_of_the_currency_to_form_a_national_bank/",
+      "title": "GPT-6 Astra Achieves SOTA on ARC-AGI",
+      "url": "https://twitter.com/arcprize/status/2095597602545025138",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 8.881,
+      "velocity": 14.472,
       "velocity_label": "exploding",
-      "combined_score": 0.44
+      "combined_score": 0.72
     },
     {
-      "title": "A dark horse enters China's AI race: StartLux",
-      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.83,
-      "velocity": 8.736,
+      "base_score": 0.46,
+      "velocity": 14.061,
       "velocity_label": "exploding",
-      "combined_score": 18.13
+      "combined_score": 16.17
     },
     {
-      "title": "Terence Tao: Speed in science isn't the same thing as progress [video]",
-      "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.402,
+      "base_score": 9.1,
+      "velocity": 13.394,
       "velocity_label": "exploding",
-      "combined_score": 0.42
+      "combined_score": 304.72
     },
     {
-      "title": "Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond",
-      "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+      "title": "Gloria Steinem has died",
+      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.65,
-      "velocity": 8.08,
+      "base_score": 0.93,
+      "velocity": 12.571,
       "velocity_label": "exploding",
-      "combined_score": 73.73
+      "combined_score": 29.23
     },
     {
-      "title": "What I Learned from My Mom (1941-2026)",
-      "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.89,
-      "velocity": 7.935,
+      "base_score": 0.71,
+      "velocity": 12.375,
       "velocity_label": "exploding",
-      "combined_score": 37.49
-    },
-    {
-      "title": "Nvidia to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.28,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 44.84
+      "combined_score": 21.97
     },
     {
       "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
       "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.37,
-      "velocity": 7.625,
+      "base_score": 1.08,
+      "velocity": 12.3,
       "velocity_label": "exploding",
-      "combined_score": 7.05
+      "combined_score": 33.21
     },
     {
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "title": "GPT-6 Astra System Card",
+      "url": "https://deploymentsafety.openai.com/gpt-6-astra",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.61,
-      "velocity": 7.505,
+      "base_score": 0.18,
+      "velocity": 11.958,
       "velocity_label": "exploding",
-      "combined_score": 86.49
-    },
-    {
-      "title": "Higher Multipoles of the Cow",
-      "url": "https://arxiv.org/abs/2504.00506",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.49,
-      "velocity": 7.444,
-      "velocity_label": "exploding",
-      "combined_score": 27.73
-    },
-    {
-      "title": "Brutally Honest Predictions on the Future of AI",
-      "url": "https://www.honest-broker.com/p/10-brutally-honest-predictions-on",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.15,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Open AI X post on Astra",
-      "url": "https://twitter.com/OpenAI/status/2095527557924082061",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.87,
-      "velocity_label": "exploding",
-      "combined_score": 0.69
-    },
-    {
-      "title": "Async Rust vs RTOS showdown (2022)",
-      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.87,
-      "velocity": 6.623,
-      "velocity_label": "exploding",
-      "combined_score": 30.96
-    },
-    {
-      "title": "Rich Dad Poor Dad author shocks fans with $1.2B debt",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-173520373.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 6.531,
-      "velocity_label": "exploding",
-      "combined_score": 1.47
-    },
-    {
-      "title": "Amazon Stonehenge: Parque Arqueológico do Solstício",
-      "url": "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.33,
-      "velocity": 6.5,
-      "velocity_label": "exploding",
-      "combined_score": 5.36
-    },
-    {
-      "title": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.72,
-      "velocity": 6.389,
-      "velocity_label": "exploding",
-      "combined_score": 43.44
-    },
-    {
-      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.04,
-      "velocity": 6.379,
-      "velocity_label": "exploding",
-      "combined_score": 32.53
-    },
-    {
-      "title": "Elevated errors across ChatGPT and Codex",
-      "url": "https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 6.374,
-      "velocity_label": "exploding",
-      "combined_score": 2.71
-    },
-    {
-      "title": "UK's Online Safety Act has made 'absolutely no difference,' kids say",
-      "url": "https://www.theregister.com/security/2026/09/03/uks-online-safety-act-has-made-absolutely-no-difference-kids-say/5293893",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 6.368,
-      "velocity_label": "exploding",
-      "combined_score": 2.39
-    },
-    {
-      "title": "Preparing for a Post-Trump Internet",
-      "url": "https://pluralistic.net/2026/09/03/broken-arrows/#things-get-worse",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.083,
-      "velocity_label": "exploding",
-      "combined_score": 0.3
-    },
-    {
-      "title": "Show HN: Airplane AI – Works when all other AIs are offline",
-      "url": "https://airplane-ai.franzai.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.062,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Engineering of the fastest WebAssembly interpreters",
-      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.5,
-      "velocity": 5.993,
-      "velocity_label": "exploding",
-      "combined_score": 22.47
-    },
-    {
-      "title": "Nobody Has Actually Built a Software Factory",
-      "url": "https://medium.com/@NMitchem/nobody-has-actually-built-a-software-factory-77ffdc0c3efc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.874,
-      "velocity_label": "exploding",
-      "combined_score": 0.59
-    },
-    {
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.96,
-      "velocity": 5.786,
-      "velocity_label": "exploding",
-      "combined_score": 28.35
-    },
-    {
-      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.57,
-      "velocity": 5.59,
-      "velocity_label": "exploding",
-      "combined_score": 7.97
-    },
-    {
-      "title": "Show HN: Kin Form, framework-agnostic form state for React and Lit",
-      "url": "https://kintools.dev/form",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.587,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
+      "combined_score": 5.38
     },
     {
       "title": "Invisible Companies",
       "url": "https://colossus.com/article/invisible-companies/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.46,
-      "velocity": 5.25,
+      "base_score": 2.42,
+      "velocity": 11.667,
       "velocity_label": "exploding",
-      "combined_score": 19.16
+      "combined_score": 70.58
     },
     {
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.19,
-      "velocity": 5.107,
+      "base_score": 4.38,
+      "velocity": 11.526,
       "velocity_label": "exploding",
-      "combined_score": 40.73
+      "combined_score": 126.21
     },
     {
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "title": "Using GPT-6 Astra – OpenAI Docs",
+      "url": "https://developers.openai.com/api/docs/guides/latest-model",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.1,
-      "velocity": 5.104,
+      "base_score": 0.01,
+      "velocity": 11.166,
       "velocity_label": "exploding",
-      "combined_score": 39.56
+      "combined_score": 0.28
     },
     {
-      "title": "The Computer Museum of America reclamation project",
-      "url": "https://computer-museum.org/wp/",
+      "title": "Florida bans highway license-plate readers as backlash over surveillance spreads",
+      "url": "https://www.reuters.com/legal/government/florida-bans-highway-license-plate-readers-backlash-over-surveillance-spreads-2026-09-03/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.33,
-      "velocity": 5.005,
+      "base_score": 0.13,
+      "velocity": 10.889,
       "velocity_label": "exploding",
-      "combined_score": 16.64
+      "combined_score": 3.54
     },
     {
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.16,
-      "velocity": 4.911,
+      "base_score": 1.11,
+      "velocity": 10.036,
       "velocity_label": "exploding",
-      "combined_score": 26.52
+      "combined_score": 27.85
     },
     {
-      "title": "New sleep apnea pill cuts breathing events by 44%",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
+      "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.11,
+      "velocity": 10.034,
+      "velocity_label": "exploding",
+      "combined_score": 2.76
+    },
+    {
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.55,
+      "velocity": 10.02,
+      "velocity_label": "exploding",
+      "combined_score": 13.78
+    },
+    {
+      "title": "Unified Arabic",
+      "url": "https://worksthatwork.com/6/unified-arabic",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.59,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 14.75
+    },
+    {
+      "title": "Mom gets 6-month suspended sentence for letting 5-year-old walk to the pond",
+      "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.09,
+      "velocity": 9.893,
+      "velocity_label": "exploding",
+      "combined_score": 125.89
+    },
+    {
+      "title": "GPT-6 Astra represents a step-function change in interactive reasoning",
+      "url": "https://twitter.com/fchollet/status/2095598451115614371",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.831,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.84,
+      "velocity": 9.5,
+      "velocity_label": "exploding",
+      "combined_score": 91.2
+    },
+    {
+      "title": "The asteroid currently hitting front end web development",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.33,
+      "velocity": 9.34,
+      "velocity_label": "exploding",
+      "combined_score": 7.71
+    },
+    {
+      "title": "Show HN: We built client-side AST SEO audits for a Next.js CMS to avoid LLM lag",
+      "url": "https://github.com/nextblock-cms/nextblock",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 4.8,
+      "velocity": 8.785,
       "velocity_label": "exploding",
-      "combined_score": 0.24
-    },
-    {
-      "title": "How the male fruit fly's brain map is advancing neuroscience",
-      "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.777,
-      "velocity_label": "exploding",
-      "combined_score": 0.36
-    },
-    {
-      "title": "Show HN: I made a CLI that finds CVEs in your running Kubernetes pods",
-      "url": "https://github.com/lockdep/stackradar-cli",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.676,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Solar energy from railways shows first positive results in Switzerland",
-      "url": "https://www.swissinfo.ch/eng/emissions-reduction/solar-energy-from-railways-shows-first-positive-results-in-switzerland/91628036",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.594,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "url": "https://anyhumanever.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.76,
-      "velocity": 4.578,
-      "velocity_label": "exploding",
-      "combined_score": 8.7
-    },
-    {
-      "title": "Moderate AI Predictions",
-      "url": "https://staticnotes.org/feed/2026/09/ai-future/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.3,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Tomorrow's AI Won't Meet Today's World",
-      "url": "https://indevelopmentmag.substack.com/p/tomorrows-ai-wont-meet-todays-world",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.281,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Wendell Berry has died",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.0,
-      "velocity": 4.278,
-      "velocity_label": "exploding",
-      "combined_score": 42.78
-    },
-    {
-      "title": "A note on subscription prices from LWN",
-      "url": "https://lwn.net/Articles/1090585/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.35,
-      "velocity": 4.146,
-      "velocity_label": "exploding",
-      "combined_score": 96.91
+      "combined_score": 0.44
     },
     {
       "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
       "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
       "source": "hackernews",
       "category": "tech",
+      "base_score": 5.22,
+      "velocity": 8.661,
+      "velocity_label": "exploding",
+      "combined_score": 113.02
+    },
+    {
+      "title": "Tentmaker Systems – FPGA and ASIC Architecture and Design",
+      "url": "https://www.tentmakersystems.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.294,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.3,
+      "velocity": 8.01,
+      "velocity_label": "exploding",
+      "combined_score": 106.13
+    },
+    {
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.24,
+      "velocity": 7.867,
+      "velocity_label": "exploding",
+      "combined_score": 83.39
+    },
+    {
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.9,
+      "velocity": 7.821,
+      "velocity_label": "exploding",
+      "combined_score": 56.7
+    },
+    {
+      "title": "The Hardest Math Book Every Programmer Needs",
+      "url": "https://www.youtube.com/watch?v=I_pzpg1ukkI",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.467,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Fish bad, sugar good, and other medieval ideas about food",
+      "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.96,
+      "velocity": 7.414,
+      "velocity_label": "exploding",
+      "combined_score": 36.33
+    },
+    {
+      "title": "LLMs and self-referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.77,
+      "velocity": 7.289,
+      "velocity_label": "exploding",
+      "combined_score": 32.25
+    },
+    {
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)",
+      "url": "https://www.yahoo.com/news/16-old-girls-win-google-science-fair-simple-194434703.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.39,
+      "velocity": 7.191,
+      "velocity_label": "exploding",
+      "combined_score": 42.97
+    },
+    {
+      "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
+      "url": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
+      "source": "hackernews",
+      "category": "tech",
       "base_score": 0.19,
-      "velocity": 4.125,
+      "velocity": 6.753,
       "velocity_label": "exploding",
-      "combined_score": 1.96
+      "combined_score": 3.21
     },
     {
-      "title": "Codex Is Down",
-      "url": "https://github.com/openai/codex/issues/28756",
+      "title": "A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary",
+      "url": "https://info.zcu.cz/clanek.jsp?id=9882&lang=en",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.25,
-      "velocity": 4.067,
+      "base_score": 0.24,
+      "velocity": 6.701,
       "velocity_label": "exploding",
-      "combined_score": 12.71
+      "combined_score": 4.02
     },
     {
-      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
-      "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c",
+      "title": "GoPro acquired, getting into 'defense, government, robotics and aerospace'",
+      "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 3.899,
+      "base_score": 0.2,
+      "velocity": 6.504,
       "velocity_label": "exploding",
-      "combined_score": 0.68
+      "combined_score": 3.25
+    },
+    {
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.84,
+      "velocity": 6.363,
+      "velocity_label": "exploding",
+      "combined_score": 13.36
+    },
+    {
+      "title": "120 days until Google restricts side-loading, declaring war on Android freedom",
+      "url": "https://tuta.com/blog/android-side-load-apps-google",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.53,
+      "velocity": 6.163,
+      "velocity_label": "exploding",
+      "combined_score": 8.17
+    },
+    {
+      "title": "Ancient sheep virus found hiding in medieval parchment",
+      "url": "https://www.science.org/content/article/ancient-sheep-virus-found-hiding-medieval-parchment",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.143,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "The paradox of diffusion distillation (2024)",
+      "url": "https://sander.ai/2024/02/28/paradox.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 6.042,
+      "velocity_label": "exploding",
+      "combined_score": 1.81
+    },
+    {
+      "title": "AI Financial Advisor – FiscalAI· Streamlit",
+      "url": "https://thefiscalai.streamlit.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Global warming will exceed limit set in 2015, UN says",
+      "url": "https://apnews.com/article/climate-change-threshold-catastrophe-overshoot-un-warming-1b2d126e8359ba77e5546f27d8f4a4e1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.986,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Record baby boom brings heaviest parrot back from the brink",
+      "url": "https://www.nbcnews.com/world/asia/kakapo-parrot-baby-boom-worlds-heaviest-bird-rise-new-zealand-rcna595479",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.783,
+      "velocity_label": "exploding",
+      "combined_score": 0.58
+    },
+    {
+      "title": "Hi Reddit I'm Wile E. Coyote. I'm taking on ACME. AMA",
+      "url": "https://www.reddit.com/r/movies/comments/1w58qjb/hi_reddit_im_wile_e_coyote_im_taking_on_acme_ama/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "The browser's main thread is expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.3,
+      "velocity": 5.583,
+      "velocity_label": "exploding",
+      "combined_score": 73.98
+    },
+    {
+      "title": "My practical approach to surfing the web safely",
+      "url": "https://molily.de/safe-websurfing/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.18,
+      "velocity": 5.444,
+      "velocity_label": "exploding",
+      "combined_score": 2.45
+    },
+    {
+      "title": "Old Directions: Reviving the spirit of revival",
+      "url": "https://www.nplusonemag.com/issue-54/the-intellectual-situation/old-directions/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 5.36,
+      "velocity_label": "exploding",
+      "combined_score": 0.67
+    },
+    {
+      "title": "Can AI help solve the peer-review crisis? Here are its promises and pitfalls",
+      "url": "https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.238,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Omarchy Hyprland – external monitor multi-GPU configuration",
+      "url": "https://publish.obsidian.md/gslf/%F0%9F%8C%90+WEBSITE/%F0%9F%93%9D+Journal/%F0%9F%92%BB+DEV/Omarchy+Hyprland+-+external+monitor+multi-GPU+configuration",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.012,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "agi",
+        "arc",
+        "astra",
+        "gpt",
+        "openai"
+      ],
+      "concept_hint": "agi + arc + astra + gpt",
+      "cluster_size": 5,
+      "discussion_count": 8,
+      "void_score": 160.0,
+      "examples": [
+        {
+          "title": "GPT-6 Astra",
+          "source": "hackernews",
+          "matching_keywords": [
+            "astra",
+            "gpt"
+          ]
+        },
+        {
+          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agi",
+            "arc",
+            "astra",
+            "gpt",
+            "openai"
+          ]
+        },
+        {
+          "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+          "source": "hackernews",
+          "matching_keywords": [
+            "astra",
+            "gpt"
+          ]
+        },
+        {
+          "title": "OpenAI begins rolling out GPT-6 Astra",
+          "source": "hackernews",
+          "matching_keywords": [
+            "astra",
+            "gpt",
+            "openai"
+          ]
+        },
+        {
+          "title": "GPT-6 Astra System Card",
+          "source": "hackernews",
+          "matching_keywords": [
+            "astra",
+            "gpt"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "title": "Open-source pixel-art editor",
+      "url": "https://github.com/Josiah-Turnquist/myrling-sprite-editorIn-BrowserDemo:https://josiah-turnquist.github.io/myrling-sprite-editor/editor.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.25,
+      "score": 0.04,
       "relevance": 0.111,
       "matching_tags": [
-        "code",
+        "open",
         "source"
       ]
     },
     {
-      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
-      "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.07,
-      "relevance": 0.056,
-      "matching_tags": [
-        "machine"
-      ]
-    },
-    {
-      "title": "Open AI X post on Astra",
-      "url": "https://twitter.com/OpenAI/status/2095527557924082061",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.04,
+      "score": 2.9,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "K2 Horizon: Frontier Performance, Radically Open",
-      "url": "https://ifm.ai/blog/k2/",
+      "title": "120 days until Google restricts side-loading, declaring war on Android freedom",
+      "url": "https://tuta.com/blog/android-side-load-apps-google",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.53,
+      "relevance": 0.056,
+      "matching_tags": [
+        "side"
+      ]
+    },
+    {
+      "title": "Show HN: We built client-side AST SEO audits for a Next.js CMS to avoid LLM lag",
+      "url": "https://github.com/nextblock-cms/nextblock",
       "source": "hackernews",
       "category": "tech",
       "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "side"
       ]
     }
   ]
