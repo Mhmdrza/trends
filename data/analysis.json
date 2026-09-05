@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-05T14:30:29.668427+00:00",
-  "scrape_timestamp": "2026-09-05T14:29:00.404700+00:00",
-  "total_items_analyzed": 103,
+  "timestamp": "2026-09-05T19:53:31.408369+00:00",
+  "scrape_timestamp": "2026-09-05T19:51:49.982155+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -20,1249 +20,515 @@
       "status": "ok"
     },
     "twitter": {
-      "count": 15,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "llms",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 4,
-      "opportunity_score": 24.0,
-      "examples": [
-        {
-          "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-          "source": "hackernews",
-          "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-          "score": 2.25
-        },
-        {
-          "title": "“Next-token predictor” is the wrong mental model for LLMs",
-          "source": "hackernews",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "score": 5.2
-        },
-        {
-          "title": "How to Make LLMs Read Your Llms.txt",
-          "source": "hackernews",
-          "url": "https://spock.is/writing/simulating-cosmic-rays-to-lobotomize-llms",
-          "score": 0.01
-        },
-        {
-          "title": "the best 20 accounts to follow in AI:@karpathy= learn LLMs@steipete= learn openclaw@gregisenberg= learn startup ideas@ri...",
-          "source": "twitter",
-          "url": "https://twitter.com/alex_prompter/status/2094818827137581543#m",
-          "score": 3.66
-        }
-      ]
-    },
-    {
-      "keyword": "building",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 4,
-      "opportunity_score": 24.0,
-      "examples": [
-        {
-          "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
-          "source": "hackernews",
-          "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-          "score": 2.3
-        },
-        {
-          "title": "SpaceX is building its own gas turbine blade factory to power AI faster",
-          "source": "hackernews",
-          "url": "https://qz.com/spacex-turbine-blade-foundry-ai-data-centers-090226",
-          "score": 0.01
-        },
-        {
-          "title": "🚨 A Bengaluru-based startup, EtherealX Exploration Guild, is building a rocket that can be fully reused, not just the fi...",
-          "source": "twitter",
-          "url": "https://twitter.com/IndianTechGuide/status/2095882109063741516#m",
-          "score": 6.75
-        },
-        {
-          "title": "Building AssayMark — a cybersecurity assessment SaaS helping SMEs understand what security issues actually matter and wh...",
-          "source": "twitter",
-          "url": "https://twitter.com/Naumansay/status/2096243725848473713#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "system",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 4,
-      "opportunity_score": 24.0,
-      "examples": [
-        {
-          "title": "Kale: A Transformation-Safe Spreadsheet System",
-          "source": "hackernews",
-          "url": "https://arxiv.org/abs/2608.26345",
-          "score": 0.56
-        },
-        {
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "source": "hackernews",
-          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-          "score": 0.07
-        },
-        {
-          "title": "The Two Abstractions of System Design: Hide or Reduce",
-          "source": "hackernews",
-          "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-          "score": 1.31
-        },
-        {
-          "title": "Do  you want a Complete Metering System, but don't want to have to source  each component individually? Prefabricated, f...",
-          "source": "twitter",
-          "url": "https://twitter.com/BlueWhiteInd/status/2096243717908942943#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "name",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": ".name Termination",
-          "source": "hackernews",
-          "url": "https://neil.fraser.name/news/2026/09/03/",
-          "score": 29.77
-        },
-        {
-          "title": "Name a startup \n\nThat had the biggest impact on its industry?",
-          "source": "twitter",
-          "url": "https://twitter.com/itskamrankhan/status/2096244488314216908#m",
-          "score": 0.0
-        },
-        {
-          "title": "JUST IN: 𝕏 wins a court order blocking a rival startup app from using the “Twitter” name.",
-          "source": "twitter",
-          "url": "https://twitter.com/Polymarket/status/2096075851896955241#m",
-          "score": 4.97
-        }
-      ]
-    },
-    {
-      "keyword": "claude",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-          "source": "hackernews",
-          "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-          "score": 3.22
-        },
-        {
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "source": "hackernews",
-          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-          "score": 0.07
-        },
-        {
-          "title": "My current startup went from abandoned idea to deployed product in 21 days, on a Claude subscription my co-founder pays ...",
-          "source": "twitter",
-          "url": "https://twitter.com/ShivSatty/status/2096244461470921139#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "every",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Connecting every app to every other app",
-          "source": "hackernews",
-          "url": "https://blog.val.town/connectors",
-          "score": 0.45
-        },
-        {
-          "title": "a single bee pollinating a wildflower does more to keep this planet alive than every hedge fund and tech startup combine...",
-          "source": "twitter",
-          "url": "https://twitter.com/ayojoestar/status/2095952055177236887#m",
-          "score": 6.73
-        },
-        {
-          "title": "India is hailed as a global startup hub, but our research reveals a startling friction: For every 1 Startup, there are 2...",
-          "source": "twitter",
-          "url": "https://twitter.com/indianmatrix/status/2096221108961722818#m",
-          "score": 1.49
-        }
-      ]
-    },
-    {
-      "keyword": "world",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Turn your AI into a world-class designer",
-          "source": "hackernews",
-          "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-          "score": 0.02
-        },
-        {
-          "title": "Over the past few months the word 'harness' has become the standard term in the AI world for everything that wraps aroun...",
-          "source": "twitter",
-          "url": "https://twitter.com/amanvoid/status/2096243911824216413#m",
-          "score": 0.0
-        },
-        {
-          "title": "U would be shocked india has most no of startup in world working for reuseable rocket!!! \n\n> There are more then 850+ sp...",
-          "source": "twitter",
-          "url": "https://twitter.com/Krish_nvm_Raw/status/2095925804043768271#m",
-          "score": 0.16
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-      "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+      "title": "Terpstra Keyboard",
+      "url": "http://terpstrakeyboard.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.35,
-      "velocity": 14.946,
+      "base_score": 1.5,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 13.08
+      "combined_score": 67.5
     },
     {
-      "title": "Kale: A Transformation-Safe Spreadsheet System",
-      "url": "https://arxiv.org/abs/2608.26345",
+      "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.56,
-      "velocity": 13.144,
+      "base_score": 0.34,
+      "velocity": 15.208,
       "velocity_label": "exploding",
-      "combined_score": 18.4
-    },
-    {
-      "title": "Org chart is your cycle time",
-      "url": "https://keithbrown.com/org-cycle-time/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 12.125,
-      "velocity_label": "exploding",
-      "combined_score": 0.3
-    },
-    {
-      "title": "This Vintage Printing Press Has Become a Darling of Silicon Valley",
-      "url": "https://www.wsj.com/arts-culture/books/arion-press-san-francisco-61ad3948",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 12.048,
-      "velocity_label": "exploding",
-      "combined_score": 0.9
-    },
-    {
-      "title": "A Million Falcons Went Missing. Here’s How They Were Found",
-      "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 11.633,
-      "velocity_label": "exploding",
-      "combined_score": 2.62
-    },
-    {
-      "title": "Almost Anyone Can Make Money Selling Electricity with AI and Batteries",
-      "url": "https://www.bloomberg.com/news/features/2026-09-03/consumers-profit-off-solar-batteries-selling-excess-energy-back-to-grid",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.531,
-      "velocity_label": "exploding",
-      "combined_score": 0.86
-    },
-    {
-      "title": "Name a startup \n\nThat had the biggest impact on its industry?",
-      "url": "https://twitter.com/itskamrankhan/status/2096244488314216908#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 11.33,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "India is hailed as a global startup hub, but our research reveals a startling friction: For every 1 Startup, there are 2...",
-      "url": "https://twitter.com/indianmatrix/status/2096221108961722818#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 1.49,
-      "velocity": 10.55,
-      "velocity_label": "exploding",
-      "combined_score": 39.3
+      "combined_score": 12.93
     },
     {
       "title": "Meet the Ig Nobel Prize Winners",
       "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 10.0,
+      "base_score": 1.13,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 3.0
+      "combined_score": 37.43
     },
     {
-      "title": "Over the past few months the word 'harness' has become the standard term in the AI world for everything that wraps aroun...",
-      "url": "https://twitter.com/amanvoid/status/2096243911824216413#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 9.859,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "Global warming will exceed 1.5-degree limit, UN says",
-      "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+      "title": "Pushdown automata in statistical machine translation (2014)",
+      "url": "https://dl.acm.org/doi/abs/10.1162/coli_a_00197",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.47,
-      "velocity": 9.771,
+      "base_score": 0.13,
+      "velocity": 13.092,
       "velocity_label": "exploding",
-      "combined_score": 11.48
-    },
-    {
-      "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.41,
-      "velocity": 9.688,
-      "velocity_label": "exploding",
-      "combined_score": 9.93
-    },
-    {
-      "title": "U would be shocked india has most no of startup in world working for reuseable rocket!!! \n\n> There are more then 850+ sp...",
-      "url": "https://twitter.com/Krish_nvm_Raw/status/2095925804043768271#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.16,
-      "velocity": 9.404,
-      "velocity_label": "exploding",
-      "combined_score": 3.76
-    },
-    {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.64,
-      "velocity": 9.348,
-      "velocity_label": "exploding",
-      "combined_score": 131.81
-    },
-    {
-      "title": "NYC law could force Uber and Lyft to keep dangerous drivers on the road",
-      "url": "https://reason.com/2026/09/05/nyc-law-could-force-uber-and-lyft-to-keep-dangerous-drivers-on-the-road/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.62,
-      "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "Can guitar frets perform multiplication?",
-      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.47,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 31.24
-    },
-    {
-      "title": "Decompiler Explorer",
-      "url": "https://dogbolt.org",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.2,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 25.5
-    },
-    {
-      "title": "Git hosting that never leaves Europe",
-      "url": "https://pushin.eu",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.83,
-      "velocity": 8.023,
-      "velocity_label": "exploding",
-      "combined_score": 56.77
-    },
-    {
-      "title": ".gitignore Everything by Default",
-      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 8.0,
-      "velocity_label": "exploding",
-      "combined_score": 1.8
-    },
-    {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.32,
-      "velocity": 7.972,
-      "velocity_label": "exploding",
-      "combined_score": 225.61
-    },
-    {
-      "title": "JUST IN: 𝕏 wins a court order blocking a rival startup app from using the “Twitter” name.",
-      "url": "https://twitter.com/Polymarket/status/2096075851896955241#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 4.97,
-      "velocity": 7.758,
-      "velocity_label": "exploding",
-      "combined_score": 96.4
-    },
-    {
-      "title": "Nitter has more working instances than before the takedowns",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.1,
-      "velocity": 7.708,
-      "velocity_label": "exploding",
-      "combined_score": 117.55
+      "combined_score": 4.25
     },
     {
       "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.54,
-      "velocity": 7.667,
+      "base_score": 2.9,
+      "velocity": 12.006,
       "velocity_label": "exploding",
-      "combined_score": 10.35
+      "combined_score": 87.04
     },
     {
-      "title": "🚨 A Bengaluru-based startup, EtherealX Exploration Guild, is building a rocket that can be fully reused, not just the fi...",
-      "url": "https://twitter.com/IndianTechGuide/status/2095882109063741516#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 6.75,
-      "velocity": 7.616,
-      "velocity_label": "exploding",
-      "combined_score": 128.51
-    },
-    {
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+      "title": ".gitignore Everything by Default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 7.53,
+      "base_score": 2.71,
+      "velocity": 11.667,
       "velocity_label": "exploding",
-      "combined_score": 1.13
+      "combined_score": 79.04
     },
     {
-      "title": "A Bengaluru man named Priyam Tahabilder ordered pav bhaji on Zomato. However, when the order came, he was shocked to fin...",
-      "url": "https://twitter.com/startup__pedia/status/2096244459940048927#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 7.28,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+      "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 7.26,
+      "base_score": 0.56,
+      "velocity": 11.421,
       "velocity_label": "exploding",
-      "combined_score": 1.27
+      "combined_score": 15.99
     },
     {
-      "title": "\"Kill All Humans\"",
-      "url": "https://bsky.app/profile/ruggsea.eurosky.social/post/3murj32dbvs26",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "title": "Netherlands pulls gold out of the US",
       "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.43,
-      "velocity": 6.833,
+      "base_score": 6.65,
+      "velocity": 10.611,
       "velocity_label": "exploding",
-      "combined_score": 58.6
+      "combined_score": 176.41
     },
     {
-      "title": "My current startup went from abandoned idea to deployed product in 21 days, on a Claude subscription my co-founder pays ...",
-      "url": "https://twitter.com/ShivSatty/status/2096244461470921139#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 6.745,
+      "title": "Sky Map 2000 – Star Atlas and Planetarium",
+      "url": "https://skymap2000.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.39,
+      "velocity": 10.448,
       "velocity_label": "exploding",
-      "combined_score": 0.0
+      "combined_score": 10.19
     },
     {
-      "title": "🌙 LATE NIGHT WITH PRIYANSHU\n\nNo agenda.\nNo serious discussions.\nNo “10x your startup” lectures. 😭\n\nJust masto chill, ran...",
-      "url": "https://twitter.com/buildwithpb/status/2096244251323724204#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 6.722,
+      "title": "Eliza Effect",
+      "url": "https://en.wikipedia.org/wiki/ELIZA_effect",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 10.0,
       "velocity_label": "exploding",
-      "combined_score": 0.0
+      "combined_score": 1.0
+    },
+    {
+      "title": "Write Software in Latin (2025) [video]",
+      "url": "https://www.youtube.com/watch?v=fGZpaqMha0o",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.41,
+      "velocity": 9.69,
+      "velocity_label": "exploding",
+      "combined_score": 9.93
+    },
+    {
+      "title": "Twenty Years of jQuery: How a Little Library Rewired Web Development",
+      "url": "https://www.infoq.com/news/2026/09/jquery-20-years/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.28,
+      "velocity": 9.511,
+      "velocity_label": "exploding",
+      "combined_score": 6.66
+    },
+    {
+      "title": "A Million Falcons Went Missing. Here’s How They Were Found",
+      "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.81,
+      "velocity": 8.817,
+      "velocity_label": "exploding",
+      "combined_score": 17.85
+    },
+    {
+      "title": "Share price numbers for the Hugging Face incident",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Benzi – A harness reading LESS source code to write better quality code",
+      "url": "https://github.com/oooscoos/Benzi",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 8.475,
+      "velocity_label": "exploding",
+      "combined_score": 0.64
+    },
+    {
+      "title": "Large language models can predict the results of social science experiments",
+      "url": "https://www.nature.com/articles/s41586-026-10742-x",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.086,
+      "velocity_label": "exploding",
+      "combined_score": 0.4
+    },
+    {
+      "title": "Show HN: I made DeepSeek a stock prophet in the chat",
+      "url": "https://chat.deepseek.com/share/najhhfle4n4e9brimh",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.869,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.494,
+      "velocity_label": "exploding",
+      "combined_score": 0.37
+    },
+    {
+      "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+      "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.7,
+      "velocity": 7.431,
+      "velocity_label": "exploding",
+      "combined_score": 13.0
+    },
+    {
+      "title": "UN votes to adopt new map that makes our world look different",
+      "url": "https://www.cnn.com/2026/09/04/world/un-vote-new-world-map-intl-scli",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.391,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Show HN: Red Hat build of Podman Desktop",
+      "url": "https://developers.redhat.com/products/red-hat-build-podman-desktop",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.106,
+      "velocity_label": "exploding",
+      "combined_score": 0.71
+    },
+    {
+      "title": "Ironies of Automation [pdf]",
+      "url": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.729,
+      "velocity_label": "exploding",
+      "combined_score": 0.67
+    },
+    {
+      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.46,
+      "velocity": 6.5,
+      "velocity_label": "exploding",
+      "combined_score": 56.23
+    },
+    {
+      "title": "A single workout may help protect memory after a short night's sleep",
+      "url": "https://medicalxpress.com/news/2026-09-workout-memory-short-night.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.438,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Dogs can distinguish between fearful and angry or sad human faces",
+      "url": "https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 6.369,
+      "velocity_label": "exploding",
+      "combined_score": 1.43
+    },
+    {
+      "title": "Kale: A Transformation-Safe Spreadsheet System",
+      "url": "https://arxiv.org/abs/2608.26345",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.7,
+      "velocity": 6.148,
+      "velocity_label": "exploding",
+      "combined_score": 10.76
+    },
+    {
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.81,
+      "velocity": 6.064,
+      "velocity_label": "exploding",
+      "combined_score": 42.6
+    },
+    {
+      "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
+      "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.24,
+      "velocity": 6.042,
+      "velocity_label": "exploding",
+      "combined_score": 3.63
+    },
+    {
+      "title": "Kevin Bass on X: \"Women gained all of the new jobs since January 2025",
+      "url": "https://twitter.com/kevinnbass/status/2096073961524076916",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.815,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+      "url": "https://isaraerospace.com/mission-updates-overview",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.58
+    },
+    {
+      "title": "Ask HN: Did you see this Polymarket post on X today?",
+      "url": "https://news.ycombinator.com/item?id=49579843",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.484,
+      "velocity_label": "exploding",
+      "combined_score": 0.41
+    },
+    {
+      "title": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.69,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 22.53
+    },
+    {
+      "title": "Decompiler Explorer",
+      "url": "https://dogbolt.org",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.32,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 17.6
+    },
+    {
+      "title": "Anyone using llama.cpp willing to test LlamaRack?",
+      "url": "https://github.com/brantje/LlamaRack",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.263,
+      "velocity_label": "exploding",
+      "combined_score": 0.39
+    },
+    {
+      "title": "There's No Such Thing as an AI 'Lab'",
+      "url": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "The Danube River's water is dropping so low that World War II ships are emerging",
+      "url": "https://www.pbs.org/newshour/world/the-danube-rivers-water-is-dropping-so-low-that-world-war-ii-ships-are-emerging",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.176,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.8,
+      "velocity": 5.107,
+      "velocity_label": "exploding",
+      "combined_score": 112.36
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 13.2,
+      "velocity": 5.069,
+      "velocity_label": "exploding",
+      "combined_score": 167.29
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.51,
+      "velocity": 5.025,
+      "velocity_label": "exploding",
+      "combined_score": 94.35
+    },
+    {
+      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+      "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.42,
+      "velocity": 4.707,
+      "velocity_label": "exploding",
+      "combined_score": 28.48
     },
     {
       "title": "RSA-260 Factorized",
       "url": "https://twitter.com/penlume/status/2095372672356212876",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.31,
-      "velocity": 6.389,
+      "base_score": 2.39,
+      "velocity": 4.278,
       "velocity_label": "exploding",
-      "combined_score": 36.9
+      "combined_score": 25.56
     },
     {
-      "title": "Separating Parsing Expression Grammars Using Cell-Probe Lower Bounds",
-      "url": "https://arxiv.org/abs/2608.29592",
+      "title": "Git hosting that never leaves Europe",
+      "url": "https://pushin.eu",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.62,
+      "velocity": 4.243,
+      "velocity_label": "exploding",
+      "combined_score": 49.01
+    },
+    {
+      "title": "Phase Dynamics on a T 3-Manifols",
+      "url": "https://zenodo.org/records/22377516",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.226,
+      "velocity": 4.167,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.1
     },
     {
-      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "title": "Who Killed the American Demoscene? (2019)",
+      "url": "https://www.vice.com/en/article/who-killed-the-american-demoscene-synchrony-demoparty/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.175,
+      "base_score": 0.04,
+      "velocity": 4.104,
       "velocity_label": "exploding",
-      "combined_score": 0.46
-    },
-    {
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 13.01,
-      "velocity": 5.967,
-      "velocity_label": "exploding",
-      "combined_score": 194.07
-    },
-    {
-      "title": "Fermat's Last Theorem in Lean 4",
-      "url": "https://github.com/anthropics/fermats-last-theorem",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.68,
-      "velocity": 5.967,
-      "velocity_label": "exploding",
-      "combined_score": 25.06
+      "combined_score": 0.41
     },
     {
       "title": "Git Submodules as a Package Manager",
       "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.9,
-      "velocity": 5.899,
+      "base_score": 1.24,
+      "velocity": 4.014,
       "velocity_label": "exploding",
-      "combined_score": 13.27
+      "combined_score": 12.44
     },
     {
-      "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
-      "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+      "title": "Show HN: Amaze Kings – a browser logic puzzle with 1,400 hand-graded levels",
+      "url": "https://kings.amaze-apps.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.44,
-      "velocity": 5.786,
+      "base_score": 0.04,
+      "velocity": 3.847,
       "velocity_label": "exploding",
-      "combined_score": 6.36
+      "combined_score": 0.38
     },
     {
-      "title": "Ask HN: Anyone increasingly worried after Hugging Face and now collusion.wiki?",
-      "url": "https://news.ycombinator.com/item?id=49576654",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 5.593,
+      "base_score": 0.52,
+      "velocity": 3.813,
       "velocity_label": "exploding",
-      "combined_score": 0.98
-    },
-    {
-      "title": "Statichost.eu – European static site hosting",
-      "url": "https://www.statichost.eu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.0,
-      "velocity": 5.46,
-      "velocity_label": "exploding",
-      "combined_score": 81.9
-    },
-    {
-      "title": "Building AssayMark — a cybersecurity assessment SaaS helping SMEs understand what security issues actually matter and wh...",
-      "url": "https://twitter.com/Naumansay/status/2096243725848473713#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 5.403,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "How to Create a Tor Exit Node (2015)",
-      "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.02,
-      "velocity": 5.37,
-      "velocity_label": "exploding",
-      "combined_score": 13.69
-    },
-    {
-      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.37,
-      "velocity": 5.341,
-      "velocity_label": "exploding",
-      "combined_score": 151.81
+      "combined_score": 4.96
     },
     {
       "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
       "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.57,
-      "velocity": 5.333,
+      "base_score": 7.75,
+      "velocity": 3.75,
       "velocity_label": "exploding",
-      "combined_score": 100.93
+      "combined_score": 72.66
     },
     {
-      "title": "Icons as a Service",
-      "url": "https://nravic.com/blog/images/",
+      "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+      "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.56,
-      "velocity": 5.212,
+      "base_score": 0.48,
+      "velocity": 3.558,
       "velocity_label": "exploding",
-      "combined_score": 7.3
+      "combined_score": 4.27
     },
     {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "title": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.22,
-      "velocity": 5.208,
+      "base_score": 6.95,
+      "velocity": 3.491,
       "velocity_label": "exploding",
-      "combined_score": 41.93
-    },
-    {
-      "title": "Turn your AI into a world-class designer",
-      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.975,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "the best 20 accounts to follow in AI:@karpathy= learn LLMs@steipete= learn openclaw@gregisenberg= learn startup ideas@ri...",
-      "url": "https://twitter.com/alex_prompter/status/2094818827137581543#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 3.66,
-      "velocity": 4.938,
-      "velocity_label": "exploding",
-      "combined_score": 45.18
-    },
-    {
-      "title": "Connecting every app to every other app",
-      "url": "https://blog.val.town/connectors",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.45,
-      "velocity": 4.911,
-      "velocity_label": "exploding",
-      "combined_score": 5.53
-    },
-    {
-      "title": "SpaceX is building its own gas turbine blade factory to power AI faster",
-      "url": "https://qz.com/spacex-turbine-blade-foundry-ai-data-centers-090226",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.899,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 60.65
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "name",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 138.96,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": ".name Termination",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Name a startup \n\nThat had the biggest impact on its industry?",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "JUST IN: 𝕏 wins a court order blocking a rival startup app from using the “Twitter” name.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "llms",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 44.48,
-      "total_mentions": 4,
-      "examples": [
-        {
-          "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "“Next-token predictor” is the wrong mental model for LLMs",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "How to Make LLMs Read Your Llms.txt",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "the best 20 accounts to follow in AI:@karpathy= learn LLMs@steipete= learn openclaw@gregisenberg= learn startup ideas@ri...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "building",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 36.24,
-      "total_mentions": 4,
-      "examples": [
-        {
-          "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "SpaceX is building its own gas turbine blade factory to power AI faster",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "🚨 A Bengaluru-based startup, EtherealX Exploration Guild, is building a rocket that can be fully reused, not just the fi...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "Building AssayMark — a cybersecurity assessment SaaS helping SMEs understand what security issues actually matter and wh...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "every",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 34.68,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Connecting every app to every other app",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "a single bee pollinating a wildflower does more to keep this planet alive than every hedge fund and tech startup combine...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "India is hailed as a global startup hub, but our research reveals a startling friction: For every 1 Startup, there are 2...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "keep",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 26.96,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "NYC law could force Uber and Lyft to keep dangerous drivers on the road",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "a single bee pollinating a wildflower does more to keep this planet alive than every hedge fund and tech startup combine...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "working",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 25.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Nitter has more working instances than before the takedowns",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "U would be shocked india has most no of startup in world working for reuseable rocket!!! \n\n> There are more then 850+ sp...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "app",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 21.68,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Connecting every app to every other app",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "JUST IN: 𝕏 wins a court order blocking a rival startup app from using the “Twitter” name.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "using",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 19.92,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Separating Parsing Expression Grammars Using Cell-Probe Lower Bounds",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "JUST IN: 𝕏 wins a court order blocking a rival startup app from using the “Twitter” name.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "source",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 19.68,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Show HN: Open-Source eInk Bike Computer",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Do  you want a Complete Metering System, but don't want to have to source  each component individually? Prefabricated, f...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "claude",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 13.16,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "My current startup went from abandoned idea to deployed product in 21 days, on a Claude subscription my co-founder pays ...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "global",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.84,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Global warming will exceed 1.5-degree limit, UN says",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "India is hailed as a global startup hub, but our research reveals a startling friction: For every 1 Startup, there are 2...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "system",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.76,
-      "total_mentions": 4,
-      "examples": [
-        {
-          "title": "Kale: A Transformation-Safe Spreadsheet System",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "The Two Abstractions of System Design: Hide or Reduce",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Do  you want a Complete Metering System, but don't want to have to source  each component individually? Prefabricated, f...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "security",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 6.24,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "An open DNS recursive service for free security and high privacy",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Building AssayMark — a cybersecurity assessment SaaS helping SMEs understand what security issues actually matter and wh...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "world",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.72,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Turn your AI into a world-class designer",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Over the past few months the word 'harness' has become the standard term in the AI world for everything that wraps aroun...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "U would be shocked india has most no of startup in world working for reuseable rocket!!! \n\n> There are more then 850+ sp...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "everything",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": ".gitignore Everything by Default",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Over the past few months the word 'harness' has become the standard term in the AI world for everything that wraps aroun...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "went",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "A Million Falcons Went Missing. Here’s How They Were Found",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "My current startup went from abandoned idea to deployed product in 21 days, on a Claude subscription my co-founder pays ...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "want",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.28,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Do  you want a Complete Metering System, but don't want to have to source  each component individually? Prefabricated, f...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "industry",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Ask HN: Why does it seem like the game industry is stagnating?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Name a startup \n\nThat had the biggest impact on its industry?",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "final",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "SiGMA North America 2026 — Final Day Recap  Mexico City wrapped up with a sharp focus on regulation, startups & affiliat...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "become",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "This Vintage Printing Press Has Become a Darling of Silicon Valley",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Over the past few months the word 'harness' has become the standard term in the AI world for everything that wraps aroun...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [],
   "personal_relevance": [
     {
@@ -1270,10 +536,22 @@
       "url": "https://opentrailpaper.com",
       "source": "hackernews",
       "category": "tech",
-      "score": 4.92,
+      "score": 5.41,
       "relevance": 0.111,
       "matching_tags": [
         "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Benzi – A harness reading LESS source code to write better quality code",
+      "url": "https://github.com/oooscoos/Benzi",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
         "source"
       ]
     },
@@ -1282,7 +560,7 @@
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.22,
+      "score": 4.47,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -1293,32 +571,10 @@
       "url": "https://quad9.net/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.56,
+      "score": 1.64,
       "relevance": 0.056,
       "matching_tags": [
         "open"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 1.51,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.06,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
       ]
     },
     {
@@ -1326,43 +582,32 @@
       "url": "https://dl.acm.org/doi/abs/10.1162/coli_a_00197",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.05,
+      "score": 0.13,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
       ]
     },
     {
-      "title": "Show HN: MCPay – spend authorization and per-call billing for MCP tools",
-      "url": "https://github.com/yiaany/MCPay",
+      "title": "Ironies of Automation [pdf]",
+      "url": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.04,
+      "relevance": 0.056,
+      "matching_tags": [
+        "automation"
+      ]
+    },
+    {
+      "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
+      "url": "https://arxiv.org/abs/1202.3424",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "tools"
-      ]
-    },
-    {
-      "title": "Building AssayMark — a cybersecurity assessment SaaS helping SMEs understand what security issues actually matter and wh...",
-      "url": "https://twitter.com/Naumansay/status/2096243725848473713#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.0,
-      "relevance": 0.056,
-      "matching_tags": [
-        "saas"
-      ]
-    },
-    {
-      "title": "Do  you want a Complete Metering System, but don't want to have to source  each component individually? Prefabricated, f...",
-      "url": "https://twitter.com/BlueWhiteInd/status/2096243717908942943#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.0,
-      "relevance": 0.056,
-      "matching_tags": [
-        "source"
+        "code"
       ]
     }
   ]
