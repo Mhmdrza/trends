@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-06T10:13:17.560038+00:00",
-  "scrape_timestamp": "2026-09-06T10:11:21.081237+00:00",
-  "total_items_analyzed": 110,
+  "timestamp": "2026-09-06T14:52:50.007040+00:00",
+  "scrape_timestamp": "2026-09-06T14:51:17.035787+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,996 +16,527 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
-      "count": 20,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "agents",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "source": "hackernews",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "score": 0.97
-        },
-        {
-          "title": "Stemma – one source of truth for Claude.md, AGENTS.md and Copilot",
-          "source": "hackernews",
-          "url": "https://github.com/alexvinola/stemma-cli",
-          "score": 0.02
-        },
-        {
-          "title": "🤖🚀 𝗧𝗛𝗘 𝗡𝗘𝗫𝗧 𝗔𝗜 𝗔𝗚𝗘𝗡𝗧 𝗠𝗜𝗚𝗛𝗧 𝗡𝗢𝗧 𝗡𝗘𝗘𝗗 𝗔 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 AI agents are becoming more capable. But building one still sounds compl",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/oska7941/status/2096541460849914179#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "agent",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Discovery of a new OpenAI agent message board",
-          "source": "hackernews",
-          "url": "https://collusion.wiki/",
-          "score": 45.06
-        },
-        {
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "source": "hackernews",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "score": 0.97
-        },
-        {
-          "title": "Creating an AI agent is becoming almost effortless. The harder part begins when that agent starts making decisions, inte",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/DeeRealLina/status/2096538575923818767#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "video",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Isar Aerospace launch into orbit [video]",
-          "source": "hackernews",
-          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-          "score": 1.3
-        },
-        {
-          "title": "State of the Map 2026 Video Channel",
-          "source": "hackernews",
-          "url": "https://peertube.openstreetmap.fr/c/sotm_2026/videos",
-          "score": 0.01
-        },
-        {
-          "title": "You just cried at a video of an elephant hugging an old man that never happened. No elephant. No old man. No desert. No",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/Mrdimasta420/status/2096535553780920341#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "digital",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Company's Digital Headquarters",
-          "source": "hackernews",
-          "url": "https://corporatesuite.co/",
-          "score": 0.07
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/Rubycryptoz/status/2096531426271453547#m",
-          "score": 0.5
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/Rubycryptoz/status/2096531357979828642#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "high",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "An open DNS recursive service for free security and high privacy",
-          "source": "hackernews",
-          "url": "https://quad9.net/",
-          "score": 1.81
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/Rubycryptoz/status/2096531426271453547#m",
-          "score": 0.5
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/Rubycryptoz/status/2096531357979828642#m",
-          "score": 0.5
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "title": "Household Laser Cuts",
+      "url": "https://cceckman.com/writing/household-laser-cuts/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.84,
-      "velocity": 18.0,
+      "base_score": 0.26,
+      "velocity": 12.667,
       "velocity_label": "exploding",
-      "combined_score": 262.8
+      "combined_score": 8.23
     },
     {
-      "title": "Start with one customer",
-      "url": "https://josem.co/start-with-one-customer/",
+      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 18.0,
+      "base_score": 1.28,
+      "velocity": 12.11,
       "velocity_label": "exploding",
-      "combined_score": 0.9
+      "combined_score": 38.75
     },
     {
-      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-      "url": "https://github.com/iczelia/balrogg",
+      "title": "IBM Quantum Nighthawk R2",
+      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.01,
-      "velocity": 16.19,
+      "base_score": 0.83,
+      "velocity": 10.46,
       "velocity_label": "exploding",
-      "combined_score": 40.88
-    },
-    {
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.91,
-      "velocity": 15.654,
-      "velocity_label": "exploding",
-      "combined_score": 426.97
-    },
-    {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.61,
-      "velocity": 15.385,
-      "velocity_label": "exploding",
-      "combined_score": 61.93
-    },
-    {
-      "title": "RecurseCenter.return()",
-      "url": "https://mm-dev.rocks/series/recursecenter.return/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.63,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 20.87
-    },
-    {
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.3,
-      "velocity": 12.562,
-      "velocity_label": "exploding",
-      "combined_score": 40.83
-    },
-    {
-      "title": "Court Filings in A.I. Suit Invoke Copyright Law, Culture and Sports",
-      "url": "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 12.417,
-      "velocity_label": "exploding",
-      "combined_score": 0.31
-    },
-    {
-      "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
-      "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.25,
-      "velocity": 12.334,
-      "velocity_label": "exploding",
-      "combined_score": 7.71
-    },
-    {
-      "title": "Isar Aerospace launch into orbit [video]",
-      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.3,
-      "velocity": 11.996,
-      "velocity_label": "exploding",
-      "combined_score": 38.99
-    },
-    {
-      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
-      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.19,
-      "velocity": 11.156,
-      "velocity_label": "exploding",
-      "combined_score": 33.19
-    },
-    {
-      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-      "url": "https://isaraerospace.com/mission-updates-overview",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.46,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 11.6
-    },
-    {
-      "title": "Obscura: Native rendering is here. No Chromium required",
-      "url": "https://github.com/h4ckf0r0day/obscura",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 10.08,
-      "velocity_label": "exploding",
-      "combined_score": 4.54
-    },
-    {
-      "title": "Show HN: Fly By – retro biplane flying game",
-      "url": "https://michaelteter.com/flyby.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.63,
-      "velocity": 9.692,
-      "velocity_label": "exploding",
-      "combined_score": 39.49
-    },
-    {
-      "title": "Music Theory for Programmers",
-      "url": "https://runjs.app/blog/music-theory-for-programmers",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.24,
-      "velocity": 9.405,
-      "velocity_label": "exploding",
-      "combined_score": 52.67
-    },
-    {
-      "title": "Ship Harness Bench – Same prompt, same model, different harnesses",
-      "url": "https://grigio.github.io/ship-harness-bench/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 9.019,
-      "velocity_label": "exploding",
-      "combined_score": 1.35
-    },
-    {
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.97,
-      "velocity": 8.799,
-      "velocity_label": "exploding",
-      "combined_score": 109.33
-    },
-    {
-      "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
-      "url": "https://keenbean.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.711,
-      "velocity_label": "exploding",
-      "combined_score": 0.44
-    },
-    {
-      "title": "RT by @HumamAlQussi: Humans & Creative AI🤖: From Competition to Positive Collaboration. Partners in Innovation [Part 2-2",
-      "url": "http://nitter.jaydenha.uk/HumamAlQussi/status/2096352704423473648#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.583,
-      "velocity_label": "exploding",
-      "combined_score": 10.73
-    },
-    {
-      "title": "Delidded Intel I9-14900KS CT Scan",
-      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.21,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 25.71
-    },
-    {
-      "title": "Steffen's Polyhedron",
-      "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.7,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 14.88
-    },
-    {
-      "title": "RT by @sharyph_: The creator economy just crossed $234B. But here's what almost nobody's talking about: The creators win",
-      "url": "http://nitter.jaydenha.uk/sharyph_/status/2096458641713029535#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.086,
-      "velocity_label": "exploding",
-      "combined_score": 10.11
-    },
-    {
-      "title": "Creating an AI agent is becoming almost effortless. The harder part begins when that agent starts making decisions, inte",
-      "url": "http://nitter.jaydenha.uk/DeeRealLina/status/2096538575923818767#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.055,
-      "velocity_label": "exploding",
-      "combined_score": 10.07
-    },
-    {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.04,
-      "velocity": 7.938,
-      "velocity_label": "exploding",
-      "combined_score": 139.7
-    },
-    {
-      "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-      "url": "https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.889,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "Does your landing page look generated?",
-      "url": "https://slop-detect.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 7.667,
-      "velocity_label": "exploding",
-      "combined_score": 0.96
-    },
-    {
-      "title": "R to @OGFIGO: seeing creator economy evolve is the move",
-      "url": "http://nitter.jaydenha.uk/Chongkydudut/status/2096539816922149333#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 7.601,
-      "velocity_label": "exploding",
-      "combined_score": 9.5
-    },
-    {
-      "title": "Singapore subway (mrt) information display types",
-      "url": "https://www.sgtrains.com/technology-infosys.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.82,
-      "velocity": 7.55,
-      "velocity_label": "exploding",
-      "combined_score": 15.48
-    },
-    {
-      "title": "The Era of Agentic Benchmaxxing",
-      "url": "https://kaitchup.substack.com/p/the-era-of-agentic-benchmaxxing",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.55
-    },
-    {
-      "title": "Show HN: Recipery: Self-hosted recipe manager, no database required",
-      "url": "https://recipery.dev",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.085,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 7.01,
-      "velocity_label": "exploding",
-      "combined_score": 14.2
+      "combined_score": 21.71
     },
     {
       "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
       "url": "https://llogiq.github.io/2026/03/20/case.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.05,
-      "velocity": 6.533,
+      "base_score": 0.06,
+      "velocity": 10.4,
       "velocity_label": "exploding",
-      "combined_score": 0.82
+      "combined_score": 1.56
     },
     {
-      "title": "R to @brianchau57: Nope. It’s about how pay to play is coming from both sides of the AI issue. You’re a propagandist sim",
-      "url": "http://nitter.jaydenha.uk/GeorgeR21234525/status/2096542130114105602#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 6.414,
-      "velocity_label": "exploding",
-      "combined_score": 8.02
-    },
-    {
-      "title": "AMD Based FreeBSD Desktop Reloaded",
-      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "title": "What is Nueralese and Why is it Bad",
+      "url": "https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.6,
-      "velocity": 6.347,
+      "base_score": 0.18,
+      "velocity": 9.962,
       "velocity_label": "exploding",
-      "combined_score": 9.52
+      "combined_score": 4.48
     },
     {
-      "title": "RT by @liamcoderx: If you are following the creator economy and tech trends, understanding the rise of the AI influencer",
-      "url": "http://nitter.jaydenha.uk/thefuturenolan/status/2095793286225269241#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 6.163,
-      "velocity_label": "exploding",
-      "combined_score": 7.7
-    },
-    {
-      "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
-      "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+      "title": "Ryoku – A hand-built Omarchy alternative",
+      "url": "https://ryoku.dev/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.83,
-      "velocity": 6.125,
+      "base_score": 0.03,
+      "velocity": 9.607,
       "velocity_label": "exploding",
-      "combined_score": 12.71
+      "combined_score": 0.72
     },
     {
-      "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-      "url": "http://nitter.jaydenha.uk/Rubycryptoz/status/2096531426271453547#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 6.085,
-      "velocity_label": "exploding",
-      "combined_score": 7.61
-    },
-    {
-      "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-      "url": "http://nitter.jaydenha.uk/Rubycryptoz/status/2096531357979828642#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 6.085,
-      "velocity_label": "exploding",
-      "combined_score": 7.61
-    },
-    {
-      "title": "How Swiss tables work in Go built-in map",
-      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.86,
-      "velocity": 5.968,
+      "base_score": 5.26,
+      "velocity": 9.535,
       "velocity_label": "exploding",
-      "combined_score": 12.83
+      "combined_score": 125.38
     },
     {
-      "title": "Experiment: How easy is it to buy a research paper on the black market?",
-      "url": "https://news.err.ee/1610129869/experiment-how-easy-is-it-to-buy-a-research-paper-on-the-black-market",
+      "title": "A/I shuts down – Stay human",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.829,
+      "base_score": 0.16,
+      "velocity": 9.136,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 3.65
     },
     {
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.69,
-      "velocity": 5.77,
+      "base_score": 8.03,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 82.08
+      "combined_score": 170.64
     },
     {
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "url": "https://github.com/iczelia/balrogg",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.97,
-      "velocity": 5.741,
+      "base_score": 1.16,
+      "velocity": 8.048,
       "velocity_label": "exploding",
-      "combined_score": 13.92
+      "combined_score": 23.34
     },
     {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+      "url": "https://shukla.io/quantum-oracle-engineering/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.23,
-      "velocity": 5.736,
+      "base_score": 0.12,
+      "velocity": 7.693,
       "velocity_label": "exploding",
-      "combined_score": 31.98
-    },
-    {
-      "title": "You just cried at a video of an elephant hugging an old man that never happened. No elephant. No old man. No desert. No",
-      "url": "http://nitter.jaydenha.uk/Mrdimasta420/status/2096535553780920341#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.702,
-      "velocity_label": "exploding",
-      "combined_score": 7.13
-    },
-    {
-      "title": "Terpstra Keyboard",
-      "url": "http://terpstrakeyboard.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.29,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 30.53
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.89,
-      "velocity": 5.236,
-      "velocity_label": "exploding",
-      "combined_score": 50.92
-    },
-    {
-      "title": "R to @BenjellounRani: i imagine 5k would kill our economy and 5k won't be enough for the regular Moroccan in this econom",
-      "url": "http://nitter.jaydenha.uk/ChafTebbounDakh/status/2096528737047056502#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.231,
-      "velocity_label": "exploding",
-      "combined_score": 6.54
-    },
-    {
-      "title": "'The creator economy a survival guide' and what it means being discussed on the Creator Stage 👏 #IFA #IFA2026 #IFABerlin",
-      "url": "http://nitter.jaydenha.uk/Tech2dayUK/status/2096529187485995335#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.174,
-      "velocity_label": "exploding",
-      "combined_score": 6.47
-    },
-    {
-      "title": "RT by @HawkGirl_Stocks: 30 Websites That Feel \"Illegal\" But Are Perfectly Legal 1. http://raphael.ai — Free unlimited AI",
-      "url": "http://nitter.jaydenha.uk/I_AM_AYASHA/status/2096510415966745066#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.041,
-      "velocity_label": "exploding",
-      "combined_score": 6.3
+      "combined_score": 2.31
     },
     {
       "title": "A Computer History Time Capsule",
       "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 4.891,
+      "base_score": 0.21,
+      "velocity": 7.656,
       "velocity_label": "exploding",
-      "combined_score": 0.86
+      "combined_score": 4.02
+    },
+    {
+      "title": "New York City pausing some AI tools in schools",
+      "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.511,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
+    },
+    {
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.01,
+      "velocity": 7.36,
+      "velocity_label": "exploding",
+      "combined_score": 18.58
+    },
+    {
+      "title": "2026 Hugo Awards",
+      "url": "https://www.thehugoawards.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.4,
+      "velocity": 6.937,
+      "velocity_label": "exploding",
+      "combined_score": 6.94
+    },
+    {
+      "title": "RecurseCenter.return()",
+      "url": "https://mm-dev.rocks/series/recursecenter.return/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.74,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 12.8
+    },
+    {
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.16,
+      "velocity": 6.37,
+      "velocity_label": "exploding",
+      "combined_score": 193.64
+    },
+    {
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.34,
+      "velocity": 6.112,
+      "velocity_label": "exploding",
+      "combined_score": 20.47
+    },
+    {
+      "title": "The pencil case model of creativity",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 5.556,
+      "velocity_label": "exploding",
+      "combined_score": 5.0
+    },
+    {
+      "title": "The many mysteries and lessons of the Bayeux tapestry",
+      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.21,
+      "velocity": 5.55,
+      "velocity_label": "exploding",
+      "combined_score": 2.91
+    },
+    {
+      "title": "Delidded Intel I9-14900KS CT Scan",
+      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.28,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 17.07
+    },
+    {
+      "title": "AI Slop",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 1.2
+    },
+    {
+      "title": "Singapore subway (mrt) information display types",
+      "url": "https://www.sgtrains.com/technology-infosys.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.88,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 11.73
+    },
+    {
+      "title": "Industrial-Strength Natural Language Processing",
+      "url": "https://spacy.io/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.291,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.02,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 39.64
+    },
+    {
+      "title": "Show HN: Appreciate art with the White Lotus intro",
+      "url": "https://art.darebuild.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.227,
+      "velocity_label": "exploding",
+      "combined_score": 0.39
+    },
+    {
+      "title": "Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency",
+      "url": "https://arxiv.org/abs/2603.14133",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.113,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.39,
+      "velocity": 5.069,
+      "velocity_label": "exploding",
+      "combined_score": 55.64
+    },
+    {
+      "title": "Freelance writer (memoirs, fantasy, and speculative fiction)",
+      "url": "https://www.reddit.com/r/forhire/comments/1w8xeeg/for_hire_creative_ghostwriter_emotionally_complex/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Don't Use a gmail.com Address",
+      "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.72,
+      "velocity": 4.938,
+      "velocity_label": "exploding",
+      "combined_score": 8.89
+    },
+    {
+      "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
+      "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.91,
+      "velocity": 4.911,
+      "velocity_label": "exploding",
+      "combined_score": 11.17
+    },
+    {
+      "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+      "url": "https://isaraerospace.com/mission-updates-overview",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.5,
+      "velocity": 4.76,
+      "velocity_label": "exploding",
+      "combined_score": 5.95
+    },
+    {
+      "title": "Design Patterns",
+      "url": "https://en.wikipedia.org/wiki/Design_Patterns",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Show HN: Truffle – Ask questions about your codebase in plain English, in Slack",
+      "url": "https://asktruffle.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.601,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.31,
+      "velocity": 4.427,
+      "velocity_label": "exploding",
+      "combined_score": 3.43
+    },
+    {
+      "title": "Over 60k arrested for communication offences as trivial as viewing TikTok videos",
+      "url": "https://www.gbnews.com/news/free-speech-row-more-than-60000-arrested-communications-offences",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.417,
+      "velocity_label": "exploding",
+      "combined_score": 0.11
+    },
+    {
+      "title": "Fileregister: Tagging and reference layer for your files, in plain text",
+      "url": "https://github.com/rhsev/fileregister",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 4.102,
+      "velocity_label": "exploding",
+      "combined_score": 1.03
+    },
+    {
+      "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
+      "url": "https://github.com/franciscocarloserra/llm-sandbox/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.099,
+      "velocity_label": "exploding",
+      "combined_score": 0.1
+    },
+    {
+      "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
+      "url": "https://news.ycombinator.com/item?id=49586810",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.093,
+      "velocity_label": "exploding",
+      "combined_score": 0.1
+    },
+    {
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.99,
+      "velocity": 4.082,
+      "velocity_label": "exploding",
+      "combined_score": 10.1
+    },
+    {
+      "title": "A cross-chain DEX for atomic swaps, without middleman",
+      "url": "https://basicswapdex.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Neither a borrower nor a lender be; For loan oft loses both itself and friend",
+      "url": "https://shakespeare.mit.edu/hamlet/hamlet.1.3.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.36,
+      "velocity": 3.945,
+      "velocity_label": "exploding",
+      "combined_score": 62.72
+    },
+    {
+      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "url": "https://github.com/scastiel/kado",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 3.878,
+      "velocity_label": "exploding",
+      "combined_score": 0.39
+    },
+    {
+      "title": "Terpstra Keyboard",
+      "url": "http://terpstrakeyboard.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.33,
+      "velocity": 3.75,
+      "velocity_label": "exploding",
+      "combined_score": 21.84
+    },
+    {
+      "title": "The Empire of Information",
+      "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.32,
+      "velocity": 3.667,
+      "velocity_label": "exploding",
+      "combined_score": 2.93
+    },
+    {
+      "title": "Decapitating a MacBook",
+      "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.2,
+      "velocity": 3.667,
+      "velocity_label": "exploding",
+      "combined_score": 1.83
+    },
+    {
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.63,
+      "velocity": 3.531,
+      "velocity_label": "exploding",
+      "combined_score": 23.22
+    },
+    {
+      "title": "GPT-6 Astra soundly defeats Fable 5.1 on recognizing handwritten corrections",
+      "url": "https://dorrit.pairsys.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 3.51,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.96,
+      "velocity": 3.487,
+      "velocity_label": "exploding",
+      "combined_score": 78.11
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "agent",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 186.12,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Discovery of a new OpenAI agent message board",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Creating an AI agent is becoming almost effortless. The harder part begins when that agent starts making decisions, inte",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "making",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 30.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Creating an AI agent is becoming almost effortless. The harder part begins when that agent starts making decisions, inte",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "never",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 25.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Git hosting that never leaves Europe",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "You just cried at a video of an elephant hugging an old man that never happened. No elephant. No old man. No desert. No",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "google",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 21.88,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Chrome again exempts Google from user site data settings",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Orange County to weigh temporary moratorium on AI Data Center applications https://share.google/u42m7dtVrAzRm1DGZ",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "data",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 21.88,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Chrome again exempts Google from user site data settings",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Orange County to weigh temporary moratorium on AI Data Center applications https://share.google/u42m7dtVrAzRm1DGZ",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "high",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 11.24,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "An open DNS recursive service for free security and high privacy",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "free",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 9.24,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "An open DNS recursive service for free security and high privacy",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HawkGirl_Stocks: 30 Websites That Feel \"Illegal\" But Are Perfectly Legal 1. http://raphael.ai — Free unlimited AI",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "video",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.24,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Isar Aerospace launch into orbit [video]",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "State of the Map 2026 Video Channel",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "You just cried at a video of an elephant hugging an old man that never happened. No elephant. No old man. No desert. No",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "agents",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.96,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Stemma – one source of truth for Claude.md, AGENTS.md and Copilot",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "🤖🚀 𝗧𝗛𝗘 𝗡𝗘𝗫𝗧 𝗔𝗜 𝗔𝗚𝗘𝗡𝗧 𝗠𝗜𝗚𝗛𝗧 𝗡𝗢𝗧 𝗡𝗘𝗘𝗗 𝗔 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 AI agents are becoming more capable. But building one still sounds compl",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "play",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.2,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Play GTA Vice City in the Browser",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @brianchau57: Nope. It’s about how pay to play is coming from both sides of the AI issue. You’re a propagandist sim",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "digital",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 4.28,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Company's Digital Headquarters",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗘𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗼𝗳 𝗠𝗶𝗰𝗿𝗼-𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀 High legacy credit card fees make small digital payments completely unprofitable. Bl",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "aerospace",
-        "isar",
-        "orbit"
-      ],
-      "concept_hint": "aerospace + isar + orbit",
-      "cluster_size": 3,
-      "discussion_count": 3,
-      "void_score": 13.5,
-      "examples": [
-        {
-          "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-          "source": "hackernews",
-          "matching_keywords": [
-            "aerospace",
-            "isar",
-            "orbit"
-          ]
-        },
-        {
-          "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-          "source": "hackernews",
-          "matching_keywords": [
-            "aerospace",
-            "isar"
-          ]
-        },
-        {
-          "title": "Isar Aerospace launch into orbit [video]",
-          "source": "hackernews",
-          "matching_keywords": [
-            "aerospace",
-            "isar",
-            "orbit"
-          ]
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
       "title": "Show HN: Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.84,
+      "score": 5.93,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -1013,22 +544,23 @@
       ]
     },
     {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "url": "https://github.com/scastiel/kado",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.05,
-      "relevance": 0.056,
+      "score": 0.04,
+      "relevance": 0.111,
       "matching_tags": [
-        "code"
+        "open",
+        "source"
       ]
     },
     {
-      "title": "An open DNS recursive service for free security and high privacy",
-      "url": "https://quad9.net/",
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.81,
+      "score": 3.75,
       "relevance": 0.056,
       "matching_tags": [
         "open"
@@ -1039,76 +571,21 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.93,
+      "score": 1.75,
       "relevance": 0.056,
       "matching_tags": [
         "tools"
       ]
     },
     {
-      "title": "R to @OGFIGO: seeing creator economy evolve is the move",
-      "url": "http://nitter.jaydenha.uk/Chongkydudut/status/2096539816922149333#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @sharyph_: The creator economy just crossed $234B. But here's what almost nobody's talking about: The creators win",
-      "url": "http://nitter.jaydenha.uk/sharyph_/status/2096458641713029535#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @liamcoderx: If you are following the creator economy and tech trends, understanding the rise of the AI influencer",
-      "url": "http://nitter.jaydenha.uk/thefuturenolan/status/2095793286225269241#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "'The creator economy a survival guide' and what it means being discussed on the Creator Stage 👏 #IFA #IFA2026 #IFABerlin",
-      "url": "http://nitter.jaydenha.uk/Tech2dayUK/status/2096529187485995335#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "CHC5: Open Camera System – Image Sensor Specification Comparison",
-      "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+      "title": "New York City pausing some AI tools in schools",
+      "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.25,
+      "score": 0.04,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
-      ]
-    },
-    {
-      "title": "Stemma – one source of truth for Claude.md, AGENTS.md and Copilot",
-      "url": "https://github.com/alexvinola/stemma-cli",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.02,
-      "relevance": 0.056,
-      "matching_tags": [
-        "source"
+        "tools"
       ]
     }
   ]
