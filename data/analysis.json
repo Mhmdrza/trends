@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-07T02:40:39.898594+00:00",
-  "scrape_timestamp": "2026-09-07T02:38:57.395611+00:00",
-  "total_items_analyzed": 96,
+  "timestamp": "2026-09-07T11:29:05.069804+00:00",
+  "scrape_timestamp": "2026-09-07T11:27:29.472950+00:00",
+  "total_items_analyzed": 99,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 86,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -26,7 +26,7 @@
   },
   "cross_platform_gaps": [
     {
-      "keyword": "security",
+      "keyword": "everything",
       "present_on": [
         "hackernews",
         "twitter"
@@ -34,31 +34,37 @@
       "missing_from": [
         "youtube"
       ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
+      "mention_count": 4,
+      "opportunity_score": 24.0,
       "examples": [
         {
-          "title": "The NX bit is not just about security",
+          "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
           "source": "hackernews",
-          "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-          "score": 0.11
+          "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+          "score": 1.1
         },
         {
-          "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+          "title": "Timing Is Everything: The Terrence Tao Effect",
           "source": "hackernews",
-          "url": "https://rfd.shared.oxide.computer/rfd/0301",
-          "score": 0.02
+          "url": "https://nonlineartransform.substack.com/p/ai-swarms-timing-is-everything",
+          "score": 0.01
         },
         {
-          "title": "Small businesses face the same threats as enterprises without the security teams to handle them. Built Nivorook to close",
+          "title": "R to @gopalsays108: Reach is the currency of the creator economy. Visibility can change everything.",
           "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/polsia/status/2096790677002891385#m",
+          "url": "http://nitter.jaydenha.uk/gunsch09/status/2096921762542112843#m",
+          "score": 0.5
+        },
+        {
+          "title": "Join me in the room this Friday for @SpaceTradeHQ “crypto & everything in between “ launch event. I’ll be yapping about",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/CHIEFIKENGA/status/2096921625929105462#m",
           "score": 0.5
         }
       ]
     },
     {
-      "keyword": "openai",
+      "keyword": "don",
       "present_on": [
         "hackernews",
         "twitter"
@@ -70,85 +76,21 @@
       "opportunity_score": 18.0,
       "examples": [
         {
-          "title": "Research acceleration: The view inside OpenAI",
+          "title": "Show HN: GET Together – A social network where you don't need POST to Post",
           "source": "hackernews",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "score": 2.41
+          "url": "https://gettogether.dev",
+          "score": 1.15
         },
         {
-          "title": "Discovery of a new OpenAI agent message board",
+          "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
           "source": "hackernews",
-          "url": "https://collusion.wiki/",
-          "score": 46.34
+          "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+          "score": 3.25
         },
         {
-          "title": "Hai tờ báo lớn của Mỹ vừa chính thức kiện OpenAI và Microsoft vì sử dụng nội dung có bản quyền mà không xin phép. Đây là",
+          "title": "RT by @FELIXBONIFACE2: 𝐓𝐡𝐞 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐄𝐜𝐨𝐧𝐨𝐦𝐲 𝐢𝐬 𝐂𝐫𝐲𝐩𝐭𝐨 𝐦𝐢𝐬𝐬𝐢𝐧𝐠 𝐋𝐚𝐲𝐞𝐫 Crypto has a distribution problem. And I don’t think",
           "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/boen2207/status/2096790680677077042#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "without",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Americans Without Degrees Are Having One of the Best Job Markets in Years",
-          "source": "hackernews",
-          "url": "https://www.wsj.com/lifestyle/careers/americans-without-college-degrees-are-having-one-of-the-best-job-markets-in-years-5f37d00e",
-          "score": 0.15
-        },
-        {
-          "title": "The car industry A/B tested selling a car with and without CarPlay",
-          "source": "hackernews",
-          "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-          "score": 2.64
-        },
-        {
-          "title": "Small businesses face the same threats as enterprises without the security teams to handle them. Built Nivorook to close",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/polsia/status/2096790677002891385#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "built",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-          "source": "hackernews",
-          "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-          "score": 0.05
-        },
-        {
-          "title": "I built a (wacky) date string utility",
-          "source": "hackernews",
-          "url": "https://progressier.com/iso-date-string-toolkit",
-          "score": 0.04
-        },
-        {
-          "title": "Small businesses face the same threats as enterprises without the security teams to handle them. Built Nivorook to close",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/polsia/status/2096790677002891385#m",
+          "url": "http://nitter.jaydenha.uk/Oluwadarra/status/2096904779519639758#m",
           "score": 0.5
         }
       ]
@@ -156,611 +98,760 @@
   ],
   "velocity_leaders": [
     {
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.89,
-      "velocity": 18.0,
+      "base_score": 1.29,
+      "velocity": 22.75,
       "velocity_label": "exploding",
-      "combined_score": 85.05
+      "combined_score": 73.37
     },
     {
-      "title": "A Week of Bug Reporting",
-      "url": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
+      "title": "I was on Ubuntu's first design team in 2009 London",
+      "url": "https://twitter.com/dvdsgl/status/2096775107989672007",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 15.889,
+      "base_score": 0.15,
+      "velocity": 16.209,
       "velocity_label": "exploding",
-      "combined_score": 4.77
+      "combined_score": 6.08
     },
     {
-      "title": "Icy Moons Are Ocean Worlds",
-      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.57,
-      "velocity": 15.625,
+      "base_score": 2.31,
+      "velocity": 15.964,
       "velocity_label": "exploding",
-      "combined_score": 22.27
+      "combined_score": 92.19
     },
     {
-      "title": "Ganon's Mysterious Origins (Revisited)",
-      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.41,
-      "velocity": 15.625,
+      "base_score": 7.27,
+      "velocity": 15.361,
       "velocity_label": "exploding",
-      "combined_score": 16.02
+      "combined_score": 279.19
     },
     {
-      "title": "Donut math: how donut.c works (2011)",
-      "url": "https://www.a1k0n.net/2011/07/20/donut-math.html",
+      "title": "Is mathematics about to enter the conservatory?",
+      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 14.792,
+      "base_score": 1.76,
+      "velocity": 13.667,
       "velocity_label": "exploding",
-      "combined_score": 0.37
+      "combined_score": 60.13
     },
     {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
+      "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+      "url": "https://play.simten.dev",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.81,
-      "velocity": 13.25,
+      "base_score": 0.09,
+      "velocity": 12.856,
       "velocity_label": "exploding",
-      "combined_score": 258.71
+      "combined_score": 2.89
     },
     {
-      "title": "D2 Is Non-Profit",
-      "url": "https://d2lang.com/blog/d2-non-profit/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.49,
-      "velocity": 13.25,
+      "title": "R to @Oluwadarra: I get what you are saying sir creator economy is really need",
+      "url": "http://nitter.jaydenha.uk/FELIXBONIFACE2/status/2096922144173146545#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 12.667,
       "velocity_label": "exploding",
-      "combined_score": 16.23
+      "combined_score": 15.83
     },
     {
-      "title": "Electronic skin for prosthetics to sense temperature and pressure",
-      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.56,
-      "velocity": 13.25,
+      "title": "R to @0xemotions_: creator economy still needs real distribution",
+      "url": "http://nitter.jaydenha.uk/Davidgmi_01/status/2096917815752024248#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 12.583,
       "velocity_label": "exploding",
-      "combined_score": 18.55
-    },
-    {
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.27,
-      "velocity": 12.722,
-      "velocity_label": "exploding",
-      "combined_score": 40.39
-    },
-    {
-      "title": "Finder is so frustrating and has been since day one",
-      "url": "https://kepter.app/finder",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.87,
-      "velocity": 11.271,
-      "velocity_label": "exploding",
-      "combined_score": 80.87
-    },
-    {
-      "title": "Research carried out using NetBSD",
-      "url": "https://www.netbsd.org/gallery/research.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.07,
-      "velocity": 10.875,
-      "velocity_label": "exploding",
-      "combined_score": 29.09
-    },
-    {
-      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
-      "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.6,
-      "velocity": 10.054,
-      "velocity_label": "exploding",
-      "combined_score": 15.08
-    },
-    {
-      "title": "Ponytail: Lazy Senior Engineer Skill",
-      "url": "https://ponytail.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.54,
-      "velocity": 10.05,
-      "velocity_label": "exploding",
-      "combined_score": 13.57
-    },
-    {
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 9.865,
-      "velocity_label": "exploding",
-      "combined_score": 8.88
-    },
-    {
-      "title": "Cultivating Trust",
-      "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 9.688,
-      "velocity_label": "exploding",
-      "combined_score": 3.39
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.41,
-      "velocity": 9.556,
-      "velocity_label": "exploding",
-      "combined_score": 57.57
-    },
-    {
-      "title": "The car industry A/B tested selling a car with and without CarPlay",
-      "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.64,
-      "velocity": 9.239,
-      "velocity_label": "exploding",
-      "combined_score": 60.98
-    },
-    {
-      "title": "The Coming Merging of Mind and Machine (1999)",
-      "url": "https://www.thekurzweillibrary.com/the-coming-merging-of-mind-and-machine",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.56,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-      "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.32,
-      "velocity": 8.021,
-      "velocity_label": "exploding",
-      "combined_score": 26.47
+      "combined_score": 15.73
     },
     {
       "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
       "url": "https://rfd.shared.oxide.computer/rfd/0301",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.766,
+      "base_score": 0.41,
+      "velocity": 11.915,
       "velocity_label": "exploding",
-      "combined_score": 0.39
-    },
-    {
-      "title": "GOP issues stark warning to AI companies",
-      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.4,
-      "velocity": 7.743,
-      "velocity_label": "exploding",
-      "combined_score": 7.74
-    },
-    {
-      "title": "Americans Without Degrees Are Having One of the Best Job Markets in Years",
-      "url": "https://www.wsj.com/lifestyle/careers/americans-without-college-degrees-are-having-one-of-the-best-job-markets-in-years-5f37d00e",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 7.741,
-      "velocity_label": "exploding",
-      "combined_score": 2.9
-    },
-    {
-      "title": "Household Laser Cuts",
-      "url": "https://cceckman.com/writing/household-laser-cuts/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.78,
-      "velocity": 7.444,
-      "velocity_label": "exploding",
-      "combined_score": 14.52
-    },
-    {
-      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-      "url": "https://shukla.io/quantum-oracle-engineering/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.95,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 17.42
-    },
-    {
-      "title": "Doomscrolling ourselves to death",
-      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.82,
-      "velocity": 7.143,
-      "velocity_label": "exploding",
-      "combined_score": 139.64
-    },
-    {
-      "title": "PL Education in the Age of AI: Interview with Shriram Krishnamurthi",
-      "url": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.133,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-      "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.23,
-      "velocity": 7.115,
-      "velocity_label": "exploding",
-      "combined_score": 57.46
-    },
-    {
-      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.06,
-      "velocity": 7.052,
-      "velocity_label": "exploding",
-      "combined_score": 18.69
-    },
-    {
-      "title": "The many mysteries and lessons of the Bayeux tapestry",
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.74,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 12.8
-    },
-    {
-      "title": "Show HN: Gigantic Research, Friend",
-      "url": "https://news.ycombinator.com/item?id=49593113",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.825,
-      "velocity_label": "exploding",
-      "combined_score": 0.51
-    },
-    {
-      "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
-      "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.42,
-      "velocity": 6.57,
-      "velocity_label": "exploding",
-      "combined_score": 6.9
-    },
-    {
-      "title": "Mirror Life Is Theoretical - The Danger Is Anything But",
-      "url": "https://www.rand.org/pubs/commentary/2026/08/mirror-life-is-theoretical-the-danger-is-anything-but.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.1,
-      "velocity_label": "exploding",
-      "combined_score": 0.46
-    },
-    {
-      "title": "Vidact – a compiler that turns React into direct DOM operations",
-      "url": "https://www.vidact.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.94,
-      "velocity": 6.05,
-      "velocity_label": "exploding",
-      "combined_score": 14.22
-    },
-    {
-      "title": "A Mathematical Theory of Communication [pdf]",
-      "url": "https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.895,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Hard-Chat – A serverless, RAM-only P2P terminal chat",
-      "url": "https://github.com/mrhardlint/Hard-Chat",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 5.735,
-      "velocity_label": "exploding",
-      "combined_score": 2.01
-    },
-    {
-      "title": "How I make games in Batch Script: Multithreading",
-      "url": "https://github.com/thelowsunoverthemoon/BatchArticles/blob/main/HowIMakeGamesInBatchScriptP1.md",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.493,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "The pencil case model of creativity",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.9,
-      "velocity": 5.492,
-      "velocity_label": "exploding",
-      "combined_score": 12.36
-    },
-    {
-      "title": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.8,
-      "velocity": 5.488,
-      "velocity_label": "exploding",
-      "combined_score": 120.73
+      "combined_score": 12.21
     },
     {
       "title": "It took a year to ship WebAssembly in Anubis",
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.97,
-      "velocity": 5.467,
+      "base_score": 4.89,
+      "velocity": 11.73,
       "velocity_label": "exploding",
-      "combined_score": 40.59
+      "combined_score": 143.4
     },
     {
-      "title": "RT by @marlborovista16: Image",
-      "url": "http://nitter.jaydenha.uk/s8n/status/2096578416375894519#m",
+      "title": "What Is Your Favorite Deep, Elegant, or Beautiful Explanation?",
+      "url": "https://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 11.6,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.39,
+      "velocity": 11.009,
+      "velocity_label": "exploding",
+      "combined_score": 38.26
+    },
+    {
+      "title": "The Great Barrier Reef refuses to die on schedule",
+      "url": "https://www.latimes.com/opinion/story/2026-09-06/great-barrier-reef-refuses-to-die",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 10.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.81
+    },
+    {
+      "title": "R to @gopalsays108: Reach is the currency of the creator economy. Visibility can change everything.",
+      "url": "http://nitter.jaydenha.uk/gunsch09/status/2096921762542112843#m",
       "source": "twitter",
       "category": "social",
       "base_score": 0.5,
-      "velocity": 5.25,
+      "velocity": 10.763,
       "velocity_label": "exploding",
-      "combined_score": 6.56
+      "combined_score": 13.45
     },
     {
-      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-      "url": "https://github.com/redhat-et/ripwire",
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "url": "https://news.ycombinator.com/item?id=49596976",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.608,
+      "velocity_label": "exploding",
+      "combined_score": 0.27
+    },
+    {
+      "title": "R to @Aura_lixx: 6. YouTube Monetization Roadmap \"Act as a creator economy strategist. Design a complete monetization ro",
+      "url": "http://nitter.jaydenha.uk/Aura_lixx/status/2096922121104716088#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.365,
+      "velocity_label": "exploding",
+      "combined_score": 12.96
+    },
+    {
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 5.246,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "I built a (wacky) date string utility",
-      "url": "https://progressier.com/iso-date-string-toolkit",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.233,
+      "velocity": 10.352,
       "velocity_label": "exploding",
       "combined_score": 0.52
     },
     {
-      "title": "Equal Earth: Explore the world interactively with the Equal Earth map",
-      "url": "https://kuboon.github.io/equal-earth/",
+      "title": "Gotham Silicon: 1μ CMOS process that will ship custom chips for –$100 in <24hrs",
+      "url": "https://gothamsilicon.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 10.185,
+      "velocity_label": "exploding",
+      "combined_score": 9.17
+    },
+    {
+      "title": "R to @akashroy1k: New chain, growing creator traction, and a $10K hackathon closing soon. TermiX is clearly pushing the",
+      "url": "http://nitter.jaydenha.uk/jontu51/status/2096918111970856972#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.021,
+      "velocity_label": "exploding",
+      "combined_score": 12.53
+    },
+    {
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.33,
+      "velocity": 9.685,
+      "velocity_label": "exploding",
+      "combined_score": 7.99
+    },
+    {
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.35,
+      "velocity": 9.618,
+      "velocity_label": "exploding",
+      "combined_score": 32.46
+    },
+    {
+      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+      "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.92,
+      "velocity": 9.401,
+      "velocity_label": "exploding",
+      "combined_score": 21.62
+    },
+    {
+      "title": "Why attend this year's New Creator Economy event? On 07th October at Curzon Soho, London, we're filling a half-day confe",
+      "url": "http://nitter.jaydenha.uk/Broadcastnow/status/2096921466352574952#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.068,
+      "velocity_label": "exploding",
+      "combined_score": 11.33
+    },
+    {
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.31,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 70.34
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.72,
+      "velocity": 8.358,
+      "velocity_label": "exploding",
+      "combined_score": 77.72
+    },
+    {
+      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.1,
+      "velocity": 8.233,
+      "velocity_label": "exploding",
+      "combined_score": 84.39
+    },
+    {
+      "title": "Show HN: Outbid.lol, but you need an EU VAT number to bid",
+      "url": "https://overbid.eu/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.232,
+      "velocity": 8.211,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 0.21
     },
     {
-      "title": "Attention Developers: New Open IssueTracker Ticket on Data Deletion Fraud",
-      "url": "https://issuetracker.google.com/issues/557281747",
+      "title": "Timing Is Everything: The Terrence Tao Effect",
+      "url": "https://nonlineartransform.substack.com/p/ai-swarms-timing-is-everything",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.033,
+      "velocity": 8.071,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 0.2
     },
     {
-      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "url": "https://github.com/scastiel/kado",
+      "title": "Apple Plans to Squeeze More Revenue from the App Store",
+      "url": "https://www.macrumors.com/2026/09/07/apple-squeeze-more-revenue-from-app-store/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.17,
-      "velocity": 4.948,
+      "base_score": 0.03,
+      "velocity": 7.81,
       "velocity_label": "exploding",
-      "combined_score": 14.47
+      "combined_score": 0.59
     },
     {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 10.86,
-      "velocity": 4.871,
+      "base_score": 1.29,
+      "velocity": 7.761,
       "velocity_label": "exploding",
-      "combined_score": 132.25
+      "combined_score": 25.03
     },
     {
-      "title": "2026 Hugo Awards",
-      "url": "https://www.thehugoawards.org/",
+      "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+      "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.36,
-      "velocity": 4.594,
+      "base_score": 0.34,
+      "velocity": 7.614,
       "velocity_label": "exploding",
-      "combined_score": 15.62
+      "combined_score": 6.47
     },
     {
-      "title": "P&G goes wide with a waterless, plastic-free Tide",
-      "url": "https://trellis.net/article/pg-water-plastic-out-of-tide-detergent/",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.35,
+      "velocity": 7.207,
+      "velocity_label": "exploding",
+      "combined_score": 6.31
+    },
+    {
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.59,
+      "velocity": 7.133,
+      "velocity_label": "exploding",
+      "combined_score": 10.52
+    },
+    {
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.54,
+      "velocity": 6.967,
+      "velocity_label": "exploding",
+      "combined_score": 79.07
+    },
+    {
+      "title": "Show HN: Interactive map of public transport in Great Britain and Ireland",
+      "url": "https://benmandrew.com/wayfare/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.933,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
+    },
+    {
+      "title": "Electronic skin for prosthetics to sense temperature and pressure",
+      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.6,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 10.38
+    },
+    {
+      "title": "Grindr pays £26M to settle UK lawsuit over allegedly sharing users' HIV status",
+      "url": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.568,
+      "velocity": 6.8,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 0.17
     },
     {
-      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-      "url": "https://gettogether.dev",
+      "title": "Tencent/Teamai-CLI: Make Every Team AI Native",
+      "url": "https://github.com/Tencent/teamai-cli",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 4.485,
+      "base_score": 0.03,
+      "velocity": 6.799,
       "velocity_label": "exploding",
-      "combined_score": 0.67
+      "combined_score": 0.51
     },
     {
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "title": "AMD Working to \"Push Rust Deep into the GPU Stack\"",
+      "url": "https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.05,
-      "velocity": 4.236,
+      "base_score": 0.02,
+      "velocity": 6.675,
       "velocity_label": "exploding",
-      "combined_score": 0.53
+      "combined_score": 0.33
+    },
+    {
+      "title": "Ask HN: What would be a genuinely fun interview process?",
+      "url": "https://news.ycombinator.com/item?id=49596932",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.443,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.54,
+      "velocity": 6.389,
+      "velocity_label": "exploding",
+      "combined_score": 24.6
+    },
+    {
+      "title": "Pleased to announce my official selection for the @Binance Creator Network. This marks a significant milestone as embark",
+      "url": "http://nitter.jaydenha.uk/0xzub/status/2096917717853032762#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.005,
+      "velocity_label": "exploding",
+      "combined_score": 7.51
+    },
+    {
+      "title": "RT by @FELIXBONIFACE2: 𝐓𝐡𝐞 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐄𝐜𝐨𝐧𝐨𝐦𝐲 𝐢𝐬 𝐂𝐫𝐲𝐩𝐭𝐨 𝐦𝐢𝐬𝐬𝐢𝐧𝐠 𝐋𝐚𝐲𝐞𝐫 Crypto has a distribution problem. And I don’t think",
+      "url": "http://nitter.jaydenha.uk/Oluwadarra/status/2096904779519639758#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.881,
+      "velocity_label": "exploding",
+      "combined_score": 7.35
+    },
+    {
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.69,
+      "velocity": 5.861,
+      "velocity_label": "exploding",
+      "combined_score": 185.94
+    },
+    {
+      "title": "British Museum faces question over Peter Thiel's private Bayeux Tapestry viewing",
+      "url": "https://www.londondaily.news/__sentry/balanced/british-museum-faces-questions-over-peter-thiels-private-bayeux-tapestry-viewing/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 5.822,
+      "velocity_label": "exploding",
+      "combined_score": 1.31
+    },
+    {
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.3,
+      "velocity": 5.571,
+      "velocity_label": "exploding",
+      "combined_score": 87.74
+    },
+    {
+      "title": "Research carried out using NetBSD",
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.32,
+      "velocity": 5.462,
+      "velocity_label": "exploding",
+      "combined_score": 18.02
+    },
+    {
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.65,
+      "velocity": 5.456,
+      "velocity_label": "exploding",
+      "combined_score": 8.87
+    },
+    {
+      "title": "D2 Is Non-Profit",
+      "url": "https://d2lang.com/blog/d2-non-profit/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.71,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 9.47
+    },
+    {
+      "title": "AI 2027",
+      "url": "https://ai-2027.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.27
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [
     {
-      "keyword": "openai",
+      "keyword": "year",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 197.0,
-      "total_mentions": 3,
+      "bridge_score": 21.56,
+      "total_mentions": 2,
       "examples": [
         {
-          "title": "Research acceleration: The view inside OpenAI",
+          "title": "It took a year to ship WebAssembly in Anubis",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Discovery of a new OpenAI agent message board",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Hai tờ báo lớn của Mỹ vừa chính thức kiện OpenAI và Microsoft vì sử dụng nội dung có bản quyền mà không xin phép. Đây là",
+          "title": "Why attend this year's New Creator Economy event? On 07th October at Curzon Soho, London, we're filling a half-day confe",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "without",
+      "keyword": "don",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 13.16,
+      "bridge_score": 19.6,
       "total_mentions": 3,
       "examples": [
         {
-          "title": "Americans Without Degrees Are Having One of the Best Job Markets in Years",
+          "title": "Show HN: GET Together – A social network where you don't need POST to Post",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "The car industry A/B tested selling a car with and without CarPlay",
+          "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Small businesses face the same threats as enterprises without the security teams to handle them. Built Nivorook to close",
+          "title": "RT by @FELIXBONIFACE2: 𝐓𝐡𝐞 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐄𝐜𝐨𝐧𝐨𝐦𝐲 𝐢𝐬 𝐂𝐫𝐲𝐩𝐭𝐨 𝐦𝐢𝐬𝐬𝐢𝐧𝐠 𝐋𝐚𝐲𝐞𝐫 Crypto has a distribution problem. And I don’t think",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "security",
+      "keyword": "everything",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 2.52,
-      "total_mentions": 3,
+      "bridge_score": 8.44,
+      "total_mentions": 4,
       "examples": [
         {
-          "title": "The NX bit is not just about security",
+          "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+          "title": "Timing Is Everything: The Terrence Tao Effect",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Small businesses face the same threats as enterprises without the security teams to handle them. Built Nivorook to close",
+          "title": "R to @gopalsays108: Reach is the currency of the creator economy. Visibility can change everything.",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Join me in the room this Friday for @SpaceTradeHQ “crypto & everything in between “ launch event. I’ll be yapping about",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "built",
+      "keyword": "network",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 6.6,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Pleased to announce my official selection for the @Binance Creator Network. This marks a significant milestone as embark",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "hackathon",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.4,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @akashroy1k: New chain, growing creator traction, and a $10K hackathon closing soon. TermiX is clearly pushing the",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "design",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.6,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "I was on Ubuntu's first design team in 2009 London",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @Aura_lixx: 6. YouTube Monetization Roadmap \"Act as a creator economy strategist. Design a complete monetization ro",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "london",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.6,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "I was on Ubuntu's first design team in 2009 London",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Why attend this year's New Creator Economy event? On 07th October at Curzon Soho, London, we're filling a half-day confe",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "complete",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
       "bridge_score": 2.36,
-      "total_mentions": 3,
+      "total_mentions": 2,
       "examples": [
         {
-          "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+          "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "I built a (wacky) date string utility",
+          "title": "R to @Aura_lixx: 6. YouTube Monetization Roadmap \"Act as a creator economy strategist. Design a complete monetization ro",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "think",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Small businesses face the same threats as enterprises without the security teams to handle them. Built Nivorook to close",
+          "title": "RT by @FELIXBONIFACE2: 𝐓𝐡𝐞 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐄𝐜𝐨𝐧𝐨𝐦𝐲 𝐢𝐬 𝐂𝐫𝐲𝐩𝐭𝐨 𝐦𝐢𝐬𝐬𝐢𝐧𝐠 𝐋𝐚𝐲𝐞𝐫 Crypto has a distribution problem. And I don’t think",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "real",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "AI in Test Automation: Real Limitations vs. User Error",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @0xemotions_: creator economy still needs real distribution",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "agent",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Ask HN: Are agent orchestrators an anti-pattern?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @jul56502344: https://Agent.family launch across BNB, Base, Robinhood signals tokenized stock future, boosting crea",
           "source": "twitter",
           "category": "social"
         }
@@ -770,35 +861,11 @@
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "url": "https://github.com/scastiel/kado",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 1.17,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Runic SSH – Open-Source SSH/SFTP Client in Rust and Tauri",
-      "url": "https://github.com/marciopaiva/runic-ssh",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "source": "hackernews",
       "category": "tech",
-      "score": 10.86,
+      "score": 12.71,
       "relevance": 0.056,
       "matching_tags": [
         "open"
@@ -809,54 +876,120 @@
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.44,
+      "score": 2.57,
       "relevance": 0.056,
       "matching_tags": [
         "tools"
       ]
     },
     {
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.05,
+      "title": "R to @Oluwadarra: I get what you are saying sir creator economy is really need",
+      "url": "http://nitter.jaydenha.uk/FELIXBONIFACE2/status/2096922144173146545#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "creator"
       ]
     },
     {
-      "title": "Opened the source of my game (multiplatform autobattler)",
-      "url": "https://github.com/lfarroco/mana-game",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.04,
+      "title": "R to @Aura_lixx: 6. YouTube Monetization Roadmap \"Act as a creator economy strategist. Design a complete monetization ro",
+      "url": "http://nitter.jaydenha.uk/Aura_lixx/status/2096922121104716088#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
-        "source"
+        "creator"
       ]
     },
     {
-      "title": "The Coming Merging of Mind and Machine (1999)",
-      "url": "https://www.thekurzweillibrary.com/the-coming-merging-of-mind-and-machine",
+      "title": "R to @gopalsays108: Reach is the currency of the creator economy. Visibility can change everything.",
+      "url": "http://nitter.jaydenha.uk/gunsch09/status/2096921762542112843#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Why attend this year's New Creator Economy event? On 07th October at Curzon Soho, London, we're filling a half-day confe",
+      "url": "http://nitter.jaydenha.uk/Broadcastnow/status/2096921466352574952#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @akashroy1k: New chain, growing creator traction, and a $10K hackathon closing soon. TermiX is clearly pushing the",
+      "url": "http://nitter.jaydenha.uk/jontu51/status/2096918111970856972#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @0xemotions_: creator economy still needs real distribution",
+      "url": "http://nitter.jaydenha.uk/Davidgmi_01/status/2096917815752024248#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Pleased to announce my official selection for the @Binance Creator Network. This marks a significant milestone as embark",
+      "url": "http://nitter.jaydenha.uk/0xzub/status/2096917717853032762#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.42,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "KitGrade, 34 SaaS starter kits scored on evidence you can re-check",
+      "url": "https://kitgrade.kynth.studio",
       "source": "hackernews",
       "category": "tech",
       "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "machine"
+        "saas"
       ]
     },
     {
-      "title": "Attention Developers: New Open IssueTracker Ticket on Data Deletion Fraud",
-      "url": "https://issuetracker.google.com/issues/557281747",
+      "title": "AI in Test Automation: Real Limitations vs. User Error",
+      "url": "https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "automation"
       ]
     }
   ]
