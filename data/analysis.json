@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-08T02:52:59.158177+00:00",
-  "scrape_timestamp": "2026-09-08T02:51:28.923941+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-09-08T10:31:48.454144+00:00",
+  "scrape_timestamp": "2026-09-08T10:30:09.795130+00:00",
+  "total_items_analyzed": 99,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,39 +16,188 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "built",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "We built our house for LAN parties",
+          "source": "hackernews",
+          "url": "https://lanparty.house/",
+          "score": 1.77
+        },
+        {
+          "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+          "source": "hackernews",
+          "url": "https://lax-skyline.parcelscope.net/",
+          "score": 5.14
+        },
+        {
+          "title": "RT by @RitaSesay1: Studio Ghibli producer Toshio Suzuki says viral AI art was never built to last",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/Dexerto/status/2097007003914715338#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "google",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "There's a new \"Google Jail\" for independent wikis",
+          "source": "hackernews",
+          "url": "https://weirdgloop.org/blog/google-jail",
+          "score": 2.54
+        },
+        {
+          "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/WallStreetApes/status/2096942811853574538#m",
+          "score": 0.5
+        },
+        {
+          "title": "R to @cl136554291: AIには出せない生いぬの味 https://share.gemini.google/sxCg32HkCTsS",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/FINALKyouta/status/2097271630015922571#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "problem",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+          "source": "hackernews",
+          "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+          "score": 21.45
+        },
+        {
+          "title": "A continuing problem: human-generated content",
+          "source": "hackernews",
+          "url": "https://github.com/geoff1111/AI-post/blob/main/README.md",
+          "score": 0.02
+        },
+        {
+          "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/WallStreetApes/status/2096942811853574538#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "gemini",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "How to export Gemini chats to pdf [video]",
+          "source": "hackernews",
+          "url": "https://www.youtube.com/watch?v=zFdp8DUfDco",
+          "score": 0.03
+        },
+        {
+          "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/WallStreetApes/status/2096942811853574538#m",
+          "score": 0.5
+        },
+        {
+          "title": "R to @cl136554291: AIには出せない生いぬの味 https://share.gemini.google/sxCg32HkCTsS",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/FINALKyouta/status/2097271630015922571#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
+      "title": "Some more thoughts on random_page_cost",
+      "url": "https://vondra.me/posts/some-more-thoughts-on-random-page-cost/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.33,
-      "velocity": 18.0,
+      "base_score": 0.2,
+      "velocity": 27.5,
       "velocity_label": "exploding",
-      "combined_score": 149.85
+      "combined_score": 13.75
     },
     {
-      "title": "Macbeth and His Problems",
-      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "title": "Thoughts on Omarchy",
+      "url": "https://chrissy.dev/notes/thoughts-on-omarchy/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.69,
-      "velocity": 18.0,
+      "base_score": 0.02,
+      "velocity": 21.167,
       "velocity_label": "exploding",
-      "combined_score": 31.05
+      "combined_score": 1.06
     },
     {
-      "title": "TeamAI by Tencent",
-      "url": "https://github.com/Tencent/teamai-cli",
+      "title": "Plasma Studio",
+      "url": "https://thelibre.news/announcing-plasma-studio/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 19.5,
+      "velocity_label": "exploding",
+      "combined_score": 1.46
+    },
+    {
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.54,
+      "velocity": 18.648,
+      "velocity_label": "exploding",
+      "combined_score": 118.41
+    },
+    {
+      "title": "Ancient Egypt in 3D",
+      "url": "https://expeditione.fun/expeditions/ancient-egypt/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
@@ -57,498 +206,619 @@
       "combined_score": 0.9
     },
     {
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.17,
-      "velocity": 15.889,
-      "velocity_label": "exploding",
-      "combined_score": 46.48
-    },
-    {
-      "title": "Catching Crumbs from the Table (2000)",
-      "url": "https://www.nature.com/articles/35014679",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 14.833,
-      "velocity_label": "exploding",
-      "combined_score": 7.42
-    },
-    {
-      "title": "Show HN: HomeCat – Design your backyard office",
-      "url": "https://myhomecat.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.54,
-      "velocity": 14.763,
-      "velocity_label": "exploding",
-      "combined_score": 19.93
-    },
-    {
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.32,
-      "velocity": 12.722,
-      "velocity_label": "exploding",
-      "combined_score": 73.79
-    },
-    {
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.82,
-      "velocity": 12.281,
-      "velocity_label": "exploding",
-      "combined_score": 55.88
-    },
-    {
-      "title": "Replaceable but Employed: Automation and the Meaning of Work",
-      "url": "https://www.nber.org/papers/w35559",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.47,
-      "velocity": 12.089,
-      "velocity_label": "exploding",
-      "combined_score": 44.43
-    },
-    {
-      "title": "Methods for Random Gradients (2024)",
-      "url": "https://justinjay.wang/methods-for-random-gradients/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 11.554,
-      "velocity_label": "exploding",
-      "combined_score": 15.89
-    },
-    {
-      "title": "Terence Tao – Reflections on the Foundations of Interpretability Workshop",
-      "url": "https://www.youtube.com/watch?v=AXlif6z9a2A",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 11.083,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
       "title": "Emacs Bedrock 2.0",
       "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.4,
-      "velocity": 10.0,
+      "base_score": 1.61,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 10.0
+      "combined_score": 53.33
     },
     {
-      "title": "Mathematical Cranks",
-      "url": "https://en.wikipedia.org/wiki/Mathematical_Cranks",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "The Weather Is the Plan: Crossing Lake Michigan",
-      "url": "https://sailandsavor.blog/2026/09/07/the-weather-is-the-plan-crossing-lake-michigan-part-2/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.7,
-      "velocity_label": "exploding",
-      "combined_score": 0.24
-    },
-    {
-      "title": "Bill Gates tries to install MovieMaker (2003)",
-      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.18,
-      "velocity": 9.556,
-      "velocity_label": "exploding",
-      "combined_score": 171.52
-    },
-    {
-      "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
-      "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 8.964,
-      "velocity_label": "exploding",
-      "combined_score": 12.33
-    },
-    {
-      "title": "This Month in Ladybird – August 2026",
-      "url": "https://ladybird.org/newsletter/2026-08-31/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.48,
-      "velocity": 8.952,
-      "velocity_label": "exploding",
-      "combined_score": 55.5
-    },
-    {
-      "title": "bzip3",
-      "url": "https://github.com/iczelia/bzip3",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.53,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 117.51
-    },
-    {
-      "title": "Schemy Lisp En DOS",
-      "url": "https://sled.neocities.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.64,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 13.6
-    },
-    {
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.55,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 160.44
-    },
-    {
-      "title": "Decoding the NEC V20 Microcode",
-      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 8.025,
-      "velocity_label": "exploding",
-      "combined_score": 27.89
-    },
-    {
-      "title": "Hollywood's Box Office Boom Comes with 248M Missing Tickets",
-      "url": "https://www.nytimes.com/interactive/2026/09/07/business/media/summer-movies-box-office.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.823,
-      "velocity_label": "exploding",
-      "combined_score": 0.59
-    },
-    {
-      "title": "She Also Found It at the Movies",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 7.708,
-      "velocity_label": "exploding",
-      "combined_score": 6.94
-    },
-    {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.17,
-      "velocity": 7.581,
-      "velocity_label": "exploding",
-      "combined_score": 41.13
-    },
-    {
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.26,
-      "velocity": 7.55,
-      "velocity_label": "exploding",
-      "combined_score": 99.28
-    },
-    {
-      "title": "AI cancer cures slowed by chip shortage, says Arm boss",
-      "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+      "title": "By coincidence an independent result on Euler blowup has been released",
+      "url": "https://mathstodon.xyz/@tao/117234157753860650",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 6.913,
+      "velocity": 11.944,
       "velocity_label": "exploding",
-      "combined_score": 0.35
+      "combined_score": 0.6
     },
     {
-      "title": "OpenClaw Is Open Source",
-      "url": "https://github.com/openclaw/openclaw",
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.41,
+      "velocity": 11.891,
+      "velocity_label": "exploding",
+      "combined_score": 41.92
+    },
+    {
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.19,
+      "velocity": 11.35,
+      "velocity_label": "exploding",
+      "combined_score": 33.77
+    },
+    {
+      "title": "Docker-Boot",
+      "url": "https://github.com/purplesyringa/docker-boot",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.525,
+      "velocity": 10.875,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.27
     },
     {
-      "title": "Vagrant is approaching EOL. No more \"Docker for VMs\"",
-      "url": "https://developer.hashicorp.com/hcp/docs/vagrant/hcp-vagrant-eol",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.5,
+      "base_score": 4.29,
+      "velocity": 10.717,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 114.94
     },
     {
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
+      "title": "Property Graph Queries reverted from Postgres 19 after third beta",
+      "url": "https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=b1f106c80cbeb18d3a0219994d98a51a6eca8ede",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.05,
-      "velocity": 6.427,
+      "base_score": 0.04,
+      "velocity": 10.262,
       "velocity_label": "exploding",
-      "combined_score": 65.07
+      "combined_score": 1.03
     },
     {
-      "title": "Decapitating a MacBook (2025)",
-      "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+      "title": "Show HN: Interactive Tree of Life",
+      "url": "https://ptree.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.22,
-      "velocity": 6.159,
+      "base_score": 1.29,
+      "velocity": 9.898,
       "velocity_label": "exploding",
-      "combined_score": 18.79
+      "combined_score": 31.92
     },
     {
-      "title": "Giving Minecraft Infinite Time to Beat Itself [video]",
-      "url": "https://www.youtube.com/watch?v=9t2fV52jMA8",
+      "title": "Streaming Is Raising Prices Faster Than Cable Ever Did",
+      "url": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.085,
+      "base_score": 0.02,
+      "velocity": 9.897,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 0.49
     },
     {
-      "title": "China Planted 78 Billion New Trees—and Seriously Messed Up Its Water Cycle",
-      "url": "https://www.popularmechanics.com/science/environment/a73385264/china-reforesting-changes-hydrology-study/",
+      "title": "Run an ArchiveTeam Warrior on your computer",
+      "url": "https://tracker.archiveteam.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.804,
+      "base_score": 0.09,
+      "velocity": 9.688,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 2.18
     },
     {
-      "title": "Impedance Matching (2017)",
-      "url": "https://www.edge.org/response-detail/27238",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.1,
-      "velocity": 5.544,
+      "base_score": 2.25,
+      "velocity": 9.521,
       "velocity_label": "exploding",
-      "combined_score": 15.25
+      "combined_score": 53.55
     },
     {
-      "title": "I Couldn't Play Guitar, So I Spent 6 Years Building a Guitar Robot [video]",
-      "url": "https://www.youtube.com/shorts/XgJjdkYOKz8",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.503,
+      "base_score": 0.84,
+      "velocity": 9.219,
       "velocity_label": "exploding",
-      "combined_score": 0.83
+      "combined_score": 19.36
     },
     {
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
+      "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.72,
-      "velocity": 5.492,
+      "base_score": 0.48,
+      "velocity": 9.104,
       "velocity_label": "exploding",
-      "combined_score": 23.61
+      "combined_score": 10.92
     },
     {
-      "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
-      "url": "https://github.com/logimaxx/wg-admin",
+      "title": "TCP-Brutal v2 released: A rate-based TCP congestion control algorithm",
+      "url": "https://github.com/HyNetworks/tcp-brutal",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.34,
-      "velocity": 5.363,
+      "base_score": 0.04,
+      "velocity": 8.798,
       "velocity_label": "exploding",
-      "combined_score": 4.56
-    },
-    {
-      "title": "Icy Moons Are Ocean Worlds",
-      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.56,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 20.8
-    },
-    {
-      "title": "Jellyfin 12.0 Released",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.0",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.3,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Show HN: Archprint, infer architecture lint rules from your repo's import graph",
-      "url": "https://github.com/Tommkruix/archprint",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.129,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Is mathematics about to enter the conservatory?",
-      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.32,
-      "velocity": 5.032,
-      "velocity_label": "exploding",
-      "combined_score": 41.76
-    },
-    {
-      "title": "My business partner sent a 5K vibe-coded PR that he didn't even test",
-      "url": "https://ycj.bearblog.dev/ai-again/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 4.972,
-      "velocity_label": "exploding",
-      "combined_score": 0.87
-    },
-    {
-      "title": "Create Passkey After Account Recovery Due to Forgotten Password",
-      "url": "https://www.passkeycentral.org/design-guidelines/optional-patterns/create-passkey-after-account-recovery-due-to-forgotten-password",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.65,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Saturday Evening Post Will Stop Printing After 205 Years",
-      "url": "https://www.nytimes.com/2026/09/02/business/media/saturday-evening-post-stop-printing.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 4.555,
-      "velocity_label": "exploding",
-      "combined_score": 1.37
-    },
-    {
-      "title": "The robots.txt user-agent lines that do not name what they look like",
-      "url": "https://ai-visibility.lastminutedealshq.com/robots-txt-user-agent-tokens",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.521,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 17.74,
-      "velocity": 4.406,
-      "velocity_label": "exploding",
-      "combined_score": 195.4
-    },
-    {
-      "title": "The Dataflow Model Revisited",
-      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.1,
-      "velocity": 4.301,
-      "velocity_label": "exploding",
-      "combined_score": 11.83
+      "combined_score": 0.88
     },
     {
       "title": "Jellyfin 12.0",
       "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.38,
-      "velocity": 4.0,
+      "base_score": 6.19,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 13.8
+      "combined_score": 131.54
     },
     {
-      "title": "Every novel is boring until it isn't",
-      "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.71,
-      "velocity": 3.913,
+      "base_score": 4.47,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 16.73
+      "combined_score": 94.99
     },
     {
-      "title": "Searching for the best silicone USB cable",
-      "url": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.46,
-      "velocity": 3.818,
+      "base_score": 0.84,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 4.39
+      "combined_score": 17.85
     },
     {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "title": "Canada's counter-tariffs take effect on various US goods",
+      "url": "https://www.france24.com/en/live-news/20260908-canada-s-counter-tariffs-take-effect-on-various-us-goods",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.08,
-      "velocity": 3.72,
+      "base_score": 0.29,
+      "velocity": 8.429,
       "velocity_label": "exploding",
-      "combined_score": 19.35
-    }
-  ],
-  "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
-  "personal_relevance": [
+      "combined_score": 6.11
+    },
     {
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
+      "title": "Show HN: NYC MapTap – Learn NYC neighborhoods",
+      "url": "https://albertjoseph0.github.io/nyc-maptap/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.61,
-      "relevance": 0.111,
-      "matching_tags": [
-        "code",
-        "source"
-      ]
+      "base_score": 0.19,
+      "velocity": 8.423,
+      "velocity_label": "exploding",
+      "combined_score": 4.0
+    },
+    {
+      "title": "Xiaomi Announces Foldable iPhone Rival",
+      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.4,
+      "velocity_label": "exploding",
+      "combined_score": 0.42
+    },
+    {
+      "title": "anystation: Calling any station A public board shaped like a tree. No account",
+      "url": "https://anystation.net/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 8.305,
+      "velocity_label": "exploding",
+      "combined_score": 4.78
+    },
+    {
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "url": "https://kallus.org/blog/dummit_and_foote.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.32,
+      "velocity": 7.708,
+      "velocity_label": "exploding",
+      "combined_score": 25.44
+    },
+    {
+      "title": "Gap between how your team sees you AND how you see yourself",
+      "url": "https://highimpactengineering.substack.com/p/the-gap-between-how-i-saw-myself",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.546,
+      "velocity_label": "exploding",
+      "combined_score": 0.57
+    },
+    {
+      "title": "A continuing problem: human-generated content",
+      "url": "https://github.com/geoff1111/AI-post/blob/main/README.md",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.517,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "Demystifying Complex Configurations",
+      "url": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Catching Crumbs from the Table (2000)",
+      "url": "https://www.nature.com/articles/35014679",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.26,
+      "velocity": 7.312,
+      "velocity_label": "exploding",
+      "combined_score": 4.75
+    },
+    {
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.42,
+      "velocity": 7.282,
+      "velocity_label": "exploding",
+      "combined_score": 7.65
+    },
+    {
+      "title": "How to export Gemini chats to pdf [video]",
+      "url": "https://www.youtube.com/watch?v=zFdp8DUfDco",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.239,
+      "velocity_label": "exploding",
+      "combined_score": 0.54
+    },
+    {
+      "title": "R to @cl136554291: AIには出せない生いぬの味 https://share.gemini.google/sxCg32HkCTsS",
+      "url": "http://nitter.jaydenha.uk/FINALKyouta/status/2097271630015922571#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.989,
+      "velocity_label": "exploding",
+      "combined_score": 8.74
+    },
+    {
+      "title": "We have found stable singularity on 3D Euler",
+      "url": "https://twitter.com/AnimaAnandkumar/status/2097216195342864528",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.806,
+      "velocity_label": "exploding",
+      "combined_score": 0.34
+    },
+    {
+      "title": "Automatically detecting AI text in my browser",
+      "url": "https://www.seangoedecke.com/deckard/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 6.515,
+      "velocity_label": "exploding",
+      "combined_score": 0.98
     },
     {
       "title": "TALA Is Open-Source",
       "url": "https://d2lang.com/blog/tala-is-open-source/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.06,
+      "base_score": 2.54,
+      "velocity": 6.441,
+      "velocity_label": "exploding",
+      "combined_score": 40.9
+    },
+    {
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.46,
+      "velocity": 6.336,
+      "velocity_label": "exploding",
+      "combined_score": 7.29
+    },
+    {
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.27,
+      "velocity": 6.264,
+      "velocity_label": "exploding",
+      "combined_score": 51.21
+    },
+    {
+      "title": "No Graphics API",
+      "url": "https://github.com/sebbbi/NoGraphicsAPI",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.25,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.83,
+      "velocity": 6.125,
+      "velocity_label": "exploding",
+      "combined_score": 43.33
+    },
+    {
+      "title": "Vaenyx – A personal AI app for family",
+      "url": "https://github.com/vaenyxai/core",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.022,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
+    },
+    {
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.04,
+      "velocity": 5.933,
+      "velocity_label": "exploding",
+      "combined_score": 15.43
+    },
+    {
+      "title": "Methods for Random Gradients (2024)",
+      "url": "https://justinjay.wang/methods-for-random-gradients/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.56,
+      "velocity": 5.927,
+      "velocity_label": "exploding",
+      "combined_score": 8.3
+    },
+    {
+      "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+      "url": "http://nitter.jaydenha.uk/WallStreetApes/status/2096942811853574538#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.871,
+      "velocity_label": "exploding",
+      "combined_score": 7.34
+    },
+    {
+      "title": "The 'Covered List': A Fraud Claimed 'National Security'",
+      "url": "https://www.lawfaremedia.org/article/the--covered-list---a-fraud-claimed--national-security",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.815,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Netflix Moves Toward Open Source Flink Autoscaler for 30k Streaming Jobs",
+      "url": "https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.566,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.83,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 77.73
+    },
+    {
+      "title": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.42,
+      "velocity": 5.302,
+      "velocity_label": "exploding",
+      "combined_score": 71.85
+    }
+  ],
+  "niche_opportunities": [],
+  "bridge_topics": [
+    {
+      "keyword": "problem",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 87.88,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "A continuing problem: human-generated content",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "built",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 29.64,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "We built our house for LAN parties",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @RitaSesay1: Studio Ghibli producer Toshio Suzuki says viral AI art was never built to last",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "google",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 14.16,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "There's a new \"Google Jail\" for independent wikis",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "R to @cl136554291: AIには出せない生いぬの味 https://share.gemini.google/sxCg32HkCTsS",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "gemini",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.12,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "How to export Gemini chats to pdf [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "R to @cl136554291: AIには出せない生いぬの味 https://share.gemini.google/sxCg32HkCTsS",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "yourself",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Gap between how your team sees you AND how you see yourself",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @AngelinaPTech: one of the forms of ai psychosis is tricking yourself into thinking a lot of data, a lot of work,",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "studio",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Plasma Studio",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @RitaSesay1: Studio Ghibli producer Toshio Suzuki says viral AI art was never built to last",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [],
+  "personal_relevance": [
+    {
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 2.54,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -556,8 +826,20 @@
       ]
     },
     {
-      "title": "OpenClaw Is Open Source",
-      "url": "https://github.com/openclaw/openclaw",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 2.25,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "source"
+      ]
+    },
+    {
+      "title": "Netflix Moves Toward Open Source Flink Autoscaler for 30k Streaming Jobs",
+      "url": "https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
@@ -568,36 +850,47 @@
       ]
     },
     {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "title": "RT by @Andrewpitkin2: We have a major problem All the major AI tools like Google Gemini, ChatGPT, even Grok say it’s not",
+      "url": "http://nitter.jaydenha.uk/WallStreetApes/status/2096942811853574538#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "tools"
+      ]
+    },
+    {
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 13.61,
+      "score": 0.42,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "url": "https://docs.appliedcompute.com",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.06,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Replaceable but Employed: Automation and the Meaning of Work",
-      "url": "https://www.nber.org/papers/w35559",
+      "title": "A continuing problem: human-generated content",
+      "url": "https://github.com/geoff1111/AI-post/blob/main/README.md",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.47,
+      "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "automation"
-      ]
-    },
-    {
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://github.com/trailofbits/coop",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.74,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
+        "content"
       ]
     }
   ]
