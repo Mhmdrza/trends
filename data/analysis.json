@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-10T02:53:55.371000+00:00",
-  "scrape_timestamp": "2026-09-10T02:52:25.087238+00:00",
-  "total_items_analyzed": 116,
+  "timestamp": "2026-09-10T10:31:48.064175+00:00",
+  "scrape_timestamp": "2026-09-10T10:30:11.784710+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,1499 +16,543 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 29,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "startup",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 14,
-      "opportunity_score": 84.0,
-      "examples": [
-        {
-          "title": "Kepler Compute- New memory startup for AI",
-          "source": "hackernews",
-          "url": "https://keplercompute.com",
-          "score": 0.03
-        },
-        {
-          "title": "yeah right, just like my startup that sold out in my dreams",
-          "source": "twitter",
-          "url": "https://twitter.com/everythingisnrg/status/2097881133899792641#m",
-          "score": 0.0
-        },
-        {
-          "title": "🇮🇱🇺🇸🚀 TECNOLOGIA ISRAELENSE PARA REFORÇAR O OCIDENTE\n\nA startup Covenant levantou mais de US$ 250 milhões para produzir ...",
-          "source": "twitter",
-          "url": "https://twitter.com/MonicaLaredo2/status/2097804697092436108#m",
-          "score": 0.14
-        },
-        {
-          "title": "JUST IN: The US Justice Department is probing Nvidia's licensing deal with AI chip startup Groq, according to the New Yo...",
-          "source": "twitter",
-          "url": "https://twitter.com/HIT/status/2097870345499742209#m",
-          "score": 0.01
-        },
-        {
-          "title": "You can now pick different startup animations when you turn on your Xbox console.",
-          "source": "twitter",
-          "url": "https://twitter.com/Stallion83/status/2097795439529439525#m",
-          "score": 11.72
-        }
-      ]
-    },
-    {
-      "keyword": "iphone",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 5,
-      "opportunity_score": 30.0,
-      "examples": [
-        {
-          "title": "iPhone Duo",
-          "source": "hackernews",
-          "url": "https://www.apple.com/iphone-duo/",
-          "score": 35.52
-        },
-        {
-          "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-          "source": "hackernews",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-          "score": 7.52
-        },
-        {
-          "title": "New app: Yesterday, an iPhone app for yesterday's weather",
-          "source": "hackernews",
-          "url": "https://interconnected.org/home/2026/08/26/yesterday",
-          "score": 0.38
-        },
-        {
-          "title": "iPhone Duo has a large crease",
-          "source": "hackernews",
-          "url": "https://www.reddit.com/r/pics/comments/1wbx1wo/there_is_a_crease/",
-          "score": 0.15
-        },
-        {
-          "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-          "source": "twitter",
-          "url": "https://twitter.com/GabbbarSingh/status/2097758791597252737#m",
-          "score": 3.58
-        }
-      ]
-    },
-    {
-      "keyword": "now",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 5,
-      "opportunity_score": 30.0,
-      "examples": [
-        {
-          "title": "Scanned, segmented, and animated my keyboard. Now you can type on my keyboard",
-          "source": "hackernews",
-          "url": "https://chyuang.com/gaussian-splats/",
-          "score": 0.1
-        },
-        {
-          "title": "You can now pick different startup animations when you turn on your Xbox console.",
-          "source": "twitter",
-          "url": "https://twitter.com/Stallion83/status/2097795439529439525#m",
-          "score": 11.72
-        },
-        {
-          "title": "Hey SaaS founders 👋\n\nWhat are you building right now?\n\n🚀 SaaS product\n🤖 AI-powered SaaS\n⚡ Automation tool\n💻 Developer pl...",
-          "source": "twitter",
-          "url": "https://twitter.com/konig0000/status/2097880519522554351#m",
-          "score": 0.0
-        },
-        {
-          "title": "𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗶𝘁𝘆 𝗶𝘀 𝗯𝗲𝗰𝗼𝗺𝗶𝗻𝗴 𝗺𝗼𝗿𝗲 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗹𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗔𝗜.\n\nSomeone with an idea can now experiment with concepts that previousl...",
-          "source": "twitter",
-          "url": "https://twitter.com/Preetiboi_Ray/status/2097856791845417298#m",
-          "score": 0.0
-        },
-        {
-          "title": "With X’s updated and stricter Content Creator payment programme now up and running, I will be doing my part to report ac...",
-          "source": "twitter",
-          "url": "https://twitter.com/SiyabongaOnX/status/2097561571572486389#m",
-          "score": 0.24
-        }
-      ]
-    },
-    {
-      "keyword": "economy",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 4,
-      "opportunity_score": 24.0,
-      "examples": [
-        {
-          "title": "Is OpenAI the Achilles' Heel of the US Economy? [video]",
-          "source": "hackernews",
-          "url": "https://www.youtube.com/watch?v=RhLLwfwlNAU",
-          "score": 0.02
-        },
-        {
-          "title": "BOOTH×VRChat提携、嫌な予感しかしない\n\nもし今後アバターや衣装の販売がVRChat側（Creator Economy）に寄ったら\n6000円で売ってもクリエイターに届くのは3000円\n\nさらにVRC内販売なら、VRChatの規約...",
-          "source": "twitter",
-          "url": "https://twitter.com/wahumaru/status/2097645022439170471#m",
-          "score": 0.29
-        },
-        {
-          "title": "Startup nation x creator economy 😁",
-          "source": "twitter",
-          "url": "https://twitter.com/DavidDarkSEO/status/2097848603779719402#m",
-          "score": 0.0
-        },
-        {
-          "title": "This is a big deal in the Creator space. Hollywood is REALLY leaning into the Creator Economy. Times have changed, wow.",
-          "source": "twitter",
-          "url": "https://twitter.com/cjjohnsonjr/status/2097843008352010371#m",
-          "score": 0.01
-        }
-      ]
-    },
-    {
-      "keyword": "duo",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "iPhone Duo",
-          "source": "hackernews",
-          "url": "https://www.apple.com/iphone-duo/",
-          "score": 35.52
-        },
-        {
-          "title": "iPhone Duo has a large crease",
-          "source": "hackernews",
-          "url": "https://www.reddit.com/r/pics/comments/1wbx1wo/there_is_a_crease/",
-          "score": 0.15
-        },
-        {
-          "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-          "source": "twitter",
-          "url": "https://twitter.com/GabbbarSingh/status/2097758791597252737#m",
-          "score": 3.58
-        }
-      ]
-    },
-    {
-      "keyword": "building",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
-          "source": "hackernews",
-          "url": "https://blog.torproject.org/tor-vpn-beta/",
-          "score": 0.04
-        },
-        {
-          "title": "Building a Wall Lamp from Scratch",
-          "source": "hackernews",
-          "url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
-          "score": 1.26
-        },
-        {
-          "title": "Hey SaaS founders 👋\n\nWhat are you building right now?\n\n🚀 SaaS product\n🤖 AI-powered SaaS\n⚡ Automation tool\n💻 Developer pl...",
-          "source": "twitter",
-          "url": "https://twitter.com/konig0000/status/2097880519522554351#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "next",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Open source FPGA: the next frontier is silicon",
-          "source": "hackernews",
-          "url": "https://www.reddit.com/r/FPGA/comments/1wbrrgi/open_source_fpga_the_next_frontier_is_silicon/",
-          "score": 0.04
-        },
-        {
-          "title": "Show HN: Find your next client on X",
-          "source": "hackernews",
-          "url": "https://tiny.opencreators.ai",
-          "score": 0.04
-        },
-        {
-          "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-          "source": "twitter",
-          "url": "https://twitter.com/GabbbarSingh/status/2097758791597252737#m",
-          "score": 3.58
-        }
-      ]
-    },
-    {
-      "keyword": "find",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Show HN: They chose your competitor. Find out why",
-          "source": "hackernews",
-          "url": "https://drop.space",
-          "score": 0.03
-        },
-        {
-          "title": "Show HN: Find your next client on X",
-          "source": "hackernews",
-          "url": "https://tiny.opencreators.ai",
-          "score": 0.04
-        },
-        {
-          "title": "For Estonia it's a lean small gov and very startup tech friendly, if you need to im sure I can find you the right connec...",
-          "source": "twitter",
-          "url": "https://twitter.com/peignoir/status/2097880678780043505#m",
-          "score": 0.0
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "title": "Seismic Isolation",
+      "url": "https://www.ligo.caltech.edu/page/vibration-isolation",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.66,
+      "base_score": 0.13,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 389.7
+      "combined_score": 5.85
     },
     {
-      "title": "The Invention of the MMO",
-      "url": "https://www.worksinprogress.news/p/the-invention-of-the-mmo",
+      "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
+      "url": "https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.55,
-      "velocity": 18.0,
+      "base_score": 0.69,
+      "velocity": 15.829,
       "velocity_label": "exploding",
-      "combined_score": 24.75
+      "combined_score": 27.3
     },
     {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
+      "title": "The UN challenges five centuries of cartography",
+      "url": "https://www.not-ship.com/united-nations-map/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 35.52,
-      "velocity": 15.286,
+      "base_score": 4.04,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 1357.37
+      "combined_score": 157.81
     },
     {
-      "title": "Looped Transformers as Programmable Computers (2023)",
-      "url": "https://arxiv.org/abs/2301.13196",
+      "title": "The Kuycon P20 – 28\" 4500x3000px 3:2 monitor",
+      "url": "https://taoofmac.com/space/reviews/2026/09/06/1800",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 13.5,
+      "base_score": 0.94,
+      "velocity": 14.438,
       "velocity_label": "exploding",
-      "combined_score": 1.35
+      "combined_score": 33.93
     },
     {
-      "title": "Microsoft says email spammers are adopting ASCII smuggling",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "title": "Drones Recreate Twin Towers",
+      "url": "https://abc7ny.com/post/drone-show-recreates-twin-towers-honors-2977-victims-ahead-25th-anniversary-911-attacks-new-york/19814308/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.92,
-      "velocity": 13.347,
+      "base_score": 0.02,
+      "velocity": 14.0,
       "velocity_label": "exploding",
-      "combined_score": 30.7
-    },
-    {
-      "title": "Generating the P3 Tiling",
-      "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.47,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 15.57
-    },
-    {
-      "title": "Show HN: Find your next client on X",
-      "url": "https://tiny.opencreators.ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 13.17,
-      "velocity_label": "exploding",
-      "combined_score": 1.32
-    },
-    {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.51,
-      "velocity": 12.89,
-      "velocity_label": "exploding",
-      "combined_score": 177.57
-    },
-    {
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.43,
-      "velocity": 12.617,
-      "velocity_label": "exploding",
-      "combined_score": 234.35
+      "combined_score": 0.7
     },
     {
       "title": "CXMT Pioneers Mass-Production of LPDDR6",
       "url": "https://www.cxmt.com/en/news/info_21.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.24,
-      "velocity": 12.2,
+      "base_score": 0.53,
+      "velocity": 13.567,
       "velocity_label": "exploding",
-      "combined_score": 7.32
+      "combined_score": 17.98
     },
     {
-      "title": "FlavorDB: A resource to explore flavor molecules",
-      "url": "https://cosylab.iiitd.edu.in/flavordb/",
+      "title": "I think I hate the internet",
+      "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 12.2,
+      "base_score": 0.87,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 0.61
-    },
-    {
-      "title": "Use Vsock with Libzmq",
-      "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.33,
-      "velocity": 12.173,
-      "velocity_label": "exploding",
-      "combined_score": 10.04
-    },
-    {
-      "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-      "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.8,
-      "velocity": 12.054,
-      "velocity_label": "exploding",
-      "combined_score": 24.11
-    },
-    {
-      "title": "Show HN: They chose your competitor. Find out why",
-      "url": "https://drop.space",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.885,
-      "velocity_label": "exploding",
-      "combined_score": 0.89
-    },
-    {
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 14.55,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 424.38
-    },
-    {
-      "title": "Carmichael numbers are quickly findable (Lean-verified) [pdf]",
-      "url": "https://jdb19937.github.io/carmichael/carmichael.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.341,
-      "velocity_label": "exploding",
-      "combined_score": 0.85
-    },
-    {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.52,
-      "velocity": 11.265,
-      "velocity_label": "exploding",
-      "combined_score": 211.77
-    },
-    {
-      "title": "𝗧𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗼𝗿 𝗺𝗮𝗿𝗸𝗲𝘁 𝗺𝗮𝘆 𝗯𝗲 𝗯𝘂𝗶𝗹𝘁 𝗼𝗻 𝗔𝗜 𝗮𝗻𝗱 𝗼𝗻𝗰𝗵𝗮𝗶𝗻 𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽.\n\nAI can reduce the technical barrier to creating dig...",
-      "url": "https://twitter.com/Preetiboi_Ray/status/2097857333753765890#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 11.143,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "𝗧𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗼𝗿 𝗺𝗮𝗿𝗸𝗲𝘁 𝗺𝗮𝘆 𝗯𝗲 𝗯𝘂𝗶𝗹𝘁 𝗼𝗻 𝗔𝗜 𝗮𝗻𝗱 𝗼𝗻𝗰𝗵𝗮𝗶𝗻 𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽.\n\nAI can reduce the technical barrier to creating dig...",
-      "url": "https://twitter.com/Preetiboi_Ray/status/2097857162160550390#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 11.143,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "yeah right, just like my startup that sold out in my dreams",
-      "url": "https://twitter.com/everythingisnrg/status/2097881133899792641#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 10.929,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "Playing whack-a-mole is losing",
-      "url": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.85,
-      "velocity": 10.875,
-      "velocity_label": "exploding",
-      "combined_score": 23.11
-    },
-    {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://arxiv.org/abs/2609.09153",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.72,
-      "velocity": 10.607,
-      "velocity_label": "exploding",
-      "combined_score": 19.09
-    },
-    {
-      "title": "iPhone Duo has a large crease",
-      "url": "https://www.reddit.com/r/pics/comments/1wbx1wo/there_is_a_crease/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 10.268,
-      "velocity_label": "exploding",
-      "combined_score": 3.85
-    },
-    {
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.245,
-      "velocity_label": "exploding",
-      "combined_score": 0.51
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.92,
-      "velocity": 10.184,
-      "velocity_label": "exploding",
-      "combined_score": 74.34
-    },
-    {
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.92,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 224.86
-    },
-    {
-      "title": "Trezor's email provider has been breached",
-      "url": "https://twitter.com/Trezor/status/2097786518110609620",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 4.25
-    },
-    {
-      "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
-      "url": "https://www.bbc.com/news/articles/c5y75dl0jpko",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.62,
-      "velocity": 9.889,
-      "velocity_label": "exploding",
-      "combined_score": 15.33
-    },
-    {
-      "title": "For Estonia it's a lean small gov and very startup tech friendly, if you need to im sure I can find you the right connec...",
-      "url": "https://twitter.com/peignoir/status/2097880678780043505#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 9.862,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "𝗧𝗵𝗲 𝗔𝗜 𝗮𝗴𝗲 𝗰𝗼𝘂𝗹𝗱 𝗺𝗮𝗸𝗲 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻 𝗺𝗼𝗿𝗲 𝗱𝗲𝗺𝗼𝗰𝗿𝗮𝘁𝗶𝗰.\n\nYou no longer need a large production team to experiment with d...",
-      "url": "https://twitter.com/Preetiboi_Ray/status/2097858214465552665#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 9.785,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "The startup behind this pink robot has raised $200 million in investment in the past 18 months — and no trucker knows ab...",
-      "url": "https://twitter.com/Yura_5800/status/2097790783856251385#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.02,
-      "velocity": 9.683,
-      "velocity_label": "exploding",
-      "combined_score": 0.48
-    },
-    {
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.46,
-      "velocity": 9.314,
-      "velocity_label": "exploding",
-      "combined_score": 57.28
-    },
-    {
-      "title": "What will our economic future look like?",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.13,
-      "velocity": 9.254,
-      "velocity_label": "exploding",
-      "combined_score": 164.95
-    },
-    {
-      "title": "GNU Radio in the browser",
-      "url": "https://gnuradioworld.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.1,
-      "velocity": 9.204,
-      "velocity_label": "exploding",
-      "combined_score": 48.32
-    },
-    {
-      "title": "New app: Yesterday, an iPhone app for yesterday's weather",
-      "url": "https://interconnected.org/home/2026/08/26/yesterday",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.38,
-      "velocity": 9.006,
-      "velocity_label": "exploding",
-      "combined_score": 8.56
-    },
-    {
-      "title": "Kepler Compute- New memory startup for AI",
-      "url": "https://keplercompute.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 9.006,
-      "velocity_label": "exploding",
-      "combined_score": 0.68
-    },
-    {
-      "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-      "url": "https://twitter.com/GabbbarSingh/status/2097758791597252737#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 3.58,
-      "velocity": 8.534,
-      "velocity_label": "exploding",
-      "combined_score": 76.38
-    },
-    {
-      "title": "Coyote v. Acme (1990)",
-      "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.12,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 66.3
-    },
-    {
-      "title": "Hey SaaS founders 👋\n\nWhat are you building right now?\n\n🚀 SaaS product\n🤖 AI-powered SaaS\n⚡ Automation tool\n💻 Developer pl...",
-      "url": "https://twitter.com/konig0000/status/2097880519522554351#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 8.27,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "Og xbox startup is peak though. That one needs to be added.",
-      "url": "https://twitter.com/markogorvorov/status/2097880514288124392#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 8.191,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.39,
-      "velocity": 7.964,
-      "velocity_label": "exploding",
-      "combined_score": 47.59
-    },
-    {
-      "title": "The threat of vibe-coded superviruses",
-      "url": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.825,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
+      "combined_score": 28.82
     },
     {
       "title": "Rivian's gambit for full autonomy",
       "url": "https://spectrum.ieee.org/rivian-self-driving",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.25,
-      "velocity": 7.625,
+      "base_score": 2.27,
+      "velocity": 12.458,
       "velocity_label": "exploding",
-      "combined_score": 23.83
+      "combined_score": 70.7
     },
     {
-      "title": "Factoring RSA 260",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "title": "Blizzard Workers Win Historic Union Contract",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-09/blizzard-video-game-workers-ratify-union-contract",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.1,
+      "velocity": 11.667,
+      "velocity_label": "exploding",
+      "combined_score": 90.42
+    },
+    {
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.7,
+      "velocity": 11.638,
+      "velocity_label": "exploding",
+      "combined_score": 165.85
+    },
+    {
+      "title": "Automation (2022)",
+      "url": "https://blog.bayindirh.io/blog/on-automation/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.4,
+      "velocity_label": "exploding",
+      "combined_score": 0.52
+    },
+    {
+      "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
+      "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.26,
+      "velocity": 10.196,
+      "velocity_label": "exploding",
+      "combined_score": 6.63
+    },
+    {
+      "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
+      "url": "https://blog.torproject.org/tor-vpn-beta/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.41,
+      "velocity": 10.144,
+      "velocity_label": "exploding",
+      "combined_score": 10.4
+    },
+    {
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.77,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 94.25
+    },
+    {
+      "title": "WeWorm: The first zero-click worm to spread through WeChat calls",
+      "url": "https://calif.io/research/weworm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.767,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.73,
+      "velocity": 9.477,
+      "velocity_label": "exploding",
+      "combined_score": 135.76
+    },
+    {
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.03,
+      "velocity": 9.405,
+      "velocity_label": "exploding",
+      "combined_score": 94.75
+    },
+    {
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.4,
+      "velocity": 9.291,
+      "velocity_label": "exploding",
+      "combined_score": 32.52
+    },
+    {
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.99,
+      "velocity": 9.14,
+      "velocity_label": "exploding",
+      "combined_score": 22.62
+    },
+    {
+      "title": "Be Using Rootless Containers",
+      "url": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.53,
+      "velocity": 8.833,
+      "velocity_label": "exploding",
+      "combined_score": 11.7
+    },
+    {
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.38,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 220.58
+    },
+    {
+      "title": "Version control second coming",
+      "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.79,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 38.04
+    },
+    {
+      "title": "Guarantee or accuracy: a CCAR-F question type",
+      "url": "https://www.claudecertifiedarchitects.com/blog/guarantee-or-accuracy-ccar-f-question-type/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.433,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Arm's C2-Ultra, G2-Ultra NX, and CSS N4 IP",
+      "url": "https://chipsandcheese.com/p/arms-c2-ultra-g2-ultra-nx-and-css",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.708,
+      "velocity_label": "exploding",
+      "combined_score": 0.39
+    },
+    {
+      "title": "Optimizing a Spin-Lock",
+      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.63,
+      "velocity": 7.181,
+      "velocity_label": "exploding",
+      "combined_score": 226.73
+    },
+    {
+      "title": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.952,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Generating the P3 Tiling",
+      "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.5,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 8.65
+    },
+    {
+      "title": "Binary Translation and Its Consequences",
+      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
+    },
+    {
+      "title": "Token Officer Bot",
+      "url": "https://twitter.com/kiaraplds/status/2097753767579984281",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.909,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
+    },
+    {
+      "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+      "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.84,
+      "velocity": 6.897,
+      "velocity_label": "exploding",
+      "combined_score": 14.48
+    },
+    {
+      "title": "Europe may have found a space entrepreneur who is meeting the moment",
+      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.869,
+      "velocity_label": "exploding",
+      "combined_score": 0.69
+    },
+    {
+      "title": "India's EV Market Shaped by E-Rickshaws Built in Makeshift Workshops",
+      "url": "https://www.bloomberg.com/features/2026-india-ev-rickshaws/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.58,
+      "velocity_label": "exploding",
+      "combined_score": 0.66
+    },
+    {
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.45,
+      "velocity": 6.577,
+      "velocity_label": "exploding",
+      "combined_score": 23.84
+    },
+    {
+      "title": "Show HN: Community curated list of 310 AI providers offering $4.3k free credits",
+      "url": "https://www.uprouter.online/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.572,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "BSX market stats now with Nostr relay and skynet",
+      "url": "https://markets.basicswapdex.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.462,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "DigitalOcean gives 3M dollars to Omarchy",
+      "url": "https://omarchy.org/news/2026/09/digitalocean-joins-as-founding-corporate-patron/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.438,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.2,
+      "velocity": 6.41,
+      "velocity_label": "exploding",
+      "combined_score": 163.45
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 16.43,
+      "velocity": 6.389,
+      "velocity_label": "exploding",
+      "combined_score": 262.42
+    },
+    {
+      "title": "Nvidia and Palantir want to speed up the AI buildout. Nvidia is first in line",
+      "url": "https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.326,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Use Vsock with Libzmq",
+      "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.57,
-      "velocity": 7.62,
+      "velocity": 6.093,
       "velocity_label": "exploding",
-      "combined_score": 10.86
+      "combined_score": 8.68
     },
     {
-      "title": "Prompt Trees: Training-Time Prefix Caching",
-      "url": "https://www.scaledcognition.com/blog/prompt-trees",
+      "title": "Larger Pacific Striped Octopus",
+      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.567,
+      "base_score": 1.18,
+      "velocity": 6.0,
       "velocity_label": "exploding",
-      "combined_score": 0.38
+      "combined_score": 17.7
     },
     {
-      "title": "𝗔𝗜 𝗶𝘀 𝗿𝗲𝗱𝗲𝗳𝗶𝗻𝗶𝗻𝗴 𝘄𝗵𝗮𝘁 𝗶𝘁 𝗺𝗲𝗮𝗻𝘀 𝘁𝗼 𝗯𝗲 𝗮 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗰𝗿𝗲𝗮𝘁𝗼𝗿. Generative technology allows people to explore visual concepts, ...",
-      "url": "https://twitter.com/Preetiboi_Ray/status/2097846342269747495#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 7.429,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
-      "url": "https://arxiv.org/abs/2606.16576",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.355,
+      "base_score": 3.44,
+      "velocity": 5.92,
       "velocity_label": "exploding",
-      "combined_score": 0.37
+      "combined_score": 50.91
     },
     {
-      "title": "Shattered Pixel Dungeon v4.0.0",
-      "url": "https://shatteredpixel.com/blog/shattered-pixel-dungeon-v400.html",
+      "title": "From One Horizontal Scaling Controller to Many: Evolving Uber's Compute Platform",
+      "url": "https://www.uber.com/mx/en/blog/evolving-ubers-compute-platform/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.16,
-      "velocity": 7.333,
+      "base_score": 0.01,
+      "velocity": 5.865,
       "velocity_label": "exploding",
-      "combined_score": 2.93
+      "combined_score": 0.15
     },
     {
-      "title": "$AMZNAmazon Adds Cybersecurity Veteran Kevin Mandia to Board \n\nAmazon has appointed Kevin Mandia, founder and former CEO...",
-      "url": "https://twitter.com/AlertsAndNews/status/2097881014861451536#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 7.06,
+      "title": "Microsoft says email spammers are adopting ASCII smuggling",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.08,
+      "velocity": 5.834,
       "velocity_label": "exploding",
-      "combined_score": 0.0
+      "combined_score": 15.75
     },
     {
-      "title": "𝗧𝗵𝗲 𝗰𝗿𝗲𝗮𝘁𝗼𝗿 𝗲𝗰𝗼𝗻𝗼𝗺𝘆 𝗶𝘀 𝗲𝗻𝘁𝗲𝗿𝗶𝗻𝗴 𝗮 𝗻𝗲𝘄 𝗽𝗵𝗮𝘀𝗲. For years, digital creators depended heavily on centralized platforms to di...",
-      "url": "https://twitter.com/Preetiboi_Ray/status/2097846598545916214#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 6.892,
+      "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
+      "url": "https://www.bbc.com/news/articles/c5y75dl0jpko",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 5.513,
       "velocity_label": "exploding",
-      "combined_score": 0.0
+      "combined_score": 9.51
+    },
+    {
+      "title": "Laid-Off Developers Create AI Model to Replace CEOs and Other Executives",
+      "url": "https://uk.pcmag.com/ai/167048/laid-off-developers-create-ai-model-to-replace-ceos-and-other-executives",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 5.38,
+      "velocity_label": "exploding",
+      "combined_score": 1.34
+    },
+    {
+      "title": "Coyote v. Acme (1990)",
+      "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.26,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 43.47
+    },
+    {
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.83,
+      "velocity": 4.95,
+      "velocity_label": "exploding",
+      "combined_score": 35.02
+    },
+    {
+      "title": "GNU Radio in the browser",
+      "url": "https://gnuradioworld.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.46,
+      "velocity": 4.911,
+      "velocity_label": "exploding",
+      "combined_score": 30.2
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "iphone",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 188.6,
-      "total_mentions": 5,
-      "examples": [
-        {
-          "title": "iPhone Duo",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "New app: Yesterday, an iPhone app for yesterday's weather",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "iPhone Duo has a large crease",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "duo",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 157.0,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "iPhone Duo",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "iPhone Duo has a large crease",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "startup",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 91.4,
-      "total_mentions": 14,
-      "examples": [
-        {
-          "title": "Kepler Compute- New memory startup for AI",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "yeah right, just like my startup that sold out in my dreams",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "🇮🇱🇺🇸🚀 TECNOLOGIA ISRAELENSE PARA REFORÇAR O OCIDENTE\n\nA startup Covenant levantou mais de US$ 250 milhões para produzir ...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "JUST IN: The US Justice Department is probing Nvidia's licensing deal with AI chip startup Groq, according to the New Yo...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "You can now pick different startup animations when you turn on your Xbox console.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "now",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 48.24,
-      "total_mentions": 5,
-      "examples": [
-        {
-          "title": "Scanned, segmented, and animated my keyboard. Now you can type on my keyboard",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "You can now pick different startup animations when you turn on your Xbox console.",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "Hey SaaS founders 👋\n\nWhat are you building right now?\n\n🚀 SaaS product\n🤖 AI-powered SaaS\n⚡ Automation tool\n💻 Developer pl...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗶𝘁𝘆 𝗶𝘀 𝗯𝗲𝗰𝗼𝗺𝗶𝗻𝗴 𝗺𝗼𝗿𝗲 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗹𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗔𝗜.\n\nSomeone with an idea can now experiment with concepts that previousl...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "With X’s updated and stricter Content Creator payment programme now up and running, I will be doing my part to report ac...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "look",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 28.52,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "What will our economic future look like?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Until Dawn 2 found a modern horror engine: make the reckless choice look useful to the feed before the consequences arri...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "every",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 17.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "next",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 14.64,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Open source FPGA: the next frontier is silicon",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Show HN: Find your next client on X",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "iPhone Duo is the next status symbol. \n\nExpect every Instagram influencer, Gurgaon Thar owner, Startup bros with a few e...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "read",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 9.88,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Understanding the recent DDoS attack against Read the Docs",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "I Didn’t Just Monetize My Hobby. I Scaled It Into a Startup That Empowers Writers Worldwide — Here’s How.\n\nRead more:ent...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "board",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 9.56,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "$AMZNAmazon Adds Cybersecurity Veteran Kevin Mandia to Board \n\nAmazon has appointed Kevin Mandia, founder and former CEO...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "ceo",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 9.56,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "$AMZNAmazon Adds Cybersecurity Veteran Kevin Mandia to Board \n\nAmazon has appointed Kevin Mandia, founder and former CEO...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "feed",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.6,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Planet Labs' open satellite feed",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Until Dawn 2 found a modern horror engine: make the reckless choice look useful to the feed before the consequences arri...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "people",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.32,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Bespoke: A programming language for people who say please",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗔𝗜 𝗶𝘀 𝗿𝗲𝗱𝗲𝗳𝗶𝗻𝗶𝗻𝗴 𝘄𝗵𝗮𝘁 𝗶𝘁 𝗺𝗲𝗮𝗻𝘀 𝘁𝗼 𝗯𝗲 𝗮 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗰𝗿𝗲𝗮𝘁𝗼𝗿. Generative technology allows people to explore visual concepts, ...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "building",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.2,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Building a Wall Lamp from Scratch",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Hey SaaS founders 👋\n\nWhat are you building right now?\n\n🚀 SaaS product\n🤖 AI-powered SaaS\n⚡ Automation tool\n💻 Developer pl...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "better",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.92,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Better AI code comment detector",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗖𝗿𝗲𝗮𝘁𝗼𝗿𝘀 𝗱𝗼 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗻𝗲𝗲𝗱 𝗯𝗲𝘁𝘁𝗲𝗿 𝘁𝗼𝗼𝗹𝘀. They need better ways to connect their work with audiences, communities and owne...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "use",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 1.32,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Use Vsock with Libzmq",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "I hope this leads to game-themed startup animations like the dynamic themes or even the ability to upload and use our ow...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "economy",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 1.28,
-      "total_mentions": 4,
-      "examples": [
-        {
-          "title": "Is OpenAI the Achilles' Heel of the US Economy? [video]",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "BOOTH×VRChat提携、嫌な予感しかしない\n\nもし今後アバターや衣装の販売がVRChat側（Creator Economy）に寄ったら\n6000円で売ってもクリエイターに届くのは3000円\n\nさらにVRC内販売なら、VRChatの規約...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "Startup nation x creator economy 😁",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "This is a big deal in the Creator space. Hollywood is REALLY leaning into the Creator Economy. Times have changed, wow.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "production",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.96,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "CXMT Pioneers Mass-Production of LPDDR6",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗔𝗜 𝗮𝗴𝗲 𝗰𝗼𝘂𝗹𝗱 𝗺𝗮𝗸𝗲 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻 𝗺𝗼𝗿𝗲 𝗱𝗲𝗺𝗼𝗰𝗿𝗮𝘁𝗶𝗰.\n\nYou no longer need a large production team to experiment with d...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "large",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.6,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "iPhone Duo has a large crease",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗔𝗜 𝗮𝗴𝗲 𝗰𝗼𝘂𝗹𝗱 𝗺𝗮𝗸𝗲 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻 𝗺𝗼𝗿𝗲 𝗱𝗲𝗺𝗼𝗰𝗿𝗮𝘁𝗶𝗰.\n\nYou no longer need a large production team to experiment with d...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "find",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.28,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Show HN: They chose your competitor. Find out why",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Show HN: Find your next client on X",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "For Estonia it's a lean small gov and very startup tech friendly, if you need to im sure I can find you the right connec...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "lean",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Carmichael numbers are quickly findable (Lean-verified) [pdf]",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "For Estonia it's a lean small gov and very startup tech friendly, if you need to im sure I can find you the right connec...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "explore",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "FlavorDB: A resource to explore flavor molecules",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗔𝗜 𝗶𝘀 𝗿𝗲𝗱𝗲𝗳𝗶𝗻𝗶𝗻𝗴 𝘄𝗵𝗮𝘁 𝗶𝘁 𝗺𝗲𝗮𝗻𝘀 𝘁𝗼 𝗯𝗲 𝗮 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗰𝗿𝗲𝗮𝘁𝗼𝗿. Generative technology allows people to explore visual concepts, ...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "idea",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗶𝘁𝘆 𝗶𝘀 𝗯𝗲𝗰𝗼𝗺𝗶𝗻𝗴 𝗺𝗼𝗿𝗲 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗹𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗔𝗜.\n\nSomeone with an idea can now experiment with concepts that previousl...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "barrier",
-        "creating",
-        "dig",
-        "reduce",
-        "technical",
-        "𝗧𝗵𝗲",
-        "𝗮𝗻𝗱",
-        "𝗯𝘂𝗶𝗹𝘁",
-        "𝗰𝗿𝗲𝗮𝘁𝗼𝗿",
-        "𝗳𝘂𝘁𝘂𝗿𝗲",
-        "𝗺𝗮𝗿𝗸𝗲𝘁",
-        "𝗺𝗮𝘆",
-        "𝗼𝗻𝗰𝗵𝗮𝗶𝗻",
-        "𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽"
-      ],
-      "concept_hint": "barrier + creating + dig + reduce",
-      "cluster_size": 14,
-      "discussion_count": 3,
-      "void_score": 63.0,
-      "examples": [
-        {
-          "title": "𝗧𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗼𝗿 𝗺𝗮𝗿𝗸𝗲𝘁 𝗺𝗮𝘆 𝗯𝗲 𝗯𝘂𝗶𝗹𝘁 𝗼𝗻 𝗔𝗜 𝗮𝗻𝗱 𝗼𝗻𝗰𝗵𝗮𝗶𝗻 𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽.\n\nAI can reduce the technical barrier to creating dig...",
-          "source": "twitter",
-          "matching_keywords": [
-            "barrier",
-            "creating",
-            "dig",
-            "reduce",
-            "technical",
-            "𝗧𝗵𝗲",
-            "𝗮𝗻𝗱",
-            "𝗯𝘂𝗶𝗹𝘁",
-            "𝗰𝗿𝗲𝗮𝘁𝗼𝗿",
-            "𝗳𝘂𝘁𝘂𝗿𝗲",
-            "𝗺𝗮𝗿𝗸𝗲𝘁",
-            "𝗺𝗮𝘆",
-            "𝗼𝗻𝗰𝗵𝗮𝗶𝗻",
-            "𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽"
-          ]
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗰𝗿𝗲𝗮𝘁𝗼𝗿 𝗺𝗮𝗿𝗸𝗲𝘁 𝗺𝗮𝘆 𝗯𝗲 𝗯𝘂𝗶𝗹𝘁 𝗼𝗻 𝗔𝗜 𝗮𝗻𝗱 𝗼𝗻𝗰𝗵𝗮𝗶𝗻 𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽.\n\nAI can reduce the technical barrier to creating dig...",
-          "source": "twitter",
-          "matching_keywords": [
-            "barrier",
-            "creating",
-            "dig",
-            "reduce",
-            "technical",
-            "𝗧𝗵𝗲",
-            "𝗮𝗻𝗱",
-            "𝗯𝘂𝗶𝗹𝘁",
-            "𝗰𝗿𝗲𝗮𝘁𝗼𝗿",
-            "𝗳𝘂𝘁𝘂𝗿𝗲",
-            "𝗺𝗮𝗿𝗸𝗲𝘁",
-            "𝗺𝗮𝘆",
-            "𝗼𝗻𝗰𝗵𝗮𝗶𝗻",
-            "𝗼𝘄𝗻𝗲𝗿𝘀𝗵𝗶𝗽"
-          ]
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗰𝗿𝗲𝗮𝘁𝗼𝗿 𝗲𝗰𝗼𝗻𝗼𝗺𝘆 𝗶𝘀 𝗲𝗻𝘁𝗲𝗿𝗶𝗻𝗴 𝗮 𝗻𝗲𝘄 𝗽𝗵𝗮𝘀𝗲. For years, digital creators depended heavily on centralized platforms to di...",
-          "source": "twitter",
-          "matching_keywords": [
-            "𝗧𝗵𝗲",
-            "𝗰𝗿𝗲𝗮𝘁𝗼𝗿"
-          ]
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
-      "url": "https://github.com/ashemag/human-atlas",
+      "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
+      "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.13,
+      "score": 1.46,
       "relevance": 0.111,
       "matching_tags": [
-        "open",
-        "source"
+        "hacking",
+        "tools"
       ]
     },
     {
-      "title": "With X’s updated and stricter Content Creator payment programme now up and running, I will be doing my part to report ac...",
-      "url": "https://twitter.com/SiyabongaOnX/status/2097561571572486389#m",
-      "source": "twitter",
-      "category": "social",
+      "title": "Open Source Durable Objects for Postgres",
+      "url": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "source": "hackernews",
+      "category": "tech",
       "score": 0.24,
       "relevance": 0.111,
       "matching_tags": [
-        "content",
-        "creator"
-      ]
-    },
-    {
-      "title": "Open source FPGA: the next frontier is silicon",
-      "url": "https://www.reddit.com/r/FPGA/comments/1wbrrgi/open_source_fpga_the_next_frontier_is_silicon/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.04,
-      "relevance": 0.111,
-      "matching_tags": [
         "open",
         "source"
-      ]
-    },
-    {
-      "title": "Hey SaaS founders 👋\n\nWhat are you building right now?\n\n🚀 SaaS product\n🤖 AI-powered SaaS\n⚡ Automation tool\n💻 Developer pl...",
-      "url": "https://twitter.com/konig0000/status/2097880519522554351#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.0,
-      "relevance": 0.111,
-      "matching_tags": [
-        "automation",
-        "saas"
       ]
     },
     {
@@ -1516,32 +560,10 @@
       "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.9,
+      "score": 2.25,
       "relevance": 0.056,
       "matching_tags": [
         "open"
-      ]
-    },
-    {
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.76,
-      "relevance": 0.056,
-      "matching_tags": [
-        "machine"
-      ]
-    },
-    {
-      "title": "Better AI code comment detector",
-      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.73,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
       ]
     },
     {
@@ -1549,54 +571,21 @@
       "url": "https://github.com/OtoDock/oto-dock",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.57,
+      "score": 0.63,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "BOOTH×VRChat提携、嫌な予感しかしない\n\nもし今後アバターや衣装の販売がVRChat側（Creator Economy）に寄ったら\n6000円で売ってもクリエイターに届くのは3000円\n\nさらにVRC内販売なら、VRChatの規約...",
-      "url": "https://twitter.com/wahumaru/status/2097645022439170471#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.29,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
-      "url": "https://arxiv.org/abs/2606.16576",
+      "title": "Automation (2022)",
+      "url": "https://blog.bayindirh.io/blog/on-automation/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
-      ]
-    },
-    {
-      "title": "This is a big deal in the Creator space. Hollywood is REALLY leaning into the Creator Economy. Times have changed, wow.",
-      "url": "https://twitter.com/cjjohnsonjr/status/2097843008352010371#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "Startup nation x creator economy 😁",
-      "url": "https://twitter.com/DavidDarkSEO/status/2097848603779719402#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.0,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
+        "automation"
       ]
     }
   ]
