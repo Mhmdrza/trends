@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-12T14:56:36.034642+00:00",
-  "scrape_timestamp": "2026-09-12T14:54:53.315575+00:00",
-  "total_items_analyzed": 85,
+  "timestamp": "2026-09-12T20:08:17.787289+00:00",
+  "scrape_timestamp": "2026-09-12T20:06:47.227632+00:00",
+  "total_items_analyzed": 99,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,519 +16,668 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 85,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "years",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+          "source": "hackernews",
+          "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+          "score": 1.96
+        },
+        {
+          "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+          "source": "hackernews",
+          "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+          "score": 3.67
+        },
+        {
+          "title": "RT by @lasouveraine6: \"I believe that AI could cure most major diseases in the next 5-10 years\"",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/rand_longevity/status/2098790105125187848#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Inverse Kinematics and Foot Locking",
-      "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.1,
-      "velocity": 18.0,
+      "base_score": 12.52,
+      "velocity": 15.889,
       "velocity_label": "exploding",
-      "combined_score": 49.5
-    },
-    {
-      "title": "We Must Pace the Frontier",
-      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.35,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 44.72
-    },
-    {
-      "title": "IKEA made a mod for Skyrim [video]",
-      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.63,
-      "velocity": 11.675,
-      "velocity_label": "exploding",
-      "combined_score": 135.14
-    },
-    {
-      "title": "Usenet rewind archive search engine",
-      "url": "https://www.usenet-rewind.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.37,
-      "velocity": 10.219,
-      "velocity_label": "exploding",
-      "combined_score": 35.0
-    },
-    {
-      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-      "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.189,
-      "velocity_label": "exploding",
-      "combined_score": 0.51
-    },
-    {
-      "title": "Bomb Sense (2021)",
-      "url": "https://danboland.net/2021/07/15/bomb-sense.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 4.54
-    },
-    {
-      "title": "Forgotten Woodlands",
-      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.39,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 9.75
-    },
-    {
-      "title": "google.com/goto: Google's anti-scraping update",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.37,
-      "velocity": 9.762,
-      "velocity_label": "exploding",
-      "combined_score": 277.47
-    },
-    {
-      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.47,
-      "velocity": 9.509,
-      "velocity_label": "exploding",
-      "combined_score": 34.94
-    },
-    {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.21,
-      "velocity": 9.417,
-      "velocity_label": "exploding",
-      "combined_score": 4.94
-    },
-    {
-      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.77,
-      "velocity": 9.252,
-      "velocity_label": "exploding",
-      "combined_score": 17.81
-    },
-    {
-      "title": "Detailed report on the use of solar geoengineering",
-      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.23,
-      "velocity": 8.79,
-      "velocity_label": "exploding",
-      "combined_score": 5.05
-    },
-    {
-      "title": "The Giant Squids of the Jurassic Period",
-      "url": "https://nautil.us/the-giant-squids-of-the-jurassic-period-1285002",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 0.57
-    },
-    {
-      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
-      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.65,
-      "velocity": 7.595,
-      "velocity_label": "exploding",
-      "combined_score": 12.34
-    },
-    {
-      "title": "ASU: One CLI that shows how much of your agent subscription is left",
-      "url": "https://chaosguru.substack.com/p/introducing-asu",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.272,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "A Misalignment of AI in Mathematics: Kevin Buzzard Responds",
-      "url": "https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Declaration.3A.20A.20Severe.20Misalignment.20of.20AI.20in.20Mathematics/near/623707262",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 7.224,
-      "velocity_label": "exploding",
-      "combined_score": 1.08
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 26.09,
-      "velocity": 7.061,
-      "velocity_label": "exploding",
-      "combined_score": 460.53
-    },
-    {
-      "title": "Reduce token cost with Metrum AI Router – routing intelligence you can train",
-      "url": "https://github.com/metrum-ai/router",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.99,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's too late",
-      "url": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.833,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "Mathematicians are unhappy about OpenAI",
-      "url": "https://twitter.com/lemire/status/2098497422297039012",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.729,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "How we rebuilt complex permissions without migrating to Zanzibar",
-      "url": "https://infisical.com/blog/folder-based-rbac",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.85,
-      "velocity": 6.062,
-      "velocity_label": "exploding",
-      "combined_score": 12.88
+      "combined_score": 497.32
     },
     {
       "title": "SystemIO conflicts are not firmware bugs",
       "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.26,
-      "velocity": 6.0,
+      "base_score": 0.39,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 3.9
+      "combined_score": 15.23
     },
     {
-      "title": "Distill Hiatus (2021)",
-      "url": "https://distill.pub/2021/distill-hiatus/",
+      "title": "How we manage and engage with our horses shapes their personality",
+      "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.75,
+      "base_score": 0.31,
+      "velocity": 15.467,
       "velocity_label": "exploding",
-      "combined_score": 0.43
+      "combined_score": 11.99
     },
     {
-      "title": "Finding Zero-Days with Any Model",
-      "url": "https://www.provos.org/p/finding-zero-days-with-any-model/",
+      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+      "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.618,
+      "base_score": 3.22,
+      "velocity": 15.031,
       "velocity_label": "exploding",
-      "combined_score": 0.28
+      "combined_score": 121.0
     },
     {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.82,
-      "velocity": 5.614,
-      "velocity_label": "exploding",
-      "combined_score": 25.55
-    },
-    {
-      "title": "I refuse to let SPICE die",
-      "url": "https://github.com/nefarius/vd_agent/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.589,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "SpaceX Backtracks on Starlink Data Cap After Complaints",
-      "url": "https://www.pcmag.com/news/spacex-backtracks-on-starlink-data-cap-after-complaints",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.583,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "Performance of WebAssembly Runtimes in 2026",
-      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 5.361,
-      "velocity_label": "exploding",
-      "combined_score": 2.28
-    },
-    {
-      "title": "How the Chorleywood Bread Process transformed British bread",
-      "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.94,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 39.2
-    },
-    {
-      "title": "Tech's New Rich Are Suffering from 'Sudden Wealth Syndrome'",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/tech-s-nouveau-riche-suffer-sudden-wealth-syndrome-as-ai-pay-explodes",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "Copper lined vest to help penguins with recovery",
-      "url": "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.9,
-      "velocity": 5.122,
-      "velocity_label": "exploding",
-      "combined_score": 11.53
-    },
-    {
-      "title": "Project Blinkenlights",
-      "url": "https://blinkenlights.de/en/",
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 1.52,
-      "velocity": 4.938,
+      "velocity": 14.943,
       "velocity_label": "exploding",
-      "combined_score": 18.76
+      "combined_score": 56.78
     },
     {
       "title": "LRU is harder to beat than the KV-cache papers suggest",
       "url": "https://github.com/gauravapiscean/agentic-kv-cache",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.41,
-      "velocity": 4.8,
+      "base_score": 1.34,
+      "velocity": 13.883,
       "velocity_label": "exploding",
-      "combined_score": 4.92
+      "combined_score": 46.51
     },
     {
-      "title": "Another way to leak traffic on Android has been discovered",
-      "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+      "title": "I refuse to let SPICE die",
+      "url": "https://github.com/nefarius/vd_agent/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.5,
-      "velocity": 4.655,
+      "base_score": 1.46,
+      "velocity": 13.589,
       "velocity_label": "exploding",
-      "combined_score": 17.46
+      "combined_score": 49.6
     },
     {
-      "title": "I made a build profiler to understand Bun's compile times",
+      "title": "Forgotten Woodlands",
+      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.6,
+      "velocity": 13.25,
+      "velocity_label": "exploding",
+      "combined_score": 19.88
+    },
+    {
+      "title": "I made a build visualizer to understand Bun's compile times",
       "url": "https://lalitm.com/post/buildprof/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.553,
+      "base_score": 0.51,
+      "velocity": 12.399,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 15.81
     },
     {
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+      "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.79,
-      "velocity": 4.542,
+      "base_score": 1.59,
+      "velocity": 11.884,
       "velocity_label": "exploding",
-      "combined_score": 43.03
+      "combined_score": 47.24
     },
     {
-      "title": "WeWorm: Zero-Click WeChat Worm",
-      "url": "https://calif.io/research/weworm",
+      "title": "Eating Fruit Skins",
+      "url": "https://pgadey.ca/blog/eating-fruit-skins/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.33,
-      "velocity": 4.51,
+      "base_score": 2.21,
+      "velocity": 11.667,
       "velocity_label": "exploding",
-      "combined_score": 3.72
+      "combined_score": 64.46
     },
     {
-      "title": "Finding Slow Code with Wrapture",
-      "url": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.17,
-      "velocity": 4.401,
+      "base_score": 1.8,
+      "velocity": 11.233,
       "velocity_label": "exploding",
-      "combined_score": 1.87
+      "combined_score": 50.55
     },
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
+      "title": "San Franciscans are having sex in robotaxis, and nobody is talking about it",
+      "url": "https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 15.74,
-      "velocity": 4.333,
+      "base_score": 0.16,
+      "velocity": 11.143,
       "velocity_label": "exploding",
-      "combined_score": 170.52
+      "combined_score": 4.46
     },
     {
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "title": "Experimental Evaluation Methodology for the Era of No Steady Performance [pdf]",
+      "url": "https://www.d3s.mff.cuni.cz/files/publications/antoch_experimental_2026.pdf",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.01,
-      "velocity": 4.295,
+      "base_score": 0.03,
+      "velocity": 10.423,
       "velocity_label": "exploding",
-      "combined_score": 10.85
+      "combined_score": 0.78
     },
     {
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.5,
-      "velocity": 4.278,
-      "velocity_label": "exploding",
-      "combined_score": 26.74
-    },
-    {
-      "title": "Science gets by with a little help from the Beatles",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356147%20&utm_campaign=2026-pr&utm_source=pr&utm_medium=eurekalert&utm_content=press-release",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.253,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.44,
-      "velocity": 4.25,
-      "velocity_label": "exploding",
-      "combined_score": 25.92
-    },
-    {
-      "title": "Saudi Arabia Shuts Down Pipeline That Was a Crucial Hormuz Bypass",
-      "url": "https://www.wsj.com/world/middle-east/saudi-arabia-shuts-down-pipeline-that-was-a-crucial-hormuz-bypass-4fe29001",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.219,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "Fuck it, make it anyway",
-      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.61,
-      "velocity": 4.167,
-      "velocity_label": "exploding",
-      "combined_score": 68.85
-    },
-    {
-      "title": "My last six months at Evernote",
-      "url": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.3,
-      "velocity": 4.167,
-      "velocity_label": "exploding",
-      "combined_score": 3.12
-    },
-    {
-      "title": "BioNeMo Inference Runtime",
-      "url": "https://github.com/NVIDIA-BioNeMo/BioNeMo-Inference-Runtime",
+      "title": "SEC Proposes Regulation Crypto Assets",
+      "url": "https://www.dlapiper.com/en-us/insights/publications/2026/09/sec-proposes-regulation-crypto-assets",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.167,
+      "velocity": 9.7,
       "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 0.24
     },
     {
-      "title": "EU tech chief backs global AI rules in wake of extinction warning",
-      "url": "https://www.politico.eu/article/henna-virkkunen-eu-global-ai-rules-extinction-warning/",
+      "title": "Asking the most uncomfortable question in AI",
+      "url": "https://www.aiminority.dev/the-ai-danger-public-temperature-check",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.04,
-      "velocity": 4.112,
+      "velocity": 9.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.95
+    },
+    {
+      "title": "Inverse Kinematics and Foot Locking",
+      "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.49,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 31.66
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.99,
+      "velocity": 8.444,
+      "velocity_label": "exploding",
+      "combined_score": 105.34
+    },
+    {
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.76,
+      "velocity": 7.867,
+      "velocity_label": "exploding",
+      "combined_score": 211.61
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.54,
+      "velocity": 7.773,
+      "velocity_label": "exploding",
+      "combined_score": 107.65
+    },
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.81,
+      "velocity": 7.55,
+      "velocity_label": "exploding",
+      "combined_score": 15.29
+    },
+    {
+      "title": "Performance of WebAssembly Runtimes in 2026",
+      "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.87,
+      "velocity": 7.503,
+      "velocity_label": "exploding",
+      "combined_score": 16.32
+    },
+    {
+      "title": "A few good ideas in programming languages",
+      "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.21,
+      "velocity": 7.491,
+      "velocity_label": "exploding",
+      "combined_score": 22.66
+    },
+    {
+      "title": "Uber Guests Aren't Bound by Uber's TOS–Walker vs. Uber",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/uber-guests-arent-bound-by-ubers-tos-walker-v-uber.htm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "40C3 is moving. Just around the corner. Come and help pack up",
+      "url": "https://events.ccc.de/en/2026/07/02/were-moving/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.168,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+      "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.908,
+      "velocity_label": "exploding",
+      "combined_score": 0.69
+    },
+    {
+      "title": "R to @pestctrlguy: This is the biggest reason no one will own a one vehicle autonomous vehicle ride share business",
+      "url": "http://nitter.jaydenha.uk/ProximalAI/status/2098866278643753241#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.798,
+      "velocity_label": "exploding",
+      "combined_score": 8.5
+    },
+    {
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.16,
+      "velocity": 6.539,
+      "velocity_label": "exploding",
+      "combined_score": 2.62
+    },
+    {
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.73,
+      "velocity": 6.494,
+      "velocity_label": "exploding",
+      "combined_score": 28.09
+    },
+    {
+      "title": "Can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?",
+      "url": "https://royalsocietypublishing.org/rsta/article/384/2320/20250008/481681/A-sentence-is-worth-a-thousand-pictures-can-large",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.43,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Revolut confirms customer data breach, falling for fake government requests",
+      "url": "https://www.reuters.com/legal/litigation/revolut-confirms-sensitive-customer-data-breach-falling-fake-government-requests-2026-09-12/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.21,
+      "velocity": 6.101,
+      "velocity_label": "exploding",
+      "combined_score": 3.2
+    },
+    {
+      "title": "Show HN: Come prove the Berge Fulkerson conjecture with a swarm of agents",
+      "url": "https://provetogether.ai/problems/15",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.953,
+      "velocity_label": "exploding",
+      "combined_score": 0.6
+    },
+    {
+      "title": "Show HN: An independent directory of AI misalignment reports",
+      "url": "https://misalignment.xyz/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.832,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.75,
+      "velocity": 5.738,
+      "velocity_label": "exploding",
+      "combined_score": 96.83
+    },
+    {
+      "title": "Show HN: StateHunter and AuditGuard – Client-Side SPA Recon and Safe Harbor CLI",
+      "url": "https://codeandcypher.com/posts/client-side-spa-recon-and-safe-harbor-verification/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.689,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "url": "https://poltora.dev/redis",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.583,
+      "velocity_label": "exploding",
+      "combined_score": 0.42
+    },
+    {
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.96,
+      "velocity": 5.565,
+      "velocity_label": "exploding",
+      "combined_score": 27.27
+    },
+    {
+      "title": "R to @lBattleRhino: No offense and I think you are a great trader But is a bit hypocritical coming from you because you",
+      "url": "http://nitter.jaydenha.uk/lurkerboy19/status/2098866280023355571#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.548,
+      "velocity_label": "exploding",
+      "combined_score": 6.94
+    },
+    {
+      "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+      "url": "https://www.tokendelivery.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.496,
       "velocity_label": "exploding",
       "combined_score": 0.41
     },
     {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.0,
-      "velocity": 4.058,
+      "title": "RT by @CarleyBush7889: I do not support pacing frontier models. If I am going to die at the hands of killer AI, I want i",
+      "url": "http://nitter.jaydenha.uk/ilyasu/status/2098810162245202296#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.463,
       "velocity_label": "exploding",
-      "combined_score": 10.15
+      "combined_score": 6.83
     },
     {
-      "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
-      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.09,
-      "velocity": 4.043,
+      "base_score": 12.78,
+      "velocity": 5.368,
       "velocity_label": "exploding",
-      "combined_score": 11.02
+      "combined_score": 171.51
+    },
+    {
+      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 5.357,
+      "velocity_label": "exploding",
+      "combined_score": 18.48
+    },
+    {
+      "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
+      "url": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.21,
+      "velocity": 5.214,
+      "velocity_label": "exploding",
+      "combined_score": 2.74
+    },
+    {
+      "title": "OpenAI won't go public this year",
+      "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 5.207,
+      "velocity_label": "exploding",
+      "combined_score": 0.91
+    },
+    {
+      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+      "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.175,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.81,
+      "velocity": 4.939,
+      "velocity_label": "exploding",
+      "combined_score": 10.0
+    },
+    {
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.88,
+      "velocity": 4.906,
+      "velocity_label": "exploding",
+      "combined_score": 23.06
+    },
+    {
+      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.823,
+      "velocity_label": "exploding",
+      "combined_score": 0.36
+    },
+    {
+      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.78,
+      "velocity": 4.745,
+      "velocity_label": "exploding",
+      "combined_score": 9.25
+    },
+    {
+      "title": "Show HN: Picobble – my daily word puzzle game",
+      "url": "https://picobble.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.675,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
+  "bridge_topics": [
+    {
+      "keyword": "frontier",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 45.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "We must pace the frontier",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CarleyBush7889: I do not support pacing frontier models. If I am going to die at the hands of killer AI, I want i",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "years",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 24.52,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @lasouveraine6: \"I believe that AI could cure most major diseases in the next 5-10 years\"",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "great",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 9.84,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @lBattleRhino: No offense and I think you are a great trader But is a bit hypocritical coming from you because you",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "die",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 7.84,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "I refuse to let SPICE die",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CarleyBush7889: I do not support pacing frontier models. If I am going to die at the hands of killer AI, I want i",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "models",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CarleyBush7889: I do not support pacing frontier models. If I am going to die at the hands of killer AI, I want i",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
   "linguistic_voids": [],
   "personal_relevance": [
     {
@@ -536,7 +685,7 @@
       "url": "https://rune.build/blog/rune-is-now-open-source",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.02,
+      "score": 3.11,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -544,36 +693,36 @@
       ]
     },
     {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 1.88,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.0,
+      "score": 1.52,
       "relevance": 0.056,
       "matching_tags": [
         "hustle"
       ]
     },
     {
-      "title": "Finding Slow Code with Wrapture",
-      "url": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
+      "title": "Show HN: StateHunter and AuditGuard – Client-Side SPA Recon and Safe Harbor CLI",
+      "url": "https://codeandcypher.com/posts/client-side-spa-recon-and-safe-harbor-verification/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.17,
+      "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "iTerm2 – Claude Code Integration",
-      "url": "https://iterm2.com/claude-code-integration.html",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.02,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
+        "side"
       ]
     }
   ]
