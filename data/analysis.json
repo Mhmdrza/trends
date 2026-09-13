@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-13T15:33:31.399422+00:00",
-  "scrape_timestamp": "2026-09-13T15:31:53.846241+00:00",
-  "total_items_analyzed": 100,
+  "timestamp": "2026-09-13T20:15:21.753537+00:00",
+  "scrape_timestamp": "2026-09-13T20:13:49.729738+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,956 +16,530 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
-      "count": 10,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "make",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Make your first edit to OpenStreetMap",
-          "source": "hackernews",
-          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-          "score": 7.32
-        },
-        {
-          "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-          "source": "hackernews",
-          "url": "https://www.analystidx.com/",
-          "score": 0.12
-        },
-        {
-          "title": "RT by @Coffees_tea: just had to see an AI bro justify destroying the planet “so disabled people can make art” and i need",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/larsgentry/status/2098934904251933055#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "time",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Key symbols we lost to time, pt. 1: The PC side",
-          "source": "hackernews",
-          "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-          "score": 0.15
-        },
-        {
-          "title": "Squeezing rust onto more things, this time: Flashlights",
-          "source": "hackernews",
-          "url": "https://bensimms.moe/squeezing-rust-onto-more-things/",
-          "score": 0.03
-        },
-        {
-          "title": "RT by @ai_Fe33: the way por tried to secretly admire tee one more time but failed, do you think he has a crush on tee or",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/downbadforbl/status/2099121700524974444#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "models",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "source": "hackernews",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "score": 4.64
-        },
-        {
-          "title": "Epistemology and Large Language Models",
-          "source": "hackernews",
-          "url": "https://medium.com/@nomad.tech/what-is-epistemology-c1590cc7fac0",
-          "score": 0.03
-        },
-        {
-          "title": "RT by @HDergler: How to kill open source models in 3 simple steps: - Create panic about frontier models. - Have the bigg",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/matteopelleg/status/2098861785042608209#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "real",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "source": "hackernews",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "score": 4.64
-        },
-        {
-          "title": "Prompts Aren't Real",
-          "source": "hackernews",
-          "url": "https://evaluation.club",
-          "score": 0.01
-        },
-        {
-          "title": "R to @SHABAZGIL: Shahbaz bhai yeh real pic hay ya AI ? If this is real how this man beside u throwing money & u r enjoyi",
-          "source": "twitter",
-          "url": "http://nitter.jaydenha.uk/surrayya12/status/2099159496400486815#m",
-          "score": 0.5
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Homebrew 7.0.0",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "title": "Ode to Metadata",
+      "url": "https://www.autodidacts.io/ode-to-metadata/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.11,
+      "base_score": 0.17,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 229.95
-    },
-    {
-      "title": "Aligned to whom?",
-      "url": "https://hyperbo.la/w/aligned-to-whom/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.27,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 102.15
-    },
-    {
-      "title": "Texts Reveal Kash Patel Ordering Staff to Fight \"Ifindretards\" Account",
-      "url": "https://newrepublic.com/post/215320/texts-kash-patel-order-staff-mean-social-media-posts-ifindretards",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.42,
-      "velocity": 15.889,
-      "velocity_label": "exploding",
-      "combined_score": 16.68
-    },
-    {
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 14.2,
-      "velocity_label": "exploding",
-      "combined_score": 7.1
-    },
-    {
-      "title": "A wandering black hole caught feeding on the run",
-      "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.93,
-      "velocity": 12.787,
-      "velocity_label": "exploding",
-      "combined_score": 29.73
-    },
-    {
-      "title": "Operation Smart Kettle – Börzels Blog",
-      "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.66,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 19.25
-    },
-    {
-      "title": "On Binary Translation and Its Consequences",
-      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.37,
-      "velocity": 10.611,
-      "velocity_label": "exploding",
-      "combined_score": 9.82
-    },
-    {
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.556,
-      "velocity_label": "exploding",
-      "combined_score": 0.24
-    },
-    {
-      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.5,
-      "velocity": 9.067,
-      "velocity_label": "exploding",
-      "combined_score": 79.34
-    },
-    {
-      "title": "Flock worker calls police on reporter filming public camera installation",
-      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.03,
-      "velocity": 9.025,
-      "velocity_label": "exploding",
-      "combined_score": 113.49
-    },
-    {
-      "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-      "url": "https://www.analystidx.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 8.933,
-      "velocity_label": "exploding",
-      "combined_score": 2.68
-    },
-    {
-      "title": "28-Hour Day App",
-      "url": "https://apps.apple.com/us/app/28-hour-day/id6752815000",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.802,
-      "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "Base84 deserves a place in file names",
-      "url": "https://00f.net/2026/09/09/base84/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.4,
-      "velocity": 8.4,
-      "velocity_label": "exploding",
-      "combined_score": 8.4
-    },
-    {
-      "title": "RT by @LiningCloud: It took ai to figure out you wanted to wear plain black sweatpants with a plain white top...",
-      "url": "http://nitter.jaydenha.uk/River_rexic/status/2098877324284592174#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.4,
-      "velocity_label": "exploding",
-      "combined_score": 10.5
-    },
-    {
-      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
-      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.23,
-      "velocity": 8.247,
-      "velocity_label": "exploding",
-      "combined_score": 45.98
-    },
-    {
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.71,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 33.63
-    },
-    {
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.125,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.68,
-      "velocity": 7.044,
-      "velocity_label": "exploding",
-      "combined_score": 11.98
-    },
-    {
-      "title": "Vintage Scientific Papers with LaTeX",
-      "url": "https://github.com/Foadsf/vintage-latex",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.12,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 19.37
-    },
-    {
-      "title": "Auditing which of our own safety checks can refuse an action",
-      "url": "https://read.nonxerosum.studio/issue-16/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.85,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "First Naval Drone Duel Results in Ukrainian Success",
-      "url": "https://www.navalnews.com/naval-news/2026/09/worlds-first-naval-drone-duel-results-in-ukrainian-success/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 6.8,
-      "velocity_label": "exploding",
-      "combined_score": 1.7
-    },
-    {
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.69,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Key symbols we lost to time, pt. 1: The PC side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 6.537,
-      "velocity_label": "exploding",
-      "combined_score": 2.45
-    },
-    {
-      "title": "Durable execution without history replay",
-      "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.59,
-      "velocity": 6.372,
-      "velocity_label": "exploding",
-      "combined_score": 9.4
-    },
-    {
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.52,
-      "velocity": 6.348,
-      "velocity_label": "exploding",
-      "combined_score": 8.25
-    },
-    {
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.17,
-      "velocity": 6.125,
-      "velocity_label": "exploding",
-      "combined_score": 79.17
-    },
-    {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.25,
-      "velocity": 5.974,
-      "velocity_label": "exploding",
-      "combined_score": 33.6
-    },
-    {
-      "title": "Situation: A Bear Miss [pdf]",
-      "url": "https://bitbanter.com/posts/2026-09-10/situation-a-bear-miss/situation-a-bear-miss.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.547,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Ask HN: What is Y Combinator's position on Flock's standing today?",
-      "url": "https://news.ycombinator.com/item?id=49684989",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.542,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.464,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "R to @SHABAZGIL: Shahbaz bhai yeh real pic hay ya AI ? If this is real how this man beside u throwing money & u r enjoyi",
-      "url": "http://nitter.jaydenha.uk/surrayya12/status/2099159496400486815#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.208,
-      "velocity_label": "exploding",
-      "combined_score": 6.51
-    },
-    {
-      "title": "The First Autonomous Robotic Phlebotomy Device",
-      "url": "https://vitestro.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.078,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Don't be the out of touch Kung Fu master",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.0,
-      "velocity": 4.964,
-      "velocity_label": "exploding",
-      "combined_score": 74.46
-    },
-    {
-      "title": "What if my Git host were a static site generator?",
-      "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.844,
-      "velocity_label": "exploding",
-      "combined_score": 0.24
-    },
-    {
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.78,
-      "velocity": 4.758,
-      "velocity_label": "exploding",
-      "combined_score": 21.17
-    },
-    {
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.24,
-      "velocity": 4.742,
-      "velocity_label": "exploding",
-      "combined_score": 145.11
-    },
-    {
-      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-      "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.08,
-      "velocity": 4.742,
-      "velocity_label": "exploding",
-      "combined_score": 0.95
-    },
-    {
-      "title": "From Git to Fossil (2025)",
-      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.29,
-      "velocity": 4.63,
-      "velocity_label": "exploding",
-      "combined_score": 14.93
-    },
-    {
-      "title": "Liesegang Rings",
-      "url": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.52,
-      "velocity": 4.542,
-      "velocity_label": "exploding",
-      "combined_score": 5.9
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.98,
-      "velocity": 4.504,
-      "velocity_label": "exploding",
-      "combined_score": 123.63
-    },
-    {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.21,
-      "velocity": 4.356,
-      "velocity_label": "exploding",
-      "combined_score": 13.18
-    },
-    {
-      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-      "url": "https://hachyderm.io/@simontatham/117201594980991062",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.67,
-      "velocity": 4.341,
-      "velocity_label": "exploding",
-      "combined_score": 61.54
-    },
-    {
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.32,
-      "velocity": 4.304,
-      "velocity_label": "exploding",
-      "combined_score": 78.77
-    },
-    {
-      "title": "The Enshittification of Everything",
-      "url": "https://www.gareth-evans.com/enshittification/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.3,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Thieves hijack AI hardware shipments in California",
-      "url": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.22,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.64,
-      "velocity": 4.203,
-      "velocity_label": "exploding",
-      "combined_score": 48.76
-    },
-    {
-      "title": "Flight SIM Pioneer Matt Wagner Has Passed Away",
-      "url": "https://www.dualshockers.com/flight-sim-pioneer-matt-wagner-has-passed-away/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.183,
-      "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 7.65
     },
     {
       "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
       "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.16,
-      "velocity": 4.066,
+      "base_score": 0.35,
+      "velocity": 15.484,
       "velocity_label": "exploding",
-      "combined_score": 1.63
+      "combined_score": 13.55
     },
     {
-      "title": "The state of European cloud providers in 2026",
-      "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+      "title": "Alan's Random Insult Generator (1999)",
+      "url": "https://alanbellows.com/experiments/insult/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.88,
+      "velocity": 15.467,
+      "velocity_label": "exploding",
+      "combined_score": 34.03
+    },
+    {
+      "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+      "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.52,
+      "velocity": 14.407,
+      "velocity_label": "exploding",
+      "combined_score": 90.76
+    },
+    {
+      "title": "Base84 deserves a place in file names",
+      "url": "https://00f.net/2026/09/09/base84/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.03,
+      "velocity": 14.2,
+      "velocity_label": "exploding",
+      "combined_score": 36.57
+    },
+    {
+      "title": "A Brief Retrospective on the Sprite Network Operating System",
+      "url": "https://github.com/OSPreservProject/sprite/blob/master/sprite.txt",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.31,
+      "velocity": 13.092,
+      "velocity_label": "exploding",
+      "combined_score": 10.15
+    },
+    {
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "url": "https://cpak.it/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.48,
+      "velocity": 12.25,
+      "velocity_label": "exploding",
+      "combined_score": 14.7
+    },
+    {
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.5,
+      "velocity": 11.011,
+      "velocity_label": "exploding",
+      "combined_score": 41.29
+    },
+    {
+      "title": "Object Storage Costs Compared",
+      "url": "https://objectcost.com",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.062,
+      "velocity": 10.833,
       "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 0.27
     },
     {
-      "title": "Stabilizing Rust's Never Type",
-      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.46,
-      "velocity": 4.033,
+      "base_score": 4.09,
+      "velocity": 10.634,
       "velocity_label": "exploding",
-      "combined_score": 34.88
+      "combined_score": 108.73
+    },
+    {
+      "title": "Hitting a NERVE with attacks on AI-powered brain-computer interfaces",
+      "url": "https://anil.recoil.org/notes/nerve-attacks",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 9.318,
+      "velocity_label": "exploding",
+      "combined_score": 0.93
+    },
+    {
+      "title": "CUDA for AMD on Windows",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.9,
+      "velocity": 9.204,
+      "velocity_label": "exploding",
+      "combined_score": 43.72
+    },
+    {
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.86,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 167.03
+    },
+    {
+      "title": "Aligned to whom?",
+      "url": "https://hyperbo.la/w/aligned-to-whom/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.31,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 70.34
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.73,
+      "velocity": 8.274,
+      "velocity_label": "exploding",
+      "combined_score": 77.15
+    },
+    {
+      "title": "US diplomat secretly flown home ‘had child abuse images at flat’",
+      "url": "https://www.thetimes.com/uk/crime/article/us-diplomat-flown-home-immunity-bv58b3v7q",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 8.1,
+      "velocity_label": "exploding",
+      "combined_score": 1.82
+    },
+    {
+      "title": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.43,
+      "velocity": 7.917,
+      "velocity_label": "exploding",
+      "combined_score": 28.3
+    },
+    {
+      "title": "Device Drivers lab exercise – COSC562",
+      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 7.743,
+      "velocity_label": "exploding",
+      "combined_score": 2.71
+    },
+    {
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.77,
+      "velocity": 7.726,
+      "velocity_label": "exploding",
+      "combined_score": 14.87
+    },
+    {
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.48,
+      "velocity": 7.543,
+      "velocity_label": "exploding",
+      "combined_score": 9.05
+    },
+    {
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.97,
+      "velocity": 7.233,
+      "velocity_label": "exploding",
+      "combined_score": 35.62
+    },
+    {
+      "title": "Show HN: Exende – 10k active jobs from 300 company sources through one API",
+      "url": "https://www.exende.dev",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.167,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Investment token from new economic trading platform worldwide",
+      "url": "https://spare-change-01.vercel.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.16,
+      "velocity_label": "exploding",
+      "combined_score": 0.36
+    },
+    {
+      "title": "How Google Sees Your Site",
+      "url": "https://blog.miloslavhomer.cz/how-google-sees-your-site/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 6.751,
+      "velocity_label": "exploding",
+      "combined_score": 1.52
+    },
+    {
+      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.81,
+      "velocity": 6.629,
+      "velocity_label": "exploding",
+      "combined_score": 46.57
+    },
+    {
+      "title": "Key symbols we lost to time, pt. 1: The PC side",
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.18,
+      "velocity": 6.612,
+      "velocity_label": "exploding",
+      "combined_score": 19.51
+    },
+    {
+      "title": "A wandering black hole caught feeding on the run",
+      "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.26,
+      "velocity": 6.577,
+      "velocity_label": "exploding",
+      "combined_score": 20.72
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.77,
+      "velocity": 6.525,
+      "velocity_label": "exploding",
+      "combined_score": 12.56
+    },
+    {
+      "title": "France announces <€1B in emergency farm support after 2026 summer",
+      "url": "https://www.thescottishfarmer.co.uk/news/26534316.france-unveils-eur1-1bn-aid-package-drought-hit-farmers/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.493,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "145 Days of Uptime, 56 TiB of Traffic, One Debian Upgrade",
+      "url": "https://sarah-robin.com/blog/debian-12-13",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.393,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Method and system for navigating paginated content in page-based increments (2008)",
+      "url": "https://patents.google.com/patent/US7415666B2/en",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.315,
+      "velocity_label": "exploding",
+      "combined_score": 0.32
+    },
+    {
+      "title": "Flock cameras used to arrest a child for playing on a swing",
+      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.94,
+      "velocity": 6.017,
+      "velocity_label": "exploding",
+      "combined_score": 29.18
+    },
+    {
+      "title": "A Layman's Guide to Linux Distros",
+      "url": "https://petrisha.club/a-laymans-guide-to-linux-distros",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.883,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "On Binary Translation and Its Consequences",
+      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.66,
+      "velocity": 5.861,
+      "velocity_label": "exploding",
+      "combined_score": 9.67
+    },
+    {
+      "title": "Show HN: Railo – Deterministic AST security patches verified with Z3 SMT",
+      "url": "https://www.railo.dev",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.74,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.2,
+      "velocity": 5.411,
+      "velocity_label": "exploding",
+      "combined_score": 43.29
+    },
+    {
+      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.31,
+      "velocity": 5.395,
+      "velocity_label": "exploding",
+      "combined_score": 4.18
+    },
+    {
+      "title": "Americans Go Off at Data Center Town Hall",
+      "url": "https://www.youtube.com/watch?v=IxvjA3H8nYw",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.267,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
+      "url": "https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.222,
+      "velocity_label": "exploding",
+      "combined_score": 0.52
+    },
+    {
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.2,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "A computational constitution to stop LLM agents from bricking servers",
+      "url": "https://github.com/misqe/zero-trust-llm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.107,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.89,
+      "velocity": 5.032,
+      "velocity_label": "exploding",
+      "combined_score": 23.77
+    },
+    {
+      "title": "So software is mostly dead and hardware it is",
+      "url": "https://twitter.com/levelsio/status/2099098086035382334",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.939,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "How the opium trade built one of the great cities",
+      "url": "https://worldhistory.substack.com/p/singapore-straits-and-shadows",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.933,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.3,
+      "velocity": 4.519,
+      "velocity_label": "exploding",
+      "combined_score": 14.69
+    },
+    {
+      "title": "Vintage Scientific Papers with LaTeX",
+      "url": "https://github.com/Foadsf/vintage-latex",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.23,
+      "velocity": 4.429,
+      "velocity_label": "exploding",
+      "combined_score": 13.62
+    },
+    {
+      "title": "Docket – Per-commit evidence records for agent-written code",
+      "url": "https://github.com/Dillonsmart/docket",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.13,
+      "velocity": 4.376,
+      "velocity_label": "exploding",
+      "combined_score": 1.42
+    },
+    {
+      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 4.196,
+      "velocity_label": "exploding",
+      "combined_score": 14.48
+    },
+    {
+      "title": "Solve the Loop: Attractor Models for Language and Reasoning",
+      "url": "https://arxiv.org/abs/2605.12466",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.172,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "Building projects in the AI era for Software Engineers",
+      "url": "https://hsnice16.medium.com/building-projects-in-the-ai-era-for-software-engineers-72f3ddcd2a40",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.124,
+      "velocity_label": "exploding",
+      "combined_score": 0.1
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "frontier",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 88.28,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "We must pace the frontier",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HDergler: How to kill open source models in 3 simple steps: - Create panic about frontier models. - Have the bigg",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "make",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 31.76,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Make your first edit to OpenStreetMap",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @Coffees_tea: just had to see an AI bro justify destroying the planet “so disabled people can make art” and i need",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "models",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 20.68,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Epistemology and Large Language Models",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HDergler: How to kill open source models in 3 simple steps: - Create panic about frontier models. - Have the bigg",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "real",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 20.6,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Prompts Aren't Real",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @SHABAZGIL: Shahbaz bhai yeh real pic hay ya AI ? If this is real how this man beside u throwing money & u r enjoyi",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "computer",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 8.84,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "The Interim Computer Museum",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @imdagengren: 高情商：我们一起来放慢 AI 研发的速度吧！ 低情商： A：兄弟，真的训不动了。你呢？ O：我也一样啊！靠，模型能力搞不动了，我疯狂做了一波 Computer Use 的强化学习。才把这一波发布给混过",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "black",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.72,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "A wandering black hole caught feeding on the run",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @LiningCloud: It took ai to figure out you wanted to wear plain black sweatpants with a plain white top...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "planet",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 4.72,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @Coffees_tea: just had to see an AI bro justify destroying the planet “so disabled people can make art” and i need",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "simple",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 4.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HDergler: How to kill open source models in 3 simple steps: - Create panic about frontier models. - Have the bigg",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "time",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.72,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Key symbols we lost to time, pt. 1: The PC side",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Squeezing rust onto more things, this time: Flashlights",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @ai_Fe33: the way por tried to secretly admire tee one more time but failed, do you think he has a crush on tee or",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "money",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.48,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @SHABAZGIL: Shahbaz bhai yeh real pic hay ya AI ? If this is real how this man beside u throwing money & u r enjoyi",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "use",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Ask HN: How to benefit from DeepSeek for enterprise use?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @imdagengren: 高情商：我们一起来放慢 AI 研发的速度吧！ 低情商： A：兄弟，真的训不动了。你呢？ O：我也一样啊！靠，模型能力搞不动了，我疯狂做了一波 Computer Use 的强化学习。才把这一波发布给混过",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "open",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HDergler: How to kill open source models in 3 simple steps: - Create panic about frontier models. - Have the bigg",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "RT by @HDergler: How to kill open source models in 3 simple steps: - Create panic about frontier models. - Have the bigg",
-      "url": "http://nitter.jaydenha.uk/matteopelleg/status/2098861785042608209#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.56,
+      "score": 4.09,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "open"
       ]
     },
     {
@@ -973,32 +547,43 @@
       "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.15,
+      "score": 1.18,
       "relevance": 0.056,
       "matching_tags": [
         "side"
       ]
     },
     {
-      "title": "Show HN: I built my own knowledge graph from the code AI writes",
-      "url": "https://github.com/aeroscissorz/learnlance/",
+      "title": "Docket – Per-commit evidence records for agent-written code",
+      "url": "https://github.com/Dillonsmart/docket",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 0.13,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
-      "url": "https://geoprompttracker.com/bots",
+      "title": "Method and system for navigating paginated content in page-based increments (2008)",
+      "url": "https://patents.google.com/patent/US7415666B2/en",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
+      "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "content"
+      ]
+    },
+    {
+      "title": "Show HN: Kibble – a reader for AI news, tutorials, code and models",
+      "url": "https://www.kibblebites.com/app/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
       ]
     }
   ]
