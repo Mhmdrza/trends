@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-14T03:10:14.765080+00:00",
-  "scrape_timestamp": "2026-09-14T03:08:32.091868+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-09-14T11:40:28.785730+00:00",
+  "scrape_timestamp": "2026-09-14T11:38:57.037236+00:00",
+  "total_items_analyzed": 99,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,129 +16,302 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 84,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 15,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "now",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+          "source": "hackernews",
+          "url": "https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge",
+          "score": 0.28
+        },
+        {
+          "title": "Breakfast is served autonomously now",
+          "source": "hackernews",
+          "url": "https://www.cheffy.ai/",
+          "score": 0.06
+        },
+        {
+          "title": "Grok Bot now lets your route through your local machine",
+          "source": "twitter",
+          "url": "https://twitter.com/elonmusk/status/2099450564698423732#m",
+          "score": 3.15
+        },
+        {
+          "title": "FSD Supervised is making driving safer & now cheaper\n\nZurich is the first insurer in Australia to offer Tesla owners low...",
+          "source": "twitter",
+          "url": "https://twitter.com/TeslaAUNZ/status/2099365680449740820#m",
+          "score": 2.01
+        }
+      ]
+    },
+    {
+      "keyword": "says",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "LG says we're fake news [video]",
+          "source": "hackernews",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "score": 6.36
+        },
+        {
+          "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+          "source": "hackernews",
+          "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+          "score": 0.03
+        },
+        {
+          "title": "'Well Done,' Says God To Man Who Spent Life Arguing In The Comments Sectionbuff.ly/3OMGuDB",
+          "source": "twitter",
+          "url": "https://twitter.com/TheBabylonBee/status/2099241846824194442#m",
+          "score": 3.46
+        }
+      ]
+    },
+    {
+      "keyword": "use",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+          "source": "hackernews",
+          "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+          "score": 5.14
+        },
+        {
+          "title": "The Malicious Use of Artificial Intelligence",
+          "source": "hackernews",
+          "url": "https://arxiv.org/abs/1802.07228",
+          "score": 0.99
+        },
+        {
+          "title": "Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving",
+          "source": "twitter",
+          "url": "https://twitter.com/elonmusk/status/2099445708277387433#m",
+          "score": 7.07
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Why Forth Matters",
-      "url": "https://nomlang.org/post/post.14.sep.2026.html",
+      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 19.5,
+      "base_score": 1.61,
+      "velocity": 14.647,
       "velocity_label": "exploding",
-      "combined_score": 1.46
+      "combined_score": 58.95
     },
     {
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
+      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.87,
-      "velocity": 18.0,
+      "base_score": 1.26,
+      "velocity": 14.607,
       "velocity_label": "exploding",
-      "combined_score": 84.15
+      "combined_score": 46.01
     },
     {
-      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "title": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.64,
-      "velocity": 16.1,
+      "base_score": 3.41,
+      "velocity": 13.567,
       "velocity_label": "exploding",
-      "combined_score": 186.76
+      "combined_score": 115.66
     },
     {
-      "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
-      "url": "https://zenodo.org/records/1430991",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 15.625,
-      "velocity_label": "exploding",
-      "combined_score": 3.52
-    },
-    {
-      "title": "A paper portfolio that freezes the price from the day you add a pick",
-      "url": "https://stockwatchlist.app",
+      "title": "Notes on Catch-Up Conversations",
+      "url": "https://velvetnoise.substack.com/p/notes-on-catch-up-conversations",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 14.448,
+      "velocity": 12.722,
       "velocity_label": "exploding",
-      "combined_score": 0.36
+      "combined_score": 0.32
     },
     {
-      "title": "Dynamics in Mesoscopic Systems",
-      "url": "https://www.ds.mpg.de/meso/en",
+      "title": "Apple's Dimensional Drawings",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.64,
+      "velocity": 11.843,
+      "velocity_label": "exploding",
+      "combined_score": 107.77
+    },
+    {
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.06,
+      "velocity": 11.135,
+      "velocity_label": "exploding",
+      "combined_score": 29.51
+    },
+    {
+      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+      "url": "https://eterdb.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 11.114,
+      "velocity_label": "exploding",
+      "combined_score": 19.17
+    },
+    {
+      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+      "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 12.667,
+      "velocity": 11.108,
       "velocity_label": "exploding",
-      "combined_score": 0.95
+      "combined_score": 0.83
     },
     {
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "url": "https://dreamstation.systems/personal/tesla.html",
+      "title": "The Coming War on General Computation (2011)",
+      "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.76,
-      "velocity": 12.458,
+      "base_score": 1.51,
+      "velocity": 11.033,
       "velocity_label": "exploding",
-      "combined_score": 179.4
+      "combined_score": 41.65
     },
     {
-      "title": "Show HN: PaperFlip – the bird never moves, you fold the paper",
-      "url": "https://apps.apple.com/us/app/paperflip/id6807705987",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 11.079,
+      "base_score": 16.54,
+      "velocity": 10.776,
       "velocity_label": "exploding",
-      "combined_score": 0.28
+      "combined_score": 445.59
     },
     {
-      "title": "Why is privacy so hard?",
-      "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.89,
-      "velocity": 10.875,
+      "base_score": 5.11,
+      "velocity": 10.654,
       "velocity_label": "exploding",
-      "combined_score": 24.2
+      "combined_score": 136.1
     },
     {
-      "title": "The contagion of fear",
-      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+      "url": "https://calif.io/research/oempocalypse",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.48,
-      "velocity": 10.0,
+      "base_score": 1.53,
+      "velocity": 10.587,
       "velocity_label": "exploding",
-      "combined_score": 87.0
+      "combined_score": 40.5
     },
     {
-      "title": "Making Startups Powerful",
-      "url": "https://paulgraham.com/powerful.html",
+      "title": "AI Risk: The Approval Nobody Signed Off",
+      "url": "https://sdarchitect.blog/2026/09/06/ai-risk-a-users-guide-part-i-the-approval-nobody-signed/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.86,
-      "velocity": 9.767,
+      "base_score": 0.04,
+      "velocity": 10.438,
       "velocity_label": "exploding",
-      "combined_score": 69.83
+      "combined_score": 1.04
     },
     {
-      "title": "Historic Business Machines Collection",
-      "url": "https://cdm16471.contentdm.oclc.org/digital/collection/p16471coll9/search",
+      "title": "Five Words from Vanishing Fleece",
+      "url": "https://blog.wordnik.com/five-words-from-vanishing-fleece",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.13,
+      "velocity": 10.438,
+      "velocity_label": "exploding",
+      "combined_score": 3.39
+    },
+    {
+      "title": "Bad code is kudzu",
+      "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.88,
+      "velocity": 10.189,
+      "velocity_label": "exploding",
+      "combined_score": 22.42
+    },
+    {
+      "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
+      "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 10.102,
+      "velocity_label": "exploding",
+      "combined_score": 3.54
+    },
+    {
+      "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
+      "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 9.644,
+      "velocity_label": "exploding",
+      "combined_score": 0.72
+    },
+    {
+      "title": "D-Matrix Joins the Nvidia NVLink Fusion Platform – ServeTheHome",
+      "url": "https://www.servethehome.com/d-matrix-joins-the-nvidia-nvlink-fusion-platform/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.424,
+      "velocity_label": "exploding",
+      "combined_score": 0.47
+    },
+    {
+      "title": "'Who's on First' for AI Risk?",
+      "url": "https://sdarchitect.blog/2026/09/13/ai-risk-a-users-guide-part-ii-whos-on-first-for-ai-risk/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
@@ -147,396 +320,545 @@
       "combined_score": 0.46
     },
     {
-      "title": "A Discussion on Self-Evolving SaaS Systems",
-      "url": "https://www.suggix.com/blog/a-discussion-on-selfevolving-saas-systems",
+      "title": "Why is privacy so hard? (2019)",
+      "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.667,
+      "base_score": 1.32,
+      "velocity": 8.922,
       "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.27,
-      "velocity": 8.548,
-      "velocity_label": "exploding",
-      "combined_score": 5.77
-    },
-    {
-      "title": "Notes on Dario, Altman, Elmo, and matters frontier models",
-      "url": "https://gist.github.com/bg50/23bdbf4f7032024c71d7585e53a4be69",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.515,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "Alan's Random Insult Generator (1999)",
-      "url": "https://alanbellows.com/experiments/insult/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.04,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 22.1
-    },
-    {
-      "title": "Device Drivers lab exercise – COSC562",
-      "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.41,
-      "velocity": 8.342,
-      "velocity_label": "exploding",
-      "combined_score": 8.55
-    },
-    {
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.13,
-      "velocity": 8.216,
-      "velocity_label": "exploding",
-      "combined_score": 23.21
-    },
-    {
-      "title": "A.I. Slopware Is Everywhere Now. Nobody Is Using It",
-      "url": "https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 8.163,
-      "velocity_label": "exploding",
-      "combined_score": 1.84
-    },
-    {
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.88,
-      "velocity": 7.8,
-      "velocity_label": "exploding",
-      "combined_score": 212.17
-    },
-    {
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 7.336,
-      "velocity_label": "exploding",
-      "combined_score": 15.41
-    },
-    {
-      "title": "Base84 deserves a place in file names",
-      "url": "https://00f.net/2026/09/09/base84/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.39,
-      "velocity": 7.233,
-      "velocity_label": "exploding",
-      "combined_score": 25.14
-    },
-    {
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.79,
-      "velocity": 7.136,
-      "velocity_label": "exploding",
-      "combined_score": 14.09
-    },
-    {
-      "title": "Show HN: Roled – User and role management across multiple applications",
-      "url": "https://github.com/roledio/roled",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.924,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.56,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 148.02
-    },
-    {
-      "title": "Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.77,
-      "velocity": 6.898,
-      "velocity_label": "exploding",
-      "combined_score": 99.5
-    },
-    {
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.89,
-      "velocity": 6.703,
-      "velocity_label": "exploding",
-      "combined_score": 98.7
+      "combined_score": 29.44
     },
     {
       "title": "Show HN: Exploring the intersection of prediction markets and social media",
       "url": "https://www.thevidmarket.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.667,
+      "base_score": 0.14,
+      "velocity": 8.894,
       "velocity_label": "exploding",
-      "combined_score": 0.67
+      "combined_score": 3.11
     },
     {
-      "title": "The Wild West of Commercial Surrogacy",
-      "url": "https://www.theatlantic.com/magazine/2026/10/usa-commercial-surrogacy-industry/688357/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Bernie Sanders proposes 20 years in prison for developers pursuing ASI plans",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.16,
-      "velocity": 6.155,
-      "velocity_label": "exploding",
-      "combined_score": 2.46
-    },
-    {
-      "title": "The Coming War on General Computation (2011)",
-      "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.76,
-      "velocity": 6.027,
-      "velocity_label": "exploding",
-      "combined_score": 11.45
-    },
-    {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.75,
-      "velocity": 5.684,
-      "velocity_label": "exploding",
-      "combined_score": 24.87
-    },
-    {
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "url": "https://cpak.it/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.79,
-      "velocity": 5.661,
-      "velocity_label": "exploding",
-      "combined_score": 11.18
-    },
-    {
-      "title": "Homebrew 7.0.0",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.12,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 121.6
-    },
-    {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.68,
-      "velocity": 5.258,
-      "velocity_label": "exploding",
-      "combined_score": 87.81
-    },
-    {
-      "title": "Signal Distilled",
-      "url": "https://signaldistilled.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "Show HN: Kairo – Fail-closed LLM inference routing from RTX 5090 measurements",
-      "url": "https://github.com/peter941221/Kairo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.174,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "Boston Scientific: Update on recent cybersecurity incident",
-      "url": "https://news.bostonscientific.com/update-on-recent-cybersecurity-incident",
+      "title": "Big AI sets out its terms for regulatory capture",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.05,
-      "velocity": 5.014,
+      "velocity": 8.69,
       "velocity_label": "exploding",
-      "combined_score": 0.63
+      "combined_score": 1.09
     },
     {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "title": "Ask HN: How much correlation should a privacy system preserve?",
+      "url": "https://news.ycombinator.com/item?id=49694768",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.32,
-      "velocity": 4.92,
+      "base_score": 0.02,
+      "velocity": 8.51,
       "velocity_label": "exploding",
-      "combined_score": 65.43
+      "combined_score": 0.43
     },
     {
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.52,
-      "velocity": 4.911,
+      "base_score": 2.85,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 30.94
+      "combined_score": 60.56
     },
     {
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.11,
-      "velocity": 4.876,
+      "title": "New Tesla Roadster Unveil 10.01",
+      "url": "https://twitter.com/elonmusk/status/2098932438055469451#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 68.61,
+      "velocity": 8.444,
       "velocity_label": "exploding",
-      "combined_score": 1.34
-    },
-    {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.86,
-      "velocity": 4.834,
-      "velocity_label": "exploding",
-      "combined_score": 22.48
-    },
-    {
-      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-      "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.762,
-      "velocity_label": "exploding",
-      "combined_score": 0.48
-    },
-    {
-      "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups",
-      "url": "https://apnews.com/article/turkey-lgbtq-hiv-crackdown-c782f5318613126fe072d29133e6bf5d",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.6,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 1448.43
     },
     {
       "title": "Mullenweg has returned as CEO after attempted board ouster",
       "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.3,
-      "velocity": 4.569,
+      "base_score": 5.66,
+      "velocity": 8.128,
       "velocity_label": "exploding",
-      "combined_score": 26.27
+      "combined_score": 115.01
     },
     {
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.91,
-      "velocity": 4.542,
+      "base_score": 5.14,
+      "velocity": 8.004,
       "velocity_label": "exploding",
-      "combined_score": 33.04
+      "combined_score": 102.85
     },
     {
-      "title": "JetKVM Mini – A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity",
-      "url": "https://www.cnx-software.com/2026/09/14/jetkvm-mini-a-low-cost-esp32-p4x-based-kvm-with-ethernet-or-wifi-connectivity/",
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "url": "https://www.threebodyorbits.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 7.917,
+      "velocity_label": "exploding",
+      "combined_score": 9.7
+    },
+    {
+      "title": "A welfare state and free immigration will obviously bankrupt any country. \n\nAI + robotics is the only path to universal ...",
+      "url": "https://twitter.com/elonmusk/status/2099461843269906606#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 1.78,
+      "velocity": 7.777,
+      "velocity_label": "exploding",
+      "combined_score": 34.61
+    },
+    {
+      "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
+      "url": "https://zenodo.org/records/1430991",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.56,
+      "velocity": 7.708,
+      "velocity_label": "exploding",
+      "combined_score": 10.79
+    },
+    {
+      "title": "Inmates with Contraband Phones Are Scamming Families Across America",
+      "url": "https://www.wsj.com/us-news/inmates-phone-scams-prisons-784f6c2c",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
+    },
+    {
+      "title": "Market Baskets and Association Rules",
+      "url": "https://stochastic.blog/market-baskets-and-association-rules/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 4.495,
+      "velocity": 6.981,
       "velocity_label": "exploding",
-      "combined_score": 0.22
+      "combined_score": 0.35
     },
     {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "title": "No cities on the Moon – there isn't enough water, scientists say",
+      "url": "https://www.frontiersin.org/news/2026/09/14/no-cities-on-the-moon-there-isnt-enough-water-frontiers-space-technologies",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.91,
-      "velocity": 4.477,
+      "base_score": 0.26,
+      "velocity": 6.804,
       "velocity_label": "exploding",
-      "combined_score": 10.19
+      "combined_score": 4.42
     },
     {
-      "title": "Assistive Access User Guide for iPhone",
-      "url": "https://support.apple.com/en-in/guide/assistive-access-iphone/welcome/ios",
+      "title": "TUI Design Patterns",
+      "url": "https://blog.fortrabbit.com/tui-design-patterns",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.269,
+      "base_score": 0.02,
+      "velocity": 6.756,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 0.34
     },
     {
-      "title": "Navier-Stokes Visualized as 1kB i386 demos",
-      "url": "https://juandecos.github.io/TurboZip/vortex.html",
+      "title": "Can I Release This? – Check AI music release rules",
+      "url": "https://aimusic.events/can-i-release-this",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 4.119,
+      "base_score": 0.02,
+      "velocity": 6.653,
       "velocity_label": "exploding",
-      "combined_score": 1.24
+      "combined_score": 0.33
+    },
+    {
+      "title": "CUDA Rust: Two Tracks for Writing GPU Kernels",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.32,
+      "velocity_label": "exploding",
+      "combined_score": 0.32
+    },
+    {
+      "title": "CSS Color Gamut Mapping",
+      "url": "https://github.com/web-platform-tests/interop/issues/1394",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.281,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "GreenNeural – Real‑time carbon intensity for cloud regions (AWS, Azure, GCP)",
+      "url": "https://greenneural.up.railway.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.942,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Grok Bot now lets your route through your local machine",
+      "url": "https://twitter.com/elonmusk/status/2099450564698423732#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 3.15,
+      "velocity": 5.921,
+      "velocity_label": "exploding",
+      "combined_score": 46.63
+    },
+    {
+      "title": "Nexus – Automating Lead Qualification via AI and Social Extraction",
+      "url": "https://nexus-hit.netlify.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.871,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Starlink supporting rural communities in Bolivia 🇧🇴",
+      "url": "https://twitter.com/elonmusk/status/2099460669326188591#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 1.62,
+      "velocity": 5.867,
+      "velocity_label": "exploding",
+      "combined_score": 23.76
+    },
+    {
+      "title": "'Coltrane' Review: Sound and Spirit",
+      "url": "https://www.wsj.com/arts-culture/books/coltrane-review-sound-and-spirit-b2417282",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.17,
+      "velocity": 5.725,
+      "velocity_label": "exploding",
+      "combined_score": 2.43
+    },
+    {
+      "title": "Artificial Phenomenology and Machine Consciousness",
+      "url": "https://leoferres.blog/artificial-phenomenology/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.567,
+      "velocity_label": "exploding",
+      "combined_score": 0.28
+    },
+    {
+      "title": "People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the for...",
+      "url": "https://twitter.com/elonmusk/status/2099455308284219727#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 4.2,
+      "velocity": 5.546,
+      "velocity_label": "exploding",
+      "combined_score": 58.23
+    },
+    {
+      "title": "Grok Bot Galaxy starts tomorrow (Sep 15) 🚀\n\nIf you’re planning to tune in, here’s the full schedule so you don’t miss th...",
+      "url": "https://twitter.com/XFreeze/status/2099392868913746235#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 1.43,
+      "velocity": 5.523,
+      "velocity_label": "exploding",
+      "combined_score": 19.74
+    },
+    {
+      "title": "CUDA for AMD on Windows",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.08,
+      "velocity": 5.439,
+      "velocity_label": "exploding",
+      "combined_score": 41.88
+    },
+    {
+      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+      "url": "https://danluu.com/exercise-7/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.58,
+      "velocity": 5.361,
+      "velocity_label": "exploding",
+      "combined_score": 7.77
+    },
+    {
+      "title": "Gaming ftw",
+      "url": "https://twitter.com/elonmusk/status/2099459125579071512#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 2.49,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 32.68
+    },
+    {
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.29,
+      "velocity": 4.971,
+      "velocity_label": "exploding",
+      "combined_score": 16.03
+    },
+    {
+      "title": "Mary Beard: 'There is a deeply far-right appropriation of the classics'",
+      "url": "https://english.elpais.com/culture/2026-07-05/mary-beard-historian-there-is-a-deeply-far-right-appropriation-of-the-classics.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 4.762,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
+  "bridge_topics": [
+    {
+      "keyword": "use",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 52.8,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The Malicious Use of Artificial Intelligence",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "says",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 39.4,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "LG says we're fake news [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "'Well Done,' Says God To Man Who Spent Life Arguing In The Comments Sectionbuff.ly/3OMGuDB",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "don",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 31.64,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Grok Bot Galaxy starts tomorrow (Sep 15) 🚀\n\nIf you’re planning to tune in, here’s the full schedule so you don’t miss th...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "hard",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 24.44,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Why is privacy so hard? (2019)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "“Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”\n\n— Richard...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "now",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 22.0,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Breakfast is served autonomously now",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Grok Bot now lets your route through your local machine",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "FSD Supervised is making driving safer & now cheaper\n\nZurich is the first insurer in Australia to offer Tesla owners low...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "people",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 16.96,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Code for the People – The human story of the open web",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the for...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "machine",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 12.68,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Artificial Phenomenology and Machine Consciousness",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Grok Bot now lets your route through your local machine",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "full",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 10.88,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Grok Bot Galaxy starts tomorrow (Sep 15) 🚀\n\nIf you’re planning to tune in, here’s the full schedule so you don’t miss th...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "first",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 8.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "'Who's on First' for AI Risk?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "FSD Supervised is making driving safer & now cheaper\n\nZurich is the first insurer in Australia to offer Tesla owners low...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Open-Source AI and Open Models Reading List",
+      "title": "Open-source AI and open models reading list",
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.34,
+      "score": 1.55,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -544,14 +866,37 @@
       ]
     },
     {
+      "title": "Code for the People – The human story of the open web",
+      "url": "https://codeforthepeople.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.04,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "open"
+      ]
+    },
+    {
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "source": "hackernews",
       "category": "tech",
-      "score": 6.68,
+      "score": 7.11,
       "relevance": 0.056,
       "matching_tags": [
         "open"
+      ]
+    },
+    {
+      "title": "Grok Bot now lets your route through your local machine",
+      "url": "https://twitter.com/elonmusk/status/2099450564698423732#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 3.15,
+      "relevance": 0.056,
+      "matching_tags": [
+        "machine"
       ]
     },
     {
@@ -559,21 +904,32 @@
       "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.64,
+      "score": 0.88,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "A Discussion on Self-Evolving SaaS Systems",
-      "url": "https://www.suggix.com/blog/a-discussion-on-selfevolving-saas-systems",
+      "title": "Least lines of code contest? okay",
+      "url": "https://www.reddit.com/r/MaliciousCompliance/comments/1vrf25w/least_lines_of_code_contest_okay",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
+      "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "saas"
+        "code"
+      ]
+    },
+    {
+      "title": "Artificial Phenomenology and Machine Consciousness",
+      "url": "https://leoferres.blog/artificial-phenomenology/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "machine"
       ]
     }
   ]
