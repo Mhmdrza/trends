@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-18T02:59:55.389523+00:00",
-  "scrape_timestamp": "2026-09-18T02:58:09.431468+00:00",
-  "total_items_analyzed": 102,
+  "timestamp": "2026-09-18T10:30:40.920730+00:00",
+  "scrape_timestamp": "2026-09-18T10:28:31.460755+00:00",
+  "total_items_analyzed": 87,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -20,878 +20,515 @@
       "status": "ok"
     },
     "twitter": {
-      "count": 15,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "self",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "The American Religion of Self-Storage Facilities",
-          "source": "hackernews",
-          "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-          "score": 7.23
-        },
-        {
-          "title": "Towards Self-Driving Codebases",
-          "source": "hackernews",
-          "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-          "score": 2.27
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "url": "https://twitter.com/papervine_io/status/2100781774175359056#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "open",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Show HN: An open Add/Search evaluation framework for agent memory",
-          "source": "hackernews",
-          "url": "https://agentmemoryleaderboard.ai/",
-          "score": 0.01
-        },
-        {
-          "title": "The open source version of Claude Project that gives you the context ownershp",
-          "source": "hackernews",
-          "url": "https://github.com/zqiren/Orbital",
-          "score": 0.02
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "url": "https://twitter.com/papervine_io/status/2100781774175359056#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "source",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "CrowdSec Source Code Leak",
-          "source": "hackernews",
-          "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-          "score": 1.97
-        },
-        {
-          "title": "The open source version of Claude Project that gives you the context ownershp",
-          "source": "hackernews",
-          "url": "https://github.com/zqiren/Orbital",
-          "score": 0.02
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "url": "https://twitter.com/papervine_io/status/2100781774175359056#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "built",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "How GLM built its own inference infrastructure",
-          "source": "hackernews",
-          "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-          "score": 7.76
-        },
-        {
-          "title": "Canto: A speech model built for the real world",
-          "source": "hackernews",
-          "url": "https://wisprflow.ai/canto",
-          "score": 0.55
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "url": "https://twitter.com/papervine_io/status/2100781774175359056#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "com",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Rate limits on GitLab.com are changing",
-          "source": "hackernews",
-          "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-          "score": 3.21
-        },
-        {
-          "title": "Whoisinspace.com/",
-          "source": "hackernews",
-          "url": "https://whoisinspace.com",
-          "score": 2.4
-        },
-        {
-          "title": "queria ser empregada novinha dela quando ela chega na casa bridgerton estressada com os filhos aí eu vou até ela pra aca...",
-          "source": "twitter",
-          "url": "https://twitter.com/orbitanalua/status/2100542360430031085#m",
-          "score": 7.28
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Bend 2 Is Here",
-      "url": "https://github.com/bendlang/bend",
+      "title": "Speeding up gearhash on ARM64",
+      "url": "https://sam.dev/blog/gearhash-on-arm64",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.15,
-      "velocity": 37.0,
+      "base_score": 0.2,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 13.88
+      "combined_score": 9.0
     },
     {
-      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-      "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+      "title": "How Uber Protects Against Retry Storms",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 20.0,
+      "base_score": 1.64,
+      "velocity": 14.891,
       "velocity_label": "exploding",
-      "combined_score": 1.0
-    },
-    {
-      "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-      "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.79,
-      "velocity": 16.417,
-      "velocity_label": "exploding",
-      "combined_score": 73.46
-    },
-    {
-      "title": "André Weil and the Hodge Conjecture",
-      "url": "https://jiahao116.github.io/Articles/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.52,
-      "velocity": 14.2,
-      "velocity_label": "exploding",
-      "combined_score": 18.46
-    },
-    {
-      "title": "Wax motor",
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.48,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 115.28
-    },
-    {
-      "title": "Run QWEN3.8 27B on 16gb Nvidia GPUs",
-      "url": "https://github.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 12.353,
-      "velocity_label": "exploding",
-      "combined_score": 5.25
-    },
-    {
-      "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
-      "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.12,
-      "velocity": 12.246,
-      "velocity_label": "exploding",
-      "combined_score": 34.29
-    },
-    {
-      "title": "Computer Reset, Dallas",
-      "url": "https://dfarq.homeip.net/computer-reset-dallas/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 12.089,
-      "velocity_label": "exploding",
-      "combined_score": 8.76
-    },
-    {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.0,
-      "velocity": 11.817,
-      "velocity_label": "exploding",
-      "combined_score": 206.81
+      "combined_score": 61.05
     },
     {
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "url": "https://prismml.com/news/bonsai-2-27b",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.88,
-      "velocity": 10.643,
+      "base_score": 6.6,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 103.24
+      "combined_score": 244.75
     },
     {
-      "title": "How SpaceX Streamlined the Raptor Engine",
-      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 10.607,
+      "base_score": 0.85,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 3.18
+      "combined_score": 28.16
     },
     {
-      "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
-      "url": "https://snapdrop.me",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.59,
-      "velocity": 10.403,
-      "velocity_label": "exploding",
-      "combined_score": 15.34
-    },
-    {
-      "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
-      "url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.56,
-      "velocity": 9.688,
-      "velocity_label": "exploding",
-      "combined_score": 13.56
-    },
-    {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.78,
-      "velocity": 9.243,
-      "velocity_label": "exploding",
-      "combined_score": 133.57
-    },
-    {
-      "title": "Show HN: Craigslist for agent skills, curated by a human",
-      "url": "https://skillbay.sh/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.45,
-      "velocity": 9.165,
-      "velocity_label": "exploding",
-      "combined_score": 10.31
-    },
-    {
-      "title": "Show HN: Jinx – a link shortener you host free on GitHub Pages",
-      "url": "https://jinx.fyi",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.127,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.69,
-      "velocity": 9.114,
-      "velocity_label": "exploding",
-      "combined_score": 15.72
-    },
-    {
-      "title": "Grand MS-DOS Gaming General MIDI Showdown",
-      "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.95,
-      "velocity": 9.028,
-      "velocity_label": "exploding",
-      "combined_score": 21.44
-    },
-    {
-      "title": "Garbage trucks analyze homes with AI-powered cameras",
-      "url": "https://www.popsci.com/technology/city-detect-garbage-trucks-cameras/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.842,
-      "velocity_label": "exploding",
-      "combined_score": 0.66
-    },
-    {
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.73,
-      "velocity": 8.808,
-      "velocity_label": "exploding",
-      "combined_score": 38.1
-    },
-    {
-      "title": "GraphViz Pocket Reference – Make a Graph",
-      "url": "https://graphs.grevian.org/graph/6322783643500544",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 8.627,
-      "velocity_label": "exploding",
-      "combined_score": 1.94
-    },
-    {
-      "title": "Not in an AI photo",
-      "url": "https://twitter.com/BuddyWallace18/status/2100781758459326852#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.0,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.0
-    },
-    {
-      "title": "DDns: Endpoint-aware DNS resolution beyond IP addresses",
-      "url": "https://docs.dhttp.net/en/docs/protocol/ddns",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.929,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "Show HN: OJ – A drop-in replacement for Vite in Rust",
-      "url": "https://github.com/lovablelabs/oj",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 7.795,
-      "velocity_label": "exploding",
-      "combined_score": 1.95
-    },
-    {
-      "title": "Towards Self-Driving Codebases",
-      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+      "title": "T. Rex Had a Body Temperature of 97°F",
+      "url": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 2.27,
-      "velocity": 7.708,
+      "velocity": 12.722,
       "velocity_label": "exploding",
-      "combined_score": 43.74
+      "combined_score": 72.2
     },
     {
-      "title": "Flet 1.0 – Build cross-platform apps in Python",
-      "url": "https://flet.dev/",
+      "title": "Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.21,
-      "velocity": 7.61,
+      "base_score": 3.52,
+      "velocity": 12.571,
       "velocity_label": "exploding",
-      "combined_score": 23.02
+      "combined_score": 110.63
     },
     {
-      "title": "Jev plays Roulette Wars on its own",
-      "url": "https://twitter.com/NicoSaraintaris/status/2100745151622664392",
+      "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
+      "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.154,
+      "base_score": 0.48,
+      "velocity": 11.593,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 13.91
     },
     {
-      "title": "Google auto-banned my Bug Hunter account for exposing their fake \"Delete\" button",
-      "url": "https://medium.com/@istokovicsgyorgy79/google-auto-banned-my-bug-hunter-account-for-exposing-their-fake-delete-button-gdpr-dark-a6775f1bda8a",
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.024,
+      "base_score": 0.98,
+      "velocity": 10.852,
       "velocity_label": "exploding",
-      "combined_score": 0.35
+      "combined_score": 26.59
     },
     {
-      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "url": "https://news.ycombinator.com/item?id=49743049",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.28,
-      "velocity": 6.996,
-      "velocity_label": "exploding",
-      "combined_score": 22.39
-    },
-    {
-      "title": "Why I didn’t sign the Fields medallists’ letter",
-      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.95,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 120.18
-    },
-    {
-      "title": "The FAA's plan to fix air traffic? $875M worth of AI",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "title": "Better Icon and Label Alignment",
+      "url": "https://ishadeed.com/article/aligning-list-icons/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.3,
-      "velocity": 6.914,
+      "velocity": 10.129,
       "velocity_label": "exploding",
-      "combined_score": 5.19
+      "combined_score": 7.6
     },
     {
-      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
-      "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+      "title": "Waymo in Singapore",
+      "url": "https://waymo.com/waymo-in-singapore/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.858,
+      "base_score": 3.04,
+      "velocity": 10.0,
       "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "Great Tea Race of 1866",
-      "url": "https://en.wikipedia.org/wiki/Great_Tea_Race_of_1866",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.833,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "CCC invites all model citizens to 40C3",
-      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.14,
-      "velocity": 6.824,
-      "velocity_label": "exploding",
-      "combined_score": 104.74
-    },
-    {
-      "title": "LeanReact: Expressing Composable and Correct React Components in Lean",
-      "url": "https://theoric.com/blog/leanreact_introduction/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.821,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "The most important product decision is what you don't build",
-      "url": "https://liamnugent.me/posts/what-you-dont-build/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 6.459,
-      "velocity_label": "exploding",
-      "combined_score": 13.08
-    },
-    {
-      "title": "The American Religion of Self-Storage Facilities",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.23,
-      "velocity": 6.41,
-      "velocity_label": "exploding",
-      "combined_score": 115.86
-    },
-    {
-      "title": "Canto: A speech model built for the real world",
-      "url": "https://wisprflow.ai/canto",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 6.404,
-      "velocity_label": "exploding",
-      "combined_score": 8.81
-    },
-    {
-      "title": "Whoisinspace.com/",
-      "url": "https://whoisinspace.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.4,
-      "velocity": 6.341,
-      "velocity_label": "exploding",
-      "combined_score": 38.05
+      "combined_score": 76.0
     },
     {
       "title": "I Put Nam A2-Lite Inside an iRig HD X",
       "url": "https://playtaurus.com/blog/i-put-nam-a2-lite-inside-an-irig-hd-x",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.18,
-      "velocity": 6.1,
+      "base_score": 0.34,
+      "velocity": 9.957,
       "velocity_label": "exploding",
-      "combined_score": 2.75
+      "combined_score": 8.46
     },
     {
-      "title": "TSMC revealing details about next gen A14 node",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "title": "How SpaceX Streamlined the Raptor Engine",
+      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.53,
-      "velocity": 6.086,
+      "base_score": 0.46,
+      "velocity": 9.857,
       "velocity_label": "exploding",
-      "combined_score": 23.28
+      "combined_score": 11.34
     },
     {
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.867,
-      "velocity_label": "exploding",
-      "combined_score": 0.29
-    },
-    {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.66,
-      "velocity": 5.633,
-      "velocity_label": "exploding",
-      "combined_score": 9.3
-    },
-    {
-      "title": "Lodestar – Easier Communication with Agents",
-      "url": "https://www.try-lodestar.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.615,
-      "velocity_label": "exploding",
-      "combined_score": 0.42
-    },
-    {
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.22,
-      "velocity": 5.601,
-      "velocity_label": "exploding",
-      "combined_score": 115.11
-    },
-    {
-      "title": "The open source version of Claude Project that gives you the context ownershp",
-      "url": "https://github.com/zqiren/Orbital",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.516,
-      "velocity_label": "exploding",
-      "combined_score": 0.28
-    },
-    {
-      "title": "iPhone 18 Pro Camera Review: Dunton, Colorado",
-      "url": "https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton",
+      "title": "You'll miss publishers when they're gone",
+      "url": "https://bell.bz/youll-miss-publishers-when-theyre-gone/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.366,
+      "velocity": 9.5,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 0.24
+    },
+    {
+      "title": "GitLab 19.4: MCP server tools and agent governance",
+      "url": "https://docs.gitlab.com/releases/19/gitlab-19-4-released/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.998,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+      "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.87,
+      "velocity": 7.972,
+      "velocity_label": "exploding",
+      "combined_score": 57.2
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.07,
+      "velocity": 7.908,
+      "velocity_label": "exploding",
+      "combined_score": 159.55
+    },
+    {
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "url": "https://askamonk.online",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.79,
+      "velocity": 7.722,
+      "velocity_label": "exploding",
+      "combined_score": 15.25
+    },
+    {
+      "title": "Russia Uses Super App Max to Spy on Citizens",
+      "url": "https://www.theguardian.com/world/2026/sep/18/russian-super-app-max-spy-citizens",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.683,
+      "velocity_label": "exploding",
+      "combined_score": 0.58
+    },
+    {
+      "title": "How does Quantum Mechanics work?",
+      "url": "https://explainers.blog/posts/how-does-quantum-mechanics-work/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.238,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Show HN: Rabbit Hole – a daily Wikipedia racing game",
+      "url": "https://rabbitholegame.net",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.215,
+      "velocity_label": "exploding",
+      "combined_score": 0.72
+    },
+    {
+      "title": "When the fractional part of a float fixes your shader",
+      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.35,
+      "velocity": 6.986,
+      "velocity_label": "exploding",
+      "combined_score": 6.11
+    },
+    {
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.21,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 90.09
+    },
+    {
+      "title": "André Weil and the Hodge Conjecture",
+      "url": "https://jiahao116.github.io/Articles/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.64,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 11.07
+    },
+    {
+      "title": "Why Germany Is Building an Ark for U.S. Climate Data",
+      "url": "https://e360.yale.edu/features/germany-us-climate-data",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.621,
+      "velocity_label": "exploding",
+      "combined_score": 0.33
+    },
+    {
+      "title": "I Started Writing After Years of Reading",
+      "url": "https://posts.cpv.sh/why-not-now",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.404,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Why Does the Universe Expand?",
+      "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.51,
+      "velocity": 6.125,
+      "velocity_label": "exploding",
+      "combined_score": 23.12
+    },
+    {
+      "title": "Where Does the Quantum World End and Ours Begin?",
+      "url": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.1,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "Replacing Pull Requests with Delta",
+      "url": "https://zed.dev/blog/delta-public-beta",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.29,
+      "velocity": 6.083,
+      "velocity_label": "exploding",
+      "combined_score": 4.41
+    },
+    {
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.32,
+      "velocity": 5.989,
+      "velocity_label": "exploding",
+      "combined_score": 19.76
+    },
+    {
+      "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
+      "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.31,
+      "velocity": 5.882,
+      "velocity_label": "exploding",
+      "combined_score": 19.26
+    },
+    {
+      "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+      "url": "https://snapdrop.me",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.3,
+      "velocity": 5.874,
+      "velocity_label": "exploding",
+      "combined_score": 19.09
+    },
+    {
+      "title": "Computer Reset, Dallas",
+      "url": "https://dfarq.homeip.net/computer-reset-dallas/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.38,
+      "velocity": 5.756,
+      "velocity_label": "exploding",
+      "combined_score": 5.47
+    },
+    {
+      "title": "Khipu (Quipu) Field Guide",
+      "url": "https://www.khipufieldguide.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.18,
+      "velocity": 5.725,
+      "velocity_label": "exploding",
+      "combined_score": 2.58
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.84,
+      "velocity": 5.544,
+      "velocity_label": "exploding",
+      "combined_score": 94.81
+    },
+    {
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.4,
+      "velocity": 5.489,
+      "velocity_label": "exploding",
+      "combined_score": 19.21
+    },
+    {
+      "title": "ClickHouse permission system has a trivial bypass",
+      "url": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.439,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Proton partners with Apertus, Switzerland's sovereign AI model",
+      "url": "https://proton.me/blog/lumo-apertus-partnership",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.426,
+      "velocity_label": "exploding",
+      "combined_score": 0.54
+    },
+    {
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.13,
+      "velocity": 5.27,
+      "velocity_label": "exploding",
+      "combined_score": 107.11
+    },
+    {
+      "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug",
+      "url": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.48,
+      "velocity": 5.254,
+      "velocity_label": "exploding",
+      "combined_score": 6.31
+    },
+    {
+      "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+      "url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.71,
+      "velocity": 5.135,
+      "velocity_label": "exploding",
+      "combined_score": 9.12
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.73,
+      "velocity": 5.088,
+      "velocity_label": "exploding",
+      "combined_score": 111.05
+    },
+    {
+      "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
+      "url": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.62,
+      "velocity": 5.056,
+      "velocity_label": "exploding",
+      "combined_score": 7.84
+    },
+    {
+      "title": "Grand MS-DOS Gaming General MIDI Showdown",
+      "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.05,
+      "velocity": 4.994,
+      "velocity_label": "exploding",
+      "combined_score": 13.11
+    },
+    {
+      "title": "Towards Self-Driving Codebases",
+      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.4,
+      "velocity": 4.858,
+      "velocity_label": "exploding",
+      "combined_score": 29.15
+    },
+    {
+      "title": "Slop Grenades, AI Didn't Make Delivery Free – Food for Agile Thought 562",
+      "url": "https://age-of-product.com/food-agile-thought-562-slop-grenades/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.803,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Uwillfly – build multi-city trips one cheap flight at a time",
+      "url": "http://uwillfly.net/hackernews",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 4.761,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "Top Chinese AI models make 10% of OpenAI",
+      "url": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.707,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.06,
+      "velocity": 4.611,
+      "velocity_label": "exploding",
+      "combined_score": 23.75
+    },
+    {
+      "title": "Show HN: tuisheet, a terminal spreadsheet compatible with OpenXML (xlsx) files",
+      "url": "https://github.com/krackout/tuisheet",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.543,
+      "velocity_label": "exploding",
+      "combined_score": 0.11
     },
     {
       "title": "Rate limits on GitLab.com are changing",
       "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.21,
-      "velocity": 5.329,
+      "base_score": 3.43,
+      "velocity": 4.517,
       "velocity_label": "exploding",
-      "combined_score": 42.77
-    },
-    {
-      "title": "Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe",
-      "url": "https://github.com/aardappel/goose/tree/master",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.01,
-      "velocity": 5.303,
-      "velocity_label": "exploding",
-      "combined_score": 13.39
-    },
-    {
-      "title": "Vinix – A modern operating system written in V",
-      "url": "https://vinix-os.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.79,
-      "velocity": 5.3,
-      "velocity_label": "exploding",
-      "combined_score": 23.72
+      "combined_score": 38.74
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "com",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 51.56,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Rate limits on GitLab.com are changing",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Whoisinspace.com/",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "queria ser empregada novinha dela quando ela chega na casa bridgerton estressada com os filhos aí eu vou até ela pra aca...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "self",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 38.0,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "The American Religion of Self-Storage Facilities",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Towards Self-Driving Codebases",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "built",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 33.24,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "How GLM built its own inference infrastructure",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Canto: A speech model built for the real world",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "source",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.96,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "CrowdSec Source Code Leak",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "The open source version of Claude Project that gives you the context ownershp",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "ask",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "And before you ask, no it’s not AI",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "open",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.12,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Show HN: An open Add/Search evaluation framework for agent memory",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "The open source version of Claude Project that gives you the context ownershp",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "powered",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Garbage trucks analyze homes with AI-powered cameras",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "analytics",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Mova: Movement Analytics Platform",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [],
   "personal_relevance": [
     {
@@ -899,7 +536,7 @@
       "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.97,
+      "score": 2.25,
       "relevance": 0.111,
       "matching_tags": [
         "code",
@@ -907,23 +544,11 @@
       ]
     },
     {
-      "title": "The open source version of Claude Project that gives you the context ownershp",
-      "url": "https://github.com/zqiren/Orbital",
+      "title": "Open Source 3D Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-files/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.02,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "papervine.io/— AI-powered self-updating docs. Open source or hosted. Built-in editor, analytics, workflows, AI assistant...",
-      "url": "https://twitter.com/papervine_io/status/2100781774175359056#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.0,
+      "score": 0.03,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -935,43 +560,32 @@
       "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.34,
+      "score": 0.48,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
       ]
     },
     {
-      "title": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "title": "Code Scans",
+      "url": "https://devin.ai/blog/introducing-code-scans",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 0.28,
       "relevance": 0.056,
       "matching_tags": [
-        "hacking"
+        "code"
       ]
     },
     {
-      "title": "Show HN: An open Add/Search evaluation framework for agent memory",
-      "url": "https://agentmemoryleaderboard.ai/",
+      "title": "GitLab 19.4: MCP server tools and agent governance",
+      "url": "https://docs.gitlab.com/releases/19/gitlab-19-4-released/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
-      ]
-    },
-    {
-      "title": "Saya design\nAI content",
-      "url": "https://twitter.com/dedsecx01/status/2100781758128234541#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.0,
-      "relevance": 0.056,
-      "matching_tags": [
-        "content"
+        "tools"
       ]
     }
   ]
