@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-19T02:57:36.023187+00:00",
-  "scrape_timestamp": "2026-09-19T02:55:55.862039+00:00",
-  "total_items_analyzed": 86,
+  "timestamp": "2026-09-19T10:15:32.362737+00:00",
+  "scrape_timestamp": "2026-09-19T10:13:51.869080+00:00",
+  "total_items_analyzed": 98,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,527 +16,878 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 86,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "first",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "source": "hackernews",
+          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+          "score": 14.65
+        },
+        {
+          "title": "The first new cat species discovered in 100 years",
+          "source": "hackernews",
+          "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+          "score": 4.3
+        },
+        {
+          "title": "What should a startup optimize for first? - Users - Revenue",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/itskamrankhan/status/2101253730351849782#m",
+          "score": 0.5
+        },
+        {
+          "title": "Your startup needs 20 more hours every week. What are you cutting first? Friends Sleep Exercise Your day job",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/Dhruvam987/status/2101253608671170895#m",
+          "score": 0.5
+        },
+        {
+          "title": "R to @ThePeterMick: My first product, https://RideSponsors.com is already live 🛵🚀 I’m now building a startup directory w",
+          "source": "twitter",
+          "url": "http://nitter.jaydenha.uk/DeepthiConnects/status/2101253501934555136#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "url": "https://www.lispbm.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.49,
-      "velocity": 15.467,
+      "base_score": 0.36,
+      "velocity": 20.111,
       "velocity_label": "exploding",
-      "combined_score": 96.28
+      "combined_score": 18.1
     },
     {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
+      "title": "Human brain is two separate organs",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.87,
-      "velocity": 12.026,
+      "base_score": 0.36,
+      "velocity": 17.326,
       "velocity_label": "exploding",
-      "combined_score": 26.16
+      "combined_score": 15.59
     },
     {
-      "title": "Ctenophores Aren't Just Beautiful. They're Biological Wonders",
+      "title": "Ctenophores: Wonders of Biology",
       "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.21,
-      "velocity": 11.287,
+      "base_score": 0.33,
+      "velocity": 15.889,
       "velocity_label": "exploding",
-      "combined_score": 5.93
+      "combined_score": 13.11
     },
     {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.84,
-      "velocity": 10.954,
+      "base_score": 0.77,
+      "velocity": 13.538,
       "velocity_label": "exploding",
-      "combined_score": 23.0
-    },
-    {
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.17,
-      "velocity": 10.938,
-      "velocity_label": "exploding",
-      "combined_score": 114.02
-    },
-    {
-      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "url": "https://scry.io/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.78,
-      "velocity": 10.686,
-      "velocity_label": "exploding",
-      "combined_score": 20.84
-    },
-    {
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.25,
-      "velocity": 10.4,
-      "velocity_label": "exploding",
-      "combined_score": 84.5
-    },
-    {
-      "title": "Prepare your iPhone 18 Pro Max to ship",
-      "url": "https://support.apple.com/en-us/127848",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 10.367,
-      "velocity_label": "exploding",
-      "combined_score": 4.67
-    },
-    {
-      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.37,
-      "velocity": 10.307,
-      "velocity_label": "exploding",
-      "combined_score": 112.61
-    },
-    {
-      "title": "The Contract on America",
-      "url": "https://3quarksdaily.com/3quarksdaily/2026/09/the-contract-on-america.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.35,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 8.82
+      "combined_score": 26.06
     },
     {
       "title": "Cyclomatic Complexity in C#",
       "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.59,
-      "velocity": 10.0,
+      "base_score": 0.96,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 14.75
+      "combined_score": 31.8
     },
     {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
+      "title": "How Notion handles concurrent editing with CRDTs",
+      "url": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.86,
-      "velocity": 8.801,
+      "base_score": 0.02,
+      "velocity": 12.2,
       "velocity_label": "exploding",
-      "combined_score": 62.93
+      "combined_score": 0.61
+    },
+    {
+      "title": "R to @alpha_defense: Around 2030 there will be 100 of drone startup like these",
+      "url": "http://nitter.jaydenha.uk/Knightride52100/status/2101253731111338198#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 11.687,
+      "velocity_label": "exploding",
+      "combined_score": 14.61
+    },
+    {
+      "title": "Volkswagen Mission Efficiency Sets Three EV Records",
+      "url": "https://theevreport.com/volkswagen-mission-efficiency-ev-records",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 11.456,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.79,
+      "velocity": 11.109,
+      "velocity_label": "exploding",
+      "combined_score": 105.26
+    },
+    {
+      "title": "RT by @manndey: Government backs young entrepreneurs with USD 18.74 million in startup funding https://psmnews.mv/en/188",
+      "url": "http://nitter.jaydenha.uk/psmnewsmv/status/2101196777516838970#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.542,
+      "velocity_label": "exploding",
+      "combined_score": 13.18
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.44,
+      "velocity": 9.699,
+      "velocity_label": "exploding",
+      "combined_score": 34.92
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.08,
+      "velocity": 9.654,
+      "velocity_label": "exploding",
+      "combined_score": 26.06
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.12,
+      "velocity": 8.893,
+      "velocity_label": "exploding",
+      "combined_score": 47.13
+    },
+    {
+      "title": "Ctenophores Aren't Just Beautiful. They're Biological Wonders",
+      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.33,
+      "velocity": 8.726,
+      "velocity_label": "exploding",
+      "combined_score": 7.2
+    },
+    {
+      "title": "Ask HN: Losing motivation to work in the IT field, need advice",
+      "url": "https://news.ycombinator.com/item?id=49764727",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.08,
+      "velocity": 7.963,
+      "velocity_label": "exploding",
+      "combined_score": 1.59
+    },
+    {
+      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.13,
+      "velocity": 7.874,
+      "velocity_label": "exploding",
+      "combined_score": 2.56
+    },
+    {
+      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 7.843,
+      "velocity_label": "exploding",
+      "combined_score": 7.06
+    },
+    {
+      "title": "What's going on in the last 7 days on Canton ?",
+      "url": "http://nitter.jaydenha.uk/nextdej/status/2101253694935236746#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.667,
+      "velocity_label": "exploding",
+      "combined_score": 9.58
+    },
+    {
+      "title": "Benchmarking Wild vs. Mold",
+      "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.6,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.98,
+      "velocity": 7.55,
+      "velocity_label": "exploding",
+      "combined_score": 56.25
+    },
+    {
+      "title": "$32M in Google Ads Spend: Lessons Learned",
+      "url": "https://mojodojo.io/blog/32m-google-ads-audit",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 7.54,
+      "velocity_label": "exploding",
+      "combined_score": 0.94
+    },
+    {
+      "title": "Suppress vulnerabilities applying Kubernetes context to scans",
+      "url": "https://github.com/alegrey91/vex8s",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.08,
+      "velocity": 7.389,
+      "velocity_label": "exploding",
+      "combined_score": 1.48
+    },
+    {
+      "title": "Stop adapting Jane Austen 5 other 18th‑century writers perfect for the screen",
+      "url": "https://theconversation.com/stop-adapting-jane-austen-five-other-18th-century-writers-perfect-for-the-screen-292178",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.386,
+      "velocity_label": "exploding",
+      "combined_score": 0.55
+    },
+    {
+      "title": "Mostly Oberon (2020)",
+      "url": "https://rsdoiel.github.io/blog/2020/04/11/Mostly-Oberon.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+      "url": "https://github.com/awlevin/typesafe-computer-use",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.53,
+      "velocity": 7.27,
+      "velocity_label": "exploding",
+      "combined_score": 27.81
+    },
+    {
+      "title": "VortexMQ – Fast message broker in pure Go with Redis protocol",
+      "url": "https://news.ycombinator.com/item?id=49764803",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.095,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "What Happens When Your RAG System Retrieves the Wrong Documents?",
+      "url": "https://medium.com/@NikoZero11/your-rag-pipeline-doesnt-need-more-retrieval-it-needs-better-decisions-c26ad59254b3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.942,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Microsoft Patents \"Ad-Credit\" System to Serve In-Game Ads During Pause Windows",
+      "url": "https://respawnfirst.com/microsoft-patents-ad-credit-system-for-pc-and-consoles-to-serve-in-game-ads-during-pause-windows/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.881,
+      "velocity_label": "exploding",
+      "combined_score": 0.34
+    },
+    {
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.06,
+      "velocity": 6.632,
+      "velocity_label": "exploding",
+      "combined_score": 17.58
+    },
+    {
+      "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 6.595,
+      "velocity_label": "exploding",
+      "combined_score": 3.79
+    },
+    {
+      "title": "Terence Tao: SAIR's Open Math Model Initiative",
+      "url": "https://www.youtube.com/watch?v=PZRb6NIki2w",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.352,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.94,
+      "velocity": 6.322,
+      "velocity_label": "exploding",
+      "combined_score": 46.47
+    },
+    {
+      "title": "The last IMO problem AI could not solve [video]",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.088,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
     },
     {
       "title": "A search-and-inference database from scratch in pure Zig",
       "url": "https://antfly.io/research/antfly-zig",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.79,
-      "velocity": 8.716,
+      "base_score": 0.84,
+      "velocity": 5.733,
       "velocity_label": "exploding",
-      "combined_score": 17.21
+      "combined_score": 12.04
     },
     {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "title": "Show HN: Snail Walk – escape Bob the giant snail by walking more IRL",
+      "url": "https://snailwalk.app/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 10.07,
-      "velocity": 8.636,
-      "velocity_label": "exploding",
-      "combined_score": 217.4
-    },
-    {
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.64
-    },
-    {
-      "title": "The Race for 1000 Goals",
-      "url": "https://1k.football/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.444,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.65,
-      "velocity": 8.247,
-      "velocity_label": "exploding",
-      "combined_score": 34.02
-    },
-    {
-      "title": "Official mold linker rewrite in Rust",
-      "url": "https://github.com/rui314/mold",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.038,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "I accidentally created a mini-Jev and you can too",
-      "url": "https://medium.com/@gouravd_61431/i-accidentally-created-a-mini-jev-for-splitting-expenses-and-you-can-too-7426dcc25774",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.788,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Master of Malt Hacked, User Data Compromised",
-      "url": "https://www.masterofmalt.com/sorry/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.688,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Opus 5 has a Noun Problem",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1wk0s2i/opus_5_has_a_noun_problem/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.62,
+      "base_score": 0.04,
+      "velocity": 5.728,
       "velocity_label": "exploding",
       "combined_score": 0.57
     },
     {
-      "title": "Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI",
-      "url": "https://kev.workers-ai-mle.workers.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.331,
+      "title": "R to @ThePeterMick: My first product, https://RideSponsors.com is already live 🛵🚀 I’m now building a startup directory w",
+      "url": "http://nitter.jaydenha.uk/DeepthiConnects/status/2101253501934555136#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.643,
       "velocity_label": "exploding",
-      "combined_score": 0.55
+      "combined_score": 7.05
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.25,
-      "velocity": 7.233,
+      "title": "What should a startup optimize for first? - Users - Revenue",
+      "url": "http://nitter.jaydenha.uk/itskamrankhan/status/2101253730351849782#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.639,
       "velocity_label": "exploding",
-      "combined_score": 40.69
+      "combined_score": 7.05
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.24,
-      "velocity": 7.165,
+      "base_score": 1.94,
+      "velocity": 5.629,
       "velocity_label": "exploding",
-      "combined_score": 4.3
+      "combined_score": 27.3
     },
     {
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.76,
-      "velocity": 7.163,
+      "base_score": 1.1,
+      "velocity": 5.603,
       "velocity_label": "exploding",
-      "combined_score": 103.15
+      "combined_score": 15.41
     },
     {
-      "title": "Elon Musk and Tesla Forged a New EV Path",
-      "url": "https://spectrum.ieee.org/elon-musk-tesla",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 6.85,
+      "title": "Build something people miss when it’s unavailable. #Product #Startup",
+      "url": "http://nitter.jaydenha.uk/cyber_boss10/status/2101253652685975666#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.546,
       "velocity_label": "exploding",
-      "combined_score": 1.2
-    },
-    {
-      "title": "Size-Specialized Memory Allocation",
-      "url": "https://go.dev/blog/size-specialized-allocations",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.27,
-      "velocity": 6.833,
-      "velocity_label": "exploding",
-      "combined_score": 4.61
-    },
-    {
-      "title": "We made Playwright 2x faster and 80% more token efficient",
-      "url": "https://github.com/browserbase/stagehand",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.82,
-      "velocity": 6.711,
-      "velocity_label": "exploding",
-      "combined_score": 13.76
-    },
-    {
-      "title": "Uber ordered to pay $40M over death of woman left on Southern California freeway",
-      "url": "https://ktla.com/news/california/uber-driver-abandoned-rider-freeway/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 6.471,
-      "velocity_label": "exploding",
-      "combined_score": 2.75
-    },
-    {
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.17,
-      "velocity": 6.419,
-      "velocity_label": "exploding",
-      "combined_score": 66.92
+      "combined_score": 6.93
     },
     {
       "title": "AI chatbots are becoming experts at changing people's minds",
       "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.37,
-      "velocity": 6.413,
+      "base_score": 2.52,
+      "velocity": 5.387,
       "velocity_label": "exploding",
-      "combined_score": 38.0
+      "combined_score": 33.94
     },
     {
-      "title": "Nuclear tests at Mt. Mantap have reactivated intraplate faults",
-      "url": "https://www.science.org/doi/10.1126/science.adx5917",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.278,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 6.238,
-      "velocity_label": "exploding",
-      "combined_score": 1.09
-    },
-    {
-      "title": "Show HN: Jeff – A read-only CLI for semantic code review using Jev",
-      "url": "https://github.com/Alurith/jeff",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 6.013,
-      "velocity_label": "exploding",
-      "combined_score": 2.56
-    },
-    {
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.94,
-      "velocity": 5.967,
-      "velocity_label": "exploding",
-      "combined_score": 148.27
-    },
-    {
-      "title": "New wild cat species discovered – with only one known living member",
-      "url": "https://www.bbc.com/news/articles/c6x2zgv9rr4ro",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 5.883,
-      "velocity_label": "exploding",
-      "combined_score": 11.91
-    },
-    {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.85,
-      "velocity": 5.786,
-      "velocity_label": "exploding",
-      "combined_score": 128.01
-    },
-    {
-      "title": "Muse gets all your unclaimed money back!",
-      "url": "https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.526,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.62,
-      "velocity": 5.46,
-      "velocity_label": "exploding",
-      "combined_score": 8.46
-    },
-    {
-      "title": "OpenJev",
-      "url": "https://openjev.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.36,
+      "base_score": 4.78,
       "velocity": 5.333,
       "velocity_label": "exploding",
-      "combined_score": 124.8
+      "combined_score": 63.73
     },
     {
-      "title": "I vibed a proof of Conway's conjecture",
-      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "title": "Dear Customer, Fuck You",
+      "url": "https://fuck-off.ai",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.98,
-      "velocity": 5.069,
+      "base_score": 0.04,
+      "velocity": 5.278,
       "velocity_label": "exploding",
-      "combined_score": 63.11
+      "combined_score": 0.53
     },
     {
-      "title": "The Shadows Lurking in the Equations – Underwater Islands",
-      "url": "https://gods.art/articles/equation_shadows",
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.81,
-      "velocity": 5.017,
+      "base_score": 1.24,
+      "velocity": 5.274,
       "velocity_label": "exploding",
-      "combined_score": 10.16
+      "combined_score": 16.35
     },
     {
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+      "url": "https://scry.io/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.0,
-      "velocity": 4.887,
+      "base_score": 0.86,
+      "velocity": 5.039,
       "velocity_label": "exploding",
-      "combined_score": 12.22
+      "combined_score": 10.83
     },
     {
-      "title": "Australian government considers ban on smart glasses in public buildings",
-      "url": "https://www.theguardian.com/technology/2026/sep/17/albanese-government-considers-world-leading-ban-on-smart-glasses-in-public-office-and-buildings",
+      "title": "iPhone 18 Pro with La Croix cooling",
+      "url": "https://birchtree.me/blog/iphone-18-pro-with-la-croix-cooling/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.798,
+      "base_score": 0.01,
+      "velocity": 4.854,
       "velocity_label": "exploding",
-      "combined_score": 0.24
+      "combined_score": 0.12
     },
     {
-      "title": "NATS publishes preliminary report on technical incident of 8 September",
-      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.87,
-      "velocity": 4.752,
+      "base_score": 2.72,
+      "velocity": 4.729,
       "velocity_label": "exploding",
-      "combined_score": 10.33
+      "combined_score": 32.16
     },
     {
-      "title": "The first new cat species discovered in 100 years",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.88,
-      "velocity": 4.377,
+      "title": "RT by @BhuwneshVijay: भारत आज दुनिया का तीसरा सबसे बड़ा startup ecosystem है। और भारत की startup story अब केवल बड़े शहरो",
+      "url": "http://nitter.jaydenha.uk/PMOIndia/status/2101209389155918032#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 4.694,
       "velocity_label": "exploding",
-      "combined_score": 31.52
+      "combined_score": 5.87
     },
     {
-      "title": "I don't like passkeys",
-      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 18.17,
-      "velocity": 4.163,
+      "base_score": 14.65,
+      "velocity": 4.652,
       "velocity_label": "exploding",
-      "combined_score": 189.11
+      "combined_score": 170.4
     },
     {
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "title": "Show HN: Local subagent orchestration for Codex/Claude",
+      "url": "https://github.com/ringlochid/oh-my-subagents",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.67,
-      "velocity": 4.152,
+      "base_score": 0.01,
+      "velocity": 4.535,
       "velocity_label": "exploding",
-      "combined_score": 79.62
-    },
-    {
-      "title": "Replacing Pull Requests with Delta",
-      "url": "https://zed.dev/blog/delta-public-beta",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.75,
-      "velocity": 3.908,
-      "velocity_label": "exploding",
-      "combined_score": 26.87
-    },
-    {
-      "title": "When the fractional part of a float fixes your shader",
-      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.3,
-      "velocity": 3.56,
-      "velocity_label": "exploding",
-      "combined_score": 11.57
+      "combined_score": 0.11
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
+  "bridge_topics": [
+    {
+      "keyword": "first",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 81.8,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The first new cat species discovered in 100 years",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "What should a startup optimize for first? - Users - Revenue",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Your startup needs 20 more hours every week. What are you cutting first? Friends Sleep Exercise Your day job",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "R to @ThePeterMick: My first product, https://RideSponsors.com is already live 🛵🚀 I’m now building a startup directory w",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "now",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 42.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @ThePeterMick: My first product, https://RideSponsors.com is already live 🛵🚀 I’m now building a startup directory w",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "100",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 19.2,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The first new cat species discovered in 100 years",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @alpha_defense: Around 2030 there will be 100 of drone startup like these",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "people",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 12.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "AI chatbots are becoming experts at changing people's minds",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Build something people miss when it’s unavailable. #Product #Startup",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "building",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 6.96,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Why building a Rust LSP is hard",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @ThePeterMick: My first product, https://RideSponsors.com is already live 🛵🚀 I’m now building a startup directory w",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 6.2,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Build something people miss when it’s unavailable. #Product #Startup",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "jev",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Classifier.dev: outperforms Jev and is free",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Ryan Vogel just demoed Jev sorting 1,700 emails for 18 cents. 200ms for classification is incredibly fast for high-volum",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "last",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The last IMO problem AI could not solve [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "What's going on in the last 7 days on Canton ?",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "every",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Cloak Data at Every Touchpoint",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Your startup needs 20 more hours every week. What are you cutting first? Friends Sleep Exercise Your day job",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "fast",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "VortexMQ – Fast message broker in pure Go with Redis protocol",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Ryan Vogel just demoed Jev sorting 1,700 emails for 18 cents. 200ms for classification is incredibly fast for high-volum",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "brain",
+        "human",
+        "organs",
+        "separate",
+        "two"
+      ],
+      "concept_hint": "brain + human + organs + separate",
+      "cluster_size": 5,
+      "discussion_count": 3,
+      "void_score": 22.5,
+      "examples": [
+        {
+          "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+          "source": "hackernews",
+          "matching_keywords": [
+            "brain",
+            "human",
+            "organs",
+            "separate",
+            "two"
+          ]
+        },
+        {
+          "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+          "source": "hackernews",
+          "matching_keywords": [
+            "brain",
+            "two"
+          ]
+        },
+        {
+          "title": "Human brain is two separate organs",
+          "source": "hackernews",
+          "matching_keywords": [
+            "brain",
+            "human",
+            "organs",
+            "separate",
+            "two"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
+    {
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.27,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Word42 Open Source Wordprocessor",
+      "url": "https://news.ycombinator.com/item?id=49765031",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
     {
       "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
       "url": "https://code.claude.com/docs/en/changelog",
       "source": "hackernews",
       "category": "tech",
-      "score": 8.33,
+      "score": 10.09,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -547,21 +898,10 @@
       "url": "https://cactuscompute.com/needle",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.86,
+      "score": 3.31,
       "relevance": 0.056,
       "matching_tags": [
         "automation"
-      ]
-    },
-    {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.49,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
       ]
     },
     {
@@ -569,21 +909,43 @@
       "url": "https://jepedersen.dk/blog/202505_research/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.21,
+      "score": 1.54,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Show HN: Jeff – A read-only CLI for semantic code review using Jev",
-      "url": "https://github.com/Alurith/jeff",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.17,
+      "score": 1.44,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "open"
+      ]
+    },
+    {
+      "title": "Terence Tao: SAIR's Open Math Model Initiative",
+      "url": "https://www.youtube.com/watch?v=PZRb6NIki2w",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
       ]
     }
   ]
