@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-23T10:42:50.651167+00:00",
-  "scrape_timestamp": "2026-09-23T10:41:13.632497+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-09-23T16:02:14.590245+00:00",
+  "scrape_timestamp": "2026-09-23T16:00:00.637388+00:00",
+  "total_items_analyzed": 98,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,550 +16,989 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "agent",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 6,
+      "opportunity_score": 36.0,
+      "examples": [
+        {
+          "title": "Unreal Agent",
+          "source": "hackernews",
+          "url": "https://unreallabs.ai/blog/unreal-agent/",
+          "score": 3.96
+        },
+        {
+          "title": "Ethics of Agent Exploitation",
+          "source": "hackernews",
+          "url": "https://blog.cygankiewicz.com/en/ethics-of-agent-exploitation/",
+          "score": 0.01
+        },
+        {
+          "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on",
+          "source": "hackernews",
+          "url": "https://thenewstack.io/claude-opus-agent-migration/",
+          "score": 0.01
+        },
+        {
+          "title": "An agent is not an extension of the employee who created it",
+          "source": "hackernews",
+          "url": "https://getlago.com/blog/how-to-bill-ai-agents",
+          "score": 0.01
+        },
+        {
+          "title": "Agent Communication Protocol",
+          "source": "hackernews",
+          "url": "https://agentcommunicationprotocol.dev/introduction/welcome",
+          "score": 0.02
+        }
+      ]
+    },
+    {
+      "keyword": "gpt",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "GPT-6 Astra has gained the ability to drive a car",
+          "source": "hackernews",
+          "url": "https://drivingbench.com/",
+          "score": 1.21
+        },
+        {
+          "title": "GPT-6 Sol and Luna",
+          "source": "hackernews",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "score": 28.59
+        },
+        {
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "source": "hackernews",
+          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "score": 13.23
+        },
+        {
+          "title": "Tokonomics–AST context compiler to stop hitting Claude/GPT rate limits in VSCode",
+          "source": "hackernews",
+          "url": "https://marketplace.visualstudio.com/items?itemName=Tokonomics.tokonomics-ai",
+          "score": 0.01
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/manyways_rh/status/2102782629644849299#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "models",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "The current balance of power in open models",
+          "source": "hackernews",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "score": 1.82
+        },
+        {
+          "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+          "source": "hackernews",
+          "url": "https://benchmarkheaven.com/jev-models",
+          "score": 1.77
+        },
+        {
+          "title": "Top post in R/gamedev: \"AI models have caught up with Unity dev.\"",
+          "source": "hackernews",
+          "url": "https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/",
+          "score": 0.04
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/manyways_rh/status/2102782629644849299#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "video",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "iPhone 4 \"Antennagate\" Q&A – Steve Jobs, Tim Cook and Bob Mansfield (2010) [video]",
+          "source": "hackernews",
+          "url": "https://www.youtube.com/watch?v=BiN5ERktXz0",
+          "score": 0.01
+        },
+        {
+          "title": "What's Inside Fauci's Diary [video]",
+          "source": "hackernews",
+          "url": "https://www.youtube.com/watch?v=dFKRVfguxto",
+          "score": 0.01
+        },
+        {
+          "title": "I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]",
+          "source": "hackernews",
+          "url": "https://www.youtube.com/watch?v=cFx9Z3ZXca0",
+          "score": 0.02
+        },
+        {
+          "title": "R to @ShamiWeb3: Fewer retries make AI video workflows smoother.",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/AvelyrahnAI/status/2102790605030269205#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "two",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "How did AMD Ryzen get 50% faster in two years?",
+          "source": "hackernews",
+          "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+          "score": 6.82
+        },
+        {
+          "title": "Two Git ignore files nobody told me about",
+          "source": "hackernews",
+          "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+          "score": 1.44
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/manyways_rh/status/2102782629644849299#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Transit rewards",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.75,
-      "velocity": 18.0,
+      "base_score": 0.1,
+      "velocity": 18.6,
       "velocity_label": "exploding",
-      "combined_score": 168.75
+      "combined_score": 4.65
+    },
+    {
+      "title": "The GitHub wiki is an anti-pattern (2022)",
+      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.97,
+      "velocity": 14.2,
+      "velocity_label": "exploding",
+      "combined_score": 69.94
+    },
+    {
+      "title": "Agent Communication Protocol",
+      "url": "https://agentcommunicationprotocol.dev/introduction/welcome",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 13.526,
+      "velocity_label": "exploding",
+      "combined_score": 0.68
     },
     {
       "title": "The softness of metal",
       "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.53,
-      "velocity": 18.0,
+      "base_score": 0.68,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 23.85
+      "combined_score": 22.53
     },
     {
-      "title": "The trouble with 'ntile()'",
-      "url": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.25,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 11.25
-    },
-    {
-      "title": "The UV index is not the warm sensation of sunlight on bare skin",
-      "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.86,
-      "velocity": 16.417,
-      "velocity_label": "exploding",
-      "combined_score": 76.34
-    },
-    {
-      "title": "ArchiveBox v0.9 released with new native apps and 50 new plugins",
-      "url": "https://docs.sweeting.me/s/archivebox-v0.9-announcement",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.42,
-      "velocity": 12.617,
-      "velocity_label": "exploding",
-      "combined_score": 13.25
-    },
-    {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.14,
-      "velocity": 11.955,
-      "velocity_label": "exploding",
-      "combined_score": 183.5
-    },
-    {
-      "title": "Plain-text files are at risk",
-      "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+      "title": "Ethics of Agent Exploitation",
+      "url": "https://blog.cygankiewicz.com/en/ethics-of-agent-exploitation/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 11.931,
+      "velocity": 13.074,
       "velocity_label": "exploding",
-      "combined_score": 0.3
+      "combined_score": 0.33
     },
     {
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.35,
-      "velocity": 11.384,
+      "base_score": 6.65,
+      "velocity": 12.936,
       "velocity_label": "exploding",
-      "combined_score": 66.88
-    },
-    {
-      "title": "Bonsai 2 27B",
-      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.083,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "Manycore Processor",
-      "url": "https://en.wikipedia.org/wiki/Manycore_processor",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "LogiCola 3: Fallacies. Learn how to spot hidden flaws in everyday reasoning",
-      "url": "https://logicola.org/blog/informal-fallacies",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.889,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "Obscura: VPN that can't log your activity",
-      "url": "https://obscura.com/#faq-technical",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.1,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 65.88
-    },
-    {
-      "title": "Ju Ju Tsu A book about jj / jujutstu",
-      "url": "https://arialdo.codeberg.page/ju-ju-tsu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 8.444,
-      "velocity_label": "exploding",
-      "combined_score": 1.48
-    },
-    {
-      "title": "Blocklist Whitelist Anything on YouTube or YT Kids",
-      "url": "https://news.ycombinator.com/item?id=49813857",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 8.4,
-      "velocity_label": "exploding",
-      "combined_score": 0.84
-    },
-    {
-      "title": "Silicon solar cells could cut satellite power costs by up to 90%",
-      "url": "https://www.surrey.ac.uk/news/silicon-solar-cells-could-cut-satellite-power-costs-90-cent",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 8.226,
-      "velocity_label": "exploding",
-      "combined_score": 0.82
-    },
-    {
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.43,
-      "velocity": 8.048,
-      "velocity_label": "exploding",
-      "combined_score": 69.01
-    },
-    {
-      "title": "George Lucas Returns to Earth, Bearing Gifts",
-      "url": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.95,
-      "velocity": 7.972,
-      "velocity_label": "exploding",
-      "combined_score": 38.86
-    },
-    {
-      "title": "Next.js 16.3.6 fixes critical ImageResponse RCE (CVE-2026-94545)",
-      "url": "https://nextjs.org/blog/nextjs-security-update-september-22-2026",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.656,
-      "velocity_label": "exploding",
-      "combined_score": 0.67
-    },
-    {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.85,
-      "velocity": 6.464,
-      "velocity_label": "exploding",
-      "combined_score": 191.5
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.393,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "A lesbian bar required KN-95 masks. When this changed, all hell broke loose",
-      "url": "https://www.bostonglobe.com/2026/09/22/magazine/greenfield-last-ditch-bar-backlash/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.219,
-      "velocity_label": "exploding",
-      "combined_score": 0.31
-    },
-    {
-      "title": "Googlebook is here and ready for pre-order",
-      "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.2,
-      "velocity_label": "exploding",
-      "combined_score": 0.31
-    },
-    {
-      "title": "Show HN: Data structure that lets different parts of math work together",
-      "url": "https://github.com/tmilovan/composite-machine",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.168,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
-      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 6.167,
-      "velocity_label": "exploding",
-      "combined_score": 8.48
-    },
-    {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.13,
-      "velocity": 5.862,
-      "velocity_label": "exploding",
-      "combined_score": 119.14
-    },
-    {
-      "title": "Solitaire Alone Together",
-      "url": "https://solitairealonetogether.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.85,
-      "velocity": 5.861,
-      "velocity_label": "exploding",
-      "combined_score": 27.11
-    },
-    {
-      "title": "2015 Office of Personnel Management data breach",
-      "url": "https://en.wikipedia.org/wiki/2015_Office_of_Personnel_Management_data_breach",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.778,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Bonsai 2 27B: 5.9 GB of weights for a 27B model",
-      "url": "https://twitter.com/barronnotbaron/status/2102540009299677571",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.762,
-      "velocity_label": "exploding",
-      "combined_score": 0.29
-    },
-    {
-      "title": "One Minute Park",
-      "url": "https://oneminutepark.tv/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 5.65,
-      "velocity_label": "exploding",
-      "combined_score": 11.44
-    },
-    {
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 26.73,
-      "velocity": 5.382,
-      "velocity_label": "exploding",
-      "combined_score": 359.66
-    },
-    {
-      "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
-      "url": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 1.18
-    },
-    {
-      "title": "16-bit Intel 8088 chip (c. 1985)",
-      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.46,
-      "velocity": 5.207,
-      "velocity_label": "exploding",
-      "combined_score": 19.0
-    },
-    {
-      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "url": "https://ai-rete-rag.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.41,
-      "velocity": 5.133,
-      "velocity_label": "exploding",
-      "combined_score": 5.26
-    },
-    {
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.42,
-      "velocity": 5.113,
-      "velocity_label": "exploding",
-      "combined_score": 18.15
-    },
-    {
-      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
-      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 5.016,
-      "velocity_label": "exploding",
-      "combined_score": 3.64
-    },
-    {
-      "title": "People hooked on vapes try a new way to quit: cigarettes",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.17,
-      "velocity": 4.905,
-      "velocity_label": "exploding",
-      "combined_score": 63.4
-    },
-    {
-      "title": "SAML: A fractal of bad design",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.59,
-      "velocity": 4.872,
-      "velocity_label": "exploding",
-      "combined_score": 55.9
-    },
-    {
-      "title": "Native apps written in TypeScript and CSS",
-      "url": "https://github.com/geastack/examples",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.78,
-      "velocity": 4.858,
-      "velocity_label": "exploding",
-      "combined_score": 21.62
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "url": "https://arxiv.org/abs/2609.15369",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.82,
-      "velocity": 4.668,
-      "velocity_label": "exploding",
-      "combined_score": 9.57
-    },
-    {
-      "title": "Show HN: Run Linux kernel drivers in userspace on Neptune OS, NT-like OS on seL4",
-      "url": "https://news.ycombinator.com/item?id=49813759",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.647,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
+      "combined_score": 215.07
     },
     {
       "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
       "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.4,
-      "velocity": 4.56,
+      "base_score": 4.13,
+      "velocity": 12.451,
       "velocity_label": "exploding",
-      "combined_score": 27.36
+      "combined_score": 128.55
     },
     {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "title": "AI anxiety is sweeping the globe – and cutting across party lines",
+      "url": "https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 12.95,
-      "velocity": 4.542,
+      "base_score": 0.01,
+      "velocity": 11.393,
       "velocity_label": "exploding",
-      "combined_score": 147.04
+      "combined_score": 0.28
     },
     {
-      "title": "GPT-6 Astra has made a major breakthrough in the Goldbach Conjecture",
-      "url": "https://twitter.com/captain_sude/status/2100277626120163664",
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.99,
+      "velocity": 10.762,
+      "velocity_label": "exploding",
+      "combined_score": 26.64
+    },
+    {
+      "title": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting",
+      "url": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 10.478,
+      "velocity_label": "exploding",
+      "combined_score": 1.83
+    },
+    {
+      "title": "Strands Harness",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.94,
+      "velocity": 10.4,
+      "velocity_label": "exploding",
+      "combined_score": 24.44
+    },
+    {
+      "title": "It's 90 Degrees in the Arctic",
+      "url": "https://www.scientificamerican.com/article/its-90-degrees-in-the-arctic-right-now/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 1.75
+    },
+    {
+      "title": "I Manage Homebrew from a UI",
+      "url": "https://albertoarena.it/posts/how-i-manage-homebrew-from-a-ui/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.28,
+      "velocity": 9.528,
+      "velocity_label": "exploding",
+      "combined_score": 6.67
+    },
+    {
+      "title": "Systemd v262 Released",
+      "url": "https://github.com/systemd/systemd/releases/tag/v262",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 4.456,
+      "velocity": 9.5,
       "velocity_label": "exploding",
-      "combined_score": 0.22
+      "combined_score": 0.48
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.66,
+      "velocity": 9.0,
+      "velocity_label": "exploding",
+      "combined_score": 14.85
+    },
+    {
+      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+      "url": "https://github.com/hsfzxjy/npunlock",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.68,
+      "velocity": 8.937,
+      "velocity_label": "exploding",
+      "combined_score": 15.19
+    },
+    {
+      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.32,
+      "velocity": 8.803,
+      "velocity_label": "exploding",
+      "combined_score": 7.04
+    },
+    {
+      "title": "How often do you think about the 1893 World's Fair?",
+      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.79,
+      "velocity": 8.753,
+      "velocity_label": "exploding",
+      "combined_score": 17.29
+    },
+    {
+      "title": "Montreal adopts bylaw banning insults against police, municipal employees",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.57,
+      "velocity": 8.548,
+      "velocity_label": "exploding",
+      "combined_score": 33.55
+    },
+    {
+      "title": "Data-only attacks are easier than you think (2024)",
+      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.29,
+      "velocity": 8.529,
+      "velocity_label": "exploding",
+      "combined_score": 27.51
+    },
+    {
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.11,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 129.84
+    },
+    {
+      "title": "We ported the original Doom to SQL",
+      "url": "https://cedardb.com/blog/sqldoom/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.458,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Two Git ignore files nobody told me about",
+      "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.44,
+      "velocity": 8.156,
+      "velocity_label": "exploding",
+      "combined_score": 29.36
+    },
+    {
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.21,
+      "velocity": 7.775,
+      "velocity_label": "exploding",
+      "combined_score": 23.52
+    },
+    {
+      "title": "RT by @Declare4R: Pocket FM in numbers: → $500M ARR (was ~$250M a year ago) → 93% of the catalog powered by AI → 100 hou",
+      "url": "http://shitter.thepixora.com/TheKathAI/status/2101027242402783241#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.669,
+      "velocity_label": "exploding",
+      "combined_score": 9.59
+    },
+    {
+      "title": "Tokens Too Cheap to Meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.89,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 34.65
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 28.59,
+      "velocity": 7.312,
+      "velocity_label": "exploding",
+      "combined_score": 522.66
+    },
+    {
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.069,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
+    },
+    {
+      "title": "🤖 Love AI or hate it, LEARN IT! The technology is changing business right now. Start with my 100% FREE eBook. 👉 https://",
+      "url": "http://shitter.thepixora.com/CyberVillage/status/2102790595072712981#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.842,
+      "velocity_label": "exploding",
+      "combined_score": 8.55
+    },
+    {
+      "title": "Tokonomics–AST context compiler to stop hitting Claude/GPT rate limits in VSCode",
+      "url": "https://marketplace.visualstudio.com/items?itemName=Tokonomics.tokonomics-ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.608,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "EA Safety",
+      "url": "https://contraptions.venkateshrao.com/p/ea-safety",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.59,
+      "velocity": 6.149,
+      "velocity_label": "exploding",
+      "combined_score": 116.68
+    },
+    {
+      "title": "Why do common Rust packages depend on C code?",
+      "url": "https://langdev.stackexchange.com/questions/3233/why-do-common-rust-packages-depend-on-c-code/3237",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.972,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Performance and safety of a multi-cancer early detection test",
+      "url": "https://www.nature.com/articles/s41591-026-04618-w",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.796,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Samsung accidentally freezes its smart fridges with a software update",
+      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.12,
+      "velocity": 5.672,
+      "velocity_label": "exploding",
+      "combined_score": 58.42
+    },
+    {
+      "title": "Obscura: VPN that can't log your activity",
+      "url": "https://obscura.com/#faq-technical",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.54,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 47.2
+    },
+    {
+      "title": "George Lucas Returns to Earth, Bearing Gifts",
+      "url": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.06,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 27.47
+    },
+    {
+      "title": "Is AI killing the forums and wikis your IT team relies on?",
+      "url": "https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.2,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.0,
+      "velocity": 4.995,
+      "velocity_label": "exploding",
+      "combined_score": 37.47
+    },
+    {
+      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on",
+      "url": "https://thenewstack.io/claude-opus-agent-migration/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.979,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Top post in R/gamedev: \"AI models have caught up with Unity dev.\"",
+      "url": "https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 4.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.94,
+      "velocity": 4.59,
+      "velocity_label": "exploding",
+      "combined_score": 45.21
+    },
+    {
+      "title": "Show HN: Photos by Strangers (reviving an old, self-coded project)",
+      "url": "https://serendi.pt/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.546,
+      "velocity_label": "exploding",
+      "combined_score": 0.11
+    },
+    {
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "url": "https://github.com/pkimpel/retro-1620",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.18,
+      "velocity": 4.454,
+      "velocity_label": "exploding",
+      "combined_score": 2.0
     },
     {
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.5,
-      "velocity": 4.454,
+      "base_score": 3.96,
+      "velocity": 4.278,
       "velocity_label": "exploding",
-      "combined_score": 38.97
+      "combined_score": 42.35
     },
     {
-      "title": "The Booker Prize 2026",
-      "url": "https://thebookerprizes.com/the-booker-library/prize-years/2026",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 14.3,
+      "velocity": 4.245,
+      "velocity_label": "exploding",
+      "combined_score": 151.75
+    },
+    {
+      "title": "iPhone 4 \"Antennagate\" Q&A – Steve Jobs, Tim Cook and Bob Mansfield (2010) [video]",
+      "url": "https://www.youtube.com/watch?v=BiN5ERktXz0",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.167,
+      "velocity": 4.202,
+      "velocity_label": "exploding",
+      "combined_score": 0.11
+    },
+    {
+      "title": "R to @ShamiWeb3: Fewer retries make AI video workflows smoother.",
+      "url": "http://shitter.thepixora.com/AvelyrahnAI/status/2102790605030269205#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 4.172,
+      "velocity_label": "exploding",
+      "combined_score": 5.21
+    },
+    {
+      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+      "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.078,
       "velocity_label": "exploding",
       "combined_score": 0.1
-    },
-    {
-      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "url": "https://www.coveragecat.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.92,
-      "velocity": 4.142,
-      "velocity_label": "exploding",
-      "combined_score": 9.53
-    },
-    {
-      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.82,
-      "velocity": 3.976,
-      "velocity_label": "exploding",
-      "combined_score": 47.91
-    },
-    {
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.07,
-      "velocity": 3.898,
-      "velocity_label": "exploding",
-      "combined_score": 59.15
-    },
-    {
-      "title": "Side-stepping the Secretary Problem, unwittingly",
-      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.02,
-      "velocity": 3.856,
-      "velocity_label": "exploding",
-      "combined_score": 9.83
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 30.2,
-      "velocity": 3.75,
-      "velocity_label": "exploding",
-      "combined_score": 283.12
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
-  "personal_relevance": [
+  "bridge_topics": [
     {
-      "title": "Show HN: Life Forge – Open-source flight simulator for autonomous AI agents",
-      "url": "https://github.com/zariffromlatif/life-forge",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
+      "keyword": "gpt",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 174.16,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "GPT-6 Astra has gained the ability to drive a car",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "GPT-6 Sol and Luna",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Tokonomics–AST context compiler to stop hitting Claude/GPT rate limits in VSCode",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "category": "social"
+        }
       ]
     },
+    {
+      "keyword": "luna",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 116.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "GPT-6 Sol and Luna",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "sol",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 116.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "GPT-6 Sol and Luna",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "two",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 35.04,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "How did AMD Ryzen get 50% faster in two years?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Two Git ignore files nobody told me about",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "agent",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 18.04,
+      "total_mentions": 6,
+      "examples": [
+        {
+          "title": "Unreal Agent",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Ethics of Agent Exploitation",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "An agent is not an extension of the employee who created it",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Agent Communication Protocol",
+          "source": "hackernews",
+          "category": "tech"
+        }
+      ]
+    },
+    {
+      "keyword": "models",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 16.52,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "The current balance of power in open models",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Top post in R/gamedev: \"AI models have caught up with Unity dev.\"",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @CryptoNFT_Loso: Introducing GPT-6 Sol and Luna on Manyways. Two new models. More ways to put AI to work. Bring yo",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "time",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.88,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Socialism's Positive Rating Tops 40% for First Time",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT @TomPick Top #Marketing #AI News Stories today via @axios @Reuters @FiercePharma @MarketingBrew @federalreserve @TIME",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "video",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.16,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "iPhone 4 \"Antennagate\" Q&A – Steve Jobs, Tim Cook and Bob Mansfield (2010) [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "What's Inside Fauci's Diary [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @ShamiWeb3: Fewer retries make AI video workflows smoother.",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "top",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Top post in R/gamedev: \"AI models have caught up with Unity dev.\"",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT @TomPick Top #Marketing #AI News Stories today via @axios @Reuters @FiercePharma @MarketingBrew @federalreserve @TIME",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [],
+  "personal_relevance": [
     {
       "title": "What California is learning from solar panels built over irrigation canals",
       "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
       "source": "hackernews",
       "category": "tech",
-      "score": 8.13,
+      "score": 11.35,
       "relevance": 0.056,
       "matching_tags": [
         "learning"
       ]
     },
     {
-      "title": "Writing Rust code that's fast by asking agents to make the code faster",
-      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.76,
+      "score": 6.11,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -570,7 +1009,7 @@
       "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.42,
+      "score": 1.82,
       "relevance": 0.056,
       "matching_tags": [
         "open"
@@ -581,21 +1020,10 @@
       "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.02,
+      "score": 1.14,
       "relevance": 0.056,
       "matching_tags": [
         "side"
-      ]
-    },
-    {
-      "title": "The Economics of Open-Weight Inference",
-      "url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.88,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
       ]
     },
     {
@@ -603,10 +1031,21 @@
       "url": "https://arxiv.org/abs/2609.15369",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.82,
+      "score": 0.88,
       "relevance": 0.056,
       "matching_tags": [
         "content"
+      ]
+    },
+    {
+      "title": "Why do common Rust packages depend on C code?",
+      "url": "https://langdev.stackexchange.com/questions/3233/why-do-common-rust-packages-depend-on-c-code/3237",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
       ]
     }
   ]
