@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-23T21:02:27.578673+00:00",
-  "scrape_timestamp": "2026-09-23T21:00:19.614021+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-09-24T02:58:28.376403+00:00",
+  "scrape_timestamp": "2026-09-24T02:56:22.906139+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,519 +27,605 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Fixing the Portobello Police Station Clock",
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.29,
-      "velocity": 15.467,
-      "velocity_label": "exploding",
-      "combined_score": 165.88
-    },
-    {
-      "title": "Tokens too cheap to meter",
-      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.18,
-      "velocity": 14.833,
-      "velocity_label": "exploding",
-      "combined_score": 155.01
-    },
-    {
-      "title": "Z80 REPL (2018)",
-      "url": "https://abagames.github.io/z80-repl/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.54,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 51.01
-    },
-    {
-      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.1,
-      "velocity": 12.194,
-      "velocity_label": "exploding",
-      "combined_score": 124.99
-    },
-    {
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.7,
-      "velocity": 11.083,
-      "velocity_label": "exploding",
-      "combined_score": 185.65
-    },
-    {
-      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "url": "https://github.com/pkimpel/retro-1620",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.46,
-      "velocity": 10.249,
-      "velocity_label": "exploding",
-      "combined_score": 11.79
-    },
-    {
-      "title": "Why Omarchy Exists",
-      "url": "https://mikael.pika.page/posts/why-omarchy-exists",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.13,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 3.25
-    },
-    {
-      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.45,
-      "velocity": 9.767,
-      "velocity_label": "exploding",
-      "combined_score": 35.4
-    },
-    {
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "url": "https://drivingbench.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.7,
-      "velocity": 9.405,
-      "velocity_label": "exploding",
-      "combined_score": 134.02
-    },
-    {
-      "title": "Jev Can't Be Calibrated",
-      "url": "https://www.alexmolas.com/2026/09/23/jev-cant-be-calibrated.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.23,
-      "velocity": 9.179,
-      "velocity_label": "exploding",
-      "combined_score": 28.22
-    },
-    {
-      "title": "What to do when your Waymo holds up a Secret Service motorcade",
-      "url": "https://www.ft.com/content/9cc479a6-8206-4af3-a6e5-77176b8d43c4",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 8.91,
-      "velocity_label": "exploding",
-      "combined_score": 12.25
-    },
-    {
-      "title": "Stripe's Knowledge AI Platform",
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.98,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 63.33
-    },
-    {
-      "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
-      "url": "https://atlas-sysdes.vercel.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 8.32,
-      "velocity_label": "exploding",
-      "combined_score": 2.08
-    },
-    {
-      "title": "If Carpenters Were Hired Like Programmers (2013)",
-      "url": "https://web.archive.org/web/20140316234620/http://www.jasonbock.net/jb/News/Item/7c334037d1a9437d9fa6506e2f35eaac",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.13,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 2.48
-    },
-    {
-      "title": "WebGPU-Bench: A WebGPU Microbenchmark",
-      "url": "https://ben3d.ca/blog/introducing-webgpu-bench",
+      "title": "Eliminating Middlemen in Education Consulting",
+      "url": "https://rivernova.vercel.app",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 7.389,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 0.37
+      "combined_score": 0.9
     },
     {
-      "title": "Physical Self-Play",
-      "url": "https://www.skild.ai/blogs/physical-self-play",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 7.176,
+      "velocity": 17.318,
       "velocity_label": "exploding",
-      "combined_score": 0.36
-    },
-    {
-      "title": "Heat May Kill 451,000 People in First 9 Months of Super El Niño",
-      "url": "https://impactlab.org/research/451000-at-risk/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.993,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.15,
-      "velocity": 6.813,
-      "velocity_label": "exploding",
-      "combined_score": 53.65
-    },
-    {
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.1,
-      "velocity": 6.731,
-      "velocity_label": "exploding",
-      "combined_score": 18.51
-    },
-    {
-      "title": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.51,
-      "velocity": 6.477,
-      "velocity_label": "exploding",
-      "combined_score": 89.22
-    },
-    {
-      "title": "CorridorKey – free neural net based green screen keys",
-      "url": "https://github.com/nikopueringer/CorridorKey",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.458,
-      "velocity_label": "exploding",
-      "combined_score": 0.48
-    },
-    {
-      "title": "The GitHub wiki is an anti-pattern (2022)",
-      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.92,
-      "velocity": 6.41,
-      "velocity_label": "exploding",
-      "combined_score": 46.79
-    },
-    {
-      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.84,
-      "velocity": 6.376,
-      "velocity_label": "exploding",
-      "combined_score": 77.15
-    },
-    {
-      "title": "28% of job postings on company career sites have been open over 90 days",
-      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.38,
-      "velocity": 6.159,
-      "velocity_label": "exploding",
-      "combined_score": 82.83
-    },
-    {
-      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
-      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.03,
-      "velocity": 5.876,
-      "velocity_label": "exploding",
-      "combined_score": 15.13
-    },
-    {
-      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-      "url": "https://www.forensicdbg.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.09,
-      "velocity": 5.822,
-      "velocity_label": "exploding",
-      "combined_score": 1.31
-    },
-    {
-      "title": "Strands Harness",
-      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.52,
-      "velocity": 5.65,
-      "velocity_label": "exploding",
-      "combined_score": 35.59
-    },
-    {
-      "title": "Security auditing in the age of (good enough) AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.52,
-      "velocity_label": "exploding",
-      "combined_score": 0.41
-    },
-    {
-      "title": "Transit rewards",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.02,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 93.6
-    },
-    {
-      "title": "How we made claude.ai 3x faster in two weeks",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.6,
-      "velocity": 5.285,
-      "velocity_label": "exploding",
-      "combined_score": 21.14
-    },
-    {
-      "title": "The Python documentation is now available in Persian",
-      "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.273,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
+      "combined_score": 0.87
     },
     {
       "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
       "url": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 5.2,
+      "base_score": 0.62,
+      "velocity": 16.1,
       "velocity_label": "exploding",
-      "combined_score": 1.56
+      "combined_score": 24.96
     },
     {
-      "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
-      "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+      "title": "Australia says OpenAI agent hacked into government website",
+      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.84,
+      "base_score": 0.46,
+      "velocity": 15.961,
       "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.62,
-      "velocity": 4.554,
-      "velocity_label": "exploding",
-      "combined_score": 75.36
-    },
-    {
-      "title": "Show HN: Letter – Relationship-based access control (ReBAC) Postgres extension",
-      "url": "https://github.com/paulharter/letter",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.531,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "How often do you think about the 1893 World's Fair?",
-      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.89,
-      "velocity": 4.53,
-      "velocity_label": "exploding",
-      "combined_score": 10.08
-    },
-    {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.75,
-      "velocity": 4.498,
-      "velocity_label": "exploding",
-      "combined_score": 87.15
+      "combined_score": 18.35
     },
     {
       "title": "OpenAI hacked Australian Medicare portal",
       "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
       "source": "hackernews",
       "category": "tech",
+      "base_score": 0.48,
+      "velocity": 15.254,
+      "velocity_label": "exploding",
+      "combined_score": 18.3
+    },
+    {
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.28,
+      "velocity": 14.438,
+      "velocity_label": "exploding",
+      "combined_score": 154.48
+    },
+    {
+      "title": "Large Documents in the Browser",
+      "url": "https://react-pdf.org/blog/large-documents-in-the-browser",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 12.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "OpenAI agents hacked Australian Medicare system",
+      "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.55,
+      "velocity": 12.103,
+      "velocity_label": "exploding",
+      "combined_score": 16.64
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 13.69,
+      "velocity": 12.07,
+      "velocity_label": "exploding",
+      "combined_score": 413.09
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.96,
+      "velocity": 11.727,
+      "velocity_label": "exploding",
+      "combined_score": 204.05
+    },
+    {
+      "title": "Moon Rabbit",
+      "url": "https://en.wikipedia.org/wiki/Moon_rabbit",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 11.667,
+      "velocity_label": "exploding",
+      "combined_score": 1.46
+    },
+    {
+      "title": "Augustofaces: Pareidolia Fine Art",
+      "url": "https://augusto.at/augustosfaces/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.2,
+      "velocity": 11.554,
+      "velocity_label": "exploding",
+      "combined_score": 5.78
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.05,
+      "velocity": 10.717,
+      "velocity_label": "exploding",
+      "combined_score": 322.84
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.19,
+      "velocity": 10.611,
+      "velocity_label": "exploding",
+      "combined_score": 137.68
+    },
+    {
+      "title": "OpenAI agents plotted to access government health data amid Medicare (AU) hack",
+      "url": "https://www.abc.net.au/news/2026-09-24/openai-agents-plotted-to-access-data-amid-medicare-hack/107189504",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 10.404,
+      "velocity_label": "exploding",
+      "combined_score": 1.56
+    },
+    {
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.92,
+      "velocity": 10.383,
+      "velocity_label": "exploding",
+      "combined_score": 49.84
+    },
+    {
+      "title": "OSS Author of Guake, HTTPretty, Lettuce and Sure is unemployed and needs help",
+      "url": "https://twitter.com/gabrielfalcao/status/2102928197910151604",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 10.167,
+      "velocity_label": "exploding",
+      "combined_score": 1.02
+    },
+    {
+      "title": "Automatically detecting AI text in my browser",
+      "url": "https://www.seangoedecke.com/deckard/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.792,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "Intelligence Index vs. Cost per Task",
+      "url": "https://better-model-visualizer.lakebed.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.539,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+      "url": "https://www.forensicdbg.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.38,
+      "velocity": 9.026,
+      "velocity_label": "exploding",
+      "combined_score": 8.58
+    },
+    {
+      "title": "Stanford violated AI policy after race-swapping students in ad",
+      "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.36,
+      "velocity": 8.708,
+      "velocity_label": "exploding",
+      "combined_score": 7.84
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.0,
+      "velocity": 8.551,
+      "velocity_label": "exploding",
+      "combined_score": 21.38
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.46,
+      "velocity": 7.972,
+      "velocity_label": "exploding",
+      "combined_score": 88.89
+    },
+    {
+      "title": "Solving for faster SHA-1 collision detection",
+      "url": "https://sam.dev/blog/faster-sha1-collision-detection",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.77,
+      "velocity_label": "exploding",
+      "combined_score": 0.78
+    },
+    {
+      "title": "AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD",
+      "url": "https://github.com/ai-cad-labs/ai-cad",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.763,
+      "velocity_label": "exploding",
+      "combined_score": 0.78
+    },
+    {
+      "title": "Chrome Extension Job Alerts",
+      "url": "https://www.talentize.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.667,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "Common food additives linked to high blood pressure and heart disease",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.562,
+      "velocity_label": "exploding",
+      "combined_score": 0.76
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.2,
+      "velocity": 7.55,
+      "velocity_label": "exploding",
+      "combined_score": 98.15
+    },
+    {
+      "title": "Changes to App Tracking Transparency in the E.U",
+      "url": "https://daringfireball.net/linked/2026/09/23/changes-to-app-tracking-transparency-in-the-eu",
+      "source": "hackernews",
+      "category": "tech",
       "base_score": 0.03,
-      "velocity": 4.461,
+      "velocity": 7.469,
+      "velocity_label": "exploding",
+      "combined_score": 0.56
+    },
+    {
+      "title": "Reverse Jev: Ending a Reply with a Choice",
+      "url": "https://blog.kvit.app/posts/ending-a-turn-with-a-choice/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.467,
+      "velocity_label": "exploding",
+      "combined_score": 0.37
+    },
+    {
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.15,
+      "velocity": 7.389,
+      "velocity_label": "exploding",
+      "combined_score": 21.24
+    },
+    {
+      "title": "OpenAI’s A.I. Tried Breaching 4 Other Targets, Without Prompting",
+      "url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.337,
+      "velocity_label": "exploding",
+      "combined_score": 0.37
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.5,
+      "velocity": 7.188,
+      "velocity_label": "exploding",
+      "combined_score": 26.96
+    },
+    {
+      "title": "Greedy Decoding Is Not Precision-Invariant: Cross-Precision Output Divergence",
+      "url": "https://arxiv.org/abs/2609.26621",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.821,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Memory Control Signals Emerge Before Action in Long Horizon Agents",
+      "url": "https://arxiv.org/abs/2609.27286",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.672,
       "velocity_label": "exploding",
       "combined_score": 0.33
     },
     {
-      "title": "Data-only attacks are easier than you think (2024)",
-      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "title": "Z80 REPL (2018)",
+      "url": "https://abagames.github.io/z80-repl/index.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.57,
-      "velocity": 4.388,
+      "base_score": 1.76,
+      "velocity": 6.6,
       "velocity_label": "exploding",
-      "combined_score": 17.22
+      "combined_score": 29.04
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas",
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "url": "https://huggingface.co/apple/LensVLM-9B",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.7,
+      "velocity": 6.438,
+      "velocity_label": "exploding",
+      "combined_score": 11.27
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.19,
+      "velocity": 6.389,
+      "velocity_label": "exploding",
+      "combined_score": 98.87
+    },
+    {
+      "title": "FLAWED's Flaws and What This Means for Industry Research",
+      "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 6.217,
+      "velocity_label": "exploding",
+      "combined_score": 1.86
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
       "url": "https://fly.io/blog/vscode-ssh-wtf/",
       "source": "hackernews",
       "category": "tech",
+      "base_score": 2.83,
+      "velocity": 6.143,
+      "velocity_label": "exploding",
+      "combined_score": 43.46
+    },
+    {
+      "title": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.83,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 11.93
+    },
+    {
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.01,
+      "velocity": 5.65,
+      "velocity_label": "exploding",
+      "combined_score": 28.39
+    },
+    {
+      "title": "Show HN: Combinators in Array Languages",
+      "url": "https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 5.468,
+      "velocity_label": "exploding",
+      "combined_score": 0.68
+    },
+    {
+      "title": "S3 is not a filesystem, and LSM trees never needed one [video]",
+      "url": "https://www.youtube.com/watch?v=vgrLMBYK3q8",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.353,
+      "velocity_label": "exploding",
+      "combined_score": 0.4
+    },
+    {
+      "title": "Strands Harness",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.68,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 35.73
+    },
+    {
+      "title": "Cognitive Offloading and the Bill That Comes Due",
+      "url": "https://ninchiai.substack.com/p/cognitive-offloading-and-the-bill",
+      "source": "hackernews",
+      "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.321,
+      "velocity": 5.2,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 0.13
     },
     {
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.34,
-      "velocity": 4.308,
+      "base_score": 3.18,
+      "velocity": 5.14,
       "velocity_label": "exploding",
-      "combined_score": 35.97
+      "combined_score": 40.87
     },
     {
-      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
-      "url": "https://github.com/hsfzxjy/npunlock",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.78,
-      "velocity": 4.091,
+      "base_score": 6.07,
+      "velocity": 5.069,
       "velocity_label": "exploding",
-      "combined_score": 7.98
+      "combined_score": 76.93
     },
     {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
+      "title": "The Misalignment Is Within: Why Mathematics Must Embrace the AI Paradigm",
+      "url": "https://medium.com/@b1nj0y/the-misalignment-is-within-why-mathematics-must-embrace-the-ai-paradigm-8ba75c4bafda",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.27,
-      "velocity": 4.067,
+      "base_score": 0.06,
+      "velocity": 4.986,
       "velocity_label": "exploding",
-      "combined_score": 84.08
+      "combined_score": 0.75
     },
     {
-      "title": "The unexpected ingredient hidden on Poland's shoreline (4 min video)",
-      "url": "https://www.bbc.com/reel/video/p0p624cz/watch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.94,
-      "velocity_label": "exploding",
-      "combined_score": 0.1
-    },
-    {
-      "title": "Obscura: VPN that can't log your activity",
-      "url": "https://obscura.com/#faq-technical",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.79,
-      "velocity": 3.75,
-      "velocity_label": "exploding",
-      "combined_score": 35.53
-    },
-    {
-      "title": "OpenAI Medicare Data Breach",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.651,
-      "velocity_label": "exploding",
-      "combined_score": 0.09
-    },
-    {
-      "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
-      "url": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
+      "title": "The Death of Reading (With James Marriott) [audio]",
+      "url": "https://www.econtalk.org/the-death-of-reading-with-james-marriott/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 3.619,
+      "velocity": 4.95,
       "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Agent Etna – Automated staging environment and regression compiler for AI agents",
-      "url": "https://www.agentetna.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.609,
-      "velocity_label": "exploding",
-      "combined_score": 0.09
-    },
-    {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 15.85,
-      "velocity": 3.513,
-      "velocity_label": "exploding",
-      "combined_score": 139.18
-    },
-    {
-      "title": "Fertility rate dropped over 50% within 10 years in Argentina",
-      "url": "https://twitter.com/JesusFerna7026/status/2102768454935748701",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 3.327,
-      "velocity_label": "exploding",
-      "combined_score": 4.82
+      "combined_score": 0.25
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "agent",
+        "australian",
+        "government",
+        "hacked",
+        "medicare",
+        "openai",
+        "says",
+        "website"
+      ],
+      "concept_hint": "agent + australian + government + hacked",
+      "cluster_size": 8,
+      "discussion_count": 5,
+      "void_score": 80.0,
+      "examples": [
+        {
+          "title": "Australia says OpenAI agent hacked into government website",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agent",
+            "government",
+            "hacked",
+            "openai",
+            "says",
+            "website"
+          ]
+        },
+        {
+          "title": "OpenAI agents hacked Australian Medicare system",
+          "source": "hackernews",
+          "matching_keywords": [
+            "australian",
+            "hacked",
+            "medicare",
+            "openai"
+          ]
+        },
+        {
+          "title": "OpenAI hacked Australian Medicare portal",
+          "source": "hackernews",
+          "matching_keywords": [
+            "australian",
+            "hacked",
+            "medicare",
+            "openai"
+          ]
+        },
+        {
+          "title": "OpenAI agent hacked Australian government website, PM says",
+          "source": "hackernews",
+          "matching_keywords": [
+            "agent",
+            "australian",
+            "government",
+            "hacked",
+            "openai",
+            "says",
+            "website"
+          ]
+        },
+        {
+          "title": "OpenAI agents plotted to access government health data amid Medicare (AU) hack",
+          "source": "hackernews",
+          "matching_keywords": [
+            "government",
+            "medicare",
+            "openai"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+      "url": "https://carbon.ms/self-hosted",
       "source": "hackernews",
       "category": "tech",
-      "score": 13.71,
-      "relevance": 0.056,
+      "score": 0.2,
+      "relevance": 0.111,
       "matching_tags": [
-        "learning"
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
       ]
     },
     {
@@ -547,7 +633,7 @@
       "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "source": "hackernews",
       "category": "tech",
-      "score": 7.75,
+      "score": 8.45,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -558,10 +644,21 @@
       "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.38,
+      "score": 6.96,
       "relevance": 0.056,
       "matching_tags": [
         "open"
+      ]
+    },
+    {
+      "title": "Show HN: CrunchMyPay – 50 pay calculators, every formula and source shown",
+      "url": "https://www.crunchmypay.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "source"
       ]
     }
   ]
