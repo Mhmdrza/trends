@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-26T20:37:48.672787+00:00",
-  "scrape_timestamp": "2026-09-26T20:35:41.342637+00:00",
-  "total_items_analyzed": 89,
+  "timestamp": "2026-09-27T03:26:19.071262+00:00",
+  "scrape_timestamp": "2026-09-27T03:24:42.562109+00:00",
+  "total_items_analyzed": 109,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -20,523 +20,985 @@
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 20,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "live",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "source": "hackernews",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "score": 1.63
+        },
+        {
+          "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/hphamza593/status/2104047665864474851#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @waheed_tao23100: Interlink live, As it scales it will evolve into a full creator economy where content drives eng",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/veecash78/status/2103727216055943277#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @waheed_tao23100: The creator economy is evolving. With InterLink Live, creators can connect with communities thro",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/Real_jimmy1/status/2103862889215832388#m",
+          "score": 0.5
+        },
+        {
+          "title": "🎥 WHAT IF YOUR ATTENTION COULD CREATE AN ECONOMY? That is the bigger idea behind InterLink Live. Creators can potentiall",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/Askandindia/status/2104043839166337077#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "content",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Introducing Casita: A content-addressed store for source code and build artifact",
+          "source": "hackernews",
+          "url": "https://casita.rs/blog/introducing-casita-a-content-addressed-store-for-source-code-and-build-artifacts/",
+          "score": 0.01
+        },
+        {
+          "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/hphamza593/status/2104047665864474851#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @waheed_tao23100: Interlink live, As it scales it will evolve into a full creator economy where content drives eng",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/veecash78/status/2103727216055943277#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @efi_kusumawati: in this economy, kayaknya lebih worth it jd content creator gasi??",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/empty__core/status/2104043361208299553#m",
+          "score": 0.5
+        },
+        {
+          "title": "Karena makin susah dapat views, engagement, traffic - in this economy karena banyak orang berbondong2 jd content creator",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/ainunchomsun/status/2104045624060522765#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "real",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Real-time feedback: My closing move in every interview",
+          "source": "hackernews",
+          "url": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
+          "score": 0.06
+        },
+        {
+          "title": "R to @ZeoWeb3: Coverage is the real advantage here, turning everyday smartphones into useful eyes for Physical AI",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/tausif_khan099/status/2104049912380088792#m",
+          "score": 0.5
+        },
+        {
+          "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/hphamza593/status/2104047665864474851#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "The Rise of Audio AR",
-      "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 27.5,
+      "title": "RT by @efi_kusumawati: in this economy, kayaknya lebih worth it jd content creator gasi??",
+      "url": "http://shitter.thepixora.com/empty__core/status/2104043361208299553#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 24.344,
       "velocity_label": "exploding",
-      "combined_score": 12.37
+      "combined_score": 30.43
     },
     {
-      "title": "Plunging test scores are a slow-moving catastrophe",
-      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.85,
-      "velocity": 15.15,
+      "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+      "url": "http://shitter.thepixora.com/hphamza593/status/2104047665864474851#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 23.816,
       "velocity_label": "exploding",
-      "combined_score": 183.69
+      "combined_score": 29.77
     },
     {
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "url": "https://castle-engine.io/modern_pascal",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.67,
-      "velocity": 13.25,
+      "title": "RT by @waheed_tao23100: Interlink live, As it scales it will evolve into a full creator economy where content drives eng",
+      "url": "http://shitter.thepixora.com/veecash78/status/2103727216055943277#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 22.5,
       "velocity_label": "exploding",
-      "combined_score": 55.32
+      "combined_score": 28.12
     },
     {
-      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-      "url": "https://www.osti.gov/servlets/purl/1124870",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.43,
-      "velocity": 12.476,
+      "title": "RT by @waheed_tao23100: The creator economy is evolving. With InterLink Live, creators can connect with communities thro",
+      "url": "http://shitter.thepixora.com/Real_jimmy1/status/2103862889215832388#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 21.275,
       "velocity_label": "exploding",
-      "combined_score": 13.41
+      "combined_score": 26.59
     },
     {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.18,
-      "velocity": 12.047,
+      "title": "We talk a lot about the creator economy. The other half is the people willing to support them. Give supporters simple to",
+      "url": "http://shitter.thepixora.com/DenMushi_/status/2104041562170859971#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 20.843,
       "velocity_label": "exploding",
-      "combined_score": 65.66
+      "combined_score": 26.05
     },
     {
-      "title": "The Case for Learning in the Era of AI",
-      "url": "https://jonbehnken.substack.com/p/the-case-for-learning",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 11.058,
+      "title": "R to @sonuforx: Those numbers are estimates, not confirmed income, but it’s still interesting to see how big the creator",
+      "url": "http://shitter.thepixora.com/Summerjami/status/2104048799626985820#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 17.701,
       "velocity_label": "exploding",
-      "combined_score": 1.66
+      "combined_score": 22.13
     },
     {
-      "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
-      "url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.76,
-      "velocity": 10.894,
+      "base_score": 0.68,
+      "velocity": 15.097,
       "velocity_label": "exploding",
-      "combined_score": 20.7
+      "combined_score": 25.67
     },
     {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.6,
-      "velocity": 10.099,
+      "title": "Karena makin susah dapat views, engagement, traffic - in this economy karena banyak orang berbondong2 jd content creator",
+      "url": "http://shitter.thepixora.com/ainunchomsun/status/2104045624060522765#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 14.776,
       "velocity_label": "exploding",
-      "combined_score": 15.15
+      "combined_score": 18.47
     },
     {
-      "title": "AI Socialism: Who Will Own the Automated Future?",
-      "url": "https://cosmopolity.substack.com/p/ai-socialism-who-will-own-the-automated",
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.083,
+      "base_score": 1.91,
+      "velocity": 13.778,
       "velocity_label": "exploding",
-      "combined_score": 0.25
+      "combined_score": 65.79
     },
     {
-      "title": "My brother's new high rise apartment doesn't allow individual internet services",
-      "url": "https://www.reddit.com/r/mildlyinfuriating/s/mQRDnpsNvs",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.09,
-      "velocity": 9.716,
+      "base_score": 1.63,
+      "velocity": 13.352,
       "velocity_label": "exploding",
-      "combined_score": 2.19
+      "combined_score": 54.41
     },
     {
-      "title": "What the megafauna extinction can teach us about AI startups and incumbents",
-      "url": "https://johnjwang.com/post/2026/09/23/megafauna-extinction-and-startups",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 9.7,
+      "title": "R to @ZeoWeb3: Coverage is the real advantage here, turning everyday smartphones into useful eyes for Physical AI",
+      "url": "http://shitter.thepixora.com/tausif_khan099/status/2104049912380088792#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 12.705,
       "velocity_label": "exploding",
-      "combined_score": 0.49
-    },
-    {
-      "title": "Show HN: Kosh - Stop Your Bookmarks Becoming a Cemetery",
-      "url": "https://chromewebstore.google.com/detail/kosh-bookmark-manager/meldjdfnfgefeoegccphimkmgmeamcce",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 9.618,
-      "velocity_label": "exploding",
-      "combined_score": 1.44
-    },
-    {
-      "title": "42x faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.547,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "Streaming Our RL Training Runs",
-      "url": "https://brusharena.art/live",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.444,
-      "velocity_label": "exploding",
-      "combined_score": 0.63
-    },
-    {
-      "title": "The Lost Atomic Update on Loongson CPU",
-      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 8.433,
-      "velocity_label": "exploding",
-      "combined_score": 17.71
-    },
-    {
-      "title": "PHP 4.1.1 Simulator: A jsfiddle-style edit-run page for 2001 era PHP",
-      "url": "https://simphp.infinitefun.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.312,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "I built my daughter a custom alarm clock because everything on Amazon sucked",
-      "url": "https://reclaimtheday.substack.com/p/i-built-my-daughter-a-custom-smart",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 7.791,
-      "velocity_label": "exploding",
-      "combined_score": 3.51
-    },
-    {
-      "title": "Scientists build most accurate atomic clock",
-      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.89,
-      "velocity": 7.595,
-      "velocity_label": "exploding",
-      "combined_score": 16.9
-    },
-    {
-      "title": "Reflections on 1,000 Days of Math",
-      "url": "https://gmays.com/reflections-on-1000-days-of-math/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.11,
-      "velocity": 7.51,
-      "velocity_label": "exploding",
-      "combined_score": 20.84
-    },
-    {
-      "title": "Cities of Salt (1984)",
-      "url": "https://en.wikipedia.org/wiki/Cities_of_Salt",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.37
-    },
-    {
-      "title": "Delphic Wisdom and Connection",
-      "url": "https://will4planet.substack.com/p/delphic-wisdomconnection",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.81,
-      "velocity": 7.269,
-      "velocity_label": "exploding",
-      "combined_score": 69.23
-    },
-    {
-      "title": "16GB iPod Nano 3G Upgrade",
-      "url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.55,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 26.8
-    },
-    {
-      "title": "The far side of the Moon provides clues to a previous magnetic field",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.24,
-      "velocity": 6.86,
-      "velocity_label": "exploding",
-      "combined_score": 4.12
-    },
-    {
-      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
-      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.51,
-      "velocity": 6.845,
-      "velocity_label": "exploding",
-      "combined_score": 94.29
-    },
-    {
-      "title": "The Murky History of Soviet-Born Tetris",
-      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.31,
-      "velocity": 6.838,
-      "velocity_label": "exploding",
-      "combined_score": 22.39
+      "combined_score": 15.88
     },
     {
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.19,
-      "velocity": 6.833,
+      "base_score": 2.54,
+      "velocity": 12.063,
       "velocity_label": "exploding",
-      "combined_score": 3.25
+      "combined_score": 76.6
     },
     {
-      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.4,
-      "velocity": 6.317,
+      "base_score": 0.39,
+      "velocity": 11.931,
       "velocity_label": "exploding",
-      "combined_score": 22.11
+      "combined_score": 11.63
     },
     {
-      "title": "The Python documentation is now available in Persian",
-      "url": "https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/",
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.54,
+      "velocity": 11.602,
+      "velocity_label": "exploding",
+      "combined_score": 218.7
+    },
+    {
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.24,
+      "velocity": 10.943,
+      "velocity_label": "exploding",
+      "combined_score": 33.92
+    },
+    {
+      "title": "We Should Be Able to Change Our Languages",
+      "url": "http://jimmyhmiller.com/change-our-languages",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.04,
-      "velocity": 6.222,
+      "velocity": 10.556,
       "velocity_label": "exploding",
-      "combined_score": 0.62
+      "combined_score": 1.06
     },
     {
-      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
-      "url": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.28,
-      "velocity": 6.125,
+      "title": "🚀 How the Three Form a Cycle: InterLink’s Economic Flywheel 🚀 Three important components of the InterLink ecosystem will",
+      "url": "http://shitter.thepixora.com/interlinkAg/status/2104042553234604232#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.333,
       "velocity_label": "exploding",
-      "combined_score": 4.29
+      "combined_score": 12.92
     },
     {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.93,
-      "velocity": 6.121,
+      "title": "🎥 WHAT IF YOUR ATTENTION COULD CREATE AN ECONOMY? That is the bigger idea behind InterLink Live. Creators can potentiall",
+      "url": "http://shitter.thepixora.com/Askandindia/status/2104043839166337077#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.088,
       "velocity_label": "exploding",
-      "combined_score": 60.14
+      "combined_score": 12.61
     },
     {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "title": "Real-time feedback: My closing move in every interview",
+      "url": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.21,
-      "velocity": 5.712,
+      "base_score": 0.06,
+      "velocity": 9.934,
       "velocity_label": "exploding",
-      "combined_score": 74.39
-    },
-    {
-      "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.648,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.74,
-      "velocity": 5.596,
-      "velocity_label": "exploding",
-      "combined_score": 24.34
-    },
-    {
-      "title": "Floci: Locally emulating any cloud service",
-      "url": "https://floci.io",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.77,
-      "velocity": 5.522,
-      "velocity_label": "exploding",
-      "combined_score": 24.43
-    },
-    {
-      "title": "Remembering Johannes Doerfert",
-      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.23,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 16.4
-    },
-    {
-      "title": "Is your Postgres migration safe or not safe?",
-      "url": "https://safenotsafe.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.68,
-      "velocity": 5.243,
-      "velocity_label": "exploding",
-      "combined_score": 22.02
-    },
-    {
-      "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
-      "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.22,
-      "velocity": 5.189,
-      "velocity_label": "exploding",
-      "combined_score": 15.83
-    },
-    {
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.11,
-      "velocity": 5.08,
-      "velocity_label": "exploding",
-      "combined_score": 26.8
-    },
-    {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.33,
-      "velocity": 5.039,
-      "velocity_label": "exploding",
-      "combined_score": 41.95
-    },
-    {
-      "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions",
-      "url": "https://arxiv.org/abs/2609.29429",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.854,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.87,
-      "velocity": 4.809,
-      "velocity_label": "exploding",
-      "combined_score": 10.46
-    },
-    {
-      "title": "We're gonna need a lot more mathematicians",
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.66,
-      "velocity": 4.806,
-      "velocity_label": "exploding",
-      "combined_score": 116.05
-    },
-    {
-      "title": "Washington Heights Man Cleans One NYC Block a Day for 100 Days,Neighbors Join In",
-      "url": "https://hoodline.com/2026/09/washington-heights-man-cleans-one-nyc-block-a-day-for-100-days-neighbors-join-in/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.11,
-      "velocity": 4.724,
-      "velocity_label": "exploding",
-      "combined_score": 1.3
+      "combined_score": 1.49
     },
     {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.8,
-      "velocity": 4.65,
+      "base_score": 2.98,
+      "velocity": 9.83,
       "velocity_label": "exploding",
-      "combined_score": 9.3
+      "combined_score": 73.23
     },
     {
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "title": "Deep cuts: Londoner's fake vinyl empire sheds light on 'industrial scale' fraud",
+      "url": "https://www.theguardian.com/music/2026/sep/19/fake-vinyl-empire-sheds-light-industrial-scale-fraud",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.0,
-      "velocity": 4.647,
+      "base_score": 0.03,
+      "velocity": 9.565,
       "velocity_label": "exploding",
-      "combined_score": 11.62
+      "combined_score": 0.72
     },
     {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "title": "Timeline of the Far Future",
+      "url": "https://rivendell.dmitrybrant.com/farfuture/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.9,
-      "velocity": 4.617,
+      "base_score": 0.01,
+      "velocity": 9.028,
       "velocity_label": "exploding",
-      "combined_score": 21.93
+      "combined_score": 0.23
     },
     {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.83,
-      "velocity": 4.338,
+      "base_score": 0.96,
+      "velocity": 8.738,
       "velocity_label": "exploding",
-      "combined_score": 9.0
-    },
-    {
-      "title": "Postgres SELECT DISTINCT Does Not Scale",
-      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.38,
-      "velocity": 4.315,
-      "velocity_label": "exploding",
-      "combined_score": 14.89
+      "combined_score": 20.97
     },
     {
       "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
       "url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.25,
+      "base_score": 0.14,
+      "velocity": 8.618,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 3.02
+    },
+    {
+      "title": "A perfect clone of 1993 game SimTower",
+      "url": "https://github.com/phulin/tower-together",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.343,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Converso mais com o gemini ai do que qualquer outra pessoa",
+      "url": "http://shitter.thepixora.com/OFab_SoundZ/status/2104049906826572141#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.297,
+      "velocity_label": "exploding",
+      "combined_score": 10.37
+    },
+    {
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 8.236,
+      "velocity_label": "exploding",
+      "combined_score": 0.62
+    },
+    {
+      "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+      "url": "https://peertalk.ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 8.23,
+      "velocity_label": "exploding",
+      "combined_score": 1.44
+    },
+    {
+      "title": "Ask HN: Are you unfollowing friends on GitHub because of AI slop?",
+      "url": "https://news.ycombinator.com/item?id=49862641",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 8.19,
+      "velocity_label": "exploding",
+      "combined_score": 1.84
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.56,
+      "velocity": 7.794,
+      "velocity_label": "exploding",
+      "combined_score": 69.37
+    },
+    {
+      "title": "Introducing Casita: A content-addressed store for source code and build artifact",
+      "url": "https://casita.rs/blog/introducing-casita-a-content-addressed-store-for-source-code-and-build-artifacts/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.789,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.48,
+      "velocity": 7.373,
+      "velocity_label": "exploding",
+      "combined_score": 8.85
+    },
+    {
+      "title": "R to @SKITGL0SS: AI MEU DEUS",
+      "url": "http://shitter.thepixora.com/vhopcent/status/2104049912694337772#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 9.17
+    },
+    {
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.84,
+      "velocity": 7.205,
+      "velocity_label": "exploding",
+      "combined_score": 123.2
+    },
+    {
+      "title": "The Rise of Audio AR",
+      "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.51,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 8.82
+    },
+    {
+      "title": "Trump Promised the Truth About UFOs. These Scientists Are Waiting",
+      "url": "https://www.politico.com/news/magazine/2026/09/26/ufos-trump-aliens-uaps-government-01088254",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 6.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.85
+    },
+    {
+      "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+      "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.3,
+      "velocity": 6.813,
+      "velocity_label": "exploding",
+      "combined_score": 5.11
+    },
+    {
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "url": "https://castle-engine.io/modern_pascal",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.48,
+      "velocity": 6.727,
+      "velocity_label": "exploding",
+      "combined_score": 41.71
+    },
+    {
+      "title": "Reading’s Bayeux Tapestry",
+      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.2,
+      "velocity": 6.389,
+      "velocity_label": "exploding",
+      "combined_score": 3.19
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.62,
+      "velocity": 6.288,
+      "velocity_label": "exploding",
+      "combined_score": 25.47
+    },
+    {
+      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+      "url": "https://www.osti.gov/servlets/purl/1124870",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 6.037,
+      "velocity_label": "exploding",
+      "combined_score": 7.09
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.75,
+      "velocity": 5.899,
+      "velocity_label": "exploding",
+      "combined_score": 55.3
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.75,
+      "velocity": 5.587,
+      "velocity_label": "exploding",
+      "combined_score": 52.38
+    },
+    {
+      "title": "CERN mug summarizes Standard Model, but is off by a factor of 2 (2011)",
+      "url": "https://www.quantumdiaries.org/2011/06/26/cern-mug-summarizes-standard-model-but-is-off-by-a-factor-of-2/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.438,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Scientists build most accurate atomic clock",
+      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.95,
+      "velocity": 5.351,
+      "velocity_label": "exploding",
+      "combined_score": 12.71
+    },
+    {
+      "title": "Zipf's Law",
+      "url": "https://en.wikipedia.org/wiki/Zipf%27s_law",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "DiffFind – Semantic search and diff for text and documents",
+      "url": "https://difffind.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.118,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "🐾😌完整版点击秒看： https://mypikpak.com/s/VP-SxzyX-ZNdTeoX6qhA5bIho2 艳遇开启！！！ 爆火新剧《我的合租室友》连载ing... 合租生活太色了！女室友每天用热乎乎的骚穴给我解压，鸡巴一插进",
+      "url": "http://shitter.thepixora.com/KristalHuberty/status/2104049905648234653#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 4.827,
+      "velocity_label": "exploding",
+      "combined_score": 6.03
+    },
+    {
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.58,
+      "velocity": 4.762,
+      "velocity_label": "exploding",
+      "combined_score": 6.9
+    },
+    {
+      "title": "Nom Army: Don't trust coding agents when they say they're done",
+      "url": "https://github.com/rayson-tech/nomarmy",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.708,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
+  "bridge_topics": [
+    {
+      "keyword": "lot",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 44.52,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "We're gonna need a lot more mathematicians",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "We talk a lot about the creator economy. The other half is the people willing to support them. Give supporters simple to",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "2026",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 38.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "#AjayDevgn, @ayushmannk , @RajkummarRao , @ravikishann , @AshGowariker come together for FICCI Frames 2026 ✅ FICCI Frame",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "japan",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 32.32,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Japan moves to tighten rules for foreigners",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "【JIAV｜AIが考える「日本の地方・農村」とは？】 JAPAN INBOUND AI VISIBILITY（JIAV）では、訪日旅行者を想定した英語8質問を生成AIに毎日実行しています。 今日、「日本の地方・農村を旅するなら、どこ？」の回",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "still",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 27.84,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @sonuforx: Those numbers are estimates, not confirmed income, but it’s still interesting to see how big the creator",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "live",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 14.52,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @waheed_tao23100: Interlink live, As it scales it will evolve into a full creator economy where content drives eng",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @waheed_tao23100: The creator economy is evolving. With InterLink Live, creators can connect with communities thro",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "🎥 WHAT IF YOUR ATTENTION COULD CREATE AN ECONOMY? That is the bigger idea behind InterLink Live. Creators can potentiall",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "content",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 8.04,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "Introducing Casita: A content-addressed store for source code and build artifact",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @waheed_tao23100: Interlink live, As it scales it will evolve into a full creator economy where content drives eng",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @efi_kusumawati: in this economy, kayaknya lebih worth it jd content creator gasi??",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Karena makin susah dapat views, engagement, traffic - in this economy karena banyak orang berbondong2 jd content creator",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "evolving",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.84,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Evolving programming languages in the AI era",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @waheed_tao23100: The creator economy is evolving. With InterLink Live, creators can connect with communities thro",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "turning",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @ZeoWeb3: Coverage is the real advantage here, turning everyday smartphones into useful eyes for Physical AI",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "real",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.24,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Real-time feedback: My closing move in every interview",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @ZeoWeb3: Coverage is the real advantage here, turning everyday smartphones into useful eyes for Physical AI",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "talk",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.28,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "We talk a lot about the creator economy. The other half is the people willing to support them. Give supporters simple to",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "content",
+        "creator",
+        "creators",
+        "economy",
+        "interlink",
+        "live",
+        "waheed_tao23100"
+      ],
+      "concept_hint": "content + creator + creators + economy",
+      "cluster_size": 7,
+      "discussion_count": 7,
+      "void_score": 147.0,
+      "examples": [
+        {
+          "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+          "source": "twitter",
+          "matching_keywords": [
+            "content",
+            "creator",
+            "creators",
+            "economy",
+            "interlink",
+            "live"
+          ]
+        },
+        {
+          "title": "RT by @waheed_tao23100: Interlink live, As it scales it will evolve into a full creator economy where content drives eng",
+          "source": "twitter",
+          "matching_keywords": [
+            "content",
+            "creator",
+            "economy",
+            "interlink",
+            "live",
+            "waheed_tao23100"
+          ]
+        },
+        {
+          "title": "RT by @efi_kusumawati: in this economy, kayaknya lebih worth it jd content creator gasi??",
+          "source": "twitter",
+          "matching_keywords": [
+            "content",
+            "creator",
+            "economy"
+          ]
+        },
+        {
+          "title": "Karena makin susah dapat views, engagement, traffic - in this economy karena banyak orang berbondong2 jd content creator",
+          "source": "twitter",
+          "matching_keywords": [
+            "content",
+            "creator",
+            "economy"
+          ]
+        },
+        {
+          "title": "RT by @waheed_tao23100: The creator economy is evolving. With InterLink Live, creators can connect with communities thro",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "creators",
+            "economy",
+            "interlink",
+            "live",
+            "waheed_tao23100"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
+    {
+      "title": "Introducing Casita: A content-addressed store for source code and build artifact",
+      "url": "https://casita.rs/blog/introducing-casita-a-content-addressed-store-for-source-code-and-build-artifacts/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.167,
+      "matching_tags": [
+        "code",
+        "content",
+        "source"
+      ]
+    },
     {
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
       "source": "hackernews",
       "category": "tech",
-      "score": 7.83,
+      "score": 8.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -544,15 +1006,63 @@
       ]
     },
     {
-      "title": "Open Source Lightroom Alternative on Web",
-      "url": "https://github.com/UdulaAbeykoon/darkroom",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
+      "title": "R to @sonuforx: Those numbers are estimates, not confirmed income, but it’s still interesting to see how big the creator",
+      "url": "http://shitter.thepixora.com/Summerjami/status/2104048799626985820#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.111,
       "matching_tags": [
-        "open",
-        "source"
+        "creator",
+        "income"
+      ]
+    },
+    {
+      "title": "Creator Economy Begins InterLink Live is creating a space where creators can transform content into real economic opport",
+      "url": "http://shitter.thepixora.com/hphamza593/status/2104047665864474851#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "content",
+        "creator"
+      ]
+    },
+    {
+      "title": "RT by @waheed_tao23100: Interlink live, As it scales it will evolve into a full creator economy where content drives eng",
+      "url": "http://shitter.thepixora.com/veecash78/status/2103727216055943277#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "content",
+        "creator"
+      ]
+    },
+    {
+      "title": "RT by @efi_kusumawati: in this economy, kayaknya lebih worth it jd content creator gasi??",
+      "url": "http://shitter.thepixora.com/empty__core/status/2104043361208299553#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "content",
+        "creator"
+      ]
+    },
+    {
+      "title": "Karena makin susah dapat views, engagement, traffic - in this economy karena banyak orang berbondong2 jd content creator",
+      "url": "http://shitter.thepixora.com/ainunchomsun/status/2104045624060522765#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "content",
+        "creator"
       ]
     },
     {
@@ -560,65 +1070,43 @@
       "url": "https://news.ycombinator.com/item?id=49848955",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.89,
+      "score": 6.46,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
       ]
     },
     {
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.38,
+      "score": 0.54,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "The far side of the Moon provides clues to a previous magnetic field",
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.24,
+      "title": "RT by @waheed_tao23100: The creator economy is evolving. With InterLink Live, creators can connect with communities thro",
+      "url": "http://shitter.thepixora.com/Real_jimmy1/status/2103862889215832388#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
-        "side"
+        "creator"
       ]
     },
     {
-      "title": "The Case for Learning in the Era of AI",
-      "url": "https://jonbehnken.substack.com/p/the-case-for-learning",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.06,
+      "title": "We talk a lot about the creator economy. The other half is the people willing to support them. Give supporters simple to",
+      "url": "http://shitter.thepixora.com/DenMushi_/status/2104041562170859971#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
-      ]
-    },
-    {
-      "title": "Productivity as the Cessation of Braking",
-      "url": "https://medium.com/@smoking2man/productivity-as-the-cessation-of-braking-toward-a-critique-of-the-narratives-of-labor-automation-532a33cab260",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "productivity"
-      ]
-    },
-    {
-      "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions",
-      "url": "https://arxiv.org/abs/2609.29429",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "learning"
+        "creator"
       ]
     }
   ]
