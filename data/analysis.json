@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-01T22:18:35.069670+00:00",
-  "scrape_timestamp": "2026-10-01T22:16:47.096551+00:00",
-  "total_items_analyzed": 89,
+  "timestamp": "2026-10-02T03:52:59.900397+00:00",
+  "scrape_timestamp": "2026-10-02T03:51:31.391050+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 89,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,571 +27,519 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-      "url": "https://bookofshapes.com/",
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.81,
-      "velocity": 15.229,
+      "base_score": 2.42,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 106.98
+      "combined_score": 108.9
     },
     {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.08,
-      "velocity": 13.563,
+      "base_score": 3.24,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 138.34
+      "combined_score": 145.8
     },
     {
-      "title": "The death of web development education",
-      "url": "https://molily.de/web-dev-education/",
+      "title": "RacketCon Is Saturday",
+      "url": "https://con.racket-lang.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.26,
-      "velocity": 12.621,
+      "base_score": 1.81,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 39.76
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922568",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.53,
-      "velocity": 11.978,
-      "velocity_label": "exploding",
-      "combined_score": 135.65
-    },
-    {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922569",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.23,
-      "velocity": 10.628,
-      "velocity_label": "exploding",
-      "combined_score": 85.83
-    },
-    {
-      "title": "Adding Floating-Point Decimals for Fun and Profit",
-      "url": "https://blog.vero.site/post/float",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.01,
-      "velocity": 10.347,
-      "velocity_label": "exploding",
-      "combined_score": 26.13
-    },
-    {
-      "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
-      "url": "https://mailfully.com/blog/spf-dkim-dmarc-setup",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.94,
-      "velocity": 10.056,
-      "velocity_label": "exploding",
-      "combined_score": 23.63
-    },
-    {
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "url": "https://www.cssbed.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.16,
-      "velocity": 9.545,
-      "velocity_label": "exploding",
-      "combined_score": 3.82
-    },
-    {
-      "title": "Returning from vacation? The government can search your phone without a warrant",
-      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.29,
-      "velocity": 9.489,
-      "velocity_label": "exploding",
-      "combined_score": 196.65
-    },
-    {
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "url": "https://github.com/Vibra-Ingenn/Janus",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 8.339,
-      "velocity_label": "exploding",
-      "combined_score": 6.05
-    },
-    {
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.54,
-      "velocity": 8.261,
-      "velocity_label": "exploding",
-      "combined_score": 135.06
-    },
-    {
-      "title": "Jay Cummings – I Worked with AI to Revise an AI Proof (and had so much fun)",
-      "url": "https://www.youtube.com/watch?v=IIN8JxqEJn4",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Matryoshka: MCP for token-efficient large document analysis via REPL",
-      "url": "https://github.com/yogthos/Matryoshka",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.671,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "OpenRadioss is not open anymore",
-      "url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.21,
-      "velocity": 7.238,
-      "velocity_label": "exploding",
-      "combined_score": 3.8
-    },
-    {
-      "title": "Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]",
-      "url": "https://www.tomandmaria.com/Tom/Writing/LosAlamosBetsOnENIAC.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 7.134,
-      "velocity_label": "exploding",
-      "combined_score": 9.81
-    },
-    {
-      "title": "America.gov/coming-soon is the real headline",
-      "url": "https://america.gov/coming-soon",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.132,
-      "velocity_label": "exploding",
-      "combined_score": 0.71
-    },
-    {
-      "title": "A FUSE server for our in-house storage back end",
-      "url": "https://blog.janestreet.com/linux-engineering-depot-fuse-index/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.033,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "EU KIDS Act: helping children navigate a safer online world",
-      "url": "https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.991,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Red Hat being phased out of existence?",
-      "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.99,
-      "velocity": 6.306,
-      "velocity_label": "exploding",
-      "combined_score": 47.13
-    },
-    {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.95,
-      "velocity": 6.26,
-      "velocity_label": "exploding",
-      "combined_score": 46.17
-    },
-    {
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.18,
-      "velocity": 6.248,
-      "velocity_label": "exploding",
-      "combined_score": 18.43
+      "combined_score": 81.45
     },
     {
       "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
       "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.09,
-      "velocity": 6.167,
+      "base_score": 5.53,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 78.47
+      "combined_score": 205.07
     },
     {
-      "title": "H-HPU: Hexagonal NoC and Closed-Loop Control for Relational AI",
-      "url": "https://github.com/lzprograma/H-HPU",
+      "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "url": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.143,
+      "base_score": 0.83,
+      "velocity": 14.042,
       "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.79,
-      "velocity": 6.118,
-      "velocity_label": "exploding",
-      "combined_score": 57.97
-    },
-    {
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.04,
-      "velocity": 6.084,
-      "velocity_label": "exploding",
-      "combined_score": 61.45
-    },
-    {
-      "title": "The GPU Black Market That Washington Can't Shut Down",
-      "url": "https://www.amcompute.com/blog/gpu-black-market-washington-cant-shut-down",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.13,
-      "velocity": 5.835,
-      "velocity_label": "exploding",
-      "combined_score": 1.9
-    },
-    {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.3,
-      "velocity": 5.665,
-      "velocity_label": "exploding",
-      "combined_score": 75.06
-    },
-    {
-      "title": "Effect 4.0",
-      "url": "https://effect.website/blog/releases/effect/40",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.39,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 5.2
-    },
-    {
-      "title": "LinkedIn Larpmaxxing",
-      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.48,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 86.4
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.9,
-      "velocity": 4.971,
-      "velocity_label": "exploding",
-      "combined_score": 48.47
-    },
-    {
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.0,
-      "velocity": 4.745,
-      "velocity_label": "exploding",
-      "combined_score": 23.73
-    },
-    {
-      "title": "Silencing AirTags enables stalkers and domestic violence",
-      "url": "https://sixcolors.com/post/2026/10/silencing-airtags-enables-stalkers-and-domestic-violence/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.667,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.73,
-      "velocity": 4.63,
-      "velocity_label": "exploding",
-      "combined_score": 101.05
-    },
-    {
-      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.7,
-      "velocity": 4.538,
-      "velocity_label": "exploding",
-      "combined_score": 19.28
-    },
-    {
-      "title": "Pi-autoresearch ported to Claude Code 1:1 using the new mods API",
-      "url": "https://github.com/bn-l/claude-autoresearch-mod",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.517,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "Cloudflare K2: serverless event streams",
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.79,
-      "velocity": 4.458,
-      "velocity_label": "exploding",
-      "combined_score": 31.1
-    },
-    {
-      "title": "Griffin: The First Human Interaction Model",
-      "url": "https://www.tavus.io/griffin",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.338,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Gene-Edited Banana Stays Yellow Longer and Closer to Grocery Store Shelves",
-      "url": "https://www.discovermagazine.com/a-gene-edited-banana-stays-yellow-longer-and-is-a-step-closer-to-grocery-store-shelves-49752",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.284,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.16,
-      "velocity": 4.278,
-      "velocity_label": "exploding",
-      "combined_score": 87.27
-    },
-    {
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.74,
-      "velocity": 4.207,
-      "velocity_label": "exploding",
-      "combined_score": 39.34
+      "combined_score": 29.14
     },
     {
       "title": "RIP, vector database",
       "url": "https://turbopuffer.com/blog/rip-vector-database",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.42,
-      "velocity": 4.167,
+      "base_score": 4.07,
+      "velocity": 13.778,
       "velocity_label": "exploding",
-      "combined_score": 35.63
+      "combined_score": 140.19
     },
     {
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.39,
+      "velocity": 13.25,
+      "velocity_label": "exploding",
+      "combined_score": 46.04
+    },
+    {
+      "title": "Parsing compressed JSON at 40 GB/s",
+      "url": "https://lemire.me/blog/2026/10/01/parsing-compressed-json-at-40-gb-s/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 13.25,
+      "velocity_label": "exploding",
+      "combined_score": 0.66
+    },
+    {
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "url": "https://www.polyedergarten.de/e_index.htm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.61,
+      "velocity": 12.283,
+      "velocity_label": "exploding",
+      "combined_score": 18.73
+    },
+    {
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.94,
-      "velocity": 4.083,
+      "velocity": 12.278,
       "velocity_label": "exploding",
-      "combined_score": 9.59
+      "combined_score": 28.85
     },
     {
-      "title": "When Fancy Eviction Fails: Rethinking Cache Replacement for LLM Prefix Reuse",
-      "url": "https://arxiv.org/abs/2609.28870",
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.049,
+      "base_score": 0.57,
+      "velocity": 12.119,
       "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 17.27
     },
     {
-      "title": "Show HN: Rhun, an open-source code editor written in assembly",
-      "url": "https://rhun.app/",
+      "title": "Born Twice: Specimen and Record at the Moment of Collection",
+      "url": "https://tjid3.org/if/ifcomp.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.15,
-      "velocity": 3.876,
+      "base_score": 0.03,
+      "velocity": 11.583,
       "velocity_label": "exploding",
-      "combined_score": 1.45
+      "combined_score": 0.87
     },
     {
-      "title": "Suits Are Better Tech Than Modern Clothes",
-      "url": "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/",
+      "title": "Red Hat being phased out of existence?",
+      "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.1,
-      "velocity": 3.683,
+      "base_score": 3.37,
+      "velocity": 11.35,
       "velocity_label": "exploding",
-      "combined_score": 28.55
+      "combined_score": 95.62
     },
     {
-      "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "title": "Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.25,
-      "velocity": 3.625,
+      "base_score": 3.4,
+      "velocity": 11.271,
       "velocity_label": "exploding",
-      "combined_score": 20.39
+      "combined_score": 95.8
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.26,
+      "velocity": 11.231,
+      "velocity_label": "exploding",
+      "combined_score": 63.46
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.92,
+      "velocity": 11.093,
+      "velocity_label": "exploding",
+      "combined_score": 80.98
+    },
+    {
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.23,
+      "velocity": 10.965,
+      "velocity_label": "exploding",
+      "combined_score": 88.55
     },
     {
       "title": "ParadeDB Search Performance Improvements",
       "url": "https://www.paradedb.com/blog/opening-a-closed-tin",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.69,
-      "velocity": 3.588,
+      "base_score": 0.74,
+      "velocity": 10.807,
       "velocity_label": "exploding",
-      "combined_score": 6.19
+      "combined_score": 19.99
     },
     {
-      "title": "Disney World has a better underground cable infrastructure than most cities",
-      "url": "https://www.vox.com/future-perfect/504720/disney-utilidors-utility-tunnels-811",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "url": "https://www.cssbed.com",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 3.585,
+      "base_score": 0.99,
+      "velocity": 9.949,
       "velocity_label": "exploding",
-      "combined_score": 0.54
+      "combined_score": 24.62
     },
     {
-      "title": "Before pixels: Modular industrial dashboards",
-      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "url": "https://bookofshapes.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.56,
-      "velocity": 3.433,
+      "base_score": 2.92,
+      "velocity": 9.885,
       "velocity_label": "exploding",
-      "combined_score": 30.56
+      "combined_score": 72.16
     },
     {
-      "title": "High Scale Agentic Memory with Turbopuffer",
-      "url": "https://www.youtube.com/watch?v=ht0sxHBmVMY",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.08,
+      "velocity": 9.725,
+      "velocity_label": "exploding",
+      "combined_score": 172.13
+    },
+    {
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "url": "https://tangled.org/burrito.space/bez",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.56,
+      "velocity": 9.482,
+      "velocity_label": "exploding",
+      "combined_score": 36.98
+    },
+    {
+      "title": "Typed Decisions: an open benchmark for decision models (official on HF)",
+      "url": "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 3.4,
+      "velocity": 8.632,
       "velocity_label": "exploding",
-      "combined_score": 0.09
+      "combined_score": 0.22
+    },
+    {
+      "title": "Apple Says iPhone Duo Has Replaceable 'Cover Layer'",
+      "url": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.508,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.29,
+      "velocity": 8.476,
+      "velocity_label": "exploding",
+      "combined_score": 90.91
+    },
+    {
+      "title": "Several Models Debate to Consensus",
+      "url": "https://yesbrainer.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.437,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel",
+      "url": "https://github.com/LiterateDrivenDevelopment/kcc",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.21,
+      "velocity": 8.266,
+      "velocity_label": "exploding",
+      "combined_score": 4.34
+    },
+    {
+      "title": "Mike Tomlin former NFL player and coach made a giant city in Minecraft",
+      "url": "https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-minecraft-city",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.39
+    },
+    {
+      "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
+      "url": "https://mailfully.com/blog/spf-dkim-dmarc-setup",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.09,
+      "velocity": 7.821,
+      "velocity_label": "exploding",
+      "combined_score": 21.31
+    },
+    {
+      "title": "Running Windows 11 and Server 2025 with macOS Virtualization.framework",
+      "url": "https://mustafaakin.dev/blog/windows-on-tart/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.584,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Show HN: Fast Ollama like router that gives a text-only model eyes and ears",
+      "url": "https://github.com/SpaceSwordAI/funcroute",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.578,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.21,
+      "velocity": 7.44,
+      "velocity_label": "exploding",
+      "combined_score": 22.51
+    },
+    {
+      "title": "Fast Blur with Animated Radius",
+      "url": "https://aras-p.info/blog/2026/10/01/Fast-blur-with-animated-radius/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.15,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Apple is now censoring anti-immigration material you send in your PRIVATE texts",
+      "url": "https://twitter.com/drjoshcsimmons/status/2105823821609759098",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 7.088,
+      "velocity_label": "exploding",
+      "combined_score": 1.77
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 6.894,
+      "velocity_label": "exploding",
+      "combined_score": 1.03
+    },
+    {
+      "title": "'President of the Unites States': White House's AI accord includes spellingerror",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.854,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.23,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 152.29
+    },
+    {
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "List your SaaS for free and be visible",
+      "url": "https://goodsaas.xyz/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.321,
+      "velocity_label": "exploding",
+      "combined_score": 0.32
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.25,
+      "velocity": 6.204,
+      "velocity_label": "exploding",
+      "combined_score": 65.92
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.17,
+      "velocity": 6.124,
+      "velocity_label": "exploding",
+      "combined_score": 63.84
+    },
+    {
+      "title": "Griffin: The First Human Interaction Model",
+      "url": "https://www.tavus.io/griffin",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 6.015,
+      "velocity_label": "exploding",
+      "combined_score": 2.11
+    },
+    {
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 5.909,
+      "velocity_label": "exploding",
+      "combined_score": 10.19
+    },
+    {
+      "title": "Agent-harness – A minimal, composable Go library to build AI Agent Harnesses",
+      "url": "https://github.com/lox/agent-harness",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.771,
+      "velocity_label": "exploding",
+      "combined_score": 0.43
+    },
+    {
+      "title": "Show HN: Use all Codex Plugins inside Pi",
+      "url": "https://github.com/wileai/pi-codex-connectors",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.624,
+      "velocity_label": "exploding",
+      "combined_score": 0.28
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.54,
+      "velocity": 5.486,
+      "velocity_label": "exploding",
+      "combined_score": 117.13
+    },
+    {
+      "title": "DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
+      "url": "https://dogbench.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 5.343,
+      "velocity_label": "exploding",
+      "combined_score": 1.87
+    },
+    {
+      "title": "The death of web development education",
+      "url": "https://molily.de/web-dev-education/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.88,
+      "velocity": 5.2,
+      "velocity_label": "exploding",
+      "combined_score": 50.44
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922568",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.46,
+      "velocity": 5.103,
+      "velocity_label": "exploding",
+      "combined_score": 69.66
+    },
+    {
+      "title": "Funtech Experience 2026",
+      "url": "https://experience2026.funtech.inc/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.695,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "open",
-        "show",
-        "source"
-      ],
-      "concept_hint": "open + show + source",
-      "cluster_size": 3,
-      "discussion_count": 3,
-      "void_score": 13.5,
-      "examples": [
-        {
-          "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-          "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "source"
-          ]
-        },
-        {
-          "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-          "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "show",
-            "source"
-          ]
-        },
-        {
-          "title": "Show HN: Rhun, an open-source code editor written in assembly",
-          "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "show",
-            "source"
-          ]
-        }
-      ]
-    }
-  ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
       "title": "Show HN: Rhun, an open-source code editor written in assembly",
       "url": "https://rhun.app/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.15,
+      "score": 0.61,
       "relevance": 0.167,
       "matching_tags": [
         "code",
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 5.79,
-      "relevance": 0.111,
-      "matching_tags": [
         "open",
         "source"
       ]
@@ -601,7 +549,7 @@
       "url": "https://news.ycombinator.com/item?id=49911500",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.96,
+      "score": 1.37,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -609,36 +557,36 @@
       ]
     },
     {
-      "title": "OpenRadioss is not open anymore",
-      "url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.21,
+      "score": 7.08,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Pi-autoresearch ported to Claude Code 1:1 using the new mods API",
-      "url": "https://github.com/bn-l/claude-autoresearch-mod",
+      "title": "List your SaaS for free and be visible",
+      "url": "https://goodsaas.xyz/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "saas"
       ]
     },
     {
-      "title": "Scan your LLM agent's tools for cost-amplification bugs (no API key)",
-      "url": "https://github.com/samuelrojas-dev/agent-cost-bench",
+      "title": "Typed Decisions: an open benchmark for decision models (official on HF)",
+      "url": "https://huggingface.co/datasets/LocalLLaMA/typed-decisions",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "tools"
+        "open"
       ]
     }
   ]
