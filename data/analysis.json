@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-04T16:23:41.843451+00:00",
-  "scrape_timestamp": "2026-10-04T16:22:10.685162+00:00",
-  "total_items_analyzed": 112,
+  "timestamp": "2026-10-04T20:51:04.898513+00:00",
+  "scrape_timestamp": "2026-10-04T20:49:32.976622+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,1401 +16,586 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 24,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "every",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 4,
-      "opportunity_score": 24.0,
-      "examples": [
-        {
-          "title": "A Map of Every Lighthouse on the Planet",
-          "source": "hackernews",
-          "url": "https://mapped.earth/lighthouses/world",
-          "score": 0.15
-        },
-        {
-          "title": "Show HN: AI search for every photo and every frame of video on macOS",
-          "source": "hackernews",
-          "url": "https://github.com/allenv0/SCM",
-          "score": 1.18
-        },
-        {
-          "title": "FilesToolkit for Mac: Get More Done with Every Right-Click",
-          "source": "hackernews",
-          "url": "https://filestoolkit.saposs.com/",
-          "score": 0.04
-        },
-        {
-          "title": "RT by @SindaraSanmi: the creator of Lagos life removed every fraud money so the economy can balance and everyone started",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/Omolomo_o/status/2106757890845642792#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "use",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Why don't more developers “use the platform”?",
-          "source": "hackernews",
-          "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-          "score": 5.55
-        },
-        {
-          "title": "Show HN: Skins.dev – add the features missing from the web apps you use",
-          "source": "hackernews",
-          "url": "https://skins.dev/",
-          "score": 0.01
-        },
-        {
-          "title": "UAE Oncology Conference calls for greater use of AI, immunotherapy, personalised medicine in cancer care Read more: http",
-          "source": "twitter",
-          "url": "http://shitter.thepixora.com/AletihadEn/status/2106782275728011346#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "want",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "We want you to build the next Git platform on Cloudflare",
-          "source": "hackernews",
-          "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-          "score": 4.16
-        },
-        {
-          "title": "R to @essentiamemoria: Have an Android phone and want to help? Reply “Android” here and we’ll guide you through private",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/essentiamemoria/status/2106782226721492997#m",
-          "score": 0.5
-        },
-        {
-          "title": "RT by @yellow_buskey: FLORA— I want to move to Lagos & startup my makeup business & also own a foundation to motivate th",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/Finishher007/status/2106761742726676785#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "change",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Modding Has Change Forever",
-          "source": "hackernews",
-          "url": "https://www.youtube.com/watch?v=zRT3MyFwgu0",
-          "score": 0.01
-        },
-        {
-          "title": "RT by @Mavatir: Blue Box S2's pivot to new startup Electric Circus doesn't automatically dictate a change in aesthetics",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/Baleygr086/status/2106692917759017190#m",
-          "score": 0.5
-        },
-        {
-          "title": "RT by @_Maswi: A startup doesn’t have to change the world. Changing the founder’s life is a pretty great outcome too.",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/agazdecki/status/2106497043921502295#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "doesn",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "What If the Spec Doesn't Match the Code?",
-          "source": "hackernews",
-          "url": "https://buttondown.com/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/",
-          "score": 0.01
-        },
-        {
-          "title": "RT by @Mavatir: Blue Box S2's pivot to new startup Electric Circus doesn't automatically dictate a change in aesthetics",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/Baleygr086/status/2106692917759017190#m",
-          "score": 0.5
-        },
-        {
-          "title": "RT by @_Maswi: A startup doesn’t have to change the world. Changing the founder’s life is a pretty great outcome too.",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/agazdecki/status/2106497043921502295#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "people",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
-          "source": "hackernews",
-          "url": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
-          "score": 1.0
-        },
-        {
-          "title": "Simulating death can reduce people's fear of dying",
-          "source": "hackernews",
-          "url": "https://www.economist.com/science-and-technology/2026/09/30/simulating-death-can-reduce-peoples-fear-of-dying",
-          "score": 0.04
-        },
-        {
-          "title": "RT by @TrevorMaganda: pov: you start posting content about your startup people you know:",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/techbyhez/status/2106421521287680008#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "building",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-          "source": "hackernews",
-          "url": "https://github.com/PowderworksCode/headstart",
-          "score": 0.84
-        },
-        {
-          "title": "City building games have a Soul Problem pt.2",
-          "source": "hackernews",
-          "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-          "score": 3.75
-        },
-        {
-          "title": "RT by @HabibPaart44952: Good Evening CT, gHazels The creator economy is changing fast, and @0xhazels is building right i",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/faisal_page/status/2106722820352872507#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "right",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "What Meta got right with Muse",
-          "source": "hackernews",
-          "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-          "score": 2.85
-        },
-        {
-          "title": "FilesToolkit for Mac: Get More Done with Every Right-Click",
-          "source": "hackernews",
-          "url": "https://filestoolkit.saposs.com/",
-          "score": 0.04
-        },
-        {
-          "title": "RT by @HabibPaart44952: Good Evening CT, gHazels The creator economy is changing fast, and @0xhazels is building right i",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/faisal_page/status/2106722820352872507#m",
-          "score": 0.5
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Modding Has Change Forever",
-      "url": "https://www.youtube.com/watch?v=zRT3MyFwgu0",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 20.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "We're working on a new RuneScape MMO",
-      "url": "https://play.runescape.com/4",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.38,
-      "velocity": 18.576,
-      "velocity_label": "exploding",
-      "combined_score": 110.53
-    },
-    {
-      "title": "Dyson CameraJet",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 1.35
-    },
-    {
-      "title": "What If the Spec Doesn't Match the Code?",
-      "url": "https://buttondown.com/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 16.219,
-      "velocity_label": "exploding",
-      "combined_score": 0.41
-    },
-    {
-      "title": "RT by @_Maswi: A startup doesn’t have to change the world. Changing the founder’s life is a pretty great outcome too.",
-      "url": "http://nitter.meowing.monster/agazdecki/status/2106497043921502295#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 15.659,
-      "velocity_label": "exploding",
-      "combined_score": 19.57
-    },
-    {
-      "title": "gpuvis: GPU Trace Visualizer",
-      "url": "https://github.com/mikesart/gpuvis",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.71,
-      "velocity": 13.778,
-      "velocity_label": "exploding",
-      "combined_score": 24.46
-    },
-    {
-      "title": "RuneScape's Position on Gen AI",
-      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 13.667,
-      "velocity_label": "exploding",
-      "combined_score": 9.91
-    },
-    {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.92,
-      "velocity": 12.798,
-      "velocity_label": "exploding",
-      "combined_score": 29.43
-    },
-    {
-      "title": "Car is a smartphone on wheels. Here's who's listening",
-      "url": "https://automatictransmission.khoury.northeastern.edu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.79,
-      "velocity": 12.063,
-      "velocity_label": "exploding",
-      "combined_score": 23.82
-    },
-    {
-      "title": "The characters of plastics (2024)",
-      "url": "https://yarchive.net/blog/plastics/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 8.46
-    },
-    {
-      "title": "The Heilbronn Problem",
-      "url": "https://math.tejstead.com/heilbronn/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 10.611,
-      "velocity_label": "exploding",
-      "combined_score": 9.55
-    },
-    {
-      "title": "AI Czar Named",
-      "url": "https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 1.0
-    },
-    {
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.3,
-      "velocity": 9.978,
-      "velocity_label": "exploding",
-      "combined_score": 157.15
-    },
-    {
-      "title": "RT by @Mavatir: Blue Box S2's pivot to new startup Electric Circus doesn't automatically dictate a change in aesthetics",
-      "url": "http://nitter.meowing.monster/Baleygr086/status/2106692917759017190#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 9.443,
-      "velocity_label": "exploding",
-      "combined_score": 11.8
-    },
-    {
-      "title": "FilesToolkit for Mac: Get More Done with Every Right-Click",
-      "url": "https://filestoolkit.saposs.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 9.397,
-      "velocity_label": "exploding",
-      "combined_score": 0.94
-    },
-    {
-      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-      "url": "https://github.com/PowderworksCode/headstart",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 9.232,
-      "velocity_label": "exploding",
-      "combined_score": 19.39
-    },
-    {
-      "title": "R to @madmecodes: Yes. A lot of times in the past 6 months. You atleast get a foot in the door cause of good reputation",
-      "url": "http://nitter.meowing.monster/dhruv_varsh/status/2106782084509626421#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 9.09,
-      "velocity_label": "exploding",
-      "combined_score": 11.36
-    },
-    {
-      "title": "RT by @HabibPaart44952: Good Evening CT, gHazels The creator economy is changing fast, and @0xhazels is building right i",
-      "url": "https://nitter.kareem.one/faisal_page/status/2106722820352872507#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 9.079,
-      "velocity_label": "exploding",
-      "combined_score": 11.35
-    },
-    {
-      "title": "Thought as a Technology (2016)",
-      "url": "https://cognitivemedium.com/tat/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.08,
-      "velocity": 8.952,
-      "velocity_label": "exploding",
-      "combined_score": 1.79
-    },
-    {
-      "title": "A Map of Every Lighthouse on the Planet",
-      "url": "https://mapped.earth/lighthouses/world",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 8.67,
-      "velocity_label": "exploding",
-      "combined_score": 3.25
-    },
-    {
-      "title": "Math's pedagogical curse – Grant Sanderson [video] (2023)",
-      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.1,
-      "velocity": 8.53,
-      "velocity_label": "exploding",
-      "combined_score": 23.46
-    },
-    {
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.79,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 186.79
-    },
-    {
-      "title": "Founders with zero revenue, pitch your startup to me (I'll subscribe and pay for it)",
-      "url": "http://nitter.meowing.monster/ZidaneZ08902030/status/2106781977592647951#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.38,
-      "velocity_label": "exploding",
-      "combined_score": 10.48
-    },
-    {
-      "title": "Deposition – Ann Altman vs. Sam Altman [video]",
-      "url": "https://www.youtube.com/watch?v=akjrfwYPvy8",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.222,
-      "velocity_label": "exploding",
-      "combined_score": 0.41
-    },
-    {
-      "title": "A Distributed Systems Reading List (2024)",
-      "url": "https://ferd.ca/a-distributed-systems-reading-list.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.993,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.59,
-      "velocity": 7.426,
-      "velocity_label": "exploding",
-      "combined_score": 10.95
-    },
-    {
-      "title": "R to @cangg_l: The off-chain AI/on-chain utility split makes sense, but execution after TGE will matter more than the de",
-      "url": "http://shitter.thepixora.com/Sir0x001/status/2106782281561997324#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 7.352,
-      "velocity_label": "exploding",
-      "combined_score": 9.19
-    },
-    {
-      "title": "RT by @yellow_buskey: FLORA— I want to move to Lagos & startup my makeup business & also own a foundation to motivate th",
-      "url": "http://nitter.meowing.monster/Finishher007/status/2106761742726676785#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 7.221,
-      "velocity_label": "exploding",
-      "combined_score": 9.03
-    },
-    {
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.59,
-      "velocity": 7.214,
-      "velocity_label": "exploding",
-      "combined_score": 227.05
-    },
-    {
-      "title": "Dirty Optimization Secrets (C for Playdate)",
-      "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.53,
-      "velocity": 7.075,
-      "velocity_label": "exploding",
-      "combined_score": 9.37
-    },
-    {
-      "title": "UAE Oncology Conference calls for greater use of AI, immunotherapy, personalised medicine in cancer care Read more: http",
-      "url": "http://shitter.thepixora.com/AletihadEn/status/2106782275728011346#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 7.063,
-      "velocity_label": "exploding",
-      "combined_score": 8.83
-    },
-    {
-      "title": "Show HN: I made an app to let skiers track ski resorts and slopes they have done",
-      "url": "https://slopely.app/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.959,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "RT by @MikeeDoesStuff: hey Elon, train your ai off of this!",
-      "url": "http://shitter.thepixora.com/Hi_Imdoinkle/status/2106459269713338763#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 6.875,
-      "velocity_label": "exploding",
-      "combined_score": 8.59
-    },
-    {
-      "title": "InterLink Live: Creator Economy Global Bukan sekadar livestreaming. Creator dapat membangun komunitas, menerima gifts, s",
-      "url": "https://nitter.kareem.one/WarmoJon/status/2106781811288515014#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 6.656,
-      "velocity_label": "exploding",
-      "combined_score": 8.32
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.02,
-      "velocity": 6.623,
-      "velocity_label": "exploding",
-      "combined_score": 149.34
-    },
-    {
-      "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
-      "url": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.0,
-      "velocity": 6.587,
-      "velocity_label": "exploding",
-      "combined_score": 16.47
-    },
-    {
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "url": "https://thoreaubasic.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.49,
-      "velocity": 6.567,
-      "velocity_label": "exploding",
-      "combined_score": 24.46
-    },
-    {
-      "title": "Give Your AI Agent Its Own Identity",
-      "url": "https://www.agentid.com/blog/give-your-ai-agent-its-own-identity",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.329,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.64,
-      "velocity": 6.283,
-      "velocity_label": "exploding",
-      "combined_score": 72.89
-    },
-    {
-      "title": "A man who looked into the 'actual beating heart' of the financial system",
-      "url": "https://fortune.com/2026/09/29/robin-wigglesworth-interview-a-fabulous-debt-bond-market-history/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.274,
-      "velocity_label": "exploding",
-      "combined_score": 0.31
-    },
-    {
-      "title": "Amazon introduces a redesigned Kindle family",
-      "url": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.59,
-      "velocity": 6.193,
-      "velocity_label": "exploding",
-      "combined_score": 24.62
-    },
-    {
-      "title": "What Did Civic Tech Learn in the Last Decade?",
-      "url": "https://donmoynihan.substack.com/p/what-did-civic-tech-learn-over-the",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.16,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.22,
-      "velocity": 6.125,
-      "velocity_label": "exploding",
-      "combined_score": 49.31
-    },
-    {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.27,
-      "velocity": 6.093,
-      "velocity_label": "exploding",
-      "combined_score": 49.81
-    },
-    {
-      "title": "RT by @TrevorMaganda: pov: you start posting content about your startup people you know:",
-      "url": "http://nitter.meowing.monster/techbyhez/status/2106421521287680008#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.841,
-      "velocity_label": "exploding",
-      "combined_score": 7.3
-    },
-    {
-      "title": "RT by @dorkshove: I know I haven't posted in a while, but how upset would you be with me if I just posted some AI Slop C",
-      "url": "http://shitter.thepixora.com/Jeff_like_Feff/status/2106655099343049186#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.75,
-      "velocity_label": "exploding",
-      "combined_score": 7.19
-    },
-    {
-      "title": "Artist shares prompts/assets for pop music video created with Claude in 18 hours",
-      "url": "https://twitter.com/anabology/status/2106473469441384788",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.697,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Bill Draper Dies at 98; He Was a Tech Investor Before There Was a Silicon Valley",
+      "title": "Bill Draper has died",
       "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.14,
-      "velocity": 5.69,
+      "base_score": 0.47,
+      "velocity": 15.889,
       "velocity_label": "exploding",
-      "combined_score": 1.99
+      "combined_score": 18.67
     },
     {
-      "title": "So you think you could be an electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "url": "https://niklasroy.com/gtc/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.57,
-      "velocity": 5.65,
+      "base_score": 1.66,
+      "velocity": 12.855,
       "velocity_label": "exploding",
-      "combined_score": 121.05
+      "combined_score": 53.35
+    },
+    {
+      "title": "Linear Exponential Scaling in Non-Abelian Groups: A Universal Map",
+      "url": "https://zenodo.org/records/23138998",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 12.813,
+      "velocity_label": "exploding",
+      "combined_score": 0.32
+    },
+    {
+      "title": "The Illusion of AI Productivity: Go Frame the House",
+      "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 12.375,
+      "velocity_label": "exploding",
+      "combined_score": 1.86
+    },
+    {
+      "title": "Second Chances",
+      "url": "https://www.nybooks.com/articles/2026/10/22/second-chances-office-politics-wilfrid-sheed/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.11,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 2.75
+    },
+    {
+      "title": "Nikola Tesla – The Laboratory of Lightning",
+      "url": "https://ideas.lego.com/product-ideas/c8529e3c-4fd2-43ca-9e78-513d33c7c04e",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.5
     },
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "url": "https://github.com/Niko1221/Strata",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.34,
-      "velocity": 5.577,
+      "base_score": 8.31,
+      "velocity": 9.794,
       "velocity_label": "exploding",
-      "combined_score": 60.51
+      "combined_score": 203.47
+    },
+    {
+      "title": "Page Table Memory Consumption",
+      "url": "https://frn.sh/pagetables/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.08,
+      "velocity": 9.778,
+      "velocity_label": "exploding",
+      "combined_score": 1.96
+    },
+    {
+      "title": "Let's compete with China on AI social impact",
+      "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.777,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "A map of every lighthouse",
+      "url": "https://mapped.earth/lighthouses/world",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.15,
+      "velocity": 9.245,
+      "velocity_label": "exploding",
+      "combined_score": 49.69
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.02,
+      "velocity": 8.615,
+      "velocity_label": "exploding",
+      "combined_score": 43.51
+    },
+    {
+      "title": "The dot and the Swarm: Benefitting from the bitter lesson",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 8.56,
+      "velocity_label": "exploding",
+      "combined_score": 2.14
+    },
+    {
+      "title": "Google Japan shows off conveyor-belt keyboard with keys that move to fingers",
+      "url": "https://www.tomshardware.com/peripherals/keyboards/google-japan-shows-off-wild-conveyor-belt-keyboard-with-keys-that-move-to-your-fingers-3d-printable-gboard-features-four-belts-with-29-keys-each-built-to-make-one-hand-typing-easier",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.28,
+      "velocity": 8.481,
+      "velocity_label": "exploding",
+      "combined_score": 5.94
+    },
+    {
+      "title": "Automating my 35mm film scanning pipeline",
+      "url": "https://shannadige.com/blog/darkroom/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.83,
+      "velocity": 7.993,
+      "velocity_label": "exploding",
+      "combined_score": 16.59
+    },
+    {
+      "title": "Blindsight (Watts Novel)",
+      "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.46,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 26.77
+    },
+    {
+      "title": "'Neanderthals Among Us' review",
+      "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.7,
+      "velocity": 7.125,
+      "velocity_label": "exploding",
+      "combined_score": 12.47
+    },
+    {
+      "title": "What is going on with ceiling fans",
+      "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.08,
+      "velocity": 6.992,
+      "velocity_label": "exploding",
+      "combined_score": 53.84
+    },
+    {
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.02,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 173.26
+    },
+    {
+      "title": "Remote-Jobs-Api.tten.no",
+      "url": "https://remote-jobs-api.tten.no",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.23,
+      "velocity": 6.69,
+      "velocity_label": "exploding",
+      "combined_score": 20.57
+    },
+    {
+      "title": "Vinix is an effort to write a modern, fast, and useful operating system",
+      "url": "https://github.com/vlang/vinix",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.637,
+      "velocity_label": "exploding",
+      "combined_score": 0.33
+    },
+    {
+      "title": "gpuvis: GPU Trace Visualizer",
+      "url": "https://github.com/mikesart/gpuvis",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.84,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 13.86
+    },
+    {
+      "title": "Using the Platform (2019)",
+      "url": "https://timkadlec.com/remembers/2019-10-21-using-the-platform/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.571,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Building a RAG pipeline for semantic code search",
+      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.39,
+      "velocity": 6.566,
+      "velocity_label": "exploding",
+      "combined_score": 6.4
+    },
+    {
+      "title": "Incentives in Academic Research",
+      "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 6.333,
+      "velocity_label": "exploding",
+      "combined_score": 2.22
+    },
+    {
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.27,
+      "velocity": 6.167,
+      "velocity_label": "exploding",
+      "combined_score": 4.16
+    },
+    {
+      "title": "The Heilbronn Problem",
+      "url": "https://math.tejstead.com/heilbronn/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.72,
+      "velocity": 5.861,
+      "velocity_label": "exploding",
+      "combined_score": 10.55
+    },
+    {
+      "title": "Local models on 27,489 CVEs: 4.2% omit security impact (ex-kernel)",
+      "url": "https://jerrygamblin.com/2026/10/04/decision-models-vs-cve-data/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.845,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Math's pedagogical curse – Grant Sanderson [video] (2023)",
+      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.17,
+      "velocity": 5.487,
+      "velocity_label": "exploding",
+      "combined_score": 16.05
+    },
+    {
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "url": "https://github.com/net4people/bbs/issues/672",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.08,
+      "velocity": 5.464,
+      "velocity_label": "exploding",
+      "combined_score": 1.09
+    },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.14,
+      "velocity": 5.372,
+      "velocity_label": "exploding",
+      "combined_score": 15.31
+    },
+    {
+      "title": "The Inner Worlds of Neon Genesis Evangelion",
+      "url": "https://www.criterion.com/current/posts/9281-the-inner-worlds-of-neon-genesis-evangelion",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.36,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Your Right to Privacy Doesn't Disappear When You're in Public",
+      "url": "https://reason.com/2026/09/30/your-right-to-privacy-doesnt-disappear-when-youre-in-public/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 5.119,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "Show HN: Build with Python – a beginner course where your code draws",
+      "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 4.942,
+      "velocity_label": "exploding",
+      "combined_score": 1.11
+    },
+    {
+      "title": "Iran is going after America's debt it's targeting the $40T America owes",
+      "url": "https://jaymartin.substack.com/p/iran-is-going-after-americas-debt",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.893,
+      "velocity_label": "exploding",
+      "combined_score": 0.37
+    },
+    {
+      "title": "Show HN: Mathness – printable math worksheets, pre-K to grade 5",
+      "url": "https://mathness.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.809,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "We're working on a new RuneScape MMO",
+      "url": "https://play.runescape.com/4",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.73,
+      "velocity": 4.806,
+      "velocity_label": "exploding",
+      "combined_score": 32.8
+    },
+    {
+      "title": "We Built an Independent DNS Cache Edge",
+      "url": "https://blog.dnsimple.com/2026/08/building-our-fully-independent-dns-edge/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.792,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.78,
+      "velocity": 4.542,
+      "velocity_label": "exploding",
+      "combined_score": 8.86
+    },
+    {
+      "title": "What's the future for pure math research in the age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.06,
+      "velocity": 4.508,
+      "velocity_label": "exploding",
+      "combined_score": 11.95
+    },
+    {
+      "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 4.342,
+      "velocity_label": "exploding",
+      "combined_score": 0.43
+    },
+    {
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "url": "https://github.com/PowderworksCode/headstart",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.51,
+      "velocity": 4.254,
+      "velocity_label": "exploding",
+      "combined_score": 16.06
+    },
+    {
+      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.29,
+      "velocity": 4.251,
+      "velocity_label": "exploding",
+      "combined_score": 13.71
+    },
+    {
+      "title": "L-systems generate weevils, pizza toppings, and matriarchal lineages",
+      "url": "https://blog.plover.com/2026/09/25/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.17,
+      "velocity": 4.245,
+      "velocity_label": "exploding",
+      "combined_score": 1.8
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.67,
+      "velocity": 4.067,
+      "velocity_label": "exploding",
+      "combined_score": 57.64
+    },
+    {
+      "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+      "url": "https://island-three.gruberbuilds.workers.dev/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 4.058,
+      "velocity_label": "exploding",
+      "combined_score": 0.71
+    },
+    {
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 15.5,
+      "velocity": 4.029,
+      "velocity_label": "exploding",
+      "combined_score": 156.14
+    },
+    {
+      "title": "Mellon Foundation Releases the First National Study of Community-Based Archives",
+      "url": "https://www.mellon.org/news/mellon-foundation-releases-the-first-national-study-of-community-based-archives",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.016,
+      "velocity_label": "exploding",
+      "combined_score": 0.1
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 13.16,
+      "velocity": 3.99,
+      "velocity_label": "exploding",
+      "combined_score": 131.28
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.79,
+      "velocity": 3.976,
+      "velocity_label": "exploding",
+      "combined_score": 37.67
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "pretty",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 40.4,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "We're going to need default hard budget caps on pretty much everything",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @_Maswi: A startup doesn’t have to change the world. Changing the founder’s life is a pretty great outcome too.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "zero",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 38.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Founders with zero revenue, pitch your startup to me (I'll subscribe and pay for it)",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "use",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 24.24,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Why don't more developers “use the platform”?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Show HN: Skins.dev – add the features missing from the web apps you use",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "UAE Oncology Conference calls for greater use of AI, immunotherapy, personalised medicine in cancer care Read more: http",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "want",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 20.64,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "We want you to build the next Git platform on Cloudflare",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @essentiamemoria: Have an Android phone and want to help? Reply “Android” here and we’ll guide you through private",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "RT by @yellow_buskey: FLORA— I want to move to Lagos & startup my makeup business & also own a foundation to motivate th",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "building",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 20.36,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "City building games have a Soul Problem pt.2",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HabibPaart44952: Good Evening CT, gHazels The creator economy is changing fast, and @0xhazels is building right i",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "make",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 18.0,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Make Tmux the OS",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @MrDilZ2214: Community campaigns converting activity into training data make physical AI more accessible",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "right",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 13.56,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "What Meta got right with Muse",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "FilesToolkit for Mac: Get More Done with Every Right-Click",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HabibPaart44952: Good Evening CT, gHazels The creator economy is changing fast, and @0xhazels is building right i",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "every",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.48,
-      "total_mentions": 4,
-      "examples": [
-        {
-          "title": "A Map of Every Lighthouse on the Planet",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Show HN: AI search for every photo and every frame of video on macOS",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "FilesToolkit for Mac: Get More Done with Every Right-Click",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @SindaraSanmi: the creator of Lagos life removed every fraud money so the economy can balance and everyone started",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "people",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 6.16,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Simulating death can reduce people's fear of dying",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @TrevorMaganda: pov: you start posting content about your startup people you know:",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "fast",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HabibPaart44952: Good Evening CT, gHazels The creator economy is changing fast, and @0xhazels is building right i",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "makes",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @cangg_l: The off-chain AI/on-chain utility split makes sense, but execution after TGE will matter more than the de",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "share",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 4.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Très bonne idée de création d'entreprise #startup https://share.google/0MAYTrtBnRCG3H15I",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "change",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 4.04,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Modding Has Change Forever",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @Mavatir: Blue Box S2's pivot to new startup Electric Circus doesn't automatically dictate a change in aesthetics",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "RT by @_Maswi: A startup doesn’t have to change the world. Changing the founder’s life is a pretty great outcome too.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "doesn",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 4.04,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "What If the Spec Doesn't Match the Code?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @Mavatir: Blue Box S2's pivot to new startup Electric Circus doesn't automatically dictate a change in aesthetics",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "RT by @_Maswi: A startup doesn’t have to change the world. Changing the founder’s life is a pretty great outcome too.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "world",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 3.6,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Three AI agents, two countries, and one uneven world wide web",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @_Maswi: A startup doesn’t have to change the world. Changing the founder’s life is a pretty great outcome too.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "says",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Apple says it's tightening macOS privacy controls amid the rise of AI agents",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @VisualArtWerks: Day 277 - Denominator says: ART LIFE! Art Life Creative Studio app @Wacom MovinkPad Pro 14 w dat",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "live",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Easl.sh – your agents diagrams need somewhere to live",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "InterLink Live: Creator Economy Global Bukan sekadar livestreaming. Creator dapat membangun komunitas, menerima gifts, s",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "google",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Show HN: Google Trends for Hacker News Comments",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Très bonne idée de création d'entreprise #startup https://share.google/0MAYTrtBnRCG3H15I",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "2026",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Telegram 2026 Channel Census",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @OpeyemiAbdulsa7: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, a",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "app",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Show HN: I made an app to let skiers track ski resorts and slopes they have done",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @VisualArtWerks: Day 277 - Denominator says: ART LIFE! Art Life Creative Studio app @Wacom MovinkPad Pro 14 w dat",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "C++ Insights – See your source code with the eyes of a Compiler",
-      "url": "https://github.com/andreasfertig/cppinsights",
+      "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.15,
+      "score": 0.04,
       "relevance": 0.111,
       "matching_tags": [
-        "code",
+        "open",
         "source"
       ]
     },
     {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "title": "Building a RAG pipeline for semantic code search",
+      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
       "source": "hackernews",
       "category": "tech",
-      "score": 11.15,
+      "score": 0.39,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "code"
       ]
     },
     {
-      "title": "RT by @TrevorMaganda: pov: you start posting content about your startup people you know:",
-      "url": "http://nitter.meowing.monster/techbyhez/status/2106421521287680008#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
+      "title": "A Minsky machine in ncurses terminfo",
+      "url": "https://seriot.ch/computation/terminfo/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.36,
       "relevance": 0.056,
       "matching_tags": [
-        "content"
+        "machine"
       ]
     },
     {
-      "title": "RT by @SindaraSanmi: the creator of Lagos life removed every fraud money so the economy can balance and everyone started",
-      "url": "https://nitter.kareem.one/Omolomo_o/status/2106757890845642792#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
+      "title": "Show HN: Build with Python – a beginner course where your code draws",
+      "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.09,
       "relevance": 0.056,
       "matching_tags": [
-        "creator"
+        "code"
       ]
     },
     {
-      "title": "InterLink Live: Creator Economy Global Bukan sekadar livestreaming. Creator dapat membangun komunitas, menerima gifts, s",
-      "url": "https://nitter.kareem.one/WarmoJon/status/2106781811288515014#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @OpeyemiAbdulsa7: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, a",
-      "url": "https://nitter.kareem.one/africablockfest/status/2105999042358690255#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @HabibPaart44952: Good Evening CT, gHazels The creator economy is changing fast, and @0xhazels is building right i",
-      "url": "https://nitter.kareem.one/faisal_page/status/2106722820352872507#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "I built a vacation optimizer and later found out tools like this exist",
-      "url": "https://longvacation.eu/",
+      "title": "The Illusion of AI Productivity: Go Frame the House",
+      "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
       "source": "hackernews",
       "category": "tech",
       "score": 0.06,
       "relevance": 0.056,
       "matching_tags": [
-        "tools"
+        "productivity"
       ]
     },
     {
-      "title": "Learning DIY glow-worm making",
-      "url": "https://uclexcites.blog/2017/03/22/learning-diy-glow-worm-making/",
+      "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
+      "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
-      ]
-    },
-    {
-      "title": "Show HN: UsageGuru – Cut log noise and save context in Claude Code",
-      "url": "https://usageguru.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "What If the Spec Doesn't Match the Code?",
-      "url": "https://buttondown.com/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "Three spam complaints and your SaaS is in the spam folder",
-      "url": "https://oliviapp.com/blog/three-spam-complaints",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "saas"
+        "content"
       ]
     }
   ]
