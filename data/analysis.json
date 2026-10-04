@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-04T04:06:57.849202+00:00",
-  "scrape_timestamp": "2026-10-04T04:05:22.933393+00:00",
-  "total_items_analyzed": 85,
+  "timestamp": "2026-10-04T11:45:04.080423+00:00",
+  "scrape_timestamp": "2026-10-04T11:43:25.520919+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 85,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -27,268 +27,398 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Body Awareness in Goffin's Cockatoos",
-      "url": "https://www.nature.com/articles/s41598-026-57500-7",
+      "title": "Fast Blur with Animated Radius",
+      "url": "https://aras-p.info/blog/2026/10/01/Fast-blur-with-animated-radius/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.45,
-      "velocity": 19.9,
+      "base_score": 0.4,
+      "velocity": 18.792,
       "velocity_label": "exploding",
-      "combined_score": 22.39
+      "combined_score": 18.79
+    },
+    {
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.63,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 298.35
+    },
+    {
+      "title": "The characters of plastics (2024)",
+      "url": "https://yarchive.net/blog/plastics/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.26,
+      "velocity": 14.833,
+      "velocity_label": "exploding",
+      "combined_score": 9.64
+    },
+    {
+      "title": "Weekly Famitsu. One magazine to rule them all",
+      "url": "https://www.forgottenworlds.net/blog/weekly-famitsu-magazine",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 14.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.74
+    },
+    {
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.24,
+      "velocity": 14.438,
+      "velocity_label": "exploding",
+      "combined_score": 8.66
+    },
+    {
+      "title": "Asia-Pacific Journal Series – Introduction: Military AI Has Left the Laboratory",
+      "url": "https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 14.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
+    },
+    {
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.77,
+      "velocity": 13.861,
+      "velocity_label": "exploding",
+      "combined_score": 26.68
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.78,
+      "velocity": 13.693,
+      "velocity_label": "exploding",
+      "combined_score": 95.17
+    },
+    {
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.24,
+      "velocity": 13.367,
+      "velocity_label": "exploding",
+      "combined_score": 41.44
+    },
+    {
+      "title": "The Softmax function and its derivative",
+      "url": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.38,
+      "velocity": 13.25,
+      "velocity_label": "exploding",
+      "combined_score": 12.59
+    },
+    {
+      "title": "Automating my 35mm film scanning pipeline",
+      "url": "https://shannadige.com/blog/darkroom/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.52,
+      "velocity": 13.25,
+      "velocity_label": "exploding",
+      "combined_score": 17.23
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.56,
+      "velocity": 12.645,
+      "velocity_label": "exploding",
+      "combined_score": 112.54
+    },
+    {
+      "title": "A 100k-document RAG knowledge base: an animated walkthrough",
+      "url": "http://ardyadipta.com/blog/rag-pipeline-explainer.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 12.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "Amazon introduces a redesigned Kindle family",
+      "url": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.3,
+      "velocity": 12.3,
+      "velocity_label": "exploding",
+      "combined_score": 39.98
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 11.667,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "So you think you could be an electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.62,
+      "velocity": 10.875,
+      "velocity_label": "exploding",
+      "combined_score": 152.79
+    },
+    {
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 10.436,
+      "velocity_label": "exploding",
+      "combined_score": 1.04
+    },
+    {
+      "title": "Tracking vulnerabilities that credit the Anthropic research team",
+      "url": "https://github.com/patrickmgarrity/Anthropic-Credited-CVEs",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.347,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "Six biology breakthroughs that should have won a Nobel Prize–but didn't",
+      "url": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.149,
+      "velocity_label": "exploding",
+      "combined_score": 0.51
     },
     {
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
       "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.21,
-      "velocity": 18.0,
+      "base_score": 2.77,
+      "velocity": 10.083,
       "velocity_label": "exploding",
-      "combined_score": 99.45
+      "combined_score": 69.83
     },
     {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
-      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "title": "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
+      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.95,
-      "velocity": 16.1,
+      "base_score": 0.06,
+      "velocity": 9.796,
       "velocity_label": "exploding",
-      "combined_score": 38.24
+      "combined_score": 1.47
     },
     {
-      "title": "Ban Flock Act Proposed in the US Sente",
-      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-merkley-unveil-ban-flock-act-to-protect-americans-right-to-privacy/",
+      "title": "The Economics of Scientific Publishing",
+      "url": "https://vishalsingh.org/read/scientific-publishing",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.45,
-      "velocity": 13.567,
+      "base_score": 0.03,
+      "velocity": 9.5,
       "velocity_label": "exploding",
-      "combined_score": 15.26
+      "combined_score": 0.71
     },
     {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.46,
-      "velocity": 12.251,
+      "base_score": 8.0,
+      "velocity": 8.978,
       "velocity_label": "exploding",
-      "combined_score": 105.97
-    },
-    {
-      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
-      "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.52,
-      "velocity": 12.041,
-      "velocity_label": "exploding",
-      "combined_score": 15.65
-    },
-    {
-      "title": "Open ADS-B Telemetry and Flight Dynamics Registry for Flydubai FZ1073",
-      "url": "https://evgeny1971.github.io/fz1073-investigation/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.724,
-      "velocity_label": "exploding",
-      "combined_score": 0.24
-    },
-    {
-      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.35,
-      "velocity": 9.721,
-      "velocity_label": "exploding",
-      "combined_score": 8.51
-    },
-    {
-      "title": "Memory-Safe WebP Decoding",
-      "url": "https://halide.cx/blog/wpd/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.68,
-      "velocity": 9.688,
-      "velocity_label": "exploding",
-      "combined_score": 16.47
-    },
-    {
-      "title": "FTL: A new operating system for clouds",
-      "url": "https://ftl-os.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.5,
-      "velocity": 8.975,
-      "velocity_label": "exploding",
-      "combined_score": 56.09
-    },
-    {
-      "title": "Give your AI agent awareness of what's happening around you",
-      "url": "https://github.com/SyncSo-Inc/syncso",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.925,
-      "velocity_label": "exploding",
-      "combined_score": 0.22
-    },
-    {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.15,
-      "velocity": 8.795,
-      "velocity_label": "exploding",
-      "combined_score": 47.28
-    },
-    {
-      "title": "New York City should carefully measure a new tree",
-      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.69,
-      "velocity": 8.314,
-      "velocity_label": "exploding",
-      "combined_score": 14.34
+      "combined_score": 179.56
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.52,
-      "velocity": 8.062,
+      "base_score": 5.12,
+      "velocity": 8.698,
       "velocity_label": "exploding",
-      "combined_score": 50.79
+      "combined_score": 111.33
     },
     {
-      "title": "Call It Evil: Understanding the Trump Era",
-      "url": "https://wwnorton.co.uk/books/9781324131045-call-it-evil",
+      "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
+      "url": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.8,
+      "base_score": 0.83,
+      "velocity": 8.248,
       "velocity_label": "exploding",
-      "combined_score": 0.39
+      "combined_score": 17.12
     },
     {
-      "title": "RSS Feed Best Practices (2022)",
-      "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+      "title": "How to Write a New York Times Headline (2017)",
+      "url": "https://www.nytimes.com/2017/04/09/insider/how-to-write-a-new-york-times-headline.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.57,
-      "velocity": 7.55,
+      "base_score": 0.03,
+      "velocity": 7.96,
       "velocity_label": "exploding",
-      "combined_score": 10.76
+      "combined_score": 0.6
     },
     {
-      "title": "What's the Future for Pure Math Research in the Age of AI? [Wolfram]",
-      "url": "https://www.youtube.com/watch?v=gPrWX8i1htM",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.5,
+      "velocity": 7.867,
+      "velocity_label": "exploding",
+      "combined_score": 29.5
+    },
+    {
+      "title": "How to hack time, with C2PA",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 7.708,
+      "velocity_label": "exploding",
+      "combined_score": 9.44
+    },
+    {
+      "title": "Body Awareness in Goffin's Cockatoos",
+      "url": "https://www.nature.com/articles/s41598-026-57500-7",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.5,
+      "velocity": 7.708,
+      "velocity_label": "exploding",
+      "combined_score": 9.64
+    },
+    {
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.17,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 41.37
+    },
+    {
+      "title": "Teenager suspected of leading KillSec ransomware group",
+      "url": "https://www.europol.europa.eu/media-press/newsroom/news/teenager-suspected-of-leading-killsec-ransomware-group-law-enforcement-seizes-servers-and-leak-site",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 1.33
+    },
+    {
+      "title": "Quo Vadis, Mathematics?",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.369,
+      "velocity": 7.389,
       "velocity_label": "exploding",
       "combined_score": 0.18
     },
     {
-      "title": "Your body of work thinks back at you",
-      "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 7.12,
-      "velocity_label": "exploding",
-      "combined_score": 6.05
-    },
-    {
-      "title": "Holes (1996-2025)",
-      "url": "https://plato.stanford.edu/entries/holes/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.62,
-      "velocity": 7.093,
-      "velocity_label": "exploding",
-      "combined_score": 10.99
-    },
-    {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.22,
-      "velocity": 6.933,
-      "velocity_label": "exploding",
-      "combined_score": 90.47
-    },
-    {
-      "title": "Woking Electrical Control Room (2016)",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.68,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 29.05
-    },
-    {
-      "title": "Gboard Conveyor Belt Version",
-      "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 6.804,
-      "velocity_label": "exploding",
-      "combined_score": 4.93
-    },
-    {
-      "title": "Ask HN: How different is Apple App Store and Play Store paid apps market",
-      "url": "https://news.ycombinator.com/item?id=49950177",
+      "title": "I Hate Taking Responsibility",
+      "url": "https://news.ycombinator.com/item?id=49952661",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.714,
+      "velocity": 7.333,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 0.18
     },
     {
-      "title": "OpenAI's latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "title": "Docker has always used microVMs (well since 2016)",
+      "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.87,
+      "velocity": 7.075,
+      "velocity_label": "exploding",
+      "combined_score": 15.39
+    },
+    {
+      "title": "Kyber open source remote streaming solution architecture",
+      "url": "https://kyber-27201e.gitlab.io/docs/Architecture/General/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 6.894,
+      "velocity_label": "exploding",
+      "combined_score": 0.69
+    },
+    {
+      "title": "America's Restaurants Face a Dilemma: How to Sell Food in the GLP-1 Era",
+      "url": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.586,
+      "velocity": 6.359,
       "velocity_label": "exploding",
       "combined_score": 0.16
     },
     {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "title": "University asks staff to review some partnerships with China after MI5 warning",
+      "url": "https://www.bbc.com/news/articles/c65yn877dkk0o",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.1,
-      "velocity": 6.431,
+      "base_score": 0.02,
+      "velocity": 6.147,
       "velocity_label": "exploding",
-      "combined_score": 1.61
+      "combined_score": 0.31
     },
     {
-      "title": "How the bad science of AI doomerism is good for big business",
-      "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
+      "title": "New York City should carefully measure a new tree",
+      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 6.414,
+      "base_score": 0.94,
+      "velocity": 6.072,
       "velocity_label": "exploding",
-      "combined_score": 0.96
+      "combined_score": 14.27
     },
     {
-      "title": "The East Asian Fertility Disaster",
-      "url": "https://twitter.com/MoreBirths/status/2097805266473324859",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.05,
+      "velocity": 6.07,
+      "velocity_label": "exploding",
+      "combined_score": 122.16
+    },
+    {
+      "title": "From Ahmes to Ramanujan: A Timeline of Mathematicians",
+      "url": "https://keyurramoliya.com/posts/Mathematicians/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -297,289 +427,131 @@
       "combined_score": 0.15
     },
     {
-      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.83,
-      "velocity": 5.964,
+      "base_score": 4.04,
+      "velocity": 5.995,
       "velocity_label": "exploding",
-      "combined_score": 101.84
+      "combined_score": 60.54
     },
     {
-      "title": "Musk explains why Tesla Robotaxi isn't running at night, and Lidar is the answer",
-      "url": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
+      "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.05,
-      "velocity": 5.839,
+      "base_score": 0.52,
+      "velocity": 5.945,
       "velocity_label": "exploding",
-      "combined_score": 0.73
+      "combined_score": 7.73
     },
     {
-      "title": "Docker has always used microVMs (well since 2016)",
-      "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.54,
-      "velocity": 5.833,
+      "base_score": 1.21,
+      "velocity": 5.876,
       "velocity_label": "exploding",
-      "combined_score": 7.88
+      "combined_score": 17.78
     },
     {
-      "title": "Decoding Looped Transformers Better for Almost Free",
-      "url": "https://arxiv.org/abs/2610.02185",
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.71,
+      "velocity": 5.842,
+      "velocity_label": "exploding",
+      "combined_score": 54.19
+    },
+    {
+      "title": "The EU KIDS Act will make the internet less safe",
+      "url": "https://edri.org/our-work/the-kids-act-will-make-the-internet-less-safe/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.768,
+      "velocity": 5.627,
       "velocity_label": "exploding",
       "combined_score": 0.14
     },
     {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
+      "title": "Memory-Safe WebP Decoding",
+      "url": "https://halide.cx/blog/wpd/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.27,
-      "velocity": 5.737,
+      "base_score": 0.89,
+      "velocity": 5.616,
       "velocity_label": "exploding",
-      "combined_score": 18.22
+      "combined_score": 12.5
     },
     {
-      "title": "AI can clone your indie game, but not its soul",
-      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 5.567,
-      "velocity_label": "exploding",
-      "combined_score": 0.7
-    },
-    {
-      "title": "Automating my 35mm film scanning pipeline",
-      "url": "https://shannadige.com/blog/darkroom/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.37,
-      "velocity": 5.55,
-      "velocity_label": "exploding",
-      "combined_score": 5.13
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.08,
-      "velocity": 5.444,
-      "velocity_label": "exploding",
-      "combined_score": 28.31
-    },
-    {
-      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.0,
-      "velocity": 5.29,
-      "velocity_label": "exploding",
-      "combined_score": 13.23
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.92,
-      "velocity": 4.663,
-      "velocity_label": "exploding",
-      "combined_score": 57.35
-    },
-    {
-      "title": "Math's pedagogical curse – Grant Sanderson [video]",
-      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.28,
-      "velocity": 4.431,
-      "velocity_label": "exploding",
-      "combined_score": 3.1
-    },
-    {
-      "title": "Write Your Own Virtual Machine",
-      "url": "https://www.jmeiners.com/lc3-vm/",
+      "title": "MentaAgent – a self-hosted AI analyst for a company's own files",
+      "url": "https://github.com/DanielKim03/mentaagent",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 4.318,
+      "velocity": 5.438,
       "velocity_label": "exploding",
-      "combined_score": 0.22
+      "combined_score": 0.27
     },
     {
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "url": "https://thoreaubasic.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 4.284,
-      "velocity_label": "exploding",
-      "combined_score": 6.21
-    },
-    {
-      "title": "Packing Unit Squares in Squares: A Survey and New Results",
-      "url": "https://erich-friedman.github.io/papers/squares/squares.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 3.967,
-      "velocity_label": "exploding",
-      "combined_score": 0.3
-    },
-    {
-      "title": "Post-Quantum WireGuard vs. Classical: 37x Keys (2026)",
-      "url": "https://shattered.io/post-quantum-wireguard-vs-classical-wireguard-2026/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 3.927,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "Show HN: SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
-      "url": "https://arxiv.org/abs/2608.08253",
+      "title": "Bait and Switch",
+      "url": "https://www.theatlantic.com/magazine/2026/11/ai-images-hobbies/688674/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 3.908,
+      "velocity": 5.25,
       "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 0.13
     },
     {
-      "title": "Pi-based coding agent with hard budget caps",
-      "url": "https://kimchi.dev/",
+      "title": "Your body of work thinks back at you",
+      "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 3.859,
+      "base_score": 0.81,
+      "velocity": 5.062,
       "velocity_label": "exploding",
-      "combined_score": 0.29
+      "combined_score": 10.25
     },
     {
-      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-      "url": "https://github.com/graphene-data/graphene",
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.39,
-      "velocity": 3.756,
+      "base_score": 0.38,
+      "velocity": 5.012,
       "velocity_label": "exploding",
-      "combined_score": 3.66
-    },
-    {
-      "title": "So You Think You Could Be an Electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.98,
-      "velocity": 3.667,
-      "velocity_label": "exploding",
-      "combined_score": 8.98
-    },
-    {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.08,
-      "velocity": 3.65,
-      "velocity_label": "exploding",
-      "combined_score": 18.98
-    },
-    {
-      "title": "Kansas Legislature's Cuts Compel Fort Hays State Uni to Close Sternberg Museum",
-      "url": "https://kansasreflector.com/2026/09/30/budget-woes-compel-fort-hays-state-university-to-prepare-sternberg-museum-for-closure/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 3.54,
-      "velocity_label": "exploding",
-      "combined_score": 0.09
-    },
-    {
-      "title": "Make Tmux the OS",
-      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.71,
-      "velocity": 3.524,
-      "velocity_label": "exploding",
-      "combined_score": 32.68
-    },
-    {
-      "title": "Amazon introduces a redesigned Kindle family",
-      "url": "https://www.aboutamazon.com/news/devices/new-kindle-lineup-2026",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.56,
-      "velocity": 3.46,
-      "velocity_label": "exploding",
-      "combined_score": 4.84
+      "combined_score": 4.76
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "agent",
-        "coding",
-        "show"
-      ],
-      "concept_hint": "agent + coding + show",
-      "cluster_size": 3,
-      "discussion_count": 3,
-      "void_score": 13.5,
-      "examples": [
-        {
-          "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "source": "hackernews",
-          "matching_keywords": [
-            "agent",
-            "coding",
-            "show"
-          ]
-        },
-        {
-          "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-          "source": "hackernews",
-          "matching_keywords": [
-            "agent",
-            "coding",
-            "show"
-          ]
-        },
-        {
-          "title": "Pi-based coding agent with hard budget caps",
-          "source": "hackernews",
-          "matching_keywords": [
-            "agent",
-            "coding"
-          ]
-        }
-      ]
-    }
-  ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
       "title": "C++ Insights – See your source code with the eyes of a Compiler",
       "url": "https://github.com/andreasfertig/cppinsights",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.86,
+      "score": 2.06,
       "relevance": 0.111,
       "matching_tags": [
         "code",
+        "source"
+      ]
+    },
+    {
+      "title": "Kyber open source remote streaming solution architecture",
+      "url": "https://kyber-27201e.gitlab.io/docs/Architecture/General/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.04,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
         "source"
       ]
     },
@@ -588,65 +560,10 @@
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
       "source": "hackernews",
       "category": "tech",
-      "score": 10.05,
+      "score": 10.98,
       "relevance": 0.056,
       "matching_tags": [
         "open"
-      ]
-    },
-    {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 3.79,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "AI can clone your indie game, but not its soul",
-      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.05,
-      "relevance": 0.056,
-      "matching_tags": [
-        "indie"
-      ]
-    },
-    {
-      "title": "Write Your Own Virtual Machine",
-      "url": "https://www.jmeiners.com/lc3-vm/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.02,
-      "relevance": 0.056,
-      "matching_tags": [
-        "machine"
-      ]
-    },
-    {
-      "title": "Open ADS-B Telemetry and Flight Dynamics Registry for Flydubai FZ1073",
-      "url": "https://evgeny1971.github.io/fz1073-investigation/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
-      ]
-    },
-    {
-      "title": "Lego Machine Plays Tic-Tac-Toe",
-      "url": "https://www.youtube.com/watch?v=soklpa_JZOI",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "machine"
       ]
     }
   ]
