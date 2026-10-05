@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-05T03:51:29.632379+00:00",
-  "scrape_timestamp": "2026-10-05T03:49:50.609574+00:00",
-  "total_items_analyzed": 110,
+  "timestamp": "2026-10-05T13:29:52.530349+00:00",
+  "scrape_timestamp": "2026-10-05T13:28:17.091091+00:00",
+  "total_items_analyzed": 99,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,17 +16,17 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 20,
+      "count": 10,
       "status": "ok"
     }
   },
   "cross_platform_gaps": [
     {
-      "keyword": "platform",
+      "keyword": "future",
       "present_on": [
         "hackernews",
         "twitter"
@@ -38,71 +38,65 @@
       "opportunity_score": 24.0,
       "examples": [
         {
-          "title": "Why don't more developers “use the platform”?",
+          "title": "Apple and a Hacker's Future",
           "source": "hackernews",
-          "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-          "score": 7.26
+          "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+          "score": 1.94
         },
+        {
+          "title": "What's the future for pure math research in the age of AI?",
+          "source": "hackernews",
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+          "score": 1.4
+        },
+        {
+          "title": "Sam Altman Sees the Future. Are We in It? (Part 2 of 2)",
+          "source": "hackernews",
+          "url": "https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2",
+          "score": 0.01
+        },
+        {
+          "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/RohitTudu36875/status/2107097856679227834#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
         {
           "title": "We want you to build the next Git platform on Cloudflare",
           "source": "hackernews",
           "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-          "score": 5.03
+          "score": 5.25
         },
         {
-          "title": "Topscan.me – a new security platform with a new approach to scanning",
-          "source": "hackernews",
-          "url": "https://news.ycombinator.com/item?id=49960159",
-          "score": 0.01
-        },
-        {
-          "title": "R to @H294593: Not folding to sponsors and censoring the platform was critically important. Not doing that was the whole",
+          "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
           "source": "twitter",
-          "url": "https://nitter.kareem.one/evilduck92/status/2106955375073255574#m",
+          "url": "http://shitter.thepixora.com/MeritumMTIcc/status/2107099144615596075#m",
+          "score": 0.5
+        },
+        {
+          "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/RohitTudu36875/status/2107097856679227834#m",
           "score": 0.5
         }
       ]
     },
     {
-      "keyword": "doing",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 4,
-      "opportunity_score": 24.0,
-      "examples": [
-        {
-          "title": "The AI Safety community is unfortunately doing more harm than good",
-          "source": "hackernews",
-          "url": "https://twitter.com/knowerofmarkets/status/2105330652732125602",
-          "score": 0.03
-        },
-        {
-          "title": "How is your country doing on \"AI inside Drones\"?",
-          "source": "hackernews",
-          "url": "https://dronegpt.ai/",
-          "score": 0.01
-        },
-        {
-          "title": "R to @H294593: Not folding to sponsors and censoring the platform was critically important. Not doing that was the whole",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/evilduck92/status/2106955375073255574#m",
-          "score": 0.5
-        },
-        {
-          "title": "R to @zamdoteth: Blah. Bills need to be paid. What's so wrong if he's doing a job to pay bills and work on his startup?",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/SudeeptaAItech/status/2106954758745698374#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "don",
+      "keyword": "platform",
       "present_on": [
         "hackernews",
         "twitter"
@@ -117,18 +111,82 @@
           "title": "Why don't more developers “use the platform”?",
           "source": "hackernews",
           "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-          "score": 7.26
+          "score": 7.99
         },
         {
-          "title": "Agents don't need memory, they need documentation",
+          "title": "We want you to build the next Git platform on Cloudflare",
           "source": "hackernews",
-          "url": "https://liao.gg/blog/agents-dont-need-memory",
-          "score": 7.04
+          "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+          "score": 5.25
         },
         {
-          "title": "New to liquidation? Still don't know what a resale certificate is? Or maybe you run a scratch and dent appliance store a",
+          "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
           "source": "twitter",
-          "url": "https://nitter.kareem.one/RegistixRLP/status/2106955233502933350#m",
+          "url": "http://shitter.thepixora.com/MeritumMTIcc/status/2107099144615596075#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "live",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Show HN: Muro 6.0 – Native Live Wallpapers for macOS, now bigger",
+          "source": "hackernews",
+          "url": "https://murowallpaper.com",
+          "score": 0.06
+        },
+        {
+          "title": "RT by @chandran9482: One Ecosystem. Endless Possibilities. Not just users. A complete economy. 🎥 Live = Creator Economy",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/ra22482/status/2106863073990697066#m",
+          "score": 0.5
+        },
+        {
+          "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/RohitTudu36875/status/2107097856679227834#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "every",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
+          "source": "hackernews",
+          "url": "https://github.com/allenv0/SCM",
+          "score": 2.62
+        },
+        {
+          "title": "A map of every lighthouse",
+          "source": "hackernews",
+          "url": "https://mapped.earth/lighthouses/world",
+          "score": 3.14
+        },
+        {
+          "title": "RT by @david_mankind: the creator of Lagos life removed every fraud money so the economy can balance and everyone starte",
+          "source": "twitter",
+          "url": "http://shitter.thepixora.com/Omolomo_o/status/2106757890845642792#m",
           "score": 0.5
         }
       ]
@@ -136,228 +194,258 @@
   ],
   "velocity_leaders": [
     {
-      "title": "A Minsky machine in ncurses terminfo",
-      "url": "https://seriot.ch/computation/terminfo/",
+      "title": "Watson Jr. memo about CDC 6600 (1963)",
+      "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.47,
-      "velocity": 13.589,
+      "base_score": 1.01,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 15.97
+      "combined_score": 45.45
     },
     {
-      "title": "Xray-core concealed a certificate verification bypass vulnerability",
-      "url": "https://github.com/net4people/bbs/issues/672",
+      "title": "Blindsight (Watts Novel)",
+      "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.67,
-      "velocity": 13.567,
+      "base_score": 2.82,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 22.72
+      "combined_score": 126.9
     },
     {
-      "title": "Second Chances",
-      "url": "https://www.nybooks.com/articles/2026/10/22/second-chances-office-politics-wilfrid-sheed/",
+      "title": "Demystifying Tufte's data-ink ratio",
+      "url": "https://tuftesrazor.scienceux.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.16,
+      "base_score": 1.03,
+      "velocity": 14.743,
+      "velocity_label": "exploding",
+      "combined_score": 37.96
+    },
+    {
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.7,
       "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 5.3
+      "combined_score": 23.19
     },
     {
-      "title": "Fog-Bank: Archiving the oldest webcam feed",
-      "url": "https://fog-bank.org/net",
+      "title": "Infidel goes wild",
+      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.2,
-      "velocity": 13.25,
+      "base_score": 1.96,
+      "velocity": 12.458,
       "velocity_label": "exploding",
-      "combined_score": 6.63
+      "combined_score": 61.05
     },
     {
-      "title": "The evolution of effective altruism",
-      "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.08,
-      "velocity": 12.667,
-      "velocity_label": "exploding",
-      "combined_score": 97.53
-    },
-    {
-      "title": "A man who listens to whales",
-      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "title": "Fixed Points and Strike Mandates (2012)",
+      "url": "https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.17,
-      "velocity": 12.37,
+      "velocity": 12.427,
       "velocity_label": "exploding",
-      "combined_score": 5.26
+      "combined_score": 5.28
     },
     {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.02,
-      "velocity": 11.094,
+      "base_score": 5.66,
+      "velocity": 11.983,
       "velocity_label": "exploding",
-      "combined_score": 28.29
-    },
-    {
-      "title": "The dot and the Swarm: Benefitting from the bitter lesson",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 11.033,
-      "velocity_label": "exploding",
-      "combined_score": 3.86
+      "combined_score": 169.56
     },
     {
       "title": "Self-hosted HTTP tunnels with SSH and Nginx",
       "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.24,
-      "velocity": 10.905,
+      "base_score": 2.18,
+      "velocity": 11.843,
       "velocity_label": "exploding",
-      "combined_score": 33.8
+      "combined_score": 64.54
     },
     {
-      "title": "DeepSeek Builds for Huawei Ascend",
-      "url": "https://www.geopolitechs.org/p/deepseek-builds-for-huawei-ascend",
+      "title": "Lace and Labor: Lessons from the actual Luddites",
+      "url": "https://articlesofinterest.substack.com/p/lace-and-labor",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.833,
+      "base_score": 0.47,
+      "velocity": 11.667,
       "velocity_label": "exploding",
-      "combined_score": 0.27
+      "combined_score": 13.71
     },
     {
-      "title": "Incentives in Academic Research",
-      "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.0,
-      "velocity": 10.611,
+      "base_score": 0.48,
+      "velocity": 11.619,
       "velocity_label": "exploding",
-      "combined_score": 26.53
+      "combined_score": 13.94
     },
     {
-      "title": "AWS European Sovereign Cloud: Demonstrating an Independent Operation",
-      "url": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-demonstrating-an-independent-operation/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 10.031,
+      "title": "R to @0x_Ecko: 0x_Ecko, the creator economy model at 0xhazels gives smaller creators a real chance to grow.",
+      "url": "http://shitter.thepixora.com/kappybruh/status/2107097583160013267#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 11.563,
       "velocity_label": "exploding",
-      "combined_score": 0.75
+      "combined_score": 14.45
     },
     {
-      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
       "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.9,
-      "velocity": 9.711,
+      "base_score": 6.03,
+      "velocity": 10.643,
       "velocity_label": "exploding",
-      "combined_score": 21.85
+      "combined_score": 160.44
     },
     {
-      "title": "RT by @MdRimon488484: Just tried http://Inventable.ai after a buddy put me on it. One prompt and it built me a startup,",
-      "url": "https://nitter.kareem.one/TechElyra/status/2106944097927979044#m",
+      "title": "The Tao of Backup",
+      "url": "http://www.taobackup.com/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.89,
+      "velocity": 10.083,
+      "velocity_label": "exploding",
+      "combined_score": 72.85
+    },
+    {
+      "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
+      "url": "http://shitter.thepixora.com/MeritumMTIcc/status/2107099144615596075#m",
       "source": "twitter",
       "category": "social",
       "base_score": 0.5,
-      "velocity": 9.655,
+      "velocity": 9.755,
       "velocity_label": "exploding",
-      "combined_score": 12.07
+      "combined_score": 12.19
     },
     {
-      "title": "'Neanderthals Among Us' review",
-      "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "title": "RT by @Rosaaa: the creator economy has an attention problem a view tells you someone saw something. a like tells you the",
+      "url": "http://shitter.thepixora.com/WEB3MIM/status/2107008520381956181#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.678,
+      "velocity_label": "exploding",
+      "combined_score": 12.1
+    },
+    {
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.4,
-      "velocity": 9.204,
+      "base_score": 4.53,
+      "velocity": 9.557,
       "velocity_label": "exploding",
-      "combined_score": 32.21
+      "combined_score": 108.23
     },
     {
-      "title": "Page Table Memory Consumption",
-      "url": "https://frn.sh/pagetables/",
+      "title": "Sam Altman Sees the Future. Are We in It? (Part 2 of 2)",
+      "url": "https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.65,
-      "velocity": 9.028,
+      "base_score": 0.01,
+      "velocity": 9.387,
       "velocity_label": "exploding",
-      "combined_score": 14.67
+      "combined_score": 0.23
     },
     {
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "title": "RT by @chandran9482: One Ecosystem. Endless Possibilities. Not just users. A complete economy. 🎥 Live = Creator Economy",
+      "url": "http://shitter.thepixora.com/ra22482/status/2106863073990697066#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.884,
+      "velocity_label": "exploding",
+      "combined_score": 11.11
+    },
+    {
+      "title": "I need to stop looking up reviews for everything I buy",
+      "url": "https://nate.spot/looking-up-reviews/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.625,
+      "velocity_label": "exploding",
+      "combined_score": 0.43
+    },
+    {
+      "title": "RT by @david_mankind: the creator of Lagos life removed every fraud money so the economy can balance and everyone starte",
+      "url": "http://shitter.thepixora.com/Omolomo_o/status/2106757890845642792#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.612,
+      "velocity_label": "exploding",
+      "combined_score": 10.76
+    },
+    {
+      "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+      "url": "http://shitter.thepixora.com/RohitTudu36875/status/2107097856679227834#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.776,
+      "velocity_label": "exploding",
+      "combined_score": 9.72
+    },
+    {
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
       "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.64,
-      "velocity": 8.696,
+      "base_score": 2.07,
+      "velocity": 7.751,
       "velocity_label": "exploding",
-      "combined_score": 13.91
+      "combined_score": 40.11
     },
     {
-      "title": "TurboPython – A Python-to-C++ Compiler",
-      "url": "https://tpy-lang.org/",
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.2,
-      "velocity": 8.284,
+      "base_score": 0.8,
+      "velocity": 7.625,
       "velocity_label": "exploding",
-      "combined_score": 4.14
+      "combined_score": 15.25
     },
     {
-      "title": "R to @H294593: Not folding to sponsors and censoring the platform was critically important. Not doing that was the whole",
-      "url": "https://nitter.kareem.one/evilduck92/status/2106955375073255574#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.074,
-      "velocity_label": "exploding",
-      "combined_score": 10.09
-    },
-    {
-      "title": "Results from the ASIC puzzle",
-      "url": "https://blog.janestreet.com/asic-puzzle-results/",
+      "title": "Observing Earth's Shadow from a Plane",
+      "url": "https://www.hermandaniel.com/blog/20261004-earths-shadow-from-a-plane-window/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.35,
-      "velocity": 7.867,
+      "base_score": 0.04,
+      "velocity": 7.625,
       "velocity_label": "exploding",
-      "combined_score": 26.55
+      "combined_score": 0.76
     },
     {
-      "title": "Bill Draper has died",
-      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "title": "Inference Economics: Gartner's 96 Percent",
+      "url": "https://ailately.com/articles/inference-economics-gartner-96-percent",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.24,
-      "velocity": 7.867,
+      "base_score": 0.01,
+      "velocity": 7.554,
       "velocity_label": "exploding",
-      "combined_score": 24.39
+      "combined_score": 0.19
     },
     {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.77,
-      "velocity": 7.654,
-      "velocity_label": "exploding",
-      "combined_score": 167.81
-    },
-    {
-      "title": "Topscan.me – a new security platform with a new approach to scanning",
-      "url": "https://news.ycombinator.com/item?id=49960159",
+      "title": "Noah Shinn Turns Privacy Complaints into a $10B Round",
+      "url": "https://ailately.com/articles/noah-shinn-instinct-10-billion",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -366,305 +454,248 @@
       "combined_score": 0.19
     },
     {
-      "title": "R to @zamdoteth: Blah. Bills need to be paid. What's so wrong if he's doing a job to pay bills and work on his startup?",
-      "url": "https://nitter.kareem.one/SudeeptaAItech/status/2106954758745698374#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 7.331,
-      "velocity_label": "exploding",
-      "combined_score": 9.16
-    },
-    {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.66,
-      "velocity": 7.15,
-      "velocity_label": "exploding",
-      "combined_score": 29.67
-    },
-    {
-      "title": "List of Lessons",
-      "url": "https://fi-le.net/list/",
+      "title": "Computers in an Audi talk to each other",
+      "url": "https://bogdan.nimblex.net/wired-car/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Type Safe Generic Data Structures in C",
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.43,
+      "velocity": 7.11,
+      "velocity_label": "exploding",
+      "combined_score": 7.64
+    },
+    {
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "url": "https://github.com/net4people/bbs/issues/672",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.01,
       "velocity": 6.917,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 17.46
     },
     {
-      "title": "Postgres: Are we reverting patches because of bugs found by AI?",
-      "url": "https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.85,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "How is your country doing on \"AI inside Drones\"?",
-      "url": "https://dronegpt.ai/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.833,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 6.584,
-      "velocity_label": "exploding",
-      "combined_score": 13.83
-    },
-    {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.27,
-      "velocity": 6.283,
-      "velocity_label": "exploding",
-      "combined_score": 19.95
-    },
-    {
-      "title": "#12YearsOfMakeInIndia Manufacturing momentum has also powered the startup ecosystem. India now has more than 2.5 lakh st",
-      "url": "https://nitter.kareem.one/Rashbihari25/status/2106955311013867651#m",
+      "title": "Seoul, thank you! During @kbwofficial, we co-hosted three events across AI, robotics, trading and the creator economy. I",
+      "url": "http://shitter.thepixora.com/KaitoAI/status/2107093755123949719#m",
       "source": "twitter",
       "category": "social",
       "base_score": 0.5,
-      "velocity": 6.247,
+      "velocity": 6.907,
       "velocity_label": "exploding",
-      "combined_score": 7.81
+      "combined_score": 8.63
     },
     {
-      "title": "The AI Safety community is unfortunately doing more harm than good",
-      "url": "https://twitter.com/knowerofmarkets/status/2105330652732125602",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.126,
-      "velocity_label": "exploding",
-      "combined_score": 0.46
-    },
-    {
-      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "url": "https://niklasroy.com/gtc/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.1,
-      "velocity": 6.053,
-      "velocity_label": "exploding",
-      "combined_score": 31.78
-    },
-    {
-      "title": "Grok Bot (is really good)",
-      "url": "https://jamespember.substack.com/p/grok-bot-is-really-good",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.042,
-      "velocity_label": "exploding",
-      "combined_score": 0.45
-    },
-    {
-      "title": "A 40ms Go garbage collector pause caused by swap",
-      "url": "https://frn.sh/go-gc/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 5.75,
-      "velocity_label": "exploding",
-      "combined_score": 1.01
-    },
-    {
-      "title": "Warner Bros/Paramount to change name to Skydance",
-      "url": "https://filmstories.co.uk/news/warner-bros-paramount-to-change-name-to-skydance/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.06,
-      "velocity": 5.621,
-      "velocity_label": "exploding",
-      "combined_score": 155.41
-    },
-    {
-      "title": "Automating my 35mm film scanning pipeline",
-      "url": "https://shannadige.com/blog/darkroom/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.26,
-      "velocity": 5.46,
-      "velocity_label": "exploding",
-      "combined_score": 17.2
-    },
-    {
-      "title": "Show HN: Ramen – self-hosted multi-zone MCP server for Kubernetes(Rust & Python)",
-      "url": "https://github.com/bkraad47/ramen",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.441,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Rust clean-room replacements for Photoshop",
-      "url": "https://github.com/storytold/photocraft",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.431,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Partnership Overview: Highlights the collaboration between Deltix and Amazon Web Services (AWS) under the AWS Activate S",
-      "url": "https://nitter.kareem.one/Suguna1384105/status/2106954722112614788#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.275,
-      "velocity_label": "exploding",
-      "combined_score": 6.59
-    },
-    {
-      "title": "Show HN: Build with Python – a beginner course where your code draws",
-      "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.45,
-      "velocity": 5.271,
-      "velocity_label": "exploding",
-      "combined_score": 5.93
-    },
-    {
-      "title": "Nix and Home Manager on the steam frame",
-      "url": "https://johns.codes/blog/nix-on-steam-frame",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.176,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "A tribute to one of the best games on the Atari 2600",
-      "url": "https://plicerin.github.io/riverraid-rom-port/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.23,
-      "velocity": 5.164,
-      "velocity_label": "exploding",
-      "combined_score": 2.97
-    },
-    {
-      "title": "The empty brain – Your brain does not process information it is not a computer",
-      "url": "https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer",
+      "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 5.089,
+      "velocity": 6.861,
       "velocity_label": "exploding",
-      "combined_score": 0.25
+      "combined_score": 0.34
     },
     {
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.27,
-      "velocity": 5.048,
-      "velocity_label": "exploding",
-      "combined_score": 3.41
-    },
-    {
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.82,
-      "velocity": 4.969,
-      "velocity_label": "exploding",
-      "combined_score": 22.61
-    },
-    {
-      "title": "Show HN: Side-by-side California ADU cost ledger (800 vs. 400 sq ft)",
-      "url": "https://everylineitem.com/compare/",
+      "title": "Show HN: Native Port of Super Smash Bros. Melee",
+      "url": "https://github.com/nikhilunni/melee",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.929,
+      "velocity": 6.835,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.83,
+      "velocity": 6.571,
+      "velocity_label": "exploding",
+      "combined_score": 30.06
+    },
+    {
+      "title": "Agent session transcripts are precious, keep them",
+      "url": "https://quesma.com/blog/agent-session-transcripts-are-precious/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.245,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Show HN: Twrctrl – Browser-Based Tower and Ground ATC Simulator",
+      "url": "https://twrctrl.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.166,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "We ported the original Doom to SQL",
+      "url": "https://cedardb.com/blog/sqldoom/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.48,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 37.2
+    },
+    {
+      "title": "Incentives in Academic Research",
+      "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.33,
+      "velocity": 5.861,
+      "velocity_label": "exploding",
+      "combined_score": 19.49
+    },
+    {
+      "title": "R to @0x_Ecko: This creator economy truly values contribution over reach",
+      "url": "http://shitter.thepixora.com/holland_ja9781/status/2107097555444408508#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.831,
+      "velocity_label": "exploding",
+      "combined_score": 7.29
+    },
+    {
+      "title": "My small wish for terminal programs (and other programs)",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TerminalProgramsColourModeWish",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.772,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "'Neanderthals Among Us' review",
+      "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.01,
+      "velocity": 5.544,
+      "velocity_label": "exploding",
+      "combined_score": 27.86
+    },
+    {
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.456,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.47,
+      "velocity": 5.345,
+      "velocity_label": "exploding",
+      "combined_score": 19.64
+    },
+    {
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.72,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 75.08
+    },
+    {
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.17,
+      "velocity": 5.238,
+      "velocity_label": "exploding",
+      "combined_score": 41.51
+    },
+    {
+      "title": "Replacement of petroleum based products with plant-based materials (2025)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.56,
+      "velocity": 5.126,
+      "velocity_label": "exploding",
+      "combined_score": 19.99
+    },
+    {
+      "title": "Bill Draper has died",
+      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.91,
+      "velocity": 5.032,
+      "velocity_label": "exploding",
+      "combined_score": 24.03
+    },
+    {
+      "title": "Page Table Memory Consumption",
+      "url": "https://frn.sh/pagetables/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.84,
+      "velocity": 4.792,
+      "velocity_label": "exploding",
+      "combined_score": 10.06
+    },
+    {
+      "title": "Show HN: I'm developing a flat-file agent CMS with WASM plugins in Rust. Free",
+      "url": "https://docs.accentcms.dev/docs/v0.26",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.73,
+      "velocity_label": "exploding",
+      "combined_score": 0.35
+    },
+    {
+      "title": "Recreating Diagrams in Pikchr #2: Dissecting the Story of Mel",
+      "url": "https://blog.andreani.in/blog/41/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.694,
       "velocity_label": "exploding",
       "combined_score": 0.12
     },
     {
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
+      "title": "Results from the ASIC puzzle",
+      "url": "https://blog.janestreet.com/asic-puzzle-results/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 11.02,
-      "velocity": 4.858,
+      "base_score": 1.63,
+      "velocity": 4.489,
       "velocity_label": "exploding",
-      "combined_score": 133.85
-    },
-    {
-      "title": "Irrelevant visual details interfere with decisions under uncertainty",
-      "url": "https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.8,
-      "velocity_label": "exploding",
-      "combined_score": 0.24
+      "combined_score": 18.29
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [
-    {
-      "keyword": "don",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 59.2,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Why don't more developers “use the platform”?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Agents don't need memory, they need documentation",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "New to liquidation? Still don't know what a resale certificate is? Or maybe you run a scratch and dent appliance store a",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
     {
       "keyword": "platform",
       "communities": [
@@ -672,8 +703,8 @@
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 51.2,
-      "total_mentions": 4,
+      "bridge_score": 54.96,
+      "total_mentions": 3,
       "examples": [
         {
           "title": "Why don't more developers “use the platform”?",
@@ -686,91 +717,128 @@
           "category": "tech"
         },
         {
-          "title": "Topscan.me – a new security platform with a new approach to scanning",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @H294593: Not folding to sponsors and censoring the platform was critically important. Not doing that was the whole",
+          "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "run",
+      "keyword": "every",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 46.24,
+      "bridge_score": 25.04,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "A map of every lighthouse",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @david_mankind: the creator of Lagos life removed every fraud money so the economy can balance and everyone starte",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 25.0,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "We want you to build the next Git platform on Cloudflare",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "future",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 15.4,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Apple and a Hacker's Future",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "What's the future for pure math research in the age of AI?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Sam Altman Sees the Future. Are We in It? (Part 2 of 2)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "robotics",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 14.68,
       "total_mentions": 2,
       "examples": [
         {
-          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "New to liquidation? Still don't know what a resale certificate is? Or maybe you run a scratch and dent appliance store a",
+          "title": "Seoul, thank you! During @kbwofficial, we co-hosted three events across AI, robotics, trading and the creator economy. I",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "work",
+      "keyword": "hosted",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 26.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @zamdoteth: Blah. Bills need to be paid. What's so wrong if he's doing a job to pay bills and work on his startup?",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "software",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 8.64,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @Carlittta: La Lincolao dice que el futuro son los software y la startup. Acto seguido le quitan los PC a los cabr",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "http",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 6.96,
+      "bridge_score": 10.72,
       "total_mentions": 2,
       "examples": [
         {
@@ -779,90 +847,63 @@
           "category": "tech"
         },
         {
-          "title": "RT by @MdRimon488484: Just tried http://Inventable.ai after a buddy put me on it. One prompt and it built me a startup,",
+          "title": "Seoul, thank you! During @kbwofficial, we co-hosted three events across AI, robotics, trading and the creator economy. I",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "certificate",
+      "keyword": "live",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 4.68,
+      "bridge_score": 4.24,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Show HN: Muro 6.0 – Native Live Wallpapers for macOS, now bigger",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @chandran9482: One Ecosystem. Endless Possibilities. Not just users. A complete economy. 🎥 Live = Creator Economy",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "doesn",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.6,
       "total_mentions": 2,
       "examples": [
         {
-          "title": "Xray-core concealed a certificate verification bypass vulnerability",
+          "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "New to liquidation? Still don't know what a resale certificate is? Or maybe you run a scratch and dent appliance store a",
+          "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "doing",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 4.16,
-      "total_mentions": 4,
-      "examples": [
-        {
-          "title": "The AI Safety community is unfortunately doing more harm than good",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "How is your country doing on \"AI inside Drones\"?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @H294593: Not folding to sponsors and censoring the platform was critically important. Not doing that was the whole",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "R to @zamdoteth: Blah. Bills need to be paid. What's so wrong if he's doing a job to pay bills and work on his startup?",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "aws",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.12,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "AWS European Sovereign Cloud: Demonstrating an Independent Operation",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Partnership Overview: Highlights the collaboration between Deltix and Amazon Web Services (AWS) under the AWS Activate S",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "now",
+      "keyword": "real",
       "communities": [
         "social",
         "tech"
@@ -872,19 +913,19 @@
       "total_mentions": 2,
       "examples": [
         {
-          "title": "All Games Are Open Source Now",
+          "title": "Ightline – Real-time collaborative CV annotation using CRDTs",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "#12YearsOfMakeInIndia Manufacturing momentum has also powered the startup ecosystem. India now has more than 2.5 lakh st",
+          "title": "R to @0x_Ecko: 0x_Ecko, the creator economy model at 0xhazels gives smaller creators a real chance to grow.",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "maybe",
+      "keyword": "problem",
       "communities": [
         "social",
         "tech"
@@ -894,67 +935,81 @@
       "total_mentions": 2,
       "examples": [
         {
-          "title": "Secret Microsoft Layoffs and Maybe Another \"Voluntary Exit Program\"",
+          "title": "Vanishing Gradient Problem",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "New to liquidation? Still don't know what a resale certificate is? Or maybe you run a scratch and dent appliance store a",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "2026",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Ask HN: What did you think about Digger (2026)?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "明日、当社副社長の東が、「Global Startup EXPO 2026」のセッションに登壇🙌 「フュージョンエネルギーが拓く、地域産業集積とまちづくりの未来」と題し、三菱UFJ銀行様、三井不動産様、JR東日本様とお話しさせていただきます",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "prompt",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @MdRimon488484: Just tried http://Inventable.ai after a buddy put me on it. One prompt and it built me a startup,",
+          "title": "RT by @Rosaaa: the creator economy has an attention problem a view tells you someone saw something. a like tells you the",
           "source": "twitter",
           "category": "social"
         }
       ]
     }
   ],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "0x_ecko",
+        "creator",
+        "creators",
+        "economy"
+      ],
+      "concept_hint": "0x_ecko + creator + creators + economy",
+      "cluster_size": 4,
+      "discussion_count": 7,
+      "void_score": 98.0,
+      "examples": [
+        {
+          "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "creators",
+            "economy"
+          ]
+        },
+        {
+          "title": "RT by @Rosaaa: the creator economy has an attention problem a view tells you someone saw something. a like tells you the",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "economy"
+          ]
+        },
+        {
+          "title": "RT by @chandran9482: One Ecosystem. Endless Possibilities. Not just users. A complete economy. 🎥 Live = Creator Economy",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "economy"
+          ]
+        },
+        {
+          "title": "RT by @david_mankind: the creator of Lagos life removed every fraud money so the economy can balance and everyone starte",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "economy"
+          ]
+        },
+        {
+          "title": "R to @0x_Ecko: 0x_Ecko, the creator economy model at 0xhazels gives smaller creators a real chance to grow.",
+          "source": "twitter",
+          "matching_keywords": [
+            "0x_ecko",
+            "creator",
+            "creators",
+            "economy"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
-      "title": "All Games Are Open Source Now",
-      "url": "https://twitter.com/rehan_shei/status/2106548006350942533",
+      "title": "Show HN: Browsentic Open-source Claude for Chrome alternative for any agent CLI",
+      "url": "https://github.com/imshaikot/browsentic",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
@@ -965,36 +1020,113 @@
       ]
     },
     {
-      "title": "A Minsky machine in ncurses terminfo",
-      "url": "https://seriot.ch/computation/terminfo/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.47,
+      "title": "The creator economy doesn’t need another platform. It needs better infrastructure. Creators publish, build communities,",
+      "url": "http://shitter.thepixora.com/MeritumMTIcc/status/2107099144615596075#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
-        "machine"
+        "creator"
       ]
     },
     {
-      "title": "Show HN: Build with Python – a beginner course where your code draws",
-      "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.45,
+      "title": "RT by @Rosaaa: the creator economy has an attention problem a view tells you someone saw something. a like tells you the",
+      "url": "http://shitter.thepixora.com/WEB3MIM/status/2107008520381956181#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "creator"
       ]
     },
     {
-      "title": "Show HN: Side-by-side California ADU cost ledger (800 vs. 400 sq ft)",
-      "url": "https://everylineitem.com/compare/",
+      "title": "RT by @chandran9482: One Ecosystem. Endless Possibilities. Not just users. A complete economy. 🎥 Live = Creator Economy",
+      "url": "http://shitter.thepixora.com/ra22482/status/2106863073990697066#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "RT by @david_mankind: the creator of Lagos life removed every fraud money so the economy can balance and everyone starte",
+      "url": "http://shitter.thepixora.com/Omolomo_o/status/2106757890845642792#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "The future of creation is decentralized. InterLink Live unites talent, tech, and community under one roof to build the n",
+      "url": "http://shitter.thepixora.com/RohitTudu36875/status/2107097856679227834#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creation"
+      ]
+    },
+    {
+      "title": "R to @0x_Ecko: 0x_Ecko, the creator economy model at 0xhazels gives smaller creators a real chance to grow.",
+      "url": "http://shitter.thepixora.com/kappybruh/status/2107097583160013267#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @0x_Ecko: This creator economy truly values contribution over reach",
+      "url": "http://shitter.thepixora.com/holland_ja9781/status/2107097555444408508#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "𝗧𝗛𝗘 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗘𝗖𝗢𝗡𝗢𝗠𝗬 𝗗𝗢𝗘𝗦𝗡’𝗧 𝗝𝗨𝗦𝗧 𝗡𝗘𝗘𝗗 𝗖𝗢𝗡𝗧𝗘𝗡𝗧 𝗧𝗢𝗢𝗟𝗦. 𝗜𝗧 𝗡𝗘𝗘𝗗𝗦 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘. Think about the modern creator. They researc",
+      "url": "http://shitter.thepixora.com/BON_DEFI/status/2107094894581780847#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Seoul, thank you! During @kbwofficial, we co-hosted three events across AI, robotics, trading and the creator economy. I",
+      "url": "http://shitter.thepixora.com/KaitoAI/status/2107093755123949719#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "How to keep learning in the age of LLMs",
+      "url": "https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "side"
+        "learning"
       ]
     }
   ]
