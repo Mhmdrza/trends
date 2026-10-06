@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-06T04:39:12.782597+00:00",
-  "scrape_timestamp": "2026-10-06T04:37:41.430886+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-10-06T12:42:07.147110+00:00",
+  "scrape_timestamp": "2026-10-06T12:40:24.832264+00:00",
+  "total_items_analyzed": 100,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,543 +16,988 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 90,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "creator",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Photopea creator weighs in on Photosuite project",
+          "source": "hackernews",
+          "url": "https://github.com/eolix/photosuite/issues/77",
+          "score": 2.46
+        },
+        {
+          "title": "R to @Degenweb3play: Oh creator economy side quests seem promising",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Rayleigh_Encryp/status/2107447044176519293#m",
+          "score": 0.5
+        },
+        {
+          "title": "𝗔𝗹𝘁𝗲𝗿𝗲𝗱 𝘀𝘁𝗮𝘁𝗲𝘀 are taking over the creator economy. 𝗙𝗹𝗼𝘄 has become the ultimate cheat code. There are 5 variables you n",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/DeepPresence/status/2107446575807025236#m",
+          "score": 0.5
+        },
+        {
+          "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Degenweb3play/status/2107444421612462186#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @AhmadMuhamxqu0: 🚀 INTERLINK LIVE — THE FUTURE OF CREATOR ECONOMY Creators can build communities, grow their brand",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/saleehidrees1/status/2107340595312160967#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "now",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Friendship ended with Deno, now Node is my best friend",
+          "source": "hackernews",
+          "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+          "score": 4.05
+        },
+        {
+          "title": "Why Common Lisp is now the best programming language",
+          "source": "hackernews",
+          "url": "https://www.vivienhenz.com/common-lisp",
+          "score": 6.43
+        },
+        {
+          "title": "Tests Come for Free Now, and Most of Them Are Pointless",
+          "source": "hackernews",
+          "url": "https://www.vincentschmalbach.com/tests-come-for-free-now-most-of-them-are-pointless/",
+          "score": 0.12
+        },
+        {
+          "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Degenweb3play/status/2107444421612462186#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "global",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Global Solar Atlas: summary of solar power potential globally",
+          "source": "hackernews",
+          "url": "https://globalsolaratlas.info/",
+          "score": 1.4
+        },
+        {
+          "title": "Blockchain creates opportunities that aren't restricted to one country. A developer can build for a global audience. A c",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Degenweb3play/status/2107450872632398047#m",
+          "score": 0.5
+        },
+        {
+          "title": "Creators are becoming entrepreneurs. A photographer can sell digital work. A musician can build a global audience. A wri",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Degenweb3play/status/2107445745682993235#m",
+          "score": 0.5
+        },
+        {
+          "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Degenweb3play/status/2107444421612462186#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "future",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Apple and a hacker's future",
+          "source": "hackernews",
+          "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+          "score": 6.21
+        },
+        {
+          "title": "The Future of Mathematics",
+          "source": "hackernews",
+          "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+          "score": 2.21
+        },
+        {
+          "title": "Why the Future Doesn't Need Us – Bill Joy (2000)",
+          "source": "hackernews",
+          "url": "https://www.wired.com/2000/04/joy-2/",
+          "score": 0.03
+        },
+        {
+          "title": "RT by @AhmadMuhamxqu0: 🚀 INTERLINK LIVE — THE FUTURE OF CREATOR ECONOMY Creators can build communities, grow their brand",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/saleehidrees1/status/2107340595312160967#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "data",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Type Safe Generic Data Structures in C (2025)",
+          "source": "hackernews",
+          "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+          "score": 3.34
+        },
+        {
+          "title": "Denmark data breach exposes 8.8M people's personal data",
+          "source": "hackernews",
+          "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+          "score": 9.97
+        },
+        {
+          "title": "🌐✨ http://B.AI: Safeguarding Sovereign AI Data Ecosystems, Driving Innovation, Powering TRON Web3! Proven success solidi",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Rich79_Capital/status/2107451112496533732#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Hot Flashing Guide Rev. 2.0 (2004)",
-      "url": "https://archive.techarp.com/showarticle504a.html?pgno=0",
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "url": "https://arxiv.org/abs/2610.06783",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.23,
-      "velocity": 19.267,
+      "velocity": 37.0,
       "velocity_label": "exploding",
-      "combined_score": 11.08
+      "combined_score": 21.28
     },
     {
-      "title": "Martian chaos terrain",
-      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.4,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 63.0
-    },
-    {
-      "title": "Mosquitoes Are a Choice",
-      "url": "https://www.worksinprogress.news/p/you-can-just-eradicate-things",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.23,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 10.35
-    },
-    {
-      "title": "The technology to eradicate mosquito-borne disease exists",
-      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.42,
-      "velocity": 15.185,
-      "velocity_label": "exploding",
-      "combined_score": 205.76
-    },
-    {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "url": "https://cses.fi/book/book.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.02,
-      "velocity": 14.607,
-      "velocity_label": "exploding",
-      "combined_score": 73.77
-    },
-    {
-      "title": "Wood Tape (2004)",
-      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 13.667,
-      "velocity_label": "exploding",
-      "combined_score": 1.37
-    },
-    {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 13.68,
-      "velocity": 13.66,
-      "velocity_label": "exploding",
-      "combined_score": 467.19
-    },
-    {
-      "title": "Incident with Actions",
-      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.9,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 62.94
-    },
-    {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.41,
-      "velocity": 13.092,
-      "velocity_label": "exploding",
-      "combined_score": 13.42
-    },
-    {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.82,
-      "velocity": 12.68,
-      "velocity_label": "exploding",
-      "combined_score": 57.69
-    },
-    {
-      "title": "The first fully implanted cochlear implant reaches patients",
-      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.68,
-      "velocity": 12.654,
-      "velocity_label": "exploding",
-      "combined_score": 53.15
-    },
-    {
-      "title": "Whistleblower who flagged Lutnick's links to Epstein dies",
-      "url": "https://www.thebanker.com/content/02286d53-0338-42ef-996d-5f7712b9f133",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.52,
-      "velocity": 12.458,
-      "velocity_label": "exploding",
-      "combined_score": 16.2
-    },
-    {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.42,
-      "velocity": 11.955,
-      "velocity_label": "exploding",
-      "combined_score": 72.33
-    },
-    {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 11.931,
-      "velocity_label": "exploding",
-      "combined_score": 25.05
-    },
-    {
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 16.92
-    },
-    {
-      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "url": "https://github.com/dfd-tud/deda",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.46,
-      "velocity": 11.466,
-      "velocity_label": "exploding",
-      "combined_score": 13.19
-    },
-    {
-      "title": "The lamps in my house",
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.69,
-      "velocity": 10.875,
-      "velocity_label": "exploding",
-      "combined_score": 73.13
-    },
-    {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.22,
-      "velocity": 10.822,
-      "velocity_label": "exploding",
-      "combined_score": 195.34
-    },
-    {
-      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
-      "url": "https://github.com/rsutcliffe/nightwatch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.05,
-      "velocity": 10.748,
-      "velocity_label": "exploding",
-      "combined_score": 28.21
-    },
-    {
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.65,
-      "velocity": 10.046,
-      "velocity_label": "exploding",
-      "combined_score": 91.67
-    },
-    {
-      "title": "Observing the Changescape",
-      "url": "https://changescape.dev/",
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "url": "https://arxiv.org/abs/2610.06783",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 10.0,
+      "velocity": 37.0,
       "velocity_label": "exploding",
-      "combined_score": 0.25
+      "combined_score": 0.93
     },
     {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "url": "https://globalsolaratlas.info/",
+      "title": "Unruly Folded Sheets",
+      "url": "https://literaryreview.co.uk/unruly-folded-sheets",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.56,
-      "velocity": 9.818,
+      "base_score": 0.11,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 13.75
+      "combined_score": 4.95
     },
     {
-      "title": "A single license fee of £100k.00",
-      "url": "https://dbushell.com/copyright/",
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.24,
-      "velocity": 9.75,
+      "base_score": 1.97,
+      "velocity": 14.96,
       "velocity_label": "exploding",
-      "combined_score": 5.85
+      "combined_score": 73.68
     },
     {
-      "title": "Norway Eyes Partial Ban of Smart Glasses",
-      "url": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.66,
-      "velocity": 9.74,
+      "base_score": 0.01,
+      "velocity": 14.0,
       "velocity_label": "exploding",
-      "combined_score": 64.77
+      "combined_score": 0.35
     },
     {
-      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.02,
-      "velocity": 9.634,
+      "base_score": 4.05,
+      "velocity": 13.624,
       "velocity_label": "exploding",
-      "combined_score": 48.65
+      "combined_score": 137.95
     },
     {
-      "title": "Making a GTK application in Haskell, part 1",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "title": "DGX Station GB300 Cluster: Two Towers over 400G DACs",
+      "url": "https://www.storagereview.com/review/dgx-station-gb300-cluster-two-towers-two-400g-dacs",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.99,
-      "velocity": 9.45,
+      "base_score": 0.01,
+      "velocity": 12.723,
       "velocity_label": "exploding",
-      "combined_score": 47.01
-    },
-    {
-      "title": "The AI boom is making the cheapest smartphones disappear",
-      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 9.15,
-      "velocity_label": "exploding",
-      "combined_score": 0.69
-    },
-    {
-      "title": "Linux containers in 500 lines of code (2016)",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.44,
-      "velocity": 9.121,
-      "velocity_label": "exploding",
-      "combined_score": 32.83
-    },
-    {
-      "title": "Using Blu-ray M-Disk as backup of last resort",
-      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.0,
-      "velocity": 8.888,
-      "velocity_label": "exploding",
-      "combined_score": 44.44
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.25,
-      "velocity": 8.857,
-      "velocity_label": "exploding",
-      "combined_score": 116.25
-    },
-    {
-      "title": "Differences Between `Foldl` and `Foldr`",
-      "url": "https://blog.haskell.org/foldl-and-foldr/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.8,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 38.25
-    },
-    {
-      "title": "Iroh Global Content Discovery",
-      "url": "https://www.iroh.computer/blog/iroh-global-content-discovery",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 8.432,
-      "velocity_label": "exploding",
-      "combined_score": 4.22
-    },
-    {
-      "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-      "url": "https://nivdayan.github.io/dostoevsky.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.24,
-      "velocity": 8.169,
-      "velocity_label": "exploding",
-      "combined_score": 4.9
+      "combined_score": 0.32
     },
     {
       "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
       "url": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 8.139,
+      "base_score": 0.2,
+      "velocity": 12.538,
       "velocity_label": "exploding",
-      "combined_score": 1.42
+      "combined_score": 6.27
     },
     {
-      "title": "A 40ms Go garbage collector pause caused by swap",
-      "url": "https://frn.sh/go-gc/",
+      "title": "Photopea creator weighs in on Photosuite project",
+      "url": "https://github.com/eolix/photosuite/issues/77",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.1,
-      "velocity": 7.972,
+      "base_score": 2.46,
+      "velocity": 12.312,
       "velocity_label": "exploding",
-      "combined_score": 61.78
+      "combined_score": 75.72
     },
     {
-      "title": "We ported the original Doom to SQL",
-      "url": "https://cedardb.com/blog/sqldoom/",
+      "title": "Show HN: Entombed in a Raycaster",
+      "url": "https://www.stelabouras.com/blog/entombed-raycaster/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.85,
-      "velocity": 7.708,
+      "base_score": 0.39,
+      "velocity": 11.887,
       "velocity_label": "exploding",
-      "combined_score": 74.19
+      "combined_score": 11.59
     },
     {
-      "title": "Passing the Test You Trained On: Re-Evaluating Prompt-Injection Detectors",
-      "url": "https://arxiv.org/abs/2610.03448",
+      "title": "The AI boom is making the cheapest smartphones disappear",
+      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.614,
+      "base_score": 0.49,
+      "velocity": 11.16,
       "velocity_label": "exploding",
-      "combined_score": 0.38
+      "combined_score": 13.67
     },
     {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.35,
-      "velocity": 7.456,
+      "base_score": 0.92,
+      "velocity": 10.864,
       "velocity_label": "exploding",
-      "combined_score": 99.73
+      "combined_score": 24.99
     },
     {
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
+      "title": "The complement of true is true, except when it's false",
+      "url": "https://dryperspective.github.io/posts/complement-of-true/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.13,
-      "velocity": 7.339,
+      "base_score": 0.38,
+      "velocity": 10.75,
       "velocity_label": "exploding",
-      "combined_score": 39.08
+      "combined_score": 10.21
     },
     {
-      "title": "A Person: Enter the Tildeverse",
-      "url": "https://brennan.day/here-is-a-person-enter-the-tildeverse/",
+      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+      "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.333,
+      "base_score": 0.69,
+      "velocity": 10.539,
       "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Windows Storage Proxy Driver – User mode disk storage",
-      "url": "https://github.com/winfsp/winspd",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.727,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Is it normal for a take-home to require booking real sales demos?",
-      "url": "https://postimg.cc/NKYVtTvW",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.865,
-      "velocity_label": "exploding",
-      "combined_score": 0.44
-    },
-    {
-      "title": "North-South bifurcation in Indian patent filings",
-      "url": "https://www.visualcapitalist.com/sp/adb02-mapped-which-indian-states-file-the-most-patents/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-      "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.62,
-      "velocity": 5.464,
-      "velocity_label": "exploding",
-      "combined_score": 22.13
-    },
-    {
-      "title": "We're cracking recursive self improvement for mobile apps",
-      "url": "https://www.ansight.ai/articles/introducing-ansight-cli/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.278,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "California Prepares to Ban Quartz Countertop Production",
-      "url": "https://www.nytimes.com/2026/10/05/us/politics/quartz-counters-california.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "Async Rust: Where does the scheduler live?",
-      "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.239,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Have and Have Not: The Determinants of Social Status in England, 1600-2026",
-      "url": "https://econjwatch.org/ancillary/book-manuscript-symposium-gregory-clark-on-genetics-and-social-mobility.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.206,
-      "velocity_label": "exploding",
-      "combined_score": 0.39
-    },
-    {
-      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.0,
-      "velocity": 5.163,
-      "velocity_label": "exploding",
-      "combined_score": 103.25
+      "combined_score": 18.18
     },
     {
       "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
       "url": "https://almostimplemented.github.io/jazz-pianist-style/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.47,
-      "velocity": 4.998,
+      "base_score": 0.58,
+      "velocity": 10.385,
       "velocity_label": "exploding",
-      "combined_score": 5.87
+      "combined_score": 15.06
+    },
+    {
+      "title": "Show HN: MailAccess – the true Email OSINT framework",
+      "url": "https://mailaccess.pro",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.13,
+      "velocity": 10.243,
+      "velocity_label": "exploding",
+      "combined_score": 3.33
+    },
+    {
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.15,
+      "velocity": 8.753,
+      "velocity_label": "exploding",
+      "combined_score": 68.93
+    },
+    {
+      "title": "Martian chaos terrain",
+      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.48,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 31.45
+    },
+    {
+      "title": "Mosquitoes Are a Choice",
+      "url": "https://www.worksinprogress.news/p/you-can-just-eradicate-things",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.37,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 7.86
+    },
+    {
+      "title": "Fundamentals of circadian entrainment by light (2021)",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/14771535211014792",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 8.4,
+      "velocity_label": "exploding",
+      "combined_score": 1.05
+    },
+    {
+      "title": "Tests Come for Free Now, and Most of Them Are Pointless",
+      "url": "https://www.vincentschmalbach.com/tests-come-for-free-now-most-of-them-are-pointless/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 8.359,
+      "velocity_label": "exploding",
+      "combined_score": 2.51
+    },
+    {
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.27,
+      "velocity": 8.264,
+      "velocity_label": "exploding",
+      "combined_score": 5.58
+    },
+    {
+      "title": "Show HN: Photoc – Command-line tools for photographers",
+      "url": "https://github.com/ahmetomerv/photoc",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.58,
+      "velocity": 8.082,
+      "velocity_label": "exploding",
+      "combined_score": 11.72
+    },
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 16.28,
+      "velocity": 8.031,
+      "velocity_label": "exploding",
+      "combined_score": 326.86
+    },
+    {
+      "title": "Why Databricks can't match ClickHouse Cloud for real-time analytics",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.965,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.17,
+      "velocity": 7.612,
+      "velocity_label": "exploding",
+      "combined_score": 3.24
+    },
+    {
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.89,
+      "velocity": 7.269,
+      "velocity_label": "exploding",
+      "combined_score": 107.03
+    },
+    {
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.4,
+      "velocity": 6.992,
+      "velocity_label": "exploding",
+      "combined_score": 24.47
+    },
+    {
+      "title": "VMPal – Virtual Machines for Apple Silicon and AI Agents",
+      "url": "https://vmpal.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.889,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "With parallel parking turning competitive, one producer gets a lesson",
+      "url": "https://text.npr.org/nx-s1-5991667",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.821,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Germany: Ex-spy chief arrested for espionage",
+      "url": "https://www.dw.com/en/germany-ex-spy-chief-arrested-for-espionage-reports/a-79560278",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.29,
+      "velocity": 6.75,
+      "velocity_label": "exploding",
+      "combined_score": 4.89
+    },
+    {
+      "title": "Creators are becoming entrepreneurs. A photographer can sell digital work. A musician can build a global audience. A wri",
+      "url": "https://nitter.kareem.one/Degenweb3play/status/2107445745682993235#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.681,
+      "velocity_label": "exploding",
+      "combined_score": 8.35
+    },
+    {
+      "title": "Former German spy chief arrested, suspected of trading state secrets and treason",
+      "url": "https://text.npr.org/g-s1-146630",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.643,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "The methane mega-leaks from UN climate summit host Turkey",
+      "url": "https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-from-un-climate-summit-host-turkey",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.571,
+      "velocity_label": "exploding",
+      "combined_score": 0.33
+    },
+    {
+      "title": "Norway Eyes Partial Ban of Smart Glasses",
+      "url": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.04,
+      "velocity": 6.556,
+      "velocity_label": "exploding",
+      "combined_score": 49.83
+    },
+    {
+      "title": "Why App Store Connect and RevenueCat revenue never match",
+      "url": "https://plask.dev/blog/app-store-connect-vs-revenuecat-revenue",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.502,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.83,
+      "velocity": 6.494,
+      "velocity_label": "exploding",
+      "combined_score": 13.48
+    },
+    {
+      "title": "The first fully implanted cochlear implant reaches patients",
+      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.14,
+      "velocity": 6.493,
+      "velocity_label": "exploding",
+      "combined_score": 34.74
+    },
+    {
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.54,
+      "velocity": 6.413,
+      "velocity_label": "exploding",
+      "combined_score": 40.72
+    },
+    {
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.58,
+      "velocity": 6.389,
+      "velocity_label": "exploding",
+      "combined_score": 41.21
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.95,
+      "velocity": 6.374,
+      "velocity_label": "exploding",
+      "combined_score": 15.14
+    },
+    {
+      "title": "Omnitwine – AI powered professional networking/LinkedIn alternative",
+      "url": "https://omnitwine.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.17,
+      "velocity": 6.312,
+      "velocity_label": "exploding",
+      "combined_score": 50.02
+    },
+    {
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.278,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "RT by @AhmadMuhamxqu0: 🚀 INTERLINK LIVE — THE FUTURE OF CREATOR ECONOMY Creators can build communities, grow their brand",
+      "url": "https://nitter.kareem.one/saleehidrees1/status/2107340595312160967#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.248,
+      "velocity_label": "exploding",
+      "combined_score": 7.81
+    },
+    {
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.1,
+      "velocity": 6.155,
+      "velocity_label": "exploding",
+      "combined_score": 32.32
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.05,
+      "velocity": 6.125,
+      "velocity_label": "exploding",
+      "combined_score": 77.33
+    },
+    {
+      "title": "Ephemeral Testing",
+      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.03,
+      "velocity": 6.125,
+      "velocity_label": "exploding",
+      "combined_score": 15.77
+    },
+    {
+      "title": "AI training of copyrighted material not fair use: Third Circuit",
+      "url": "https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.819,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.86,
+      "velocity": 5.763,
+      "velocity_label": "exploding",
+      "combined_score": 12.39
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
-  "personal_relevance": [
+  "bridge_topics": [
     {
-      "title": "Open Source as We Know It Is Dead",
-      "url": "https://jross.me/open-source-as-we-know-it-is-dead/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.92,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
+      "keyword": "data",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 55.24,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Type Safe Generic Data Structures in C (2025)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Denmark data breach exposes 8.8M people's personal data",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "🌐✨ http://B.AI: Safeguarding Sovereign AI Data Ecosystems, Driving Innovation, Powering TRON Web3! Proven success solidi",
+          "source": "twitter",
+          "category": "social"
+        }
       ]
     },
     {
-      "title": "Show HN: Capbase – Free and Open Source Crunchbase Pitchbook Alternative",
-      "url": "https://capbase.fyi",
+      "keyword": "now",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 44.4,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Friendship ended with Deno, now Node is my best friend",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Why Common Lisp is now the best programming language",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Tests Come for Free Now, and Most of Them Are Pointless",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "future",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 35.8,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Apple and a hacker's future",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The Future of Mathematics",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Why the Future Doesn't Need Us – Bill Joy (2000)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @AhmadMuhamxqu0: 🚀 INTERLINK LIVE — THE FUTURE OF CREATOR ECONOMY Creators can build communities, grow their brand",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "creator",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 17.84,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "Photopea creator weighs in on Photosuite project",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @Degenweb3play: Oh creator economy side quests seem promising",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "𝗔𝗹𝘁𝗲𝗿𝗲𝗱 𝘀𝘁𝗮𝘁𝗲𝘀 are taking over the creator economy. 𝗙𝗹𝗼𝘄 has become the ultimate cheat code. There are 5 variables you n",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @AhmadMuhamxqu0: 🚀 INTERLINK LIVE — THE FUTURE OF CREATOR ECONOMY Creators can build communities, grow their brand",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "global",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 11.6,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Global Solar Atlas: summary of solar power potential globally",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Blockchain creates opportunities that aren't restricted to one country. A developer can build for a global audience. A c",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Creators are becoming entrepreneurs. A photographer can sell digital work. A musician can build a global audience. A wri",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "code",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 9.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Linux containers in 500 lines of code (2016)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "𝗔𝗹𝘁𝗲𝗿𝗲𝗱 𝘀𝘁𝗮𝘁𝗲𝘀 are taking over the creator economy. 𝗙𝗹𝗼𝘄 has become the ultimate cheat code. There are 5 variables you n",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "build",
+        "creator",
+        "creators",
+        "economy"
+      ],
+      "concept_hint": "build + creator + creators + economy",
+      "cluster_size": 4,
+      "discussion_count": 5,
+      "void_score": 40.0,
+      "examples": [
+        {
+          "title": "R to @Degenweb3play: Oh creator economy side quests seem promising",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "economy"
+          ]
+        },
+        {
+          "title": "𝗔𝗹𝘁𝗲𝗿𝗲𝗱 𝘀𝘁𝗮𝘁𝗲𝘀 are taking over the creator economy. 𝗙𝗹𝗼𝘄 has become the ultimate cheat code. There are 5 variables you n",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "economy"
+          ]
+        },
+        {
+          "title": "Creators are becoming entrepreneurs. A photographer can sell digital work. A musician can build a global audience. A wri",
+          "source": "twitter",
+          "matching_keywords": [
+            "build",
+            "creators"
+          ]
+        },
+        {
+          "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+          "source": "twitter",
+          "matching_keywords": [
+            "build",
+            "creator",
+            "creators",
+            "economy"
+          ]
+        },
+        {
+          "title": "RT by @AhmadMuhamxqu0: 🚀 INTERLINK LIVE — THE FUTURE OF CREATOR ECONOMY Creators can build communities, grow their brand",
+          "source": "twitter",
+          "matching_keywords": [
+            "build",
+            "creator",
+            "creators",
+            "economy"
+          ]
+        }
+      ]
+    }
+  ],
+  "personal_relevance": [
+    {
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.06,
+      "score": 0.82,
       "relevance": 0.111,
       "matching_tags": [
-        "open",
-        "source"
+        "learning",
+        "machine"
+      ]
+    },
+    {
+      "title": "R to @Degenweb3play: Oh creator economy side quests seem promising",
+      "url": "https://nitter.kareem.one/Rayleigh_Encryp/status/2107447044176519293#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "creator",
+        "side"
+      ]
+    },
+    {
+      "title": "𝗔𝗹𝘁𝗲𝗿𝗲𝗱 𝘀𝘁𝗮𝘁𝗲𝘀 are taking over the creator economy. 𝗙𝗹𝗼𝘄 has become the ultimate cheat code. There are 5 variables you n",
+      "url": "https://nitter.kareem.one/DeepPresence/status/2107446575807025236#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "creator"
       ]
     },
     {
@@ -560,21 +1005,10 @@
       "url": "https://reflection.ai/blog/introducing-beam",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.35,
+      "score": 7.12,
       "relevance": 0.056,
       "matching_tags": [
         "open"
-      ]
-    },
-    {
-      "title": "Linux containers in 500 lines of code (2016)",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 1.44,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
       ]
     },
     {
@@ -582,43 +1016,32 @@
       "url": "https://github.com/eolix/photosuite/issues/77",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.34,
+      "score": 2.46,
       "relevance": 0.056,
       "matching_tags": [
         "creator"
       ]
     },
     {
-      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
-      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.0,
+      "score": 1.79,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-      "url": "https://almostimplemented.github.io/jazz-pianist-style/",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.47,
+      "score": 1.04,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
-      ]
-    },
-    {
-      "title": "Iroh Global Content Discovery",
-      "url": "https://www.iroh.computer/blog/iroh-global-content-discovery",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.2,
-      "relevance": 0.056,
-      "matching_tags": [
-        "content"
+        "source"
       ]
     },
     {
@@ -626,21 +1049,54 @@
       "url": "https://github.com/ahmetomerv/photoc",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.16,
+      "score": 0.58,
       "relevance": 0.056,
       "matching_tags": [
         "tools"
       ]
     },
     {
-      "title": "Show HN: A Documentation Wayback Machine with Plakar",
-      "url": "https://astro-plakar-wayback.fly.dev/docs/getting-started/installation/",
+      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+      "url": "https://almostimplemented.github.io/jazz-pianist-style/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.02,
+      "score": 0.58,
       "relevance": 0.056,
       "matching_tags": [
-        "machine"
+        "learning"
+      ]
+    },
+    {
+      "title": "The creator economy is changing the relationship between audiences and businesses. Creators can now build global communi",
+      "url": "https://nitter.kareem.one/Degenweb3play/status/2107444421612462186#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "RT by @AhmadMuhamxqu0: 🚀 INTERLINK LIVE — THE FUTURE OF CREATOR ECONOMY Creators can build communities, grow their brand",
+      "url": "https://nitter.kareem.one/saleehidrees1/status/2107340595312160967#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "𝗪𝗛𝗔𝗧 𝗛𝗔𝗣𝗣𝗘𝗡𝗦 𝗪𝗛𝗘𝗡 𝗔𝗜 𝗠𝗔𝗞𝗘𝗦 𝗠𝗨𝗦𝗜𝗖 𝗔𝗦 𝗘𝗔𝗦𝗬 𝗔𝗦 𝗧𝗬𝗣𝗜𝗡𝗚 𝗔 𝗣𝗥𝗢𝗠𝗣𝗧? Creation becomes abundant. Anyone can potentially experimen",
+      "url": "https://nitter.kareem.one/Yulancrypto/status/2107443229347991659#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creation"
       ]
     }
   ]
