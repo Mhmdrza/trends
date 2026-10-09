@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-08T22:50:21.596463+00:00",
-  "scrape_timestamp": "2026-10-08T22:48:37.102241+00:00",
-  "total_items_analyzed": 110,
+  "timestamp": "2026-10-09T04:23:41.377942+00:00",
+  "scrape_timestamp": "2026-10-09T04:22:00.034203+00:00",
+  "total_items_analyzed": 98,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,17 +16,17 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
-      "count": 20,
+      "count": 10,
       "status": "ok"
     }
   },
   "cross_platform_gaps": [
     {
-      "keyword": "isn",
+      "keyword": "tools",
       "present_on": [
         "hackernews",
         "twitter"
@@ -38,117 +38,21 @@
       "opportunity_score": 18.0,
       "examples": [
         {
-          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
           "source": "hackernews",
-          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-          "score": 6.71
+          "url": "https://svg-spark.vercel.app/",
+          "score": 0.46
         },
         {
-          "title": "Model Collapse Isn't New, nor Is It Specific to AI",
+          "title": "QuakePy: Set of tools for statistical analyses of earthquake catalogs",
           "source": "hackernews",
-          "url": "https://rulr.dev/blog/model-collapse-isnt-new/",
-          "score": 0.1
+          "url": "https://quake.ethz.ch/quakepy/",
+          "score": 0.01
         },
         {
-          "title": "AI IS MOVING FROM SOMETHING WE USE TO SOMETHING WE BUILD WITH AI adoption is moving quickly. But the bigger shift isn't",
+          "title": "The creator economy is entering a new phase as AI tools become more accessible. $COOKIE is associated with Cookie DAO, w",
           "source": "twitter",
-          "url": "http://shitter.thepixora.com/johnpauldooga/status/2108327215331148223#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "data",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "AI-ready biological data: $1.8B global commitment",
-          "source": "hackernews",
-          "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-          "score": 0.36
-        },
-        {
-          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-          "source": "hackernews",
-          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-          "score": 5.37
-        },
-        {
-          "title": "R to @vxunderground: This is just marketing. The term AI has been made toxic by all the lies about data centers. Easiest",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/Ruth_Kant_/status/2108329114155315360#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "now",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-          "source": "hackernews",
-          "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-          "score": 3.37
-        },
-        {
-          "title": "We have LLMs now. Why are the docs still wrong?",
-          "source": "hackernews",
-          "url": "https://amendary.com/blog/keeping-docs-in-sync-with-code",
-          "score": 0.06
-        },
-        {
-          "title": "Fun stuff from our team on Marketplace/Economy and Creator teams. IP holders can now license their avatar items :) https",
-          "source": "twitter",
-          "url": "http://shitter.thepixora.com/jdamji/status/2108312051160687018#m",
-          "score": 0.5
-        }
-      ]
-    },
-    {
-      "keyword": "bubble",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
-          "source": "hackernews",
-          "url": "https://github.com/p10node/k10s",
-          "score": 1.25
-        },
-        {
-          "title": "RT by @HallGrahamnn: Macro investor Jordi Visser says fears of an AI bubble are missing a bigger risk: a coming “bankpoc",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/Benzinga/status/2108329088423465097#m",
-          "score": 0.5
-        },
-        {
-          "title": "R to @adolfont: Idk when, I suppose if it's really malinvestment and a bubble, then it can crash the stock market. So fa",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/syndrome4ever/status/2108329108149293474#m",
+          "url": "http://shitter.thepixora.com/iiam_Akshay/status/2108407116302324073#m",
           "score": 0.5
         }
       ]
@@ -156,690 +60,631 @@
   ],
   "velocity_leaders": [
     {
-      "title": "Time Travel in Braid (2015)",
-      "url": "https://qntm.org/braid",
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.62,
-      "velocity": 15.863,
+      "base_score": 5.05,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 64.24
+      "combined_score": 227.25
     },
     {
-      "title": "The value of not getting to the point (2015)",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "title": "Vanillin provides a sweet solution for chronic wound healing",
+      "url": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.25,
-      "velocity": 11.942,
+      "base_score": 0.37,
+      "velocity": 16.643,
       "velocity_label": "exploding",
-      "combined_score": 37.32
+      "combined_score": 15.39
     },
     {
-      "title": "15-year search for a band that charted once and vanished",
-      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "title": "\"A Node.js project template that will not install Node with curl – sh",
+      "url": "https://github.com/fulldecent/node.js-template",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.32,
-      "velocity": 11.431,
+      "base_score": 0.01,
+      "velocity": 16.311,
       "velocity_label": "exploding",
-      "combined_score": 152.04
+      "combined_score": 0.41
     },
     {
-      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.88,
-      "velocity": 11.289,
+      "base_score": 4.34,
+      "velocity": 15.135,
       "velocity_label": "exploding",
-      "combined_score": 165.95
+      "combined_score": 164.21
     },
     {
-      "title": "Anne Carson wins Nobel Prize in literature 2026",
-      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed",
+      "url": "https://www.bbc.com/news/articles/cmy0r96xygx6o",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.99,
-      "velocity": 10.715,
+      "base_score": 0.81,
+      "velocity": 14.286,
       "velocity_label": "exploding",
-      "combined_score": 53.3
+      "combined_score": 28.93
     },
     {
-      "title": "Calling a function in C without naming it",
-      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+      "title": "New CRAM method offers giant boost to compressed memory reads",
+      "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.36,
-      "velocity": 10.707,
+      "base_score": 0.76,
+      "velocity": 13.976,
       "velocity_label": "exploding",
-      "combined_score": 9.64
+      "combined_score": 26.55
     },
     {
-      "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
-      "url": "https://huggingface.co/joe-gibbs/terrainsr",
+      "title": "New gTLD Application for .lan",
+      "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.23,
-      "velocity": 10.384,
+      "base_score": 3.15,
+      "velocity": 13.778,
       "velocity_label": "exploding",
-      "combined_score": 5.97
+      "combined_score": 108.5
     },
     {
-      "title": "AI IS MOVING FROM SOMETHING WE USE TO SOMETHING WE BUILD WITH AI adoption is moving quickly. But the bigger shift isn't",
-      "url": "http://shitter.thepixora.com/johnpauldooga/status/2108327215331148223#m",
+      "title": "🐾 MORNING FETCH — OCTOBER 9 Last night we asked whether TapeUP's circuit surge was one evening. It was not one evening,",
+      "url": "http://shitter.thepixora.com/Shibabem/status/2108408092304031865#m",
       "source": "twitter",
       "category": "social",
       "base_score": 0.5,
-      "velocity": 10.212,
+      "velocity": 13.556,
       "velocity_label": "exploding",
-      "combined_score": 12.77
+      "combined_score": 16.94
     },
     {
-      "title": "Spinal: A near-instant, predictive surface for any codebase",
-      "url": "https://spinal.sh/",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.28,
+      "velocity": 13.448,
+      "velocity_label": "exploding",
+      "combined_score": 143.89
+    },
+    {
+      "title": ".md File is not a specification: Using formal analysis to find requirements gaps",
+      "url": "https://blog.fizzbee.ai/formal-analysis-in-requirements-specification/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.38,
+      "velocity": 13.03,
+      "velocity_label": "exploding",
+      "combined_score": 12.38
+    },
+    {
+      "title": "Public will be able to watch Fort Hood shooter's execution, Hegseth says",
+      "url": "https://www.usatoday.com/story/news/crime/2026/10/08/nidal-hasan-execution-public-firing-squad/92159829007/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 9.398,
+      "velocity": 12.76,
       "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "Agent Traces",
-      "url": "https://huggingface.co/datasets/harvardMadsys/freeinference_agentic_trace",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.27,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "A growing collection of front end interview demos, built without frameworks",
-      "url": "https://brysonbw.github.io/js-demos/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.263,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 8.783,
-      "velocity_label": "exploding",
-      "combined_score": 1.1
-    },
-    {
-      "title": "Telnet BBS Guide",
-      "url": "https://www.telnetbbsguide.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.42,
-      "velocity": 8.711,
-      "velocity_label": "exploding",
-      "combined_score": 30.92
-    },
-    {
-      "title": "Build and Train a 25M Parameter LLM from Scratch on Your CPU",
-      "url": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.531,
-      "velocity_label": "exploding",
-      "combined_score": 0.21
-    },
-    {
-      "title": "DuckDB Ducklake",
-      "url": "https://github.com/duckdb/ducklake",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.15,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 24.44
-    },
-    {
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.34,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 70.97
-    },
-    {
-      "title": "Pentagon to livestream military execution of Ft Hood shooter",
-      "url": "https://abc7.com/post/pentagon-says-firing-squad-execution-fort-hood-shooter-nidal-malik-hasan-will-livestreamed/19922832/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.417,
-      "velocity_label": "exploding",
-      "combined_score": 0.42
-    },
-    {
-      "title": "RT by @HallGrahamnn: Macro investor Jordi Visser says fears of an AI bubble are missing a bigger risk: a coming “bankpoc",
-      "url": "https://nitter.kareem.one/Benzinga/status/2108329088423465097#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.324,
-      "velocity_label": "exploding",
-      "combined_score": 10.4
-    },
-    {
-      "title": "OLED burn-in test: 30-month update",
-      "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.47,
-      "velocity": 8.289,
-      "velocity_label": "exploding",
-      "combined_score": 30.46
-    },
-    {
-      "title": "Virgil –a CLI that routes tasks through a local library before calling any model",
-      "url": "https://virgil-ai.cloud/intro",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 8.146,
-      "velocity_label": "exploding",
-      "combined_score": 0.61
-    },
-    {
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 15.01,
-      "velocity": 8.03,
-      "velocity_label": "exploding",
-      "combined_score": 301.31
-    },
-    {
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.37,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 203.94
-    },
-    {
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "url": "https://news.ycombinator.com/item?id=49985548",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.73,
-      "velocity": 7.791,
-      "velocity_label": "exploding",
-      "combined_score": 33.69
-    },
-    {
-      "title": "Model Collapse Isn't New, nor Is It Specific to AI",
-      "url": "https://rulr.dev/blog/model-collapse-isnt-new/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 7.715,
-      "velocity_label": "exploding",
-      "combined_score": 1.93
-    },
-    {
-      "title": "Repeated US Treasury interventions risk an erosion of credibility",
-      "url": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.667,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.56,
-      "velocity": 7.467,
-      "velocity_label": "exploding",
-      "combined_score": 29.12
-    },
-    {
-      "title": "A Terminal Protocol for Program Status (OSC 7501)",
-      "url": "https://mitchellh.com/writing/program-status-osc7501",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.97,
-      "velocity": 7.313,
-      "velocity_label": "exploding",
-      "combined_score": 17.74
-    },
-    {
-      "title": "Float and integer arithmetic follow two different paradigms",
-      "url": "https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.86,
-      "velocity": 7.286,
-      "velocity_label": "exploding",
-      "combined_score": 15.67
-    },
-    {
-      "title": "This San Francisco Restaurant Tried Pay-What-You-Can Dining and It's Going Great",
-      "url": "https://sf.eater.com/restaurant-news/213772/merchant-roots-pay-what-you-can-update-san-francisco",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.271,
-      "velocity_label": "exploding",
-      "combined_score": 0.73
-    },
-    {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.72,
-      "velocity": 7.125,
-      "velocity_label": "exploding",
-      "combined_score": 101.89
-    },
-    {
-      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "url": "https://news.ycombinator.com/item?id=50006366",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.11,
-      "velocity": 7.046,
-      "velocity_label": "exploding",
-      "combined_score": 160.47
-    },
-    {
-      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-      "url": "https://www.nature.com/articles/s41586-026-10546-z",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.59,
-      "velocity": 6.877,
-      "velocity_label": "exploding",
-      "combined_score": 10.14
+      "combined_score": 0.32
     },
     {
       "title": "Sub-1-Bit LLM Compression via Latent Factorization",
       "url": "https://github.com/SamsungLabs/LittleBit",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.1,
-      "velocity": 6.755,
+      "base_score": 1.12,
+      "velocity": 12.752,
       "velocity_label": "exploding",
-      "combined_score": 18.58
+      "combined_score": 35.71
     },
     {
-      "title": "Qwen3.8-27B at ~200 tok/s peak on an Apple M5 Max",
-      "url": "https://twitter.com/JiaZhihao/status/2108249739414147259",
+      "title": "The dawn of the age of the exoskeleton",
+      "url": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.748,
+      "base_score": 1.25,
+      "velocity": 12.458,
       "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "What Are the Remaining Millennium Prize Problems?",
-      "url": "https://www.nytimes.com/2026/10/08/science/millennium-prize-problems-explainer.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.717,
-      "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.71,
-      "velocity": 6.625,
-      "velocity_label": "exploding",
-      "combined_score": 111.14
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.37,
-      "velocity": 6.564,
-      "velocity_label": "exploding",
-      "combined_score": 88.12
-    },
-    {
-      "title": "🎉ANNOUNCEMENT: ENTERTAINMENT, COMMUNITY ENGAGEMENT & REWARD OPPORTUNITIES ACROSS THE TRON ECOSYSTEM The future of blockc",
-      "url": "http://shitter.thepixora.com/VKESH_AD/status/2108322373166326073#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 6.416,
-      "velocity_label": "exploding",
-      "combined_score": 8.02
-    },
-    {
-      "title": "Changes to Microsoft 365 Storage",
-      "url": "https://support.microsoft.com/en-us/onedrive/changes-to-microsoft-365-storage",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.083,
-      "velocity_label": "exploding",
-      "combined_score": 0.61
-    },
-    {
-      "title": "We have LLMs now. Why are the docs still wrong?",
-      "url": "https://amendary.com/blog/keeping-docs-in-sync-with-code",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.942,
-      "velocity_label": "exploding",
-      "combined_score": 0.89
-    },
-    {
-      "title": "US man given prison sentence for bot-farming music streams",
-      "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.42,
-      "velocity": 5.931,
-      "velocity_label": "exploding",
-      "combined_score": 35.88
-    },
-    {
-      "title": "Show HN: I Put an AI Agent on a Nokia 110",
-      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 5.816,
-      "velocity_label": "exploding",
-      "combined_score": 4.94
-    },
-    {
-      "title": "Clojure in the age of language models",
-      "url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.51,
-      "velocity": 5.774,
-      "velocity_label": "exploding",
-      "combined_score": 7.36
-    },
-    {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 5.596,
-      "velocity_label": "exploding",
-      "combined_score": 5.04
-    },
-    {
-      "title": "Atomic Machines – The Matter Compiler",
-      "url": "https://www.atomicmachines.com/matter-compiler",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.45,
-      "velocity_label": "exploding",
-      "combined_score": 0.27
-    },
-    {
-      "title": "How to Make a Compute-Bound Problem Actually Compute-Bound",
-      "url": "https://yang-yifan.github.io/blogs/reg_tile/reg_tile.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.264,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "AI Coding Tools – Architecture diagrams, local models, and SWE-bench",
-      "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.224,
-      "velocity_label": "exploding",
-      "combined_score": 0.78
-    },
-    {
-      "title": "Voters are split on whether or not to save Bay Area public transit",
-      "url": "https://www.sfgate.com/politics/article/muni-bart-tax-measure-22465205.php",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.215,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
+      "combined_score": 38.93
     },
     {
       "title": "OpenAI annualised revenues $20B less than previously signalled",
       "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.95,
-      "velocity": 5.193,
+      "base_score": 7.36,
+      "velocity": 12.21,
       "velocity_label": "exploding",
-      "combined_score": 90.23
+      "combined_score": 224.66
     },
     {
-      "title": "Fun stuff from our team on Marketplace/Economy and Creator teams. IP holders can now license their avatar items :) https",
-      "url": "http://shitter.thepixora.com/jdamji/status/2108312051160687018#m",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.54,
+      "velocity": 12.119,
+      "velocity_label": "exploding",
+      "combined_score": 46.66
+    },
+    {
+      "title": "US man given prison sentence for bot-farming music streams",
+      "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.8,
+      "velocity": 11.601,
+      "velocity_label": "exploding",
+      "combined_score": 139.21
+    },
+    {
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 30.24,
+      "velocity": 11.44,
+      "velocity_label": "exploding",
+      "combined_score": 864.9
+    },
+    {
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.94,
+      "velocity": 11.271,
+      "velocity_label": "exploding",
+      "combined_score": 54.66
+    },
+    {
+      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "url": "https://www.nature.com/articles/s41586-026-10546-z",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.17,
+      "velocity": 11.208,
+      "velocity_label": "exploding",
+      "combined_score": 32.78
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.03,
+      "velocity": 10.536,
+      "velocity_label": "exploding",
+      "combined_score": 53.47
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.86,
+      "velocity": 10.463,
+      "velocity_label": "exploding",
+      "combined_score": 257.91
+    },
+    {
+      "title": "What should we tell our students?",
+      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.43,
+      "velocity": 10.227,
+      "velocity_label": "exploding",
+      "combined_score": 36.56
+    },
+    {
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.26,
+      "velocity": 10.218,
+      "velocity_label": "exploding",
+      "combined_score": 6.64
+    },
+    {
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "url": "https://naturalsystems.io/eth68",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.1,
+      "velocity": 10.038,
+      "velocity_label": "exploding",
+      "combined_score": 52.7
+    },
+    {
+      "title": "Candy Box",
+      "url": "https://candybox2.github.io/candybox/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "url": "https://mitchellh.com/writing/program-status-osc7501",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.79,
+      "velocity": 9.635,
+      "velocity_label": "exploding",
+      "combined_score": 43.12
+    },
+    {
+      "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+      "url": "https://github.com/ymcrcat/rgpu",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 9.587,
+      "velocity_label": "exploding",
+      "combined_score": 11.74
+    },
+    {
+      "title": "Float and integer arithmetic follow two different paradigms",
+      "url": "https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.9,
+      "velocity": 9.509,
+      "velocity_label": "exploding",
+      "combined_score": 21.4
+    },
+    {
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.66,
+      "velocity": 9.473,
+      "velocity_label": "exploding",
+      "combined_score": 39.31
+    },
+    {
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "url": "https://news.ycombinator.com/item?id=50006366",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.87,
+      "velocity": 9.472,
+      "velocity_label": "exploding",
+      "combined_score": 233.71
+    },
+    {
+      "title": "I feel like some people don’t realize how formal, organized, and completely offshored the bot/buzzer economy is lol. Was",
+      "url": "http://shitter.thepixora.com/eroscestlavie_x/status/2108405400475521231#m",
       "source": "twitter",
       "category": "social",
       "base_score": 0.5,
-      "velocity": 5.185,
+      "velocity": 9.416,
       "velocity_label": "exploding",
-      "combined_score": 6.48
+      "combined_score": 11.77
+    },
+    {
+      "title": "Spinal: A near-instant, predictive surface for any codebase",
+      "url": "https://spinal.sh/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 9.387,
+      "velocity_label": "exploding",
+      "combined_score": 5.4
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 11.28,
+      "velocity": 9.32,
+      "velocity_label": "exploding",
+      "combined_score": 262.84
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.26,
+      "velocity": 9.292,
+      "velocity_label": "exploding",
+      "combined_score": 191.87
+    },
+    {
+      "title": "$MAGIC — Treasure Treasure is a decentralized gaming and entertainment ecosystem powered by MAGIC. The idea is simple: C",
+      "url": "http://shitter.thepixora.com/rea1_degen/status/2108407706122121297#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.131,
+      "velocity_label": "exploding",
+      "combined_score": 11.41
+    },
+    {
+      "title": "Orkut.com",
+      "url": "https://orkut.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.42,
+      "velocity": 9.0,
+      "velocity_label": "exploding",
+      "combined_score": 76.95
+    },
+    {
+      "title": "Hazels NFTs are minting on October 14 via opensea. What makes @0xhazels interesting is the utility behind ownership, con",
+      "url": "http://shitter.thepixora.com/carte_free/status/2108411071321051363#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.963,
+      "velocity_label": "exploding",
+      "combined_score": 11.2
+    },
+    {
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.34,
+      "velocity": 8.913,
+      "velocity_label": "exploding",
+      "combined_score": 118.99
+    },
+    {
+      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "url": "https://pocketty.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.45,
+      "velocity": 8.644,
+      "velocity_label": "exploding",
+      "combined_score": 9.72
+    },
+    {
+      "title": "Iran's drones hit America's Achilles heel",
+      "url": "https://www.politico.com/news/2026/10/08/iran-drones-us-military-weakness-01110970",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 8.444,
+      "velocity_label": "exploding",
+      "combined_score": 4.86
+    },
+    {
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "url": "https://svg-spark.vercel.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.46,
+      "velocity": 8.278,
+      "velocity_label": "exploding",
+      "combined_score": 9.52
+    },
+    {
+      "title": "Time Travel in Braid (2015)",
+      "url": "https://qntm.org/braid",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.68,
+      "velocity": 7.958,
+      "velocity_label": "exploding",
+      "combined_score": 33.42
+    },
+    {
+      "title": "$AUDIO — Audius Audius is a decentralized music-streaming platform designed to give artists a more direct relationship w",
+      "url": "http://shitter.thepixora.com/rea1_degen/status/2108411424737567036#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.765,
+      "velocity_label": "exploding",
+      "combined_score": 9.71
+    },
+    {
+      "title": "Anger as man sentenced to death for Facebook comment",
+      "url": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.17,
+      "velocity": 7.361,
+      "velocity_label": "exploding",
+      "combined_score": 3.13
+    },
+    {
+      "title": "Can Reading Make You Happier? (2015)",
+      "url": "https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.192,
+      "velocity_label": "exploding",
+      "combined_score": 0.54
+    },
+    {
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "url": "https://news.ycombinator.com/item?id=49985548",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.13,
+      "velocity": 6.64,
+      "velocity_label": "exploding",
+      "combined_score": 85.15
+    },
+    {
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.43,
+      "velocity": 6.577,
+      "velocity_label": "exploding",
+      "combined_score": 7.07
+    },
+    {
+      "title": "Automating Java API Integrations with Gemini CLI",
+      "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.165,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.14,
+      "velocity": 6.15,
+      "velocity_label": "exploding",
+      "combined_score": 17.53
+    },
+    {
+      "title": "Beyond n log n: Integer multiplication",
+      "url": "https://beyond-n-log-n.netlify.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.083,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [
     {
-      "keyword": "isn",
+      "keyword": "bot",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 29.24,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Model Collapse Isn't New, nor Is It Specific to AI",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "AI IS MOVING FROM SOMETHING WE USE TO SOMETHING WE BUILD WITH AI adoption is moving quickly. But the bigger shift isn't",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "data",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 24.92,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "AI-ready biological data: $1.8B global commitment",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @vxunderground: This is just marketing. The term AI has been made toxic by all the lies about data centers. Easiest",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "across",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 17.68,
+      "bridge_score": 21.2,
       "total_mentions": 2,
       "examples": [
         {
-          "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+          "title": "US man given prison sentence for bot-farming music streams",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "🎉ANNOUNCEMENT: ENTERTAINMENT, COMMUNITY ENGAGEMENT & REWARD OPPORTUNITIES ACROSS THE TRON ECOSYSTEM The future of blockc",
+          "title": "I feel like some people don’t realize how formal, organized, and completely offshored the bot/buzzer economy is lol. Was",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "now",
+      "keyword": "music",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 15.72,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "We have LLMs now. Why are the docs still wrong?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Fun stuff from our team on Marketplace/Economy and Creator teams. IP holders can now license their avatar items :) https",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "bubble",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 9.0,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HallGrahamnn: Macro investor Jordi Visser says fears of an AI bubble are missing a bigger risk: a coming “bankpoc",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "R to @adolfont: Idk when, I suppose if it's really malinvestment and a bubble, then it can crash the stock market. So fa",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "claude",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 7.76,
+      "bridge_score": 21.2,
       "total_mentions": 2,
       "examples": [
         {
-          "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+          "title": "US man given prison sentence for bot-farming music streams",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "R to @DavidSacks: David Sacks asks whether @theallinpod needs to stop using Claude, after posts on X reported that abusi",
+          "title": "$AUDIO — Audius Audius is a decentralized music-streaming platform designed to give artists a more direct relationship w",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "global",
+      "keyword": "audio",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 3.44,
+      "bridge_score": 10.4,
       "total_mentions": 2,
       "examples": [
         {
-          "title": "AI-ready biological data: $1.8B global commitment",
+          "title": "ETH-68: Ethernet Audio Interface for Linux",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "RT by @rukkee02: InterLink Live: More than Livestreaming! 📡✨ Empowering the Global Creator Economy where creators can co",
+          "title": "$AUDIO — Audius Audius is a decentralized music-streaming platform designed to give artists a more direct relationship w",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "using",
+      "keyword": "via",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 3.0,
+      "bridge_score": 6.48,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Hazels NFTs are minting on October 14 via opensea. What makes @0xhazels interesting is the utility behind ownership, con",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "tools",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.88,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "QuakePy: Set of tools for statistical analyses of earthquake catalogs",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The creator economy is entering a new phase as AI tools become more accessible. $COOKIE is associated with Cookie DAO, w",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "formal",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.52,
       "total_mentions": 2,
       "examples": [
         {
@@ -848,146 +693,58 @@
           "category": "tech"
         },
         {
-          "title": "R to @DavidSacks: David Sacks asks whether @theallinpod needs to stop using Claude, after posts on X reported that abusi",
+          "title": "I feel like some people don’t realize how formal, organized, and completely offshored the bot/buzzer economy is lol. Was",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "live",
+      "keyword": "control",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 2.92,
+      "bridge_score": 2.8,
       "total_mentions": 2,
       "examples": [
         {
-          "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+          "title": "Richard Garriott is officially regaining control of the Ultima series",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "RT by @rukkee02: InterLink Live: More than Livestreaming! 📡✨ Empowering the Global Creator Economy where creators can co",
+          "title": "CREATORS COULD HAVE MORE CONTROL OVER THEIR OWN ECONOMIES. 🎥 $XCAD is associated with XCAD Network, a project focused on",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "index",
+      "keyword": "become",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 2.68,
+      "bridge_score": 2.2,
       "total_mentions": 2,
       "examples": [
         {
-          "title": "AI Crawler Index",
+          "title": "Thinking Will Become a Hobby",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Arena just launched its Alignment Index, which ranks AI agents on how often they go rogue, misquote you, or claim a task",
+          "title": "The creator economy is entering a new phase as AI tools become more accessible. $COOKIE is associated with Cookie DAO, w",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "system",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.24,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Veda: The Agentic-Native Operating System Supports GCC and OpenGL",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗕𝗔𝗜 𝗖𝗮𝗻 𝗛𝗲𝗹𝗽 𝗔𝗜 𝗩𝗮𝗹𝘂𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗢𝘃𝗲𝗿 𝗝𝘂𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 AI usage is often measured by how many requests a system receives. But",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "going",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "This San Francisco Restaurant Tried Pay-What-You-Can Dining and It's Going Great",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Woah, check out @streamoors! This is going to be huge for the AI creator economy. Launch your own autonomous AI streamer",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "whether",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Voters are split on whether or not to save Bay Area public transit",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @DavidSacks: David Sacks asks whether @theallinpod needs to stop using Claude, after posts on X reported that abusi",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "agents",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Female AI agents 'paid' less than males, study finds",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Arena just launched its Alignment Index, which ranks AI agents on how often they go rogue, misquote you, or claim a task",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "people",
+      "keyword": "project",
       "communities": [
         "social",
         "tech"
@@ -997,56 +754,12 @@
       "total_mentions": 2,
       "examples": [
         {
-          "title": "Google Is Pushing Scam Videos on Elderly and Cognitively Impaired People",
+          "title": "\"A Node.js project template that will not install Node with curl – sh",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "R to @MMozley70: 🌈 The next creator economy could reward people who combine artistic vision with technical understanding",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "risk",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Repeated US Treasury interventions risk an erosion of credibility",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @HallGrahamnn: Macro investor Jordi Visser says fears of an AI bubble are missing a bigger risk: a coming “bankpoc",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "build",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Build and Train a 25M Parameter LLM from Scratch on Your CPU",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "AI IS MOVING FROM SOMETHING WE USE TO SOMETHING WE BUILD WITH AI adoption is moving quickly. But the bigger shift isn't",
+          "title": "CREATORS COULD HAVE MORE CONTROL OVER THEIR OWN ECONOMIES. 🎥 $XCAD is associated with XCAD Network, a project focused on",
           "source": "twitter",
           "category": "social"
         }
@@ -1056,11 +769,59 @@
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "url": "https://github.com/thesnarkitecht/rembrandt",
+      "title": "RT by @KrasTod: The creator economy has already changed how people produce and distribute content. The next major shift",
+      "url": "http://shitter.thepixora.com/HakiBTC/status/2108408034494132408#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "content",
+        "creator"
+      ]
+    },
+    {
+      "title": "The creator economy is entering a new phase as AI tools become more accessible. $COOKIE is associated with Cookie DAO, w",
+      "url": "http://shitter.thepixora.com/iiam_Akshay/status/2108407116302324073#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "creator",
+        "tools"
+      ]
+    },
+    {
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "url": "https://svg-spark.vercel.app/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.66,
+      "score": 0.46,
+      "relevance": 0.111,
+      "matching_tags": [
+        "side",
+        "tools"
+      ]
+    },
+    {
+      "title": "Open Source Drone Simulator",
+      "url": "https://github.com/vishwagw/Sky-Sim-drone-simulator-3.0",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.03,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Sibuna an open source web application firewall with proof of work",
+      "url": "https://github.com/insanai/sibuna",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -1072,7 +833,7 @@
       "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.37,
+      "score": 9.86,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
@@ -1083,15 +844,15 @@
       "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.44,
+      "score": 1.97,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "RT by @rukkee02: InterLink Live: More than Livestreaming! 📡✨ Empowering the Global Creator Economy where creators can co",
-      "url": "http://shitter.thepixora.com/MAMMAN3669/status/2108059462887956570#m",
+      "title": "RT by @s_a_n_t_a___: India shifting from consumer to creator economy: PM Modi",
+      "url": "http://shitter.thepixora.com/Sputnik_India/status/2108139478057390191#m",
       "source": "twitter",
       "category": "social",
       "score": 0.5,
@@ -1101,69 +862,14 @@
       ]
     },
     {
-      "title": "R to @MMozley70: 🌈 The next creator economy could reward people who combine artistic vision with technical understanding",
-      "url": "http://shitter.thepixora.com/Denarii_DFI/status/2108326205766480317#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "Woah, check out @streamoors! This is going to be huge for the AI creator economy. Launch your own autonomous AI streamer",
-      "url": "http://shitter.thepixora.com/NVS00000/status/2108316194847735944#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "THE CREATOR ECONOMY HAS BEEN FREED",
-      "url": "http://shitter.thepixora.com/SushinacTOES/status/2108314652337922242#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "Fun stuff from our team on Marketplace/Economy and Creator teams. IP holders can now license their avatar items :) https",
-      "url": "http://shitter.thepixora.com/jdamji/status/2108312051160687018#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "AI Coding Tools – Architecture diagrams, local models, and SWE-bench",
-      "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.06,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
-      ]
-    },
-    {
-      "title": "Freepik Promo Code 2026: GMRP2603MAR301 – Get 95% Off",
-      "url": "https://referral.magnific.com/mzNlYhK",
+      "title": "QuakePy: Set of tools for statistical analyses of earthquake catalogs",
+      "url": "https://quake.ethz.ch/quakepy/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "tools"
       ]
     }
   ]
