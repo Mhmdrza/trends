@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-15T03:02:07.813674+00:00",
-  "scrape_timestamp": "2026-10-15T02:59:16.216935+00:00",
-  "total_items_analyzed": 89,
+  "timestamp": "2026-10-15T10:48:47.382747+00:00",
+  "scrape_timestamp": "2026-10-15T10:47:07.970030+00:00",
+  "total_items_analyzed": 100,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,595 +16,638 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 89,
+      "count": 90,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "DeepSeek Outage",
-      "url": "https://status.deepseek.com/incidents/7116348214287",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 19.583,
-      "velocity_label": "exploding",
-      "combined_score": 0.98
-    },
-    {
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.2,
-      "velocity": 16.1,
-      "velocity_label": "exploding",
-      "combined_score": 88.55
-    },
-    {
-      "title": "Marshall Islands Stick Chart",
-      "url": "https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart",
+      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.49,
-      "velocity": 15.625,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 19.14
+      "combined_score": 18.17
     },
     {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.1,
-      "velocity": 15.286,
+      "base_score": 17.14,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 233.11
+      "combined_score": 635.61
     },
     {
-      "title": "Suicide rates highest ever among middle-aged men",
-      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.79,
-      "velocity": 14.438,
+      "base_score": 0.36,
+      "velocity": 14.698,
       "velocity_label": "exploding",
-      "combined_score": 317.26
+      "combined_score": 13.23
     },
     {
-      "title": "Phloem: Git history grown like a slime mold",
-      "url": "https://phloem.stemdeck.app/",
+      "title": "Webster’s Dictionary: The pleasure of finding things out (2014)",
+      "url": "https://jsomers.net/blog/dictionary",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.17,
-      "velocity": 12.216,
+      "base_score": 0.34,
+      "velocity": 13.826,
       "velocity_label": "exploding",
-      "combined_score": 35.73
-    },
-    {
-      "title": "Is this the best inference for agents?",
-      "url": "https://runinfra.ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 12.154,
-      "velocity_label": "exploding",
-      "combined_score": 0.61
-    },
-    {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.67,
-      "velocity": 11.941,
-      "velocity_label": "exploding",
-      "combined_score": 199.12
-    },
-    {
-      "title": "Fancy Curl Sites",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.17,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 34.12
-    },
-    {
-      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-      "url": "https://blog.cloudflare.com/yandex-outage/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.38,
-      "velocity": 10.967,
-      "velocity_label": "exploding",
-      "combined_score": 92.67
-    },
-    {
-      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-      "url": "https://oxide.computer/blog/voxel-labs",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.9,
-      "velocity": 10.963,
-      "velocity_label": "exploding",
-      "combined_score": 24.67
-    },
-    {
-      "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
-      "url": "https://github.com/bealesh/neckbeard",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.34,
-      "velocity": 10.871,
-      "velocity_label": "exploding",
-      "combined_score": 36.42
-    },
-    {
-      "title": "Scientists are teaching birds to sing lost songs",
-      "url": "https://e360.yale.edu/digest/teaching-birds-lost-songs",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.57,
-      "velocity": 10.8,
-      "velocity_label": "exploding",
-      "combined_score": 15.39
-    },
-    {
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.56,
-      "velocity": 10.762,
-      "velocity_label": "exploding",
-      "combined_score": 68.88
-    },
-    {
-      "title": "Google is silently linking your phone number across all signed-in accounts",
-      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.61,
-      "velocity": 10.488,
-      "velocity_label": "exploding",
-      "combined_score": 147.1
-    },
-    {
-      "title": "GLP-1 Drugs Cut Schizophrenia Hospital Visits, Study Finds",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/glp-1-drugs-cut-schizophrenia-hospital-visits-study-finds",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.17,
-      "velocity": 10.375,
-      "velocity_label": "exploding",
-      "combined_score": 4.41
-    },
-    {
-      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.27,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.59,
-      "velocity": 10.228,
-      "velocity_label": "exploding",
-      "combined_score": 168.51
-    },
-    {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.45,
-      "velocity": 9.441,
-      "velocity_label": "exploding",
-      "combined_score": 105.03
-    },
-    {
-      "title": "LittleJS is 2D and 3D now",
-      "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.51,
-      "velocity": 9.326,
-      "velocity_label": "exploding",
-      "combined_score": 35.21
-    },
-    {
-      "title": "Do dentists know what they're doing?",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.85,
-      "velocity": 9.028,
-      "velocity_label": "exploding",
-      "combined_score": 222.31
-    },
-    {
-      "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 8.995,
-      "velocity_label": "exploding",
-      "combined_score": 1.12
-    },
-    {
-      "title": "Why do LLM pelicans look like this?",
-      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.54,
-      "velocity": 8.778,
-      "velocity_label": "exploding",
-      "combined_score": 77.68
-    },
-    {
-      "title": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.76,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 122.4
-    },
-    {
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.08,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 44.2
-    },
-    {
-      "title": "Strands Decider: Why Not an Encoder?",
-      "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.39,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 8.29
-    },
-    {
-      "title": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.1,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 129.62
-    },
-    {
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.73,
-      "velocity": 8.022,
-      "velocity_label": "exploding",
-      "combined_score": 34.69
-    },
-    {
-      "title": "2026.3 release in November, Air will ship as part of JetBrains IDEs",
-      "url": "https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.779,
-      "velocity_label": "exploding",
-      "combined_score": 0.58
-    },
-    {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.12,
-      "velocity": 7.741,
-      "velocity_label": "exploding",
-      "combined_score": 60.38
-    },
-    {
-      "title": "GPT-5.6 Sol has gone full potato again",
-      "url": "https://news.ycombinator.com/item?id=50098480",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.453,
-      "velocity_label": "exploding",
-      "combined_score": 0.37
-    },
-    {
-      "title": "Submarine cable resilience",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.12,
-      "velocity": 7.444,
-      "velocity_label": "exploding",
-      "combined_score": 39.46
-    },
-    {
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "url": "https://news.ycombinator.com/item?id=50067325",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.86,
-      "velocity": 7.257,
-      "velocity_label": "exploding",
-      "combined_score": 15.6
+      "combined_score": 11.75
     },
     {
       "title": "Catch a Bird – I made it for my own sanity",
       "url": "https://catchabird.com",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.34,
-      "velocity": 7.15,
+      "base_score": 2.7,
+      "velocity": 12.232,
       "velocity_label": "exploding",
-      "combined_score": 6.08
+      "combined_score": 82.57
     },
     {
-      "title": "Why is every rationalist blog post way too long?",
-      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.55,
-      "velocity": 7.081,
+      "base_score": 0.98,
+      "velocity": 10.875,
       "velocity_label": "exploding",
-      "combined_score": 80.55
+      "combined_score": 26.64
+    },
+    {
+      "title": "Will Everyone Become an Entrepreneur Soon?",
+      "url": "https://www.vincentschmalbach.com/will-everyone-become-an-entrepreneur-soon/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.594,
+      "velocity_label": "exploding",
+      "combined_score": 0.53
+    },
+    {
+      "title": "R to @Ryanhlx: Always on AI streaming could unlock a completely new creator economy for everyone",
+      "url": "https://nitter.kareem.one/TopuWeb3/status/2110681785101177195#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.396,
+      "velocity_label": "exploding",
+      "combined_score": 12.99
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.41,
+      "velocity": 9.925,
+      "velocity_label": "exploding",
+      "combined_score": 109.42
+    },
+    {
+      "title": "How Is Music Possible",
+      "url": "https://www.henrikkarlsson.xyz/p/music",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.857,
+      "velocity_label": "exploding",
+      "combined_score": 0.49
+    },
+    {
+      "title": "R to @atiqur2904: tention remains a significant challenge in the evolving creator economy",
+      "url": "https://nitter.kareem.one/Krynn__u/status/2110677345954922763#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.854,
+      "velocity_label": "exploding",
+      "combined_score": 12.32
+    },
+    {
+      "title": "Court rejects gov. effort to dismiss social media surveillance lawsuit",
+      "url": "https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.111,
+      "velocity_label": "exploding",
+      "combined_score": 0.46
+    },
+    {
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+      "url": "https://courk.cc/rp2350-challenge-laser",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.708,
+      "velocity_label": "exploding",
+      "combined_score": 0.44
+    },
+    {
+      "title": "R to @ozohvehe1: How do you see trust shaping creator economy shifts",
+      "url": "https://nitter.kareem.one/rubel404/status/2110678192499626440#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.976,
+      "velocity_label": "exploding",
+      "combined_score": 9.97
+    },
+    {
+      "title": "Consider verbose 'usage' messages for infrequently used scripts",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConsiderVerboseUsageMessages",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.967,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.9,
+      "velocity": 7.919,
+      "velocity_label": "exploding",
+      "combined_score": 57.41
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.93,
+      "velocity": 7.801,
+      "velocity_label": "exploding",
+      "combined_score": 193.67
+    },
+    {
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.27,
+      "velocity": 7.784,
+      "velocity_label": "exploding",
+      "combined_score": 44.17
+    },
+    {
+      "title": "Mastodon Stories for Systemd v262",
+      "url": "https://0pointer.net/blog/mastodon-stories-for-systemd-v262.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.32,
+      "velocity": 7.595,
+      "velocity_label": "exploding",
+      "combined_score": 138.99
+    },
+    {
+      "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
+      "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.595,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.67,
+      "velocity": 7.444,
+      "velocity_label": "exploding",
+      "combined_score": 31.08
+    },
+    {
+      "title": "Suicide rates highest ever among middle-aged men",
+      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.23,
+      "velocity": 7.312,
+      "velocity_label": "exploding",
+      "combined_score": 223.58
+    },
+    {
+      "title": "Pg_lake 3.5: Universal Iceberg REST Catalog Support for Postgres",
+      "url": "https://www.snowflake.com/en/blog/engineering/pg-lake-iceberg-rest-catalog/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.222,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.25,
+      "velocity": 6.884,
+      "velocity_label": "exploding",
+      "combined_score": 4.3
+    },
+    {
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.877,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "WCAG 3: a different future for accessibility",
+      "url": "https://tetralogical.com/blog/2026/10/15/wcag3/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "RT by @coder_amaxaAi: The creator economy increasingly depends on consistent output. Personalized voice AI could help ma",
+      "url": "https://nitter.kareem.one/AnnuKumari35786/status/2110426771082629522#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.788,
+      "velocity_label": "exploding",
+      "combined_score": 8.49
     },
     {
       "title": "Smart people don't think others are stupid (2012)",
       "url": "https://sive.rs/ss",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.91,
-      "velocity": 7.026,
+      "base_score": 3.17,
+      "velocity": 6.718,
       "velocity_label": "exploding",
-      "combined_score": 51.12
+      "combined_score": 53.24
     },
     {
-      "title": "Gaming on Linux without cheating",
-      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "url": "https://indigene.app/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.66,
-      "velocity": 6.359,
+      "base_score": 0.38,
+      "velocity": 6.481,
       "velocity_label": "exploding",
-      "combined_score": 26.39
+      "combined_score": 6.16
     },
     {
-      "title": "Mini organs launching to space may help future astronauts",
-      "url": "https://abcnews.com/Health/mini-organs-launching-space-future-astronauts-humans-earth/story?id=137203416",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.19,
+      "title": "2️⃣What $ANSEM Actually Is Key elements: Ansem has redistributed significant value (~$7M+ worth via airdrops of tokens a",
+      "url": "https://nitter.kareem.one/kingrichmo/status/2110682275037733325#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.389,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 7.99
     },
     {
-      "title": "We Know How to Fix Homelessness. Why Don't More Cities Do It?",
-      "url": "https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html",
+      "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions",
+      "url": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 6.144,
+      "velocity": 6.375,
       "velocity_label": "exploding",
-      "combined_score": 0.46
+      "combined_score": 0.48
     },
     {
-      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-      "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.94,
-      "velocity": 5.819,
-      "velocity_label": "exploding",
-      "combined_score": 13.68
-    },
-    {
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.69,
-      "velocity": 5.783,
-      "velocity_label": "exploding",
-      "combined_score": 38.89
-    },
-    {
-      "title": "Tired of agents' walls of text, so I made them answer in HTML",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.341,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "your C is not standard C",
-      "url": "https://sebsite.pw/w/20261012-notstdc.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 7.73
-    },
-    {
-      "title": "ICE Wants to Use AI to Monitor Detainee Calls and Movements",
-      "url": "https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.26,
-      "velocity": 5.24,
-      "velocity_label": "exploding",
-      "combined_score": 3.41
-    },
-    {
-      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-      "url": "https://strafe.chat/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.28,
-      "velocity": 5.232,
-      "velocity_label": "exploding",
-      "combined_score": 29.82
-    },
-    {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 15.31,
-      "velocity": 5.214,
-      "velocity_label": "exploding",
-      "combined_score": 199.58
-    },
-    {
-      "title": "The Grid Died of Too Much Voltage",
-      "url": "https://omnilenscodex.substack.com/p/the-grid-died-of-too-much-voltage",
+      "title": "Gemma 3 1B at 114 tokens per second on a laptop CPU",
+      "url": "https://knl.co.in/posts/gemma-3-1b-ternary/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 5.213,
+      "velocity": 6.216,
       "velocity_label": "exploding",
-      "combined_score": 0.26
+      "combined_score": 0.31
     },
     {
-      "title": "America didn't lose its rare earth industry, it sold it",
-      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.9,
-      "velocity": 5.118,
+      "title": "RT by @Fakiaman: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, as Layi",
+      "url": "https://nitter.kareem.one/africablockfest/status/2105999042358690255#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.042,
       "velocity_label": "exploding",
-      "combined_score": 37.1
+      "combined_score": 7.55
     },
     {
-      "title": "The Origin Story of Kid Pix",
-      "url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "title": "It took me nine years to hack my Xbox 360",
+      "url": "https://kennedn.com/blog/posts/glitching/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.51,
-      "velocity": 5.107,
+      "base_score": 1.26,
+      "velocity": 5.914,
       "velocity_label": "exploding",
-      "combined_score": 32.05
+      "combined_score": 18.63
     },
     {
-      "title": "SK Hynix conditions new US factory on more US chip equipment exports to China",
-      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/",
+      "title": "Phloem: Git history grown like a slime mold",
+      "url": "https://phloem.stemdeck.app/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.915,
+      "base_score": 1.49,
+      "velocity": 5.836,
       "velocity_label": "exploding",
-      "combined_score": 0.49
+      "combined_score": 21.74
+    },
+    {
+      "title": "MTN Group (MoMo Payment Service Bank) is hiring a Team Lead - Digital Marketing and Communications (Lagos, Hybrid) ‼️ Re",
+      "url": "https://nitter.kareem.one/That_Faysal/status/2110679042814796179#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.792,
+      "velocity_label": "exploding",
+      "combined_score": 7.24
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.66,
+      "velocity": 5.759,
+      "velocity_label": "exploding",
+      "combined_score": 95.9
+    },
+    {
+      "title": "Bookofjoe's Favorite Thing: Best Pill Splitter",
+      "url": "https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 1.01
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.15,
+      "velocity": 5.531,
+      "velocity_label": "exploding",
+      "combined_score": 43.56
+    },
+    {
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "url": "https://oxide.computer/blog/voxel-labs",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.4,
+      "velocity": 5.348,
+      "velocity_label": "exploding",
+      "combined_score": 18.72
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.03,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 133.73
+    },
+    {
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.79,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 37.2
+    },
+    {
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.18,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 82.4
+    },
+    {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.91,
+      "velocity": 5.329,
+      "velocity_label": "exploding",
+      "combined_score": 25.44
+    },
+    {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.82,
+      "velocity": 5.218,
+      "velocity_label": "exploding",
+      "combined_score": 75.92
+    },
+    {
+      "title": "Submarine cable resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.52,
+      "velocity": 4.806,
+      "velocity_label": "exploding",
+      "combined_score": 30.27
+    },
+    {
+      "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+      "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.16,
+      "velocity": 4.798,
+      "velocity_label": "exploding",
+      "combined_score": 1.92
+    },
+    {
+      "title": "Donaldson Futuro House in Idyllwild, California, USA",
+      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.73,
+      "velocity": 4.694,
+      "velocity_label": "exploding",
+      "combined_score": 8.57
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 15.09,
+      "velocity": 4.594,
+      "velocity_label": "exploding",
+      "combined_score": 173.33
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [
+  "bridge_topics": [
     {
-      "concept_cluster": [
-        "open",
-        "show",
-        "source"
+      "keyword": "people",
+      "communities": [
+        "social",
+        "tech"
       ],
-      "concept_hint": "open + show + source",
-      "cluster_size": 3,
-      "discussion_count": 5,
-      "void_score": 37.5,
+      "num_communities": 2,
+      "bridge_score": 14.68,
+      "total_mentions": 2,
       "examples": [
         {
-          "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+          "title": "Smart people don't think others are stupid (2012)",
           "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "show",
-            "source"
-          ]
+          "category": "tech"
         },
         {
-          "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+          "title": "I hope the younger pastors of this generation are able to demystify Christianity. A lot of people in my generation are n",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "voice",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.96,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
           "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "source"
-          ]
+          "category": "tech"
         },
         {
-          "title": "A new model for open source: closed to pull requests, open to remix",
+          "title": "RT by @coder_amaxaAi: The creator economy increasingly depends on consistent output. Personalized voice AI could help ma",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "everyone",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Will Everyone Become an Entrepreneur Soon?",
           "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "source"
-          ]
+          "category": "tech"
         },
         {
-          "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+          "title": "R to @Ryanhlx: Always on AI streaming could unlock a completely new creator economy for everyone",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "tokens",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Gemma 3 1B at 114 tokens per second on a laptop CPU",
           "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "source"
-          ]
+          "category": "tech"
         },
         {
-          "title": "Show HN: Bokal – Open-source cookie editor without the \"tabs\" permission",
+          "title": "2️⃣What $ANSEM Actually Is Key elements: Ansem has redistributed significant value (~$7M+ worth via airdrops of tokens a",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "via",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
           "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "show",
-            "source"
-          ]
+          "category": "tech"
+        },
+        {
+          "title": "2️⃣What $ANSEM Actually Is Key elements: Ansem has redistributed significant value (~$7M+ worth via airdrops of tokens a",
+          "source": "twitter",
+          "category": "social"
         }
       ]
     }
   ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "url": "https://typeof.net/Iosevka/",
       "source": "hackernews",
       "category": "tech",
-      "score": 11.38,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-      "url": "https://strafe.chat/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 2.28,
+      "score": 11.66,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -616,7 +659,7 @@
       "url": "https://petal.live/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.73,
+      "score": 2.31,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -624,23 +667,11 @@
       ]
     },
     {
-      "title": "A new model for open source: closed to pull requests, open to remix",
-      "url": "https://ghuntley.com/remix/",
+      "title": "Why are chip companies allergic to open source?",
+      "url": "https://www.zeroasic.com/blog/hardware-github-stars",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.26,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Show HN: Bokal – Open-source cookie editor without the \"tabs\" permission",
-      "url": "https://github.com/yuvibabbar-dev/bokal",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
+      "score": 0.16,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -652,43 +683,87 @@
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 15.31,
+      "score": 17.14,
       "relevance": 0.056,
       "matching_tags": [
         "hacking"
       ]
     },
     {
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "url": "https://museumofages.org/w/vinci",
+      "title": "R to @Ryanhlx: Always on AI streaming could unlock a completely new creator economy for everyone",
+      "url": "https://nitter.kareem.one/TopuWeb3/status/2110681785101177195#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "RT by @Fakiaman: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, as Layi",
+      "url": "https://nitter.kareem.one/africablockfest/status/2105999042358690255#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "RT by @coder_amaxaAi: The creator economy increasingly depends on consistent output. Personalized voice AI could help ma",
+      "url": "https://nitter.kareem.one/AnnuKumari35786/status/2110426771082629522#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @ozohvehe1: How do you see trust shaping creator economy shifts",
+      "url": "https://nitter.kareem.one/rubel404/status/2110678192499626440#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @atiqur2904: tention remains a significant challenge in the evolving creator economy",
+      "url": "https://nitter.kareem.one/Krynn__u/status/2110677345954922763#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
+      "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.36,
+      "score": 0.06,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "How I manage persistent Claude Code loops: Spool",
-      "url": "https://github.com/enes-alatas/spool",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.15,
-      "relevance": 0.056,
-      "matching_tags": [
-        "code"
-      ]
-    },
-    {
-      "title": "Human transformation to machine: emotional, mental, physical",
-      "url": "https://news.ycombinator.com/item?id=50098551",
+      "title": "Ling 3.1 Flash: 560B open-weight MoE, MIT license, 1M context",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "machine"
+        "open"
       ]
     }
   ]
