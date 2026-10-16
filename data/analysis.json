@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-15T20:54:42.110285+00:00",
-  "scrape_timestamp": "2026-10-15T20:52:56.593231+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-10-16T02:58:25.808180+00:00",
+  "scrape_timestamp": "2026-10-16T02:56:43.525946+00:00",
+  "total_items_analyzed": 98,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,349 +16,690 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "startup",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 7,
+      "opportunity_score": 42.0,
+      "examples": [
+        {
+          "title": "How Did Israel Become \"Startup Nation\"? (2009)",
+          "source": "hackernews",
+          "url": "https://freakonomics.com/2009/12/how-did-israel-become-start-up-nation/",
+          "score": 0.01
+        },
+        {
+          "title": "New startup idea: VOMITBOT Cleans your Roadster after every jump in the air.",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/pathuglife/status/2110928162037342614#m",
+          "score": 0.5
+        },
+        {
+          "title": "Kuro Games (Wuthering Waves / Punishing: Gray Raven) just invested in AI startup Yanzhiyu, taking a 15% stake in an ange",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/LuisAlvertoAlv6/status/2110928141707366814#m",
+          "score": 0.5
+        },
+        {
+          "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/boardyai/status/2110928135302836247#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @BThompson0524: Steam just got a little faster. Valve has released a new Steam update that improves startup perfor",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Pirat_Nation/status/2110676305100615719#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "roadster",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Tesla Roadster",
+          "source": "hackernews",
+          "url": "https://www.tesla.com/roadster",
+          "score": 5.62
+        },
+        {
+          "title": "Tesla Debuts 2026 Roadster",
+          "source": "hackernews",
+          "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
+          "score": 0.51
+        },
+        {
+          "title": "Tesla reveals SpaceX-powered Roadster that flies",
+          "source": "hackernews",
+          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+          "score": 0.04
+        },
+        {
+          "title": "Roadster Event",
+          "source": "hackernews",
+          "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0",
+          "score": 0.03
+        },
+        {
+          "title": "New startup idea: VOMITBOT Cleans your Roadster after every jump in the air.",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/pathuglife/status/2110928162037342614#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "open",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Muse Spark Open",
+          "source": "hackernews",
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "score": 11.94
+        },
+        {
+          "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+          "source": "hackernews",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+          "score": 0.28
+        },
+        {
+          "title": "Space (AI agent containment sandbox) software open source",
+          "source": "hackernews",
+          "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+          "score": 0.04
+        },
+        {
+          "title": "We're hiring at ZeroMark: Growth Lead and Community Lead. Both fully remote, both open worldwide. Here's the problem we'",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/benabmathew/status/2110928035008672162#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "app",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Show HN: My Terminal Themes Web App",
+          "source": "hackernews",
+          "url": "https://news.ycombinator.com/item?id=50098454",
+          "score": 0.56
+        },
+        {
+          "title": "Show HN: Wayseer – A native desktop app for browsing real-time data",
+          "source": "hackernews",
+          "url": "https://wayseer.app/",
+          "score": 0.01
+        },
+        {
+          "title": "Ask HN: Thoughts about the Gemini Web app?",
+          "source": "hackernews",
+          "url": "https://news.ycombinator.com/item?id=50113145",
+          "score": 0.02
+        },
+        {
+          "title": "SaaS URL Startup App Which one are you dropping❔",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/quietforgelab/status/2110927696842596445#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "meta",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+          "source": "hackernews",
+          "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+          "score": 0.86
+        },
+        {
+          "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
+          "source": "hackernews",
+          "url": "https://www.reuters.com/legal/government/openai-meta-caution-us-judiciary-about-risk-deepfake-evidence-2026-10-15/",
+          "score": 0.06
+        },
+        {
+          "title": "【Meta、Macで動く最大級の公開モデル。仲の悪いAppleと組めた理由】Anthropicが外部に中を見せる／CoreWeave「破綻確率60%」／監査AI／Runway【 1. Meta、Macで動く816Bの公開モデル。Appleと",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/WBN_live/status/2110927712013680994#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "zero",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+          "source": "hackernews",
+          "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+          "score": 12.52
+        },
+        {
+          "title": "Show HN: Inherit – Zero to Iac",
+          "source": "hackernews",
+          "url": "https://inherit.virtualbeck.com/",
+          "score": 0.01
+        },
+        {
+          "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/boardyai/status/2110928135302836247#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "built",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Krea 3 – An image model built for editing at scale",
+          "source": "hackernews",
+          "url": "https://www.krea.ai/krea-3",
+          "score": 3.85
+        },
+        {
+          "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+          "source": "hackernews",
+          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+          "score": 4.0
+        },
+        {
+          "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/boardyai/status/2110928135302836247#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.17,
-      "velocity": 30.667,
+      "base_score": 5.62,
+      "velocity": 33.0,
       "velocity_label": "exploding",
-      "combined_score": 396.37
+      "combined_score": 463.65
     },
     {
-      "title": "The Haunted Toys R Us",
-      "url": "https://www.retroist.com/p/the-haunted-toys-r-us",
+      "title": "E Ink Kaleido 4",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.06,
+      "base_score": 2.62,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 47.7
+      "combined_score": 117.9
     },
     {
-      "title": "Why We're Banning AI",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "title": "An Apology",
+      "url": "https://www.elevationlab.com/blogs/news/an-apology",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.25,
+      "base_score": 3.06,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 191.25
+      "combined_score": 137.7
     },
     {
-      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-      "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "title": "Tesla reveals SpaceX-powered Roadster that flies",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.68,
-      "velocity": 15.625,
+      "base_score": 0.04,
+      "velocity": 17.167,
       "velocity_label": "exploding",
-      "combined_score": 104.69
+      "combined_score": 1.72
     },
     {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
+      "title": "Tesla Debuts 2026 Roadster",
+      "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.15,
-      "velocity": 15.495,
+      "base_score": 0.51,
+      "velocity": 17.067,
       "velocity_label": "exploding",
-      "combined_score": 160.76
+      "combined_score": 21.76
     },
     {
-      "title": "Delta’s Biscoff cookies were supposed to be temporary",
-      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.9,
-      "velocity": 14.96,
+      "base_score": 4.32,
+      "velocity": 16.944,
       "velocity_label": "exploding",
-      "combined_score": 108.46
-    },
-    {
-      "title": "Paying the Price for Trusting the USA",
-      "url": "https://phillipspobrien.substack.com/p/midweek-update-31-paying-the-price",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 14.0,
-      "velocity_label": "exploding",
-      "combined_score": 2.1
-    },
-    {
-      "title": "The technical actions needed to ensure the continuity of UTC",
-      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.34,
-      "velocity": 13.778,
-      "velocity_label": "exploding",
-      "combined_score": 46.16
-    },
-    {
-      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
-      "url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.48,
-      "velocity": 12.986,
-      "velocity_label": "exploding",
-      "combined_score": 15.58
-    },
-    {
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.58,
-      "velocity": 12.902,
-      "velocity_label": "exploding",
-      "combined_score": 147.73
-    },
-    {
-      "title": "The Climb – Dream Again USA",
-      "url": "https://dreamagainusa.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 12.667,
-      "velocity_label": "exploding",
-      "combined_score": 0.63
-    },
-    {
-      "title": "Celebrating 70 Years of Fortran",
-      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.88,
-      "velocity": 12.27,
-      "velocity_label": "exploding",
-      "combined_score": 88.34
-    },
-    {
-      "title": "Muon: An optimizer for hidden layers in neural networks (2024)",
-      "url": "https://kellerjordan.github.io/posts/muon/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 11.777,
-      "velocity_label": "exploding",
-      "combined_score": 0.29
-    },
-    {
-      "title": "When A.I. Comes for Your Purpose in Life",
-      "url": "https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.556,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "Israeli Firms Placed Spyware at Al Jazeera via Ads, Report Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.6,
-      "velocity": 10.512,
-      "velocity_label": "exploding",
-      "combined_score": 15.77
-    },
-    {
-      "title": "Donaldson Futuro House in Idyllwild, California, USA",
-      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.32,
-      "velocity": 10.189,
-      "velocity_label": "exploding",
-      "combined_score": 33.62
+      "combined_score": 183.0
     },
     {
       "title": "Rediscovering the Romance of Travel Clocks",
       "url": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 10.0,
+      "base_score": 0.43,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 3.0
+      "combined_score": 16.8
     },
     {
-      "title": "Teardown of a $1000 Voting Machine",
-      "url": "https://unfoxo.it/blog/teardown-of-a-1000-voting-machine.html",
+      "title": "Why I Wrote PGP (1991, revised 1999)",
+      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 9.778,
+      "base_score": 1.89,
+      "velocity": 14.743,
       "velocity_label": "exploding",
-      "combined_score": 0.98
+      "combined_score": 69.66
     },
     {
-      "title": "Police seize robot that groped 16-year-old girl, investigate was at the controls",
-      "url": "https://apnews.com/article/robot-germany-sexual-assault-cologne-bf171b1697bd9a7119424040a303af22",
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.566,
+      "base_score": 5.57,
+      "velocity": 13.682,
       "velocity_label": "exploding",
-      "combined_score": 0.24
+      "combined_score": 190.52
     },
     {
-      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
-      "url": "https://github.com/konieczkow/gridsnap",
+      "title": "The engineering that allows articulated buses to bend",
+      "url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.8,
-      "velocity": 9.416,
+      "base_score": 1.4,
+      "velocity": 12.933,
       "velocity_label": "exploding",
-      "combined_score": 18.83
-    },
-    {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.75,
-      "velocity": 9.266,
-      "velocity_label": "exploding",
-      "combined_score": 156.36
-    },
-    {
-      "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
-      "url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 9.176,
-      "velocity_label": "exploding",
-      "combined_score": 13.3
-    },
-    {
-      "title": "Prompt injection in HTTP headers: what 217M web responses show",
-      "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.93,
-      "velocity": 9.118,
-      "velocity_label": "exploding",
-      "combined_score": 21.2
-    },
-    {
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.22,
-      "velocity": 8.171,
-      "velocity_label": "exploding",
-      "combined_score": 167.92
-    },
-    {
-      "title": "William Draper, Pioneering Silicon Valley Venture Capitalist, Dies at 98",
-      "url": "https://www.wsj.com/business/entrepreneurship/william-draper-silicon-valley-vc-dead-634e413e",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 0.76
-    },
-    {
-      "title": "Netflix to lay off about 1k employees in biggest cuts since 2022",
-      "url": "https://www.theguardian.com/media/2026/oct/14/netflix-job-layoffs-streaming",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.298,
-      "velocity_label": "exploding",
-      "combined_score": 0.36
+      "combined_score": 45.27
     },
     {
       "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
       "url": "https://sygal.app",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.41,
-      "velocity": 7.266,
+      "base_score": 0.48,
+      "velocity": 11.144,
       "velocity_label": "exploding",
-      "combined_score": 7.45
+      "combined_score": 13.37
     },
     {
-      "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
-      "url": "https://arxiv.org/abs/2610.19159",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.059,
+      "base_score": 3.88,
+      "velocity": 10.912,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 105.84
     },
     {
-      "title": "I know why the mathematicians weep",
-      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.44,
-      "velocity": 6.942,
+      "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+      "url": "https://nitter.kareem.one/boardyai/status/2110928135302836247#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.582,
       "velocity_label": "exploding",
-      "combined_score": 181.18
+      "combined_score": 13.23
     },
     {
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.57,
-      "velocity": 6.852,
-      "velocity_label": "exploding",
-      "combined_score": 95.41
-    },
-    {
-      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
-      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.67,
-      "velocity": 6.796,
-      "velocity_label": "exploding",
-      "combined_score": 28.37
-    },
-    {
-      "title": "Largest Global Survey of Cybersecurity and Law Enforcement Professionals",
-      "url": "https://ventel.org/guardian-survey",
+      "title": "The Shipbreakers (2000)",
+      "url": "https://web.archive.org/web/20120102105223/https://www.wesjones.com/shipbreakers.htm",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 6.595,
+      "velocity": 10.0,
       "velocity_label": "exploding",
-      "combined_score": 0.49
+      "combined_score": 0.75
     },
     {
-      "title": "Microplastics in water aren't inert and make damaging chemicals on their own",
-      "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+      "title": "I survived two school shootings. This is what I learned",
+      "url": "https://www.theatlantic.com/ideas/2026/05/i-survived-two-school-shootings/687295/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.11,
-      "velocity": 6.102,
+      "base_score": 0.02,
+      "velocity": 9.643,
       "velocity_label": "exploding",
-      "combined_score": 1.68
+      "combined_score": 0.48
     },
     {
-      "title": "The Shelter Thesis Program at TSOA",
-      "url": "https://www.tsoa.edu/shelter-thesis",
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.91,
+      "velocity": 9.556,
+      "velocity_label": "exploding",
+      "combined_score": 141.18
+    },
+    {
+      "title": "Delta’s Biscoff cookies were supposed to be temporary",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.05,
+      "velocity": 9.133,
+      "velocity_label": "exploding",
+      "combined_score": 92.48
+    },
+    {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.95,
+      "velocity": 8.694,
+      "velocity_label": "exploding",
+      "combined_score": 107.59
+    },
+    {
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.29,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 176.16
+    },
+    {
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.31,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 70.34
+    },
+    {
+      "title": "The Haunted Toys R Us",
+      "url": "https://www.retroist.com/p/the-haunted-toys-r-us",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.23,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 26.14
+    },
+    {
+      "title": "Is EB-5 worth it?",
+      "url": "https://studenteb5.com/research/comparisons/is-eb5-worth-it-indian-chinese-students",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 1.27
+    },
+    {
+      "title": "Grand Theft Auto VI Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 8.495,
+      "velocity_label": "exploding",
+      "combined_score": 1.91
+    },
+    {
+      "title": "We're hiring at ZeroMark: Growth Lead and Community Lead. Both fully remote, both open worldwide. Here's the problem we'",
+      "url": "https://nitter.kareem.one/benabmathew/status/2110928035008672162#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.387,
+      "velocity_label": "exploding",
+      "combined_score": 10.48
+    },
+    {
+      "title": "Krea 3 – An image model built for editing at scale",
+      "url": "https://www.krea.ai/krea-3",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.85,
+      "velocity": 8.005,
+      "velocity_label": "exploding",
+      "combined_score": 77.05
+    },
+    {
+      "title": "RT by @MycelFi: Being ruthless in saying no is a founder super power #startup #leanstartup",
+      "url": "https://nitter.kareem.one/dantawfik/status/788865853433389056#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.952,
+      "velocity_label": "exploding",
+      "combined_score": 9.94
+    },
+    {
+      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+      "url": "https://proa.so/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.29,
+      "velocity": 7.941,
+      "velocity_label": "exploding",
+      "combined_score": 25.61
+    },
+    {
+      "title": "Investors temper Anthropic IPO valuation expectations as revenue growth slows",
+      "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.906,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Is Google Making Us Stupid? (2008)",
+      "url": "https://hermiene.net/literature/essays/is-google-making-us-stupid",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.788,
+      "velocity_label": "exploding",
+      "combined_score": 0.78
+    },
+    {
+      "title": "Game of Life – But Multiplayer, Hypermedia and Python",
+      "url": "https://stario.dev/apps/life",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.79,
+      "velocity": 7.668,
+      "velocity_label": "exploding",
+      "combined_score": 15.14
+    },
+    {
+      "title": "Non-Determinism Doesn't Matter",
+      "url": "https://sklar.rocks/non-determinism-doesnt-matter/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.2,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 3.81
+    },
+    {
+      "title": "I get asked how I keep meeting interesting people. Founder life, I suppose. Every conversation is either a potential sta",
+      "url": "https://nitter.kareem.one/sting2music/status/2110927603377025063#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.564,
+      "velocity_label": "exploding",
+      "combined_score": 9.45
+    },
+    {
+      "title": "Teaching Math to Young Children",
+      "url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/18",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.554,
+      "velocity_label": "exploding",
+      "combined_score": 0.57
+    },
+    {
+      "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans",
+      "url": "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.32,
+      "velocity": 7.53,
+      "velocity_label": "exploding",
+      "combined_score": 6.02
+    },
+    {
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.86,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 15.77
+    },
+    {
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.28,
+      "velocity": 6.902,
+      "velocity_label": "exploding",
+      "combined_score": 4.83
+    },
+    {
+      "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
+      "url": "https://www.reuters.com/legal/government/openai-meta-caution-us-judiciary-about-risk-deepfake-evidence-2026-10-15/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.06,
+      "velocity": 6.832,
+      "velocity_label": "exploding",
+      "combined_score": 1.02
+    },
+    {
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.48,
+      "velocity": 6.601,
+      "velocity_label": "exploding",
+      "combined_score": 90.44
+    },
+    {
+      "title": "Major ICQ security hole (1998)",
+      "url": "https://opennet.ru/base/maillist/169.txt.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.88,
+      "velocity": 6.427,
+      "velocity_label": "exploding",
+      "combined_score": 14.14
+    },
+    {
+      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
+      "url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.54,
+      "velocity": 6.402,
+      "velocity_label": "exploding",
+      "combined_score": 8.64
+    },
+    {
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.41,
+      "velocity": 6.301,
+      "velocity_label": "exploding",
+      "combined_score": 53.71
+    },
+    {
+      "title": "Roadster Event",
+      "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
@@ -367,213 +708,525 @@
       "combined_score": 0.45
     },
     {
-      "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
-      "url": "https://github.com/andunieee/flipflop",
+      "title": "Celebrating 70 Years of Fortran",
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.6,
-      "velocity": 5.94,
+      "base_score": 3.73,
+      "velocity": 5.884,
       "velocity_label": "exploding",
-      "combined_score": 23.76
+      "combined_score": 54.87
     },
     {
-      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+      "title": "Turn your regular JavaScript code into a neural net",
+      "url": "https://chenglou.me/handwired/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.13,
-      "velocity": 5.919,
+      "base_score": 0.09,
+      "velocity": 5.787,
       "velocity_label": "exploding",
-      "combined_score": 31.52
+      "combined_score": 1.3
     },
     {
-      "title": "Show HN: Takes Takes – a different chess puzzle game",
-      "url": "https://www.takestakes.com/",
+      "title": "New startup idea: VOMITBOT Cleans your Roadster after every jump in the air.",
+      "url": "https://nitter.kareem.one/pathuglife/status/2110928162037342614#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.685,
+      "velocity_label": "exploding",
+      "combined_score": 7.11
+    },
+    {
+      "title": "Matt Mullenweg Orders Accessibility Revert, Bans Core Wordpress Committer",
+      "url": "https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.801,
+      "base_score": 0.02,
+      "velocity": 5.222,
       "velocity_label": "exploding",
-      "combined_score": 0.87
+      "combined_score": 0.26
     },
     {
-      "title": "A programmable secure web gateway",
-      "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+      "title": "Fractal Recursion, Bounded Infinity, and Adapted Systems",
+      "url": "https://medium.com/towards-artificial-intelligence/fractal-recursion-bounded-infinity-and-adapted-systems-b11046c9e1e1",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.78,
+      "velocity": 5.222,
       "velocity_label": "exploding",
-      "combined_score": 0.14
+      "combined_score": 0.13
     },
     {
-      "title": "Jev meets the Trolley Problem",
-      "url": "https://zachlandes.com/trolley-problem/",
+      "title": "Ask HN: Thoughts about the Gemini Web app?",
+      "url": "https://news.ycombinator.com/item?id=50113145",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.71,
-      "velocity": 5.725,
+      "base_score": 0.02,
+      "velocity": 5.199,
       "velocity_label": "exploding",
-      "combined_score": 38.79
-    },
-    {
-      "title": "Why are we even doing all this?",
-      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.33,
-      "velocity": 5.65,
-      "velocity_label": "exploding",
-      "combined_score": 4.66
-    },
-    {
-      "title": "PocketDash – Pixel art world in your new tab",
-      "url": "https://chromewebstore.google.com/detail/pocketdash/cjcfminikffoejllpffpdhdajiicobgc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.41
-    },
-    {
-      "title": "Claude desktop should have trello boards",
-      "url": "https://twitter.com/pcp_liu/status/2110826199022797232",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.495,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
+      "combined_score": 0.26
     },
     {
       "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
       "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 9.89,
-      "velocity": 5.493,
+      "base_score": 12.52,
+      "velocity": 5.152,
       "velocity_label": "exploding",
-      "combined_score": 135.82
+      "combined_score": 161.27
     },
     {
-      "title": "Creating a Garmin \"MCP\"",
-      "url": "https://jackantico.io/garmin-mcp",
+      "title": "Tiny Flaws in Glass Fiber Can Help Reveal Undersea Cable Threats",
+      "url": "https://spectrum.ieee.org/undersea-cables-acoustic-sensing",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.57,
-      "velocity": 5.429,
+      "base_score": 0.01,
+      "velocity": 5.043,
       "velocity_label": "exploding",
-      "combined_score": 21.31
-    },
-    {
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.58,
-      "velocity": 5.412,
-      "velocity_label": "exploding",
-      "combined_score": 61.97
-    },
-    {
-      "title": "Game of Life – But Multiplayer, Hypermedia and Python",
-      "url": "https://stario.dev/apps/life",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.4,
-      "velocity": 5.3,
-      "velocity_label": "exploding",
-      "combined_score": 5.3
-    },
-    {
-      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
-      "url": "https://proa.so/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.83,
-      "velocity": 5.247,
-      "velocity_label": "exploding",
-      "combined_score": 10.89
-    },
-    {
-      "title": "The engineering that allows articulated buses to bend",
-      "url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.66,
-      "velocity": 5.233,
-      "velocity_label": "exploding",
-      "combined_score": 8.64
-    },
-    {
-      "title": "BBC licence fee to be extended with 'YouTube tax' to force more to pay",
-      "url": "https://www.independent.co.uk/news/uk/politics/bbc-licence-fee-charter-youtube-tax-netflix-disney-b3067500.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 4.885,
-      "velocity_label": "exploding",
-      "combined_score": 2.44
-    },
-    {
-      "title": "It took me nine years to hack my Xbox 360",
-      "url": "https://kennedn.com/blog/posts/glitching/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.33,
-      "velocity": 4.843,
-      "velocity_label": "exploding",
-      "combined_score": 28.21
+      "combined_score": 0.13
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
+  "bridge_topics": [
+    {
+      "keyword": "zero",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 52.12,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: Inherit – Zero to Iac",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "open",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 51.04,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Muse Spark Open",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Space (AI agent containment sandbox) software open source",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "We're hiring at ZeroMark: Growth Lead and Community Lead. Both fully remote, both open worldwide. Here's the problem we'",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "built",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 33.4,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Krea 3 – An image model built for editing at scale",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "steam",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 31.64,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @BThompson0524: Steam just got a little faster. Valve has released a new Steam update that improves startup perfor",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "faster",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 31.64,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @BThompson0524: Steam just got a little faster. Valve has released a new Steam update that improves startup perfor",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "roadster",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 26.8,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "Tesla Roadster",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Tesla Debuts 2026 Roadster",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Tesla reveals SpaceX-powered Roadster that flies",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Roadster Event",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "New startup idea: VOMITBOT Cleans your Roadster after every jump in the air.",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "problem",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 24.28,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Jev meets the Trolley Problem",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "We're hiring at ZeroMark: Growth Lead and Community Lead. Both fully remote, both open worldwide. Here's the problem we'",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "released",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 21.8,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @BThompson0524: Steam just got a little faster. Valve has released a new Steam update that improves startup perfor",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "someone",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 19.28,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "startup",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 12.04,
+      "total_mentions": 7,
+      "examples": [
+        {
+          "title": "How Did Israel Become \"Startup Nation\"? (2009)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "New startup idea: VOMITBOT Cleans your Roadster after every jump in the air.",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Kuro Games (Wuthering Waves / Punishing: Gray Raven) just invested in AI startup Yanzhiyu, taking a 15% stake in an ange",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "R to @andrewdsouza: someone who already built a 10k member community from zero for an AI startup dm me",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @BThompson0524: Steam just got a little faster. Valve has released a new Steam update that improves startup perfor",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "meta",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.68,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "【Meta、Macで動く最大級の公開モデル。仲の悪いAppleと組めた理由】Anthropicが外部に中を見せる／CoreWeave「破綻確率60%」／監査AI／Runway【 1. Meta、Macで動く816Bの公開モデル。Appleと",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "life",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Game of Life – But Multiplayer, Hypermedia and Python",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "I get asked how I keep meeting interesting people. Founder life, I suppose. Every conversation is either a potential sta",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "app",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.36,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Show HN: My Terminal Themes Web App",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: Wayseer – A native desktop app for browsing real-time data",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Ask HN: Thoughts about the Gemini Web app?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "SaaS URL Startup App Which one are you dropping❔",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "growth",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Investors temper Anthropic IPO valuation expectations as revenue growth slows",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "We're hiring at ZeroMark: Growth Lead and Community Lead. Both fully remote, both open worldwide. Here's the problem we'",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "app",
+        "show",
+        "web"
+      ],
+      "concept_hint": "app + show + web",
+      "cluster_size": 3,
+      "discussion_count": 6,
+      "void_score": 36.0,
+      "examples": [
+        {
+          "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+          "source": "hackernews",
+          "matching_keywords": [
+            "show",
+            "web"
+          ]
+        },
+        {
+          "title": "Prompt injection in HTTP headers: what 217M web responses show",
+          "source": "hackernews",
+          "matching_keywords": [
+            "show",
+            "web"
+          ]
+        },
+        {
+          "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+          "source": "hackernews",
+          "matching_keywords": [
+            "show",
+            "web"
+          ]
+        },
+        {
+          "title": "Show HN: My Terminal Themes Web App",
+          "source": "hackernews",
+          "matching_keywords": [
+            "app",
+            "show",
+            "web"
+          ]
+        },
+        {
+          "title": "Show HN: Wayseer – A native desktop app for browsing real-time data",
+          "source": "hackernews",
+          "matching_keywords": [
+            "app",
+            "show"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
-      "title": "Platypus Embedded FPGA IP Cores – 100% Open-Source Bitstream and Dev Tools",
-      "url": "https://www.zeroasic.com/platypus",
+      "title": "Space (AI agent containment sandbox) software open source",
+      "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
-      "relevance": 0.167,
-      "matching_tags": [
-        "open",
-        "source",
-        "tools"
-      ]
-    },
-    {
-      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
-      "url": "https://github.com/konieczkow/gridsnap",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.8,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "RP1 – an open-source Robot [video]",
-      "url": "https://www.youtube.com/watch?v=xa6PkV6-Xsw",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Open Source Discord",
-      "url": "https://news.ycombinator.com/item?id=50110020",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
+      "score": 0.04,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -585,10 +1238,32 @@
       "url": "https://research.meta.ai/blog/muse-spark-open",
       "source": "hackernews",
       "category": "tech",
-      "score": 8.22,
+      "score": 11.94,
       "relevance": 0.056,
       "matching_tags": [
         "open"
+      ]
+    },
+    {
+      "title": "We're hiring at ZeroMark: Growth Lead and Community Lead. Both fully remote, both open worldwide. Here's the problem we'",
+      "url": "https://nitter.kareem.one/benabmathew/status/2110928035008672162#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "SaaS URL Startup App Which one are you dropping❔",
+      "url": "https://nitter.kareem.one/quietforgelab/status/2110927696842596445#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "saas"
       ]
     },
     {
@@ -596,32 +1271,21 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.07,
+      "score": 0.28,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Teardown of a $1000 Voting Machine",
-      "url": "https://unfoxo.it/blog/teardown-of-a-1000-voting-machine.html",
+      "title": "Turn your regular JavaScript code into a neural net",
+      "url": "https://chenglou.me/handwired/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 0.09,
       "relevance": 0.056,
       "matching_tags": [
-        "machine"
-      ]
-    },
-    {
-      "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
-      "url": "https://arxiv.org/abs/2610.19159",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
+        "code"
       ]
     }
   ]
