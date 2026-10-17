@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-16T20:28:56.135312+00:00",
-  "scrape_timestamp": "2026-10-16T20:26:39.665941+00:00",
-  "total_items_analyzed": 99,
+  "timestamp": "2026-10-17T02:49:30.347953+00:00",
+  "scrape_timestamp": "2026-10-17T02:47:55.748593+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,646 +16,555 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 89,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
-      "count": 10,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "way",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Yet another way to invoke functions without parentheses",
-          "source": "hackernews",
-          "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-          "score": 3.89
-        },
-        {
-          "title": "Steve Jobs Faked His Way Through Unveiling the iPhone (2017)",
-          "source": "hackernews",
-          "url": "https://nymag.com/intelligencer/2017/01/how-steve-jobs-faked-his-way-through-unveiling-the-iphone.html",
-          "score": 0.03
-        },
-        {
-          "title": "R to @JaySinghKang2: coming your way",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/spect3ral/status/2111192648090292537#m",
-          "score": 0.5
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Waymo in Toronto",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.66,
+      "base_score": 0.87,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 254.7
+      "combined_score": 39.15
     },
     {
-      "title": "Bark: The Toll-Free BBS for 90s Teens",
-      "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+      "title": "GifCities",
+      "url": "https://gifcities.org/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.58,
-      "velocity": 15.02,
+      "base_score": 0.76,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 21.78
+      "combined_score": 34.2
     },
     {
-      "title": "You're paying for a WAF. Is it blocking anything?",
-      "url": "https://plimie.com/blog/waf-log-only-is-it-blocking/",
+      "title": "The Fatal Flaw of 911",
+      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 14.833,
+      "base_score": 1.54,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 0.74
+      "combined_score": 69.3
     },
     {
-      "title": "MS Paint Adds Freeform Rotation (2026)",
-      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.02,
-      "velocity": 14.785,
+      "base_score": 3.99,
+      "velocity": 15.044,
       "velocity_label": "exploding",
-      "combined_score": 37.7
-    },
-    {
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.43,
-      "velocity": 13.883,
-      "velocity_label": "exploding",
-      "combined_score": 49.63
-    },
-    {
-      "title": "Symmetries in Boolean Scan",
-      "url": "https://ap29600.github.io/boolean_scans.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 1.66
-    },
-    {
-      "title": "Musk suggested Trump restrict Ukraine's Starlink service, Telegraph reports",
-      "url": "https://kyivindependent.com/musk-asked-trump-to-restrict-ukraines-starlink-service-telegraph-reports/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 12.843,
-      "velocity_label": "exploding",
-      "combined_score": 1.28
-    },
-    {
-      "title": "Steve Jobs Faked His Way Through Unveiling the iPhone (2017)",
-      "url": "https://nymag.com/intelligencer/2017/01/how-steve-jobs-faked-his-way-through-unveiling-the-iphone.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.902,
-      "velocity_label": "exploding",
-      "combined_score": 0.89
-    },
-    {
-      "title": "Musk came to Trump with the plan to throttle Ukraine's use of Starshield",
-      "url": "https://twitter.com/Barnes_Joe/status/2111156654850847230",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 11.713,
-      "velocity_label": "exploding",
-      "combined_score": 2.05
-    },
-    {
-      "title": "Inside Polymarket's paid quote-retweet esports program",
-      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.64,
-      "velocity": 11.403,
-      "velocity_label": "exploding",
-      "combined_score": 46.75
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.68,
-      "velocity": 11.118,
-      "velocity_label": "exploding",
-      "combined_score": 46.7
-    },
-    {
-      "title": "How gyroscopes got so small [video]",
-      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.36,
-      "velocity": 10.774,
-      "velocity_label": "exploding",
-      "combined_score": 36.63
-    },
-    {
-      "title": "From Redis pressure to a healthier service",
-      "url": "https://devblogs.microsoft.com/powerplatform/azure-managed-redis-migration/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.27
-    },
-    {
-      "title": "Mo' Turns, Mo' Problems",
-      "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.4,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "Freezing in the Face of AI",
-      "url": "https://precious.bearblog.dev/fear/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "All Logic, No Bite",
-      "url": "https://blog.coredump.cx/p/all-logic-no-bite",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.59,
-      "velocity": 9.556,
-      "velocity_label": "exploding",
-      "combined_score": 37.98
-    },
-    {
-      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
-      "url": "https://news.ycombinator.com/item?id=50121562",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.88,
-      "velocity": 9.517,
-      "velocity_label": "exploding",
-      "combined_score": 20.94
-    },
-    {
-      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-      "url": "https://onedeploy.co",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 9.306,
-      "velocity_label": "exploding",
-      "combined_score": 8.38
-    },
-    {
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 9.068,
-      "velocity_label": "exploding",
-      "combined_score": 4.08
-    },
-    {
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.3,
-      "velocity": 9.064,
-      "velocity_label": "exploding",
-      "combined_score": 29.46
-    },
-    {
-      "title": "AI-assisted PCB design for KiCad 10",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.92,
-      "velocity": 8.302,
-      "velocity_label": "exploding",
-      "combined_score": 39.85
-    },
-    {
-      "title": "CVE-2022-49149",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2022-49149",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.917,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "The Economic Complexity of the Western Roman Empire",
-      "url": "https://www.michelecoscia.com/?p=2613",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.9,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 37.37
-    },
-    {
-      "title": "Fly.io Incident – Platform Wide Rolling Host Reboots",
-      "url": "https://status.flyio.net/incidents/01M52RAWMVC0NKEBRDKC3VXT3K",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.39
-    },
-    {
-      "title": "Digital Public Goods Alliance",
-      "url": "https://www.digitalpublicgoods.net/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.11,
-      "velocity": 7.485,
-      "velocity_label": "exploding",
-      "combined_score": 2.06
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.61,
-      "velocity": 7.394,
-      "velocity_label": "exploding",
-      "combined_score": 48.24
+      "combined_score": 150.07
     },
     {
       "title": "Monte-Carlo Simulations",
       "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.14,
-      "velocity": 7.333,
+      "base_score": 0.97,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 2.57
+      "combined_score": 35.97
     },
     {
-      "title": "The Eurosky Identity Platform Is Now a Digital Public Good",
-      "url": "https://eurosky.tech/news/eurosky-identity-platform-digital-public-good/",
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.177,
+      "base_score": 1.73,
+      "velocity": 13.074,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 56.55
     },
     {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
+      "title": "PGO or not PGO this is the dilemma. Step 2",
+      "url": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.0,
-      "velocity": 6.856,
+      "base_score": 0.23,
+      "velocity": 12.667,
       "velocity_label": "exploding",
-      "combined_score": 17.14
+      "combined_score": 7.28
     },
     {
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.4,
-      "velocity": 6.839,
+      "base_score": 11.24,
+      "velocity": 12.617,
       "velocity_label": "exploding",
-      "combined_score": 41.03
+      "combined_score": 354.53
     },
     {
-      "title": "Fractional CTO'ing and AI Sandboxing [video]",
-      "url": "https://www.youtube.com/watch?v=hzshcVNNrYg",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.631,
+      "base_score": 9.46,
+      "velocity": 12.004,
       "velocity_label": "exploding",
-      "combined_score": 0.17
-    },
-    {
-      "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
-      "url": "https://va3ndf.com/blog/hacker-badges/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.54,
-      "velocity": 6.626,
-      "velocity_label": "exploding",
-      "combined_score": 8.94
-    },
-    {
-      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
-      "url": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.26,
-      "velocity": 6.47,
-      "velocity_label": "exploding",
-      "combined_score": 4.21
-    },
-    {
-      "title": "Will MOOCs Destroy Academia? (2012)",
-      "url": "https://cacm.acm.org/opinion/will-moocs-destroy-academia/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 6.438,
-      "velocity_label": "exploding",
-      "combined_score": 2.41
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.0,
-      "velocity": 6.402,
-      "velocity_label": "exploding",
-      "combined_score": 32.01
-    },
-    {
-      "title": "Meta employees said Lula's accounts were hindered during Brazil election",
-      "url": "https://www.reuters.com/world/americas/meta-employees-said-lulas-accounts-were-hindered-during-brazil-election-folha-2026-10-16/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 6.331,
-      "velocity_label": "exploding",
-      "combined_score": 2.37
-    },
-    {
-      "title": "Aspire: Agentic /Skills Discovery for Robotics",
-      "url": "https://github.com/nvlabs/aspire",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.217,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 283.89
     },
     {
       "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
       "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.06,
-      "velocity": 6.103,
+      "base_score": 3.6,
+      "velocity": 11.933,
       "velocity_label": "exploding",
-      "combined_score": 46.68
+      "combined_score": 107.4
     },
     {
-      "title": "Expedia Amazoned Hotel Rooms",
-      "url": "https://pluralistic.net/2026/10/15/enshittipedia/",
+      "title": "ICS Space Events Calendar",
+      "url": "https://github.com/lkorth/space-calendar",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.08,
-      "velocity": 6.0,
+      "base_score": 0.02,
+      "velocity": 10.833,
       "velocity_label": "exploding",
-      "combined_score": 1.2
+      "combined_score": 0.54
     },
     {
-      "title": "R to @BBCWorld: It's all these AI technical problems that are causing these wars.",
-      "url": "https://nitter.kareem.one/Cherylguinand/status/2111192645477286058#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.867,
-      "velocity_label": "exploding",
-      "combined_score": 7.33
-    },
-    {
-      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
-      "url": "https://stoke.money",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.17,
-      "velocity": 5.704,
+      "base_score": 3.0,
+      "velocity": 10.644,
       "velocity_label": "exploding",
-      "combined_score": 2.42
+      "combined_score": 79.83
     },
     {
-      "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
-      "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
+      "title": "How to Formalize All of Mathematics",
+      "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.14,
-      "velocity": 5.652,
+      "base_score": 1.88,
+      "velocity": 10.4,
       "velocity_label": "exploding",
-      "combined_score": 1.98
+      "combined_score": 48.88
     },
     {
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.5,
-      "velocity": 5.533,
+      "base_score": 3.27,
+      "velocity": 10.213,
       "velocity_label": "exploding",
-      "combined_score": 20.75
+      "combined_score": 83.49
     },
     {
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.69,
-      "velocity": 5.454,
-      "velocity_label": "exploding",
-      "combined_score": 9.41
-    },
-    {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.49,
-      "velocity": 5.4,
-      "velocity_label": "exploding",
-      "combined_score": 155.12
-    },
-    {
-      "title": "R to @isniffroxy: to bad it looks ai",
-      "url": "https://nitter.kareem.one/rx4pm/status/2111192646685491541#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.278,
-      "velocity_label": "exploding",
-      "combined_score": 6.6
-    },
-    {
-      "title": "Ross Douthat: How to Survive the Robot Apocalypse",
-      "url": "https://www.thefp.com/p/ross-douthat-how-to-survive-the-robot-apocalypse-ai-tech-doom",
+      "title": "AI Gateway Governance",
+      "url": "https://github.com/ddruhin/ai-gateway-governance-reference-architecture",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.022,
+      "velocity": 10.083,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 0.25
     },
     {
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "title": "Using a funded cryptocurrency wallet without authorization",
+      "url": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.9,
-      "velocity": 5.018,
+      "base_score": 0.02,
+      "velocity": 9.956,
       "velocity_label": "exploding",
-      "combined_score": 86.56
+      "combined_score": 0.5
+    },
+    {
+      "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
+      "url": "https://va3ndf.com/blog/hacker-badges/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.67,
+      "velocity": 9.846,
+      "velocity_label": "exploding",
+      "combined_score": 16.49
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.36,
+      "velocity": 9.292,
+      "velocity_label": "exploding",
+      "combined_score": 31.59
+    },
+    {
+      "title": "What was a Token Ring network?",
+      "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.18,
+      "velocity": 9.274,
+      "velocity_label": "exploding",
+      "combined_score": 50.54
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.34,
+      "velocity": 9.256,
+      "velocity_label": "exploding",
+      "combined_score": 100.43
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.37,
+      "velocity": 9.028,
+      "velocity_label": "exploding",
+      "combined_score": 53.49
+    },
+    {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.73,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 185.51
+    },
+    {
+      "title": "SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets",
+      "url": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.497,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "China to Restrict Open-Weights Model Exports",
+      "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.459,
+      "velocity_label": "exploding",
+      "combined_score": 0.42
+    },
+    {
+      "title": "My old job feels distant now",
+      "url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.06,
+      "velocity": 8.104,
+      "velocity_label": "exploding",
+      "combined_score": 41.74
+    },
+    {
+      "title": "A week on the farm with Dylan Araps",
+      "url": "https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.08,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 1.53
+    },
+    {
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.92,
+      "velocity": 7.022,
+      "velocity_label": "exploding",
+      "combined_score": 33.71
+    },
+    {
+      "title": "Show HN: FeedTamer – Filter YouTube by word, channel, topic, or allowlist",
+      "url": "https://thefeedtamer.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.992,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
+      "url": "https://github.com/andunieee/twain",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.869,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "url": "https://stoke.money",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.48,
+      "velocity": 6.744,
+      "velocity_label": "exploding",
+      "combined_score": 8.09
+    },
+    {
+      "title": "Matrix Gradients, Without the Pain",
+      "url": "https://alexwang.ai/posts/derivatives-and-gradients/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.607,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Symmetries in Boolean Scan",
+      "url": "https://ap29600.github.io/boolean_scans.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 1.98
+    },
+    {
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.6,
+      "velocity": 6.45,
+      "velocity_label": "exploding",
+      "combined_score": 25.8
+    },
+    {
+      "title": "China is second only to the U.S. in healthcare costs as a percentage of income",
+      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.201,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.14,
+      "velocity": 6.178,
+      "velocity_label": "exploding",
+      "combined_score": 48.5
+    },
+    {
+      "title": "Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.865,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Overlooked brown fat in our bodies linked to wide range of health benefits",
+      "url": "https://www.nature.com/articles/d41586-026-03302-w",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Self-hosted infrastructure with Incus OS",
+      "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.17,
+      "velocity": 5.556,
+      "velocity_label": "exploding",
+      "combined_score": 2.36
+    },
+    {
+      "title": "Ask HN: Claude Code since the last update \"Held message from another session\"",
+      "url": "https://news.ycombinator.com/item?id=50127073",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.515,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.25,
+      "velocity": 5.267,
+      "velocity_label": "exploding",
+      "combined_score": 55.96
+    },
+    {
+      "title": "Gnome OS Preview",
+      "url": "https://lwn.net/Articles/1101057/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.37,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 4.86
+    },
+    {
+      "title": "DragonRuby – I never wanted to create a game engine",
+      "url": "https://gist.github.com/amirrajan/9e71d13f3108e5e66ebc98c752337ca5",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.224,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "The Economic Complexity of the Western Roman Empire",
+      "url": "https://www.michelecoscia.com/?p=2613",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.04,
+      "velocity": 5.017,
+      "velocity_label": "exploding",
+      "combined_score": 25.58
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.03,
+      "velocity": 4.928,
+      "velocity_label": "exploding",
+      "combined_score": 25.01
+    },
+    {
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.47,
+      "velocity": 4.796,
+      "velocity_label": "exploding",
+      "combined_score": 17.62
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.98,
+      "velocity": 4.7,
+      "velocity_label": "exploding",
+      "combined_score": 23.27
+    },
+    {
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.0,
+      "velocity": 4.674,
+      "velocity_label": "exploding",
+      "combined_score": 23.37
+    },
+    {
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.76,
+      "velocity": 4.653,
+      "velocity_label": "exploding",
+      "combined_score": 8.84
+    },
+    {
+      "title": "Meta confirms smart glasses were recording without being activated",
+      "url": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.32,
+      "velocity": 4.636,
+      "velocity_label": "exploding",
+      "combined_score": 3.71
+    },
+    {
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.621,
+      "velocity_label": "exploding",
+      "combined_score": 0.23
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "way",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 17.68,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Yet another way to invoke functions without parentheses",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Steve Jobs Faked His Way Through Unveiling the iPhone (2017)",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @JaySinghKang2: coming your way",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "problems",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Mo' Turns, Mo' Problems",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @BBCWorld: It's all these AI technical problems that are causing these wars.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [
     {
       "concept_cluster": [
-        "open",
-        "show",
-        "source"
+        "ask",
+        "claude",
+        "code"
       ],
-      "concept_hint": "open + show + source",
+      "concept_hint": "ask + claude + code",
       "cluster_size": 3,
-      "discussion_count": 4,
-      "void_score": 24.0,
+      "discussion_count": 3,
+      "void_score": 13.5,
       "examples": [
         {
-          "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+          "title": "How the Claude Code team does code review",
           "source": "hackernews",
           "matching_keywords": [
-            "open",
-            "show",
-            "source"
+            "claude",
+            "code"
           ]
         },
         {
-          "title": "OpenSunsama is the best open-source task manager",
+          "title": "Ask HN: Should I use Claude Code to create a replacement Apple IIGS ROM?",
           "source": "hackernews",
           "matching_keywords": [
-            "open",
-            "source"
+            "ask",
+            "claude",
+            "code"
           ]
         },
         {
-          "title": "Show HN: CoastMath: (Open Source) Personal Finance and Retirement Planner",
+          "title": "Ask HN: Claude Code since the last update \"Held message from another session\"",
           "source": "hackernews",
           "matching_keywords": [
-            "open",
-            "show",
-            "source"
-          ]
-        },
-        {
-          "title": "RevenueDot – The Open-Source RevenueCat Alterative",
-          "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "source"
+            "ask",
+            "claude",
+            "code"
           ]
         }
       ]
@@ -663,11 +572,11 @@
   ],
   "personal_relevance": [
     {
-      "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-      "url": "https://onedeploy.co",
+      "title": "Brax Wink. The most private mobile phone. Modular. Open source",
+      "url": "https://braxtech.net/products/wink",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.36,
+      "score": 0.06,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -675,32 +584,8 @@
       ]
     },
     {
-      "title": "OpenSunsama is the best open-source task manager",
-      "url": "https://opensunsama.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.04,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Show HN: CoastMath: (Open Source) Personal Finance and Retirement Planner",
-      "url": "https://github.com/blank-slate-labs/coastmath",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "RevenueDot – The Open-Source RevenueCat Alterative",
-      "url": "https://github.com/revenuedot/revenuedot",
+      "title": "Jshook: Open-source MCP server for runtime reverse engineering",
+      "url": "https://github.com/vmoranv/jshookmcp",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
@@ -715,18 +600,7 @@
       "url": "https://research.meta.ai/blog/muse-spark-open",
       "source": "hackernews",
       "category": "tech",
-      "score": 15.89,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
-      ]
-    },
-    {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 3.69,
+      "score": 16.02,
       "relevance": 0.056,
       "matching_tags": [
         "open"
@@ -737,26 +611,70 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.45,
+      "score": 6.08,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.12,
+      "score": 4.58,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Show HN: Gondwana, a code-first C#/.NET game engine with WebGL",
-      "url": "https://github.com/Isthimius/Gondwana",
+      "title": "Olympus: Correcting the power dynamic of code (2024)",
+      "url": "https://danieltemkin.com/Esolangs/Olympus/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.05,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Ask HN: Should I use Claude Code to create a replacement Apple IIGS ROM?",
+      "url": "https://news.ycombinator.com/item?id=50127098",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.04,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "China to Restrict Open-Weights Model Exports",
+      "url": "https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "China is second only to the U.S. in healthcare costs as a percentage of income",
+      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "income"
+      ]
+    },
+    {
+      "title": "Ask HN: Claude Code since the last update \"Held message from another session\"",
+      "url": "https://news.ycombinator.com/item?id=50127073",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
