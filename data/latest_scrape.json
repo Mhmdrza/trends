@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T15:18:17.591836+00:00",
+  "timestamp": "2026-10-18T20:00:48.675509+00:00",
   "sources": {
     "youtube": {
       "count": 0,
@@ -14,7 +14,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -24,57 +24,129 @@
   },
   "all_items": [
     {
+      "id": "c076c57185de",
+      "source": "hackernews",
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "score": 2.38,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:10.380764+00:00",
+      "extra": {
+        "hn_id": 50142573,
+        "points": 152,
+        "comments": 57,
+        "by": "tosh",
+        "time": 1792341120,
+        "hn_url": "https://news.ycombinator.com/item?id=50142573"
+      }
+    },
+    {
       "id": "5973679aae55",
       "source": "hackernews",
       "title": "RepRapMicron",
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "score": 1.28,
+      "score": 3.32,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.509910+00:00",
+      "timestamp": "2026-10-18T20:02:10.458675+00:00",
       "extra": {
         "hn_id": 50141076,
-        "points": 104,
-        "comments": 16,
+        "points": 275,
+        "comments": 38,
         "by": "RobotToaster",
         "time": 1792331328,
         "hn_url": "https://news.ycombinator.com/item?id=50141076"
       }
     },
     {
-      "id": "23d2548e69c9",
+      "id": "50c3cd6549f3",
       "source": "hackernews",
-      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-      "score": 0.14,
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 0.35,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.552824+00:00",
+      "timestamp": "2026-10-18T20:02:11.661353+00:00",
       "extra": {
-        "hn_id": 50141681,
-        "points": 10,
-        "comments": 3,
-        "by": "smilelamp",
-        "time": 1792335640,
-        "hn_url": "https://news.ycombinator.com/item?id=50141681"
+        "hn_id": 50144066,
+        "points": 26,
+        "comments": 6,
+        "by": "sysrpl",
+        "time": 1792349284,
+        "hn_url": "https://news.ycombinator.com/item?id=50144066"
       }
     },
     {
-      "id": "e2ad9a31426f",
+      "id": "0e5cfaf114e6",
       "source": "hackernews",
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "score": 1.64,
+      "title": "PalmOS Lemmings by Aaron Ardiri",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "score": 0.36,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.596078+00:00",
+      "timestamp": "2026-10-18T20:02:12.240029+00:00",
       "extra": {
-        "hn_id": 50139692,
-        "points": 119,
-        "comments": 30,
-        "by": "DeepLogin",
-        "time": 1792318911,
-        "hn_url": "https://news.ycombinator.com/item?id=50139692"
+        "hn_id": 50143536,
+        "points": 29,
+        "comments": 5,
+        "by": "memalign",
+        "time": 1792346219,
+        "hn_url": "https://news.ycombinator.com/item?id=50143536"
+      }
+    },
+    {
+      "id": "ee5a4498cd51",
+      "source": "hackernews",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "score": 1.95,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:12.287748+00:00",
+      "extra": {
+        "hn_id": 50141579,
+        "points": 100,
+        "comments": 63,
+        "by": "hnisjafx40",
+        "time": 1792334857,
+        "hn_url": "https://news.ycombinator.com/item?id=50141579"
+      }
+    },
+    {
+      "id": "08a2e89621d8",
+      "source": "hackernews",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "score": 0.76,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:12.349686+00:00",
+      "extra": {
+        "hn_id": 50142449,
+        "points": 61,
+        "comments": 10,
+        "by": "pwg",
+        "time": 1792340427,
+        "hn_url": "https://news.ycombinator.com/item?id=50142449"
+      }
+    },
+    {
+      "id": "530edcdbae0b",
+      "source": "hackernews",
+      "title": "Sigsaly: Churchill's top secret hotline to the President",
+      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "score": 0.86,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:12.406894+00:00",
+      "extra": {
+        "hn_id": 50096110,
+        "points": 73,
+        "comments": 9,
+        "by": "stmw",
+        "time": 1792015667,
+        "hn_url": "https://news.ycombinator.com/item?id=50096110"
       }
     },
     {
@@ -82,35 +154,35 @@
       "source": "hackernews",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "score": 6.64,
+      "score": 8.29,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.640179+00:00",
+      "timestamp": "2026-10-18T20:02:12.451250+00:00",
       "extra": {
         "hn_id": 50138531,
-        "points": 381,
-        "comments": 189,
+        "points": 479,
+        "comments": 233,
         "by": "fagnerbrack",
         "time": 1792306236,
         "hn_url": "https://news.ycombinator.com/item?id=50138531"
       }
     },
     {
-      "id": "c697f1c7d0bc",
+      "id": "e2ad9a31426f",
       "source": "hackernews",
-      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-      "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "score": 0.95,
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 2.9,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.687555+00:00",
+      "timestamp": "2026-10-18T20:02:12.515688+00:00",
       "extra": {
-        "hn_id": 50140001,
-        "points": 86,
-        "comments": 6,
-        "by": "_Microft",
-        "time": 1792322182,
-        "hn_url": "https://news.ycombinator.com/item?id=50140001"
+        "hn_id": 50139692,
+        "points": 203,
+        "comments": 58,
+        "by": "DeepLogin",
+        "time": 1792318911,
+        "hn_url": "https://news.ycombinator.com/item?id=50139692"
       }
     },
     {
@@ -118,35 +190,107 @@
       "source": "hackernews",
       "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
       "url": "https://legendofhyrule.com/",
-      "score": 0.38,
+      "score": 2.23,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.730599+00:00",
+      "timestamp": "2026-10-18T20:02:12.559398+00:00",
       "extra": {
         "hn_id": 50140769,
-        "points": 29,
-        "comments": 6,
+        "points": 124,
+        "comments": 66,
         "by": "jsomau",
         "time": 1792328814,
         "hn_url": "https://news.ycombinator.com/item?id=50140769"
       }
     },
     {
-      "id": "a33530549f95",
+      "id": "c697f1c7d0bc",
       "source": "hackernews",
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "score": 0.75,
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "score": 1.64,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.774445+00:00",
+      "timestamp": "2026-10-18T20:02:12.601735+00:00",
       "extra": {
-        "hn_id": 50141429,
-        "points": 36,
-        "comments": 26,
-        "by": "f-serif",
-        "time": 1792333827,
-        "hn_url": "https://news.ycombinator.com/item?id=50141429"
+        "hn_id": 50140001,
+        "points": 147,
+        "comments": 11,
+        "by": "_Microft",
+        "time": 1792322182,
+        "hn_url": "https://news.ycombinator.com/item?id=50140001"
+      }
+    },
+    {
+      "id": "f6ae802bac87",
+      "source": "hackernews",
+      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+      "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+      "score": 0.31,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:12.644656+00:00",
+      "extra": {
+        "hn_id": 50136017,
+        "points": 31,
+        "comments": 0,
+        "by": "zdw",
+        "time": 1792278510,
+        "hn_url": "https://news.ycombinator.com/item?id=50136017"
+      }
+    },
+    {
+      "id": "1d3729a653d2",
+      "source": "hackernews",
+      "title": "HOA's are making the home crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "score": 2.92,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:12.695682+00:00",
+      "extra": {
+        "hn_id": 50144005,
+        "points": 94,
+        "comments": 132,
+        "by": "lovewins",
+        "time": 1792348816,
+        "hn_url": "https://news.ycombinator.com/item?id=50144005"
+      }
+    },
+    {
+      "id": "09eebba5c82f",
+      "source": "hackernews",
+      "title": "US threatens Europe over Starlink restrictions",
+      "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
+      "score": 0.35,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:12.821270+00:00",
+      "extra": {
+        "hn_id": 50144405,
+        "points": 20,
+        "comments": 10,
+        "by": "mraniki",
+        "time": 1792351470,
+        "hn_url": "https://news.ycombinator.com/item?id=50144405"
+      }
+    },
+    {
+      "id": "562441ebe2f5",
+      "source": "hackernews",
+      "title": "I Electrified My Push Scooter with a Power Drill",
+      "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+      "score": 0.86,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:12.885102+00:00",
+      "extra": {
+        "hn_id": 50093020,
+        "points": 53,
+        "comments": 22,
+        "by": "speckx",
+        "time": 1792004032,
+        "hn_url": "https://news.ycombinator.com/item?id=50093020"
       }
     },
     {
@@ -154,14 +298,14 @@
       "source": "hackernews",
       "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "score": 7.08,
+      "score": 9.73,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.820354+00:00",
+      "timestamp": "2026-10-18T20:02:12.927791+00:00",
       "extra": {
         "hn_id": 50137620,
-        "points": 246,
-        "comments": 308,
+        "points": 322,
+        "comments": 434,
         "by": "MaysonL",
         "time": 1792293589,
         "hn_url": "https://news.ycombinator.com/item?id=50137620"
@@ -172,71 +316,71 @@
       "source": "hackernews",
       "title": "Parser Combinators",
       "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "score": 1.97,
+      "score": 3.06,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.863687+00:00",
+      "timestamp": "2026-10-18T20:02:12.971689+00:00",
       "extra": {
         "hn_id": 50139067,
-        "points": 119,
-        "comments": 52,
+        "points": 195,
+        "comments": 74,
         "by": "schindlabua",
         "time": 1792311593,
         "hn_url": "https://news.ycombinator.com/item?id=50139067"
       }
     },
     {
-      "id": "90257c8e74cc",
+      "id": "265d1ff82b9d",
       "source": "hackernews",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "score": 2.9,
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "score": 2.95,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.907120+00:00",
+      "timestamp": "2026-10-18T20:02:13.013875+00:00",
       "extra": {
-        "hn_id": 50137950,
-        "points": 198,
-        "comments": 61,
-        "by": "critiquebrowser",
-        "time": 1792298029,
-        "hn_url": "https://news.ycombinator.com/item?id=50137950"
+        "hn_id": 50142866,
+        "points": 157,
+        "comments": 92,
+        "by": "sashk",
+        "time": 1792342616,
+        "hn_url": "https://news.ycombinator.com/item?id=50142866"
       }
     },
     {
-      "id": "12fc0f8ba553",
+      "id": "4b7371943d8f",
       "source": "hackernews",
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 6.71,
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "score": 5.35,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.950261+00:00",
+      "timestamp": "2026-10-18T20:02:13.056340+00:00",
       "extra": {
-        "hn_id": 50126253,
-        "points": 512,
-        "comments": 106,
-        "by": "alkyon",
-        "time": 1792193907,
-        "hn_url": "https://news.ycombinator.com/item?id=50126253"
+        "hn_id": 50141909,
+        "points": 217,
+        "comments": 212,
+        "by": "Audiophilip",
+        "time": 1792337166,
+        "hn_url": "https://news.ycombinator.com/item?id=50141909"
       }
     },
     {
-      "id": "a98b77062978",
+      "id": "0df4b03b1979",
       "source": "hackernews",
-      "title": "Hatching (Heraldry)",
-      "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
-      "score": 0.47,
+      "title": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
+      "url": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
+      "score": 0.05,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:38.999455+00:00",
+      "timestamp": "2026-10-18T20:02:13.099490+00:00",
       "extra": {
-        "hn_id": 50093081,
-        "points": 40,
-        "comments": 5,
-        "by": "theanonymousone",
-        "time": 1792004277,
-        "hn_url": "https://news.ycombinator.com/item?id=50093081"
+        "hn_id": 50129060,
+        "points": 5,
+        "comments": 0,
+        "by": "Thevet",
+        "time": 1792225463,
+        "hn_url": "https://news.ycombinator.com/item?id=50129060"
       }
     },
     {
@@ -244,215 +388,143 @@
       "source": "hackernews",
       "title": "Teal – A statically-typed dialect of Lua",
       "url": "https://teal-language.org/",
-      "score": 1.56,
+      "score": 2.27,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.045749+00:00",
+      "timestamp": "2026-10-18T20:02:13.142831+00:00",
       "extra": {
         "hn_id": 50124730,
-        "points": 95,
-        "comments": 41,
+        "points": 137,
+        "comments": 60,
         "by": "Lyngbakr",
         "time": 1792184844,
         "hn_url": "https://news.ycombinator.com/item?id=50124730"
       }
     },
     {
-      "id": "99dfb0f274da",
+      "id": "23d2548e69c9",
       "source": "hackernews",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "score": 0.32,
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+      "score": 3.02,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.089197+00:00",
+      "timestamp": "2026-10-18T20:02:13.185532+00:00",
       "extra": {
-        "hn_id": 50141657,
-        "points": 15,
-        "comments": 11,
-        "by": "evolve2k",
-        "time": 1792335490,
-        "hn_url": "https://news.ycombinator.com/item?id=50141657"
+        "hn_id": 50141681,
+        "points": 102,
+        "comments": 133,
+        "by": "smilelamp",
+        "time": 1792335640,
+        "hn_url": "https://news.ycombinator.com/item?id=50141681"
       }
     },
     {
-      "id": "873b4232e340",
+      "id": "935f8b9cf0df",
       "source": "hackernews",
-      "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-      "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
-      "score": 0.35,
+      "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+      "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+      "score": 0.29,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.132450+00:00",
+      "timestamp": "2026-10-18T20:02:13.228664+00:00",
       "extra": {
-        "hn_id": 50141295,
+        "hn_id": 50143876,
         "points": 19,
-        "comments": 11,
-        "by": "healsdata",
-        "time": 1792333001,
-        "hn_url": "https://news.ycombinator.com/item?id=50141295"
+        "comments": 7,
+        "by": "iamnothere",
+        "time": 1792348000,
+        "hn_url": "https://news.ycombinator.com/item?id=50143876"
       }
     },
     {
-      "id": "617b926957ee",
+      "id": "7c689fefae95",
       "source": "hackernews",
-      "title": "Regex visualized as 3D marble run",
-      "url": "https://www.regexmarblerun.com/",
-      "score": 0.78,
+      "title": "CKKS – Addition and Multiplication",
+      "url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
+      "score": 0.06,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.175934+00:00",
+      "timestamp": "2026-10-18T20:02:13.270949+00:00",
       "extra": {
-        "hn_id": 50122671,
-        "points": 49,
-        "comments": 19,
-        "by": "seizethecheese",
-        "time": 1792176528,
-        "hn_url": "https://news.ycombinator.com/item?id=50122671"
-      }
-    },
-    {
-      "id": "2d78aa69242a",
-      "source": "hackernews",
-      "title": "Theranos-Style Fraud Has Become the Norm",
-      "url": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
-      "score": 0.15,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.219668+00:00",
-      "extra": {
-        "hn_id": 50141206,
-        "points": 15,
+        "hn_id": 50119819,
+        "points": 6,
         "comments": 0,
-        "by": "fortran77",
-        "time": 1792332336,
-        "hn_url": "https://news.ycombinator.com/item?id=50141206"
+        "by": "ibobev",
+        "time": 1792165426,
+        "hn_url": "https://news.ycombinator.com/item?id=50119819"
       }
     },
     {
-      "id": "ec156bc96437",
+      "id": "90257c8e74cc",
       "source": "hackernews",
-      "title": "Chirp Pong – uses microphones and audio for networked game play",
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "score": 0.15,
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 3.38,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.262953+00:00",
+      "timestamp": "2026-10-18T20:02:13.313298+00:00",
       "extra": {
-        "hn_id": 50114061,
-        "points": 12,
-        "comments": 2,
-        "by": "havaloc",
-        "time": 1792124702,
-        "hn_url": "https://news.ycombinator.com/item?id=50114061"
-      }
-    },
-    {
-      "id": "b86134ea68e5",
-      "source": "hackernews",
-      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-      "score": 0.2,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.307347+00:00",
-      "extra": {
-        "hn_id": 50102480,
-        "points": 17,
-        "comments": 2,
-        "by": "mbustamanter",
-        "time": 1792065998,
-        "hn_url": "https://news.ycombinator.com/item?id=50102480"
-      }
-    },
-    {
-      "id": "4879eb3a4adb",
-      "source": "hackernews",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 19.33,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.350488+00:00",
-      "extra": {
-        "hn_id": 50129045,
-        "points": 913,
-        "comments": 680,
-        "by": "theykk",
-        "time": 1792225285,
-        "hn_url": "https://news.ycombinator.com/item?id=50129045"
-      }
-    },
-    {
-      "id": "4cbae754f4a1",
-      "source": "hackernews",
-      "title": "Lean now ships with verified kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "score": 2.63,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.394545+00:00",
-      "extra": {
-        "hn_id": 50114758,
-        "points": 173,
-        "comments": 60,
-        "by": "matt_d",
-        "time": 1792131373,
-        "hn_url": "https://news.ycombinator.com/item?id=50114758"
-      }
-    },
-    {
-      "id": "2c4d57509ae4",
-      "source": "hackernews",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "score": 5.82,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.437642+00:00",
-      "extra": {
-        "hn_id": 50132193,
-        "points": 513,
-        "comments": 46,
-        "by": "dchest",
-        "time": 1792252509,
-        "hn_url": "https://news.ycombinator.com/item?id=50132193"
-      }
-    },
-    {
-      "id": "d4691496f56b",
-      "source": "hackernews",
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 4.38,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.480811+00:00",
-      "extra": {
-        "hn_id": 50126312,
-        "points": 317,
-        "comments": 81,
-        "by": "sohkamyung",
-        "time": 1792194451,
-        "hn_url": "https://news.ycombinator.com/item?id=50126312"
+        "hn_id": 50137950,
+        "points": 224,
+        "comments": 76,
+        "by": "critiquebrowser",
+        "time": 1792298029,
+        "hn_url": "https://news.ycombinator.com/item?id=50137950"
       }
     },
     {
       "id": "f0110bc6ec5e",
       "source": "hackernews",
-      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience",
+      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
       "url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
-      "score": 0.04,
+      "score": 0.39,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.523831+00:00",
+      "timestamp": "2026-10-18T20:02:13.355754+00:00",
       "extra": {
         "hn_id": 50141024,
-        "points": 4,
-        "comments": 0,
+        "points": 28,
+        "comments": 7,
         "by": "jruohonen",
         "time": 1792330866,
         "hn_url": "https://news.ycombinator.com/item?id=50141024"
+      }
+    },
+    {
+      "id": "b671649cc7e8",
+      "source": "hackernews",
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "score": 0.7,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.397845+00:00",
+      "extra": {
+        "hn_id": 50143755,
+        "points": 30,
+        "comments": 27,
+        "by": "surprisetalk",
+        "time": 1792347310,
+        "hn_url": "https://news.ycombinator.com/item?id=50143755"
+      }
+    },
+    {
+      "id": "544198e76d46",
+      "source": "hackernews",
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "score": 0.3,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.440219+00:00",
+      "extra": {
+        "hn_id": 50108165,
+        "points": 23,
+        "comments": 5,
+        "by": "Eridanus2",
+        "time": 1792089249,
+        "hn_url": "https://news.ycombinator.com/item?id=50108165"
       }
     },
     {
@@ -460,107 +532,179 @@
       "source": "hackernews",
       "title": "The Brain Sandwich",
       "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "score": 0.24,
+      "score": 1.01,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.568005+00:00",
+      "timestamp": "2026-10-18T20:02:13.483401+00:00",
       "extra": {
         "hn_id": 50139998,
-        "points": 15,
-        "comments": 6,
+        "points": 55,
+        "comments": 31,
         "by": "keyle",
         "time": 1792322137,
         "hn_url": "https://news.ycombinator.com/item?id=50139998"
       }
     },
     {
-      "id": "287a0fb07bd2",
+      "id": "2defecee7a48",
       "source": "hackernews",
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 5.04,
+      "title": "Personal software factories are a waste of time",
+      "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+      "score": 0.54,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.611376+00:00",
+      "timestamp": "2026-10-18T20:02:13.526330+00:00",
       "extra": {
-        "hn_id": 50100994,
-        "points": 383,
-        "comments": 81,
-        "by": "plaguna",
-        "time": 1792054110,
-        "hn_url": "https://news.ycombinator.com/item?id=50100994"
+        "hn_id": 50144175,
+        "points": 27,
+        "comments": 18,
+        "by": "thegreatpeter",
+        "time": 1792350131,
+        "hn_url": "https://news.ycombinator.com/item?id=50144175"
       }
     },
     {
-      "id": "9d699a5afdcd",
+      "id": "032b76f0121a",
       "source": "hackernews",
-      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-      "score": 0.22,
+      "title": "Mitos editor is a fork of Helix",
+      "url": "https://mitos.computer/",
+      "score": 1.06,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.654565+00:00",
+      "timestamp": "2026-10-18T20:02:13.568910+00:00",
       "extra": {
-        "hn_id": 50098485,
-        "points": 19,
+        "hn_id": 50143132,
+        "points": 46,
+        "comments": 40,
+        "by": "ambigious7777",
+        "time": 1792343974,
+        "hn_url": "https://news.ycombinator.com/item?id=50143132"
+      }
+    },
+    {
+      "id": "617b926957ee",
+      "source": "hackernews",
+      "title": "Regex visualized as 3D marble run",
+      "url": "https://www.regexmarblerun.com/",
+      "score": 1.27,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.611436+00:00",
+      "extra": {
+        "hn_id": 50122671,
+        "points": 82,
+        "comments": 30,
+        "by": "seizethecheese",
+        "time": 1792176528,
+        "hn_url": "https://news.ycombinator.com/item?id=50122671"
+      }
+    },
+    {
+      "id": "a98b77062978",
+      "source": "hackernews",
+      "title": "Hatching (Heraldry)",
+      "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
+      "score": 0.96,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.654643+00:00",
+      "extra": {
+        "hn_id": 50093081,
+        "points": 66,
+        "comments": 20,
+        "by": "theanonymousone",
+        "time": 1792004277,
+        "hn_url": "https://news.ycombinator.com/item?id=50093081"
+      }
+    },
+    {
+      "id": "4cbae754f4a1",
+      "source": "hackernews",
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "score": 3.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.697438+00:00",
+      "extra": {
+        "hn_id": 50114758,
+        "points": 194,
+        "comments": 72,
+        "by": "matt_d",
+        "time": 1792131373,
+        "hn_url": "https://news.ycombinator.com/item?id=50114758"
+      }
+    },
+    {
+      "id": "ec156bc96437",
+      "source": "hackernews",
+      "title": "Chirp Pong – uses microphones and audio for networked game play",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "score": 0.47,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.739710+00:00",
+      "extra": {
+        "hn_id": 50114061,
+        "points": 26,
+        "comments": 14,
+        "by": "havaloc",
+        "time": 1792124702,
+        "hn_url": "https://news.ycombinator.com/item?id=50114061"
+      }
+    },
+    {
+      "id": "d2b6f1dbfdfa",
+      "source": "hackernews",
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "score": 1.76,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.803473+00:00",
+      "extra": {
+        "hn_id": 50140462,
+        "points": 70,
+        "comments": 71,
+        "by": "DeepLogin",
+        "time": 1792326178,
+        "hn_url": "https://news.ycombinator.com/item?id=50140462"
+      }
+    },
+    {
+      "id": "9862e53777a3",
+      "source": "hackernews",
+      "title": "Tiny Brutalism – Thanks to HN It's on Steam",
+      "url": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+      "score": 0.16,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:13.846074+00:00",
+      "extra": {
+        "hn_id": 50144144,
+        "points": 13,
         "comments": 2,
-        "by": "porridgeraisin",
-        "time": 1792031977,
-        "hn_url": "https://news.ycombinator.com/item?id=50098485"
+        "by": "MatiErnst",
+        "time": 1792349949,
+        "hn_url": "https://news.ycombinator.com/item?id=50144144"
       }
     },
     {
-      "id": "cedb9461e430",
+      "id": "b86134ea68e5",
       "source": "hackernews",
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 4.59,
+      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+      "score": 0.36,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.699841+00:00",
+      "timestamp": "2026-10-18T20:02:13.888574+00:00",
       "extra": {
-        "hn_id": 50131213,
-        "points": 333,
-        "comments": 84,
-        "by": "crescit_eundo",
-        "time": 1792245328,
-        "hn_url": "https://news.ycombinator.com/item?id=50131213"
-      }
-    },
-    {
-      "id": "5da4dd69d022",
-      "source": "hackernews",
-      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-      "score": 0.72,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.743090+00:00",
-      "extra": {
-        "hn_id": 50110081,
-        "points": 56,
-        "comments": 11,
-        "by": "jacquesm",
-        "time": 1792097740,
-        "hn_url": "https://news.ycombinator.com/item?id=50110081"
-      }
-    },
-    {
-      "id": "3f9bb811266f",
-      "source": "hackernews",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 2.7,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.786229+00:00",
-      "extra": {
-        "hn_id": 50100366,
-        "points": 219,
-        "comments": 34,
-        "by": "antirez",
-        "time": 1792048694,
-        "hn_url": "https://news.ycombinator.com/item?id=50100366"
+        "hn_id": 50102480,
+        "points": 29,
+        "comments": 5,
+        "by": "mbustamanter",
+        "time": 1792065998,
+        "hn_url": "https://news.ycombinator.com/item?id=50102480"
       }
     },
     {
@@ -568,53 +712,35 @@
       "source": "hackernews",
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 8.03,
+      "score": 8.24,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.830363+00:00",
+      "timestamp": "2026-10-18T20:02:13.931006+00:00",
       "extra": {
         "hn_id": 50122878,
-        "points": 603,
-        "comments": 133,
+        "points": 616,
+        "comments": 139,
         "by": "speckx",
         "time": 1792177277,
         "hn_url": "https://news.ycombinator.com/item?id=50122878"
       }
     },
     {
-      "id": "78f7cd319115",
+      "id": "2a95aec72fd9",
       "source": "hackernews",
-      "title": "Fun Extending the C Preprocessor",
-      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-      "score": 0.66,
+      "title": "Hyper Optimizing Kimi K3 in vLLM",
+      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+      "score": 0.15,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.874489+00:00",
+      "timestamp": "2026-10-18T20:02:13.975445+00:00",
       "extra": {
-        "hn_id": 50106792,
-        "points": 45,
-        "comments": 14,
-        "by": "david2ndaccount",
-        "time": 1792084106,
-        "hn_url": "https://news.ycombinator.com/item?id=50106792"
-      }
-    },
-    {
-      "id": "7e2e838e9ec6",
-      "source": "hackernews",
-      "title": "Interactive Linear Programming in the Browser",
-      "url": "https://lpviz.net/",
-      "score": 0.72,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.917629+00:00",
-      "extra": {
-        "hn_id": 50130379,
-        "points": 68,
-        "comments": 3,
-        "by": "klamike",
-        "time": 1792238804,
-        "hn_url": "https://news.ycombinator.com/item?id=50130379"
+        "hn_id": 50140784,
+        "points": 15,
+        "comments": 0,
+        "by": "torutofu",
+        "time": 1792328930,
+        "hn_url": "https://news.ycombinator.com/item?id=50140784"
       }
     },
     {
@@ -622,107 +748,53 @@
       "source": "hackernews",
       "title": "The Public Pays to Produce Research. Shareholders Collect the Return",
       "url": "https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/",
-      "score": 0.12,
+      "score": 0.55,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:39.961395+00:00",
+      "timestamp": "2026-10-18T20:02:14.018029+00:00",
       "extra": {
         "hn_id": 50139636,
-        "points": 7,
-        "comments": 3,
+        "points": 28,
+        "comments": 18,
         "by": "jruohonen",
         "time": 1792318203,
         "hn_url": "https://news.ycombinator.com/item?id=50139636"
       }
     },
     {
-      "id": "fcd4b8e4da7b",
+      "id": "12fc0f8ba553",
       "source": "hackernews",
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 6.46,
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 7.08,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.004662+00:00",
+      "timestamp": "2026-10-18T20:02:14.060473+00:00",
       "extra": {
-        "hn_id": 50136536,
-        "points": 381,
-        "comments": 177,
-        "by": "guiambros",
-        "time": 1792282462,
-        "hn_url": "https://news.ycombinator.com/item?id=50136536"
+        "hn_id": 50126253,
+        "points": 536,
+        "comments": 115,
+        "by": "alkyon",
+        "time": 1792193907,
+        "hn_url": "https://news.ycombinator.com/item?id=50126253"
       }
     },
     {
-      "id": "c4804eb4fd03",
+      "id": "3f9bb811266f",
       "source": "hackernews",
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-      "score": 0.07,
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 2.77,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.049387+00:00",
+      "timestamp": "2026-10-18T20:02:14.103157+00:00",
       "extra": {
-        "hn_id": 50141386,
-        "points": 7,
-        "comments": 0,
-        "by": "pseudolus",
-        "time": 1792333513,
-        "hn_url": "https://news.ycombinator.com/item?id=50141386"
-      }
-    },
-    {
-      "id": "995fb1bddba0",
-      "source": "hackernews",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "score": 2.69,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.093069+00:00",
-      "extra": {
-        "hn_id": 50133231,
-        "points": 157,
-        "comments": 75,
-        "by": "AIorNot",
-        "time": 1792259108,
-        "hn_url": "https://news.ycombinator.com/item?id=50133231"
-      }
-    },
-    {
-      "id": "020d01ece090",
-      "source": "hackernews",
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "score": 6.96,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.137468+00:00",
-      "extra": {
-        "hn_id": 50132870,
-        "points": 380,
-        "comments": 211,
-        "by": "iamnothere",
-        "time": 1792256767,
-        "hn_url": "https://news.ycombinator.com/item?id=50132870"
-      }
-    },
-    {
-      "id": "04285f851210",
-      "source": "hackernews",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "score": 2.1,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.180859+00:00",
-      "extra": {
-        "hn_id": 50131006,
-        "points": 157,
-        "comments": 35,
-        "by": "celphase",
-        "time": 1792243726,
-        "hn_url": "https://news.ycombinator.com/item?id=50131006"
+        "hn_id": 50100366,
+        "points": 226,
+        "comments": 34,
+        "by": "antirez",
+        "time": 1792048694,
+        "hn_url": "https://news.ycombinator.com/item?id=50100366"
       }
     },
     {
@@ -730,71 +802,269 @@
       "source": "hackernews",
       "title": "OpenCode has a security breach last that impacted 1.4% of console users",
       "url": "https://twitter.com/opencode/status/2111519637049319818",
-      "score": 0.25,
+      "score": 0.67,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.224364+00:00",
+      "timestamp": "2026-10-18T20:02:14.145486+00:00",
       "extra": {
         "hn_id": 50139083,
-        "points": 13,
-        "comments": 8,
+        "points": 37,
+        "comments": 20,
         "by": "notmine1337",
         "time": 1792311731,
         "hn_url": "https://news.ycombinator.com/item?id=50139083"
       }
     },
     {
-      "id": "a06c07b0513d",
+      "id": "5da4dd69d022",
       "source": "hackernews",
-      "title": "Custom server to revive neato bots",
-      "url": "https://github.com/vacuula/vacuula",
-      "score": 0.61,
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "score": 0.86,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.310787+00:00",
+      "timestamp": "2026-10-18T20:02:14.188538+00:00",
       "extra": {
-        "hn_id": 50097257,
-        "points": 57,
-        "comments": 3,
-        "by": "matttah",
-        "time": 1792021718,
-        "hn_url": "https://news.ycombinator.com/item?id=50097257"
+        "hn_id": 50110081,
+        "points": 62,
+        "comments": 16,
+        "by": "jacquesm",
+        "time": 1792097740,
+        "hn_url": "https://news.ycombinator.com/item?id=50110081"
       }
     },
     {
-      "id": "1ad1d6f93544",
+      "id": "7c945298175b",
       "source": "hackernews",
-      "title": "Superoptimizing an FPU Emulator",
-      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-      "score": 0.5,
+      "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+      "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+      "score": 0.28,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.353832+00:00",
+      "timestamp": "2026-10-18T20:02:14.232039+00:00",
       "extra": {
-        "hn_id": 50117935,
-        "points": 41,
-        "comments": 6,
-        "by": "dverlaeckt80",
-        "time": 1792156112,
-        "hn_url": "https://news.ycombinator.com/item?id=50117935"
+        "hn_id": 50142772,
+        "points": 18,
+        "comments": 7,
+        "by": "toomuchtodo",
+        "time": 1792342105,
+        "hn_url": "https://news.ycombinator.com/item?id=50142772"
       }
     },
     {
-      "id": "f8b7ad1271ef",
+      "id": "9d699a5afdcd",
       "source": "hackernews",
-      "title": "Notes on the Complex Roots of Unity",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-      "score": 0.51,
+      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+      "score": 0.29,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.396884+00:00",
+      "timestamp": "2026-10-18T20:02:14.274831+00:00",
       "extra": {
-        "hn_id": 50138002,
-        "points": 37,
-        "comments": 9,
-        "by": "sks_15",
-        "time": 1792298971,
-        "hn_url": "https://news.ycombinator.com/item?id=50138002"
+        "hn_id": 50098485,
+        "points": 26,
+        "comments": 2,
+        "by": "porridgeraisin",
+        "time": 1792031977,
+        "hn_url": "https://news.ycombinator.com/item?id=50098485"
+      }
+    },
+    {
+      "id": "7e2e838e9ec6",
+      "source": "hackernews",
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
+      "score": 0.9,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.319079+00:00",
+      "extra": {
+        "hn_id": 50130379,
+        "points": 72,
+        "comments": 12,
+        "by": "klamike",
+        "time": 1792238804,
+        "hn_url": "https://news.ycombinator.com/item?id=50130379"
+      }
+    },
+    {
+      "id": "995fb1bddba0",
+      "source": "hackernews",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "score": 2.86,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.362577+00:00",
+      "extra": {
+        "hn_id": 50133231,
+        "points": 166,
+        "comments": 80,
+        "by": "AIorNot",
+        "time": 1792259108,
+        "hn_url": "https://news.ycombinator.com/item?id=50133231"
+      }
+    },
+    {
+      "id": "78f7cd319115",
+      "source": "hackernews",
+      "title": "Fun Extending the C Preprocessor",
+      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "score": 0.89,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.405441+00:00",
+      "extra": {
+        "hn_id": 50106792,
+        "points": 50,
+        "comments": 26,
+        "by": "david2ndaccount",
+        "time": 1792084106,
+        "hn_url": "https://news.ycombinator.com/item?id=50106792"
+      }
+    },
+    {
+      "id": "020d01ece090",
+      "source": "hackernews",
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "score": 7.22,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.452331+00:00",
+      "extra": {
+        "hn_id": 50132870,
+        "points": 397,
+        "comments": 217,
+        "by": "iamnothere",
+        "time": 1792256767,
+        "hn_url": "https://news.ycombinator.com/item?id=50132870"
+      }
+    },
+    {
+      "id": "fcd4b8e4da7b",
+      "source": "hackernews",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 6.87,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.495060+00:00",
+      "extra": {
+        "hn_id": 50136536,
+        "points": 408,
+        "comments": 186,
+        "by": "guiambros",
+        "time": 1792282462,
+        "hn_url": "https://news.ycombinator.com/item?id=50136536"
+      }
+    },
+    {
+      "id": "04285f851210",
+      "source": "hackernews",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "score": 2.21,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.581761+00:00",
+      "extra": {
+        "hn_id": 50131006,
+        "points": 162,
+        "comments": 39,
+        "by": "celphase",
+        "time": 1792243726,
+        "hn_url": "https://news.ycombinator.com/item?id=50131006"
+      }
+    },
+    {
+      "id": "4879eb3a4adb",
+      "source": "hackernews",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 19.77,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.624924+00:00",
+      "extra": {
+        "hn_id": 50129045,
+        "points": 929,
+        "comments": 699,
+        "by": "theykk",
+        "time": 1792225285,
+        "hn_url": "https://news.ycombinator.com/item?id=50129045"
+      }
+    },
+    {
+      "id": "a33530549f95",
+      "source": "hackernews",
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "score": 3.75,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.667241+00:00",
+      "extra": {
+        "hn_id": 50141429,
+        "points": 141,
+        "comments": 156,
+        "by": "f-serif",
+        "time": 1792333827,
+        "hn_url": "https://news.ycombinator.com/item?id=50141429"
+      }
+    },
+    {
+      "id": "99dfb0f274da",
+      "source": "hackernews",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "score": 3.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.710183+00:00",
+      "extra": {
+        "hn_id": 50141657,
+        "points": 125,
+        "comments": 118,
+        "by": "evolve2k",
+        "time": 1792335490,
+        "hn_url": "https://news.ycombinator.com/item?id=50141657"
+      }
+    },
+    {
+      "id": "d4691496f56b",
+      "source": "hackernews",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 4.78,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.752617+00:00",
+      "extra": {
+        "hn_id": 50126312,
+        "points": 346,
+        "comments": 88,
+        "by": "sohkamyung",
+        "time": 1792194451,
+        "hn_url": "https://news.ycombinator.com/item?id=50126312"
+      }
+    },
+    {
+      "id": "2c4d57509ae4",
+      "source": "hackernews",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "score": 6.38,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.794988+00:00",
+      "extra": {
+        "hn_id": 50132193,
+        "points": 558,
+        "comments": 53,
+        "by": "dchest",
+        "time": 1792252509,
+        "hn_url": "https://news.ycombinator.com/item?id=50132193"
       }
     },
     {
@@ -802,791 +1072,539 @@
       "source": "hackernews",
       "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
       "url": "https://github.com/mikroverk/esp32sim",
-      "score": 2.35,
+      "score": 2.48,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.440604+00:00",
+      "timestamp": "2026-10-18T20:02:14.837761+00:00",
       "extra": {
         "hn_id": 50131189,
-        "points": 183,
-        "comments": 35,
+        "points": 189,
+        "comments": 39,
         "by": "joakimeriksson",
         "time": 1792245068,
         "hn_url": "https://news.ycombinator.com/item?id=50131189"
       }
     },
     {
-      "id": "8cc5aa085f46",
+      "id": "f3bd8a9e1f2d",
       "source": "hackernews",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "score": 12.52,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.483987+00:00",
-      "extra": {
-        "hn_id": 50131256,
-        "points": 643,
-        "comments": 406,
-        "by": "xbmcuser",
-        "time": 1792245661,
-        "hn_url": "https://news.ycombinator.com/item?id=50131256"
-      }
-    },
-    {
-      "id": "e7efb1baf57b",
-      "source": "hackernews",
-      "title": "A skeptic's first contact with Kubernetes (2024)",
-      "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-      "score": 2.43,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.527253+00:00",
-      "extra": {
-        "hn_id": 50127572,
-        "points": 132,
-        "comments": 74,
-        "by": "pmoriarty",
-        "time": 1792206985,
-        "hn_url": "https://news.ycombinator.com/item?id=50127572"
-      }
-    },
-    {
-      "id": "5f2e99702dc1",
-      "source": "hackernews",
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "score": 62.14,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.570703+00:00",
-      "extra": {
-        "hn_id": 50112657,
-        "points": 1624,
-        "comments": 3060,
-        "by": "shekhar101",
-        "time": 1792114365,
-        "hn_url": "https://news.ycombinator.com/item?id=50112657"
-      }
-    },
-    {
-      "id": "95a14ca4d7ee",
-      "source": "hackernews",
-      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-      "score": 2.59,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.614160+00:00",
-      "extra": {
-        "hn_id": 50138087,
-        "points": 115,
-        "comments": 96,
-        "by": "thatslast",
-        "time": 1792300154,
-        "hn_url": "https://news.ycombinator.com/item?id=50138087"
-      }
-    },
-    {
-      "id": "1f692a3d6ab3",
-      "source": "hackernews",
-      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-      "url": "https://github.com/Kapendev/parin",
-      "score": 0.91,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.657473+00:00",
-      "extra": {
-        "hn_id": 50118098,
-        "points": 67,
-        "comments": 16,
-        "by": "Kapendev",
-        "time": 1792156969,
-        "hn_url": "https://news.ycombinator.com/item?id=50118098"
-      }
-    },
-    {
-      "id": "e043828e5b91",
-      "source": "hackernews",
-      "title": "Rendering pretty sky in Around The World game",
-      "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-      "score": 1.75,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.700501+00:00",
-      "extra": {
-        "hn_id": 50119315,
-        "points": 156,
-        "comments": 13,
-        "by": "ibobev",
-        "time": 1792163203,
-        "hn_url": "https://news.ycombinator.com/item?id=50119315"
-      }
-    },
-    {
-      "id": "67eda793c820",
-      "source": "hackernews",
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "score": 0.9,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.743497+00:00",
-      "extra": {
-        "hn_id": 50101649,
-        "points": 64,
-        "comments": 17,
-        "by": "gregsadetsky",
-        "time": 1792059856,
-        "hn_url": "https://news.ycombinator.com/item?id=50101649"
-      }
-    },
-    {
-      "id": "d93a626c3b7e",
-      "source": "hackernews",
-      "title": "Vintage Cassettes: 1963-2010",
-      "url": "http://vintagecassettes.com/",
-      "score": 0.83,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.786455+00:00",
-      "extra": {
-        "hn_id": 50094887,
-        "points": 70,
-        "comments": 9,
-        "by": "austinallegro",
-        "time": 1792010496,
-        "hn_url": "https://news.ycombinator.com/item?id=50094887"
-      }
-    },
-    {
-      "id": "0922448efccc",
-      "source": "hackernews",
-      "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
-      "url": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
-      "score": 0.16,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.830444+00:00",
-      "extra": {
-        "hn_id": 50126457,
-        "points": 13,
-        "comments": 2,
-        "by": "peter_d_sherman",
-        "time": 1792195889,
-        "hn_url": "https://news.ycombinator.com/item?id=50126457"
-      }
-    },
-    {
-      "id": "d85a563dec2b",
-      "source": "hackernews",
-      "title": "One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across ECos, Linux",
-      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-      "score": 0.1,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.873550+00:00",
-      "extra": {
-        "hn_id": 50139534,
-        "points": 8,
-        "comments": 1,
-        "by": "tosh",
-        "time": 1792316864,
-        "hn_url": "https://news.ycombinator.com/item?id=50139534"
-      }
-    },
-    {
-      "id": "cd1d8c84e2dc",
-      "source": "hackernews",
-      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-      "score": 1.47,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.916750+00:00",
-      "extra": {
-        "hn_id": 50138044,
-        "points": 111,
-        "comments": 24,
-        "by": "georgecmu",
-        "time": 1792299564,
-        "hn_url": "https://news.ycombinator.com/item?id=50138044"
-      }
-    },
-    {
-      "id": "96b1820639af",
-      "source": "hackernews",
-      "title": "The future of programming (1982)",
-      "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-      "score": 1.02,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:40.965414+00:00",
-      "extra": {
-        "hn_id": 50130079,
-        "points": 75,
-        "comments": 18,
-        "by": "vismit2000",
-        "time": 1792236052,
-        "hn_url": "https://news.ycombinator.com/item?id=50130079"
-      }
-    },
-    {
-      "id": "7a1dbb2bc778",
-      "source": "hackernews",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 16.22,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.008504+00:00",
-      "extra": {
-        "hn_id": 50122800,
-        "points": 1043,
-        "comments": 386,
-        "by": "ahlCVA",
-        "time": 1792176959,
-        "hn_url": "https://news.ycombinator.com/item?id=50122800"
-      }
-    },
-    {
-      "id": "435ba8ae10e2",
-      "source": "hackernews",
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "url": "https://news.ycombinator.com/item?id=50089577",
-      "score": 3.07,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.054773+00:00",
-      "extra": {
-        "hn_id": 50089577,
-        "points": 157,
-        "comments": 100,
-        "by": "nikanj",
-        "time": 1791992971,
-        "hn_url": "https://news.ycombinator.com/item?id=50089577"
-      }
-    },
-    {
-      "id": "35c5887f6090",
-      "source": "hackernews",
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "score": 0.98,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.097808+00:00",
-      "extra": {
-        "hn_id": 50119751,
-        "points": 89,
-        "comments": 6,
-        "by": "michidk",
-        "time": 1792165108,
-        "hn_url": "https://news.ycombinator.com/item?id=50119751"
-      }
-    },
-    {
-      "id": "2631c1e8032d",
-      "source": "hackernews",
-      "title": "Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser",
-      "url": "https://wispplayer.com/?tab=ai",
+      "title": "Eight Bytes in One Register",
+      "url": "https://www.yagiz.co/eight-bytes-in-one-register",
       "score": 0.01,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.184704+00:00",
+      "timestamp": "2026-10-18T20:02:14.923136+00:00",
       "extra": {
-        "hn_id": 50141830,
+        "hn_id": 50144867,
         "points": 1,
         "comments": 0,
-        "by": "Serg75",
-        "time": 1792336680,
-        "hn_url": "https://news.ycombinator.com/item?id=50141830"
+        "by": "f311a",
+        "time": 1792353694,
+        "hn_url": "https://news.ycombinator.com/item?id=50144867"
       }
     },
     {
-      "id": "b0adbe17e69a",
+      "id": "4ce31aee170a",
       "source": "hackernews",
-      "title": "Study shows cannabis is not associated with better sleep quality",
-      "url": "https://news.northwestern.edu/stories/2026/10/think-cannabis-helps-you-sleep-better-think-again",
+      "title": "MCP events: who writes the first prompt now?",
+      "url": "https://timeline.differentiated.io/guides/mcp-events",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:14.966257+00:00",
+      "extra": {
+        "hn_id": 50144825,
+        "points": 1,
+        "comments": 0,
+        "by": "marcelmarais",
+        "time": 1792353470,
+        "hn_url": "https://news.ycombinator.com/item?id=50144825"
+      }
+    },
+    {
+      "id": "8a024aa03e90",
+      "source": "hackernews",
+      "title": "Colleges need to teach last-mile knowledge",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/colleges-need-to-teach-last-mile",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.008668+00:00",
+      "extra": {
+        "hn_id": 50144808,
+        "points": 1,
+        "comments": 0,
+        "by": "paulpauper",
+        "time": 1792353383,
+        "hn_url": "https://news.ycombinator.com/item?id=50144808"
+      }
+    },
+    {
+      "id": "37a7d7d734e8",
+      "source": "hackernews",
+      "title": "Show HN: Bullet Script (bs) – a Lisp(y) VM for shmups",
+      "url": "http://bs.ell.dev/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.051918+00:00",
+      "extra": {
+        "hn_id": 50144805,
+        "points": 1,
+        "comments": 0,
+        "by": "ellg",
+        "time": 1792353366,
+        "hn_url": "https://news.ycombinator.com/item?id=50144805"
+      }
+    },
+    {
+      "id": "e26f2de403de",
+      "source": "hackernews",
+      "title": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
+      "url": "https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.094941+00:00",
+      "extra": {
+        "hn_id": 50144803,
+        "points": 1,
+        "comments": 0,
+        "by": "jgalt212",
+        "time": 1792353362,
+        "hn_url": "https://news.ycombinator.com/item?id=50144803"
+      }
+    },
+    {
+      "id": "b4ce9dff6a41",
+      "source": "hackernews",
+      "title": "Vizen – Open-source overlays for Windows, crop any window over your game",
+      "url": "https://github.com/kalinvisuals/VIZEN",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.137297+00:00",
+      "extra": {
+        "hn_id": 50144800,
+        "points": 1,
+        "comments": 0,
+        "by": "kalinvisuals",
+        "time": 1792353345,
+        "hn_url": "https://news.ycombinator.com/item?id=50144800"
+      }
+    },
+    {
+      "id": "ba9e6140c6c7",
+      "source": "hackernews",
+      "title": "My Favorite Restaurant Served Gas (2023)",
+      "url": "https://bittersoutherner.com/feature/2023/my-favorite-restaurant-served-gas-kate-medley-kiese-laymon-gas-station-food",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.183168+00:00",
+      "extra": {
+        "hn_id": 50144798,
+        "points": 1,
+        "comments": 0,
+        "by": "wmchen",
+        "time": 1792353342,
+        "hn_url": "https://news.ycombinator.com/item?id=50144798"
+      }
+    },
+    {
+      "id": "018bd1e65752",
+      "source": "hackernews",
+      "title": "Monthly Roundup #47: October 2026",
+      "url": "https://thezvi.substack.com/p/monthly-roundup-47-october-2026",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.225477+00:00",
+      "extra": {
+        "hn_id": 50144792,
+        "points": 1,
+        "comments": 0,
+        "by": "paulpauper",
+        "time": 1792353321,
+        "hn_url": "https://news.ycombinator.com/item?id=50144792"
+      }
+    },
+    {
+      "id": "1d14f71bc501",
+      "source": "hackernews",
+      "title": "Top Mathematician Announces New Institute for A.I. Safety",
+      "url": "https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.267918+00:00",
+      "extra": {
+        "hn_id": 50144787,
+        "points": 1,
+        "comments": 0,
+        "by": "paulpauper",
+        "time": 1792353289,
+        "hn_url": "https://news.ycombinator.com/item?id=50144787"
+      }
+    },
+    {
+      "id": "333a02d27ee1",
+      "source": "hackernews",
+      "title": "OpenAI's blockbuster math proof isn't what you think it is",
+      "url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.311346+00:00",
+      "extra": {
+        "hn_id": 50144760,
+        "points": 1,
+        "comments": 0,
+        "by": "tibbar",
+        "time": 1792353152,
+        "hn_url": "https://news.ycombinator.com/item?id=50144760"
+      }
+    },
+    {
+      "id": "bb2a322812a3",
+      "source": "hackernews",
+      "title": "United's CEO Says It Should Cost More Not to Sit in the Middle Seat",
+      "url": "https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html",
       "score": 0.03,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.228279+00:00",
+      "timestamp": "2026-10-18T20:02:15.353756+00:00",
       "extra": {
-        "hn_id": 50141822,
+        "hn_id": 50144756,
         "points": 1,
         "comments": 1,
-        "by": "gmays",
-        "time": 1792336620,
-        "hn_url": "https://news.ycombinator.com/item?id=50141822"
+        "by": "cwwc",
+        "time": 1792353138,
+        "hn_url": "https://news.ycombinator.com/item?id=50144756"
       }
     },
     {
-      "id": "4cbd1755a687",
+      "id": "bd2f7226196f",
       "source": "hackernews",
-      "title": "Trust in Depth: Giving agents more autonomy without losing control",
-      "url": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "url": "https://github.com/rhargreaves/vmmouse-nt3",
       "score": 0.01,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.271231+00:00",
+      "timestamp": "2026-10-18T20:02:15.396395+00:00",
       "extra": {
-        "hn_id": 50141814,
+        "hn_id": 50144727,
         "points": 1,
         "comments": 0,
-        "by": "burcsahinoglu",
-        "time": 1792336589,
-        "hn_url": "https://news.ycombinator.com/item?id=50141814"
+        "by": "kiyouta",
+        "time": 1792353011,
+        "hn_url": "https://news.ycombinator.com/item?id=50144727"
       }
     },
     {
-      "id": "5c19b663609b",
+      "id": "3ff434a4b1a4",
       "source": "hackernews",
-      "title": "Show HN: BricksChat – Generate Lego builds from images, including Technic",
-      "url": "https://brickschat.com/",
-      "score": 0.02,
+      "title": "Netflix Lays Off About 6% of Staff in Biggest Job Cuts Since 2022",
+      "url": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3",
+      "score": 0.09,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.314889+00:00",
+      "timestamp": "2026-10-18T20:02:15.440452+00:00",
       "extra": {
-        "hn_id": 50141798,
-        "points": 2,
-        "comments": 0,
-        "by": "mireklzicar",
-        "time": 1792336434,
-        "hn_url": "https://news.ycombinator.com/item?id=50141798"
+        "hn_id": 50144723,
+        "points": 4,
+        "comments": 3,
+        "by": "corvad",
+        "time": 1792352974,
+        "hn_url": "https://news.ycombinator.com/item?id=50144723"
       }
     },
     {
-      "id": "2cf0be53ff0e",
+      "id": "86136326dbd3",
       "source": "hackernews",
-      "title": "Omarchy Gets the Web Browser Launching Faster by Avoiding XDG Overhead",
-      "url": "https://www.phoronix.com/news/Omarchy-Faster-Web-Browser",
+      "title": "Show HN: Keel – One event-sourced context graph for all your agents",
+      "url": "https://github.com/angelkurten/keel",
       "score": 0.01,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.357934+00:00",
+      "timestamp": "2026-10-18T20:02:15.490385+00:00",
       "extra": {
-        "hn_id": 50141796,
+        "hn_id": 50144600,
         "points": 1,
         "comments": 0,
-        "by": "mikece",
-        "time": 1792336425,
-        "hn_url": "https://news.ycombinator.com/item?id=50141796"
+        "by": "angelkurten",
+        "time": 1792352403,
+        "hn_url": "https://news.ycombinator.com/item?id=50144600"
       }
     },
     {
-      "id": "1be9fda1ac2d",
+      "id": "365f2a5d51c7",
       "source": "hackernews",
-      "title": "Negotiation tips for people who hate negotiating",
-      "url": "https://coached.com/essays/negotiation-tips-for-people-who-hate-negotiating/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.401788+00:00",
-      "extra": {
-        "hn_id": 50141788,
-        "points": 1,
-        "comments": 0,
-        "by": "rohanm93",
-        "time": 1792336386,
-        "hn_url": "https://news.ycombinator.com/item?id=50141788"
-      }
-    },
-    {
-      "id": "44400325cfdb",
-      "source": "hackernews",
-      "title": "Why we decided to open source Relate",
-      "url": "https://viablesystems.ai/writing/why-we-decided-to-open-source-relate",
-      "score": 0.03,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.444785+00:00",
-      "extra": {
-        "hn_id": 50141786,
-        "points": 1,
-        "comments": 1,
-        "by": "dennisy",
-        "time": 1792336373,
-        "hn_url": "https://news.ycombinator.com/item?id=50141786"
-      }
-    },
-    {
-      "id": "be4a5838c1cb",
-      "source": "hackernews",
-      "title": "Aligning a Personal Site with Indieweb and Web Standards",
-      "url": "https://htsh.pl/blog/web-standards-audit/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.487741+00:00",
-      "extra": {
-        "hn_id": 50141767,
-        "points": 1,
-        "comments": 0,
-        "by": "jruohonen",
-        "time": 1792336262,
-        "hn_url": "https://news.ycombinator.com/item?id=50141767"
-      }
-    },
-    {
-      "id": "5cad8a332659",
-      "source": "hackernews",
-      "title": "GhostOS – Lightweight, Offline Desktop AI Assistant (macOS/Win/Linux)",
-      "url": "https://github.com/GhostOS-ai/GhostOS",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.530667+00:00",
-      "extra": {
-        "hn_id": 50141746,
-        "points": 1,
-        "comments": 0,
-        "by": "GhostOS",
-        "time": 1792336134,
-        "hn_url": "https://news.ycombinator.com/item?id=50141746"
-      }
-    },
-    {
-      "id": "7061a7f6cc8a",
-      "source": "hackernews",
-      "title": "Gnome OS Preview",
-      "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.573650+00:00",
-      "extra": {
-        "hn_id": 50141740,
-        "points": 1,
-        "comments": 0,
-        "by": "leephillips",
-        "time": 1792336075,
-        "hn_url": "https://news.ycombinator.com/item?id=50141740"
-      }
-    },
-    {
-      "id": "38f2ef1c2d8b",
-      "source": "hackernews",
-      "title": "A house on the internet that feels like home",
-      "url": "https://cozywww.com/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.617646+00:00",
-      "extra": {
-        "hn_id": 50141732,
-        "points": 1,
-        "comments": 0,
-        "by": "jruohonen",
-        "time": 1792336044,
-        "hn_url": "https://news.ycombinator.com/item?id=50141732"
-      }
-    },
-    {
-      "id": "5b9a54b77223",
-      "source": "hackernews",
-      "title": "Metas smart glasses record conversations without the wake phrase, company admits",
-      "url": "https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html",
+      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
       "score": 0.04,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.661006+00:00",
+      "timestamp": "2026-10-18T20:02:15.533192+00:00",
       "extra": {
-        "hn_id": 50141708,
+        "hn_id": 50144597,
         "points": 2,
         "comments": 1,
-        "by": "randycupertino",
-        "time": 1792335857,
-        "hn_url": "https://news.ycombinator.com/item?id=50141708"
+        "by": "geox",
+        "time": 1792352376,
+        "hn_url": "https://news.ycombinator.com/item?id=50144597"
       }
     },
     {
-      "id": "90b65f75729e",
+      "id": "c5d90b5af6f6",
       "source": "hackernews",
-      "title": "Visual test failed. Is it the page or the capture?",
-      "url": "https://skills.seu.pet/blog/visual-tests-that-lie",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.791244+00:00",
-      "extra": {
-        "hn_id": 50141639,
-        "points": 1,
-        "comments": 0,
-        "by": "samuelfmedeiros",
-        "time": 1792335370,
-        "hn_url": "https://news.ycombinator.com/item?id=50141639"
-      }
-    },
-    {
-      "id": "1c2f930fc002",
-      "source": "hackernews",
-      "title": "ChatGPT Dot Review: Your Chief of Staff Is Still an Intern",
-      "url": "https://metedata.substack.com/p/chatgpt-dot-review-your-chief-of",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.834265+00:00",
-      "extra": {
-        "hn_id": 50141636,
-        "points": 1,
-        "comments": 0,
-        "by": "young_mete",
-        "time": 1792335362,
-        "hn_url": "https://news.ycombinator.com/item?id=50141636"
-      }
-    },
-    {
-      "id": "3e0d0cff8b18",
-      "source": "hackernews",
-      "title": "Staying off the hot path",
-      "url": "https://davide.im/posts/hot-path/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.877358+00:00",
-      "extra": {
-        "hn_id": 50141627,
-        "points": 1,
-        "comments": 0,
-        "by": "vector3",
-        "time": 1792335312,
-        "hn_url": "https://news.ycombinator.com/item?id=50141627"
-      }
-    },
-    {
-      "id": "f0848a845211",
-      "source": "hackernews",
-      "title": "RentAHuman",
-      "url": "https://english.elpais.com/technology/2026-10-18/hire-a-human-the-future-where-ais-get-people-to-do-physical-labor-is-upon-us.html",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.920342+00:00",
-      "extra": {
-        "hn_id": 50141624,
-        "points": 1,
-        "comments": 0,
-        "by": "dxs",
-        "time": 1792335299,
-        "hn_url": "https://news.ycombinator.com/item?id=50141624"
-      }
-    },
-    {
-      "id": "2d6361647837",
-      "source": "hackernews",
-      "title": "How a Computer System Works (1975 book)",
-      "url": "https://rarehistoricalphotos.com/1975-computer-guide-photos/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:41.963500+00:00",
-      "extra": {
-        "hn_id": 50141620,
-        "points": 1,
-        "comments": 0,
-        "by": "dxs",
-        "time": 1792335270,
-        "hn_url": "https://news.ycombinator.com/item?id=50141620"
-      }
-    },
-    {
-      "id": "78b72e1b862f",
-      "source": "hackernews",
-      "title": "I tried the vibe coded Fusion 360 (it's disappointing) [video]",
-      "url": "https://www.youtube.com/watch?v=RjaCGFDM55Y",
-      "score": 0.03,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.006533+00:00",
-      "extra": {
-        "hn_id": 50141611,
-        "points": 1,
-        "comments": 1,
-        "by": "mechprogrammer",
-        "time": 1792335233,
-        "hn_url": "https://news.ycombinator.com/item?id=50141611"
-      }
-    },
-    {
-      "id": "96a636638193",
-      "source": "hackernews",
-      "title": "Show HN: ElNeo, a E2E enabled matrix client for Emacs, inspired by telega",
-      "url": "https://github.com/aard-fi/elneo",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.049826+00:00",
-      "extra": {
-        "hn_id": 50141597,
-        "points": 1,
-        "comments": 0,
-        "by": "finaard",
-        "time": 1792335083,
-        "hn_url": "https://news.ycombinator.com/item?id=50141597"
-      }
-    },
-    {
-      "id": "4c6f0fb087d1",
-      "source": "hackernews",
-      "title": "The Law of the Instrument",
-      "url": "https://reimar-servas.de/writing/2026-07-07/the-law-of-the-instrument/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.092916+00:00",
-      "extra": {
-        "hn_id": 50141586,
-        "points": 1,
-        "comments": 0,
-        "by": "roosgit",
-        "time": 1792334943,
-        "hn_url": "https://news.ycombinator.com/item?id=50141586"
-      }
-    },
-    {
-      "id": "d82d20537a78",
-      "source": "hackernews",
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "score": 0.02,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.135919+00:00",
-      "extra": {
-        "hn_id": 50141581,
-        "points": 2,
-        "comments": 0,
-        "by": "noriax86",
-        "time": 1792334881,
-        "hn_url": "https://news.ycombinator.com/item?id=50141581"
-      }
-    },
-    {
-      "id": "ee5a4498cd51",
-      "source": "hackernews",
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "score": 0.02,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.179123+00:00",
-      "extra": {
-        "hn_id": 50141579,
-        "points": 2,
-        "comments": 0,
-        "by": "hnisjafx40",
-        "time": 1792334857,
-        "hn_url": "https://news.ycombinator.com/item?id=50141579"
-      }
-    },
-    {
-      "id": "cf9ce5c0e315",
-      "source": "hackernews",
-      "title": "Why big dogs age faster",
-      "url": "https://news.asu.edu/20261008-health-and-medicine-why-big-dogs-age-faster",
-      "score": 0.06,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.222487+00:00",
-      "extra": {
-        "hn_id": 50141532,
-        "points": 4,
-        "comments": 1,
-        "by": "gmays",
-        "time": 1792334550,
-        "hn_url": "https://news.ycombinator.com/item?id=50141532"
-      }
-    },
-    {
-      "id": "7a1e07303131",
-      "source": "hackernews",
-      "title": "Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI",
-      "url": "https://taskpocket.io/",
-      "score": 0.03,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.265606+00:00",
-      "extra": {
-        "hn_id": 50141513,
-        "points": 1,
-        "comments": 1,
-        "by": "bohdanstefaniuk",
-        "time": 1792334395,
-        "hn_url": "https://news.ycombinator.com/item?id=50141513"
-      }
-    },
-    {
-      "id": "b581038fd1b9",
-      "source": "hackernews",
-      "title": "World Bank says 'small AI' could transform developing countries",
-      "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+      "title": "Leviathan LLM Inference",
+      "url": "https://github.com/CuppaTea1983/Leviathan",
       "score": 0.04,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.308692+00:00",
+      "timestamp": "2026-10-18T20:02:15.575974+00:00",
       "extra": {
-        "hn_id": 50141494,
-        "points": 4,
-        "comments": 0,
-        "by": "simonpure",
-        "time": 1792334275,
-        "hn_url": "https://news.ycombinator.com/item?id=50141494"
+        "hn_id": 50144588,
+        "points": 2,
+        "comments": 1,
+        "by": "michaelrickynea",
+        "time": 1792352317,
+        "hn_url": "https://news.ycombinator.com/item?id=50144588"
       }
     },
     {
-      "id": "5cc21e792e4f",
+      "id": "4d0038f53308",
       "source": "hackernews",
-      "title": "Nvidia Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
-      "score": 0.02,
+      "title": "Ask HN: A plea to help me help my father",
+      "url": "https://news.ycombinator.com/item?id=50144561",
+      "score": 0.07,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.352003+00:00",
+      "timestamp": "2026-10-18T20:02:15.618982+00:00",
       "extra": {
-        "hn_id": 50141490,
-        "points": 2,
-        "comments": 0,
-        "by": "gmays",
-        "time": 1792334246,
-        "hn_url": "https://news.ycombinator.com/item?id=50141490"
+        "hn_id": 50144561,
+        "points": 6,
+        "comments": 1,
+        "by": "10917887",
+        "time": 1792352221,
+        "hn_url": "https://news.ycombinator.com/item?id=50144561"
       }
     },
     {
-      "id": "3a12eb1a58e6",
+      "id": "c728471e5a9c",
       "source": "hackernews",
-      "title": "A Note on Content Restrictions",
-      "url": "https://blog.zarfhome.com/2026/10/a-note-on-content-restrictions",
-      "score": 0.02,
+      "title": "Mikhail-Who?",
+      "url": "https://physicsworld.com/a/mikhail-who/",
+      "score": 0.01,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.395748+00:00",
+      "timestamp": "2026-10-18T20:02:15.661841+00:00",
       "extra": {
-        "hn_id": 50141479,
-        "points": 2,
+        "hn_id": 50144554,
+        "points": 1,
         "comments": 0,
-        "by": "HotGarbage",
-        "time": 1792334187,
-        "hn_url": "https://news.ycombinator.com/item?id=50141479"
+        "by": "Eridanus2",
+        "time": 1792352180,
+        "hn_url": "https://news.ycombinator.com/item?id=50144554"
       }
     },
     {
-      "id": "b6b59dd5ffaf",
+      "id": "7ace6aa1bd5b",
       "source": "hackernews",
-      "title": "Italy's guiltiest food ritual went public",
-      "url": "https://www.bbc.com/travel/article/20261015-in-italy-bad-table-manners-can-be-a-compliment",
+      "title": "A commodity price tracking website with a few fun tools",
+      "url": "https://www.commoditywatch.net",
       "score": 0.03,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-10-18T15:19:42.438773+00:00",
+      "timestamp": "2026-10-18T20:02:15.704957+00:00",
       "extra": {
-        "hn_id": 50141465,
+        "hn_id": 50144492,
+        "points": 1,
+        "comments": 1,
+        "by": "CommodityWatch",
+        "time": 1792351960,
+        "hn_url": "https://news.ycombinator.com/item?id=50144492"
+      }
+    },
+    {
+      "id": "c6e267260886",
+      "source": "hackernews",
+      "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
+      "url": "https://warlock.ai/blog/warcraftsim-1/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:15.862973+00:00",
+      "extra": {
+        "hn_id": 50144489,
+        "points": 1,
+        "comments": 0,
+        "by": "nawtora",
+        "time": 1792351930,
+        "hn_url": "https://news.ycombinator.com/item?id=50144489"
+      }
+    },
+    {
+      "id": "722658361de0",
+      "source": "hackernews",
+      "title": "Show HN: DebtShark – Consumer Legal Defense and Debt Settlement Workstation",
+      "url": "https://boredpolymath.github.io/debtshark/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.005595+00:00",
+      "extra": {
+        "hn_id": 50144464,
+        "points": 1,
+        "comments": 0,
+        "by": "boredpolymath",
+        "time": 1792351831,
+        "hn_url": "https://news.ycombinator.com/item?id=50144464"
+      }
+    },
+    {
+      "id": "9e85db77a8f6",
+      "source": "hackernews",
+      "title": "Show HN: Lungo Generates Rust, Python, from Lean Proof Source",
+      "url": "https://machinefabric.com/lungo/",
+      "score": 0.03,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.169092+00:00",
+      "extra": {
+        "hn_id": 50144463,
+        "points": 1,
+        "comments": 1,
+        "by": "joeharshamshiri",
+        "time": 1792351828,
+        "hn_url": "https://news.ycombinator.com/item?id=50144463"
+      }
+    },
+    {
+      "id": "242a8a5774dc",
+      "source": "hackernews",
+      "title": "LLM01: 2025 Prompt Injection",
+      "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.447518+00:00",
+      "extra": {
+        "hn_id": 50144431,
+        "points": 1,
+        "comments": 0,
+        "by": "joebig",
+        "time": 1792351646,
+        "hn_url": "https://news.ycombinator.com/item?id=50144431"
+      }
+    },
+    {
+      "id": "6131dc33771d",
+      "source": "hackernews",
+      "title": "Show HN: Dieline generator for packaging (type the size, get the drawing)",
+      "url": "https://die-lines.com/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.641502+00:00",
+      "extra": {
+        "hn_id": 50144419,
+        "points": 1,
+        "comments": 0,
+        "by": "timohin",
+        "time": 1792351591,
+        "hn_url": "https://news.ycombinator.com/item?id=50144419"
+      }
+    },
+    {
+      "id": "9d387b0290f4",
+      "source": "hackernews",
+      "title": "Two Mac Studios Are Not One 1 TB Computer",
+      "url": "https://duruldalkanat.medium.com/two-mac-studios-are-not-one-1-tb-computer-abba6561e73c",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.792685+00:00",
+      "extra": {
+        "hn_id": 50144395,
+        "points": 1,
+        "comments": 0,
+        "by": "durul",
+        "time": 1792351430,
+        "hn_url": "https://news.ycombinator.com/item?id=50144395"
+      }
+    },
+    {
+      "id": "31c5b7f5bb81",
+      "source": "hackernews",
+      "title": "The Leap Second Has Been Canceled",
+      "url": "https://www.nytimes.com/2026/10/16/science/leap-second-abolished-vote.html",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.867403+00:00",
+      "extra": {
+        "hn_id": 50144380,
+        "points": 1,
+        "comments": 0,
+        "by": "kmohr",
+        "time": 1792351340,
+        "hn_url": "https://news.ycombinator.com/item?id=50144380"
+      }
+    },
+    {
+      "id": "147b0ae1d1db",
+      "source": "hackernews",
+      "title": "Scholars conclude 'beyond doubt' that Shakespeare was main author of Edward III",
+      "url": "https://www.theguardian.com/culture/2026/oct/18/scholars-conclude-beyond-doubt-that-shakespeare-was-main-author-of-edward-iii",
+      "score": 0.03,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.928449+00:00",
+      "extra": {
+        "hn_id": 50144373,
         "points": 3,
         "comments": 0,
-        "by": "tosh",
-        "time": 1792334076,
-        "hn_url": "https://news.ycombinator.com/item?id=50141465"
+        "by": "prmph",
+        "time": 1792351308,
+        "hn_url": "https://news.ycombinator.com/item?id=50144373"
+      }
+    },
+    {
+      "id": "c11b651a80ff",
+      "source": "hackernews",
+      "title": "Aircraft gyroscopic instruments modeled from M series MacBook IMU",
+      "url": "https://github.com/photon-cat/gyro-instruments-mac",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:16.990738+00:00",
+      "extra": {
+        "hn_id": 50144368,
+        "points": 1,
+        "comments": 0,
+        "by": "photoncat",
+        "time": 1792351281,
+        "hn_url": "https://news.ycombinator.com/item?id=50144368"
+      }
+    },
+    {
+      "id": "0e7e07fdedfc",
+      "source": "hackernews",
+      "title": "Neurastheniacc: LLM-based C->WASM compiler you didn't need",
+      "url": "https://github.com/vivshaw/neurastheniacc",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-10-18T20:02:17.035063+00:00",
+      "extra": {
+        "hn_id": 50144358,
+        "points": 1,
+        "comments": 0,
+        "by": "cpeterso",
+        "time": 1792351247,
+        "hn_url": "https://news.ycombinator.com/item?id=50144358"
       }
     }
   ]
