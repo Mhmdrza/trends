@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-18T02:51:13.300301+00:00",
-  "scrape_timestamp": "2026-10-18T02:49:40.806126+00:00",
-  "total_items_analyzed": 89,
+  "timestamp": "2026-10-18T10:19:27.767594+00:00",
+  "scrape_timestamp": "2026-10-18T10:17:54.885882+00:00",
+  "total_items_analyzed": 99,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -20,135 +20,244 @@
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "first",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Solar surpasses nuclear power globally for first time",
+          "source": "hackernews",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+          "score": 11.84
+        },
+        {
+          "title": "A skeptic's first contact with Kubernetes (2024)",
+          "source": "hackernews",
+          "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+          "score": 2.17
+        },
+        {
+          "title": "Offline-first payment protocol with adaptive Byzantine consensus (3f+1 → 1f+1)",
+          "source": "hackernews",
+          "url": "https://github.com/masondosibongakonke2-blip/yodpay-core",
+          "score": 0.01
+        },
+        {
+          "title": "Petal: Building the First Petabit-Class Transoceanic Subsea Cable",
+          "source": "hackernews",
+          "url": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+          "score": 0.01
+        },
+        {
+          "title": "Pakistan’s first astronaut will fly from a Chinese space centre on November 25, Planning Minister Ahsan Iqbal said in Na",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/PakStartup/status/2111763954947031105#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "free",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+          "source": "hackernews",
+          "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+          "score": 2.1
+        },
+        {
+          "title": "Free software engineering: Grok Bot and OpenCode",
+          "source": "hackernews",
+          "url": "https://x.ai/bot/P3nFV22Z9JijoDHNWbTwf",
+          "score": 0.04
+        },
+        {
+          "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/PIsajeski/status/2111763838324355390#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "public",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Go Piss, Girl: The plight of the public potty",
+          "source": "hackernews",
+          "url": "https://thebaffler.com/latest/go-piss-girl-wagner",
+          "score": 0.69
+        },
+        {
+          "title": "The Public Pays to Produce Research. Shareholders Collect the Return",
+          "source": "hackernews",
+          "url": "https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/",
+          "score": 0.01
+        },
+        {
+          "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/PIsajeski/status/2111763838324355390#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Vintage Cassettes: 1963-2010",
-      "url": "http://vintagecassettes.com/",
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.69,
+      "base_score": 0.12,
+      "velocity": 19.5,
+      "velocity_label": "exploding",
+      "combined_score": 5.85
+    },
+    {
+      "title": "JDK 28",
+      "url": "https://openjdk.org/projects/jdk/28/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.88,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 31.05
+      "combined_score": 84.6
     },
     {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "title": "Types of types: Haskell's Kind system",
+      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.54,
-      "velocity": 17.152,
+      "base_score": 1.62,
+      "velocity": 14.2,
       "velocity_label": "exploding",
-      "combined_score": 194.67
+      "combined_score": 57.51
     },
     {
-      "title": "I Became a Citizen of Japan",
-      "url": "https://www.derekwessman.com/blog-1/natural",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.69,
-      "velocity": 16.944,
+      "base_score": 2.14,
+      "velocity": 12.403,
       "velocity_label": "exploding",
-      "combined_score": 113.95
+      "combined_score": 66.36
     },
     {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
+      "title": "Custom server to revive neato bots",
+      "url": "https://github.com/vacuula/vacuula",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.06,
-      "velocity": 16.1,
+      "base_score": 0.48,
+      "velocity": 11.825,
       "velocity_label": "exploding",
-      "combined_score": 123.17
+      "combined_score": 14.19
     },
     {
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.66,
-      "velocity": 14.456,
+      "base_score": 4.56,
+      "velocity": 11.584,
       "velocity_label": "exploding",
-      "combined_score": 59.99
+      "combined_score": 132.06
     },
     {
-      "title": "Pattern matching beats narrative reasoning",
-      "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+      "title": "August in Servo: CSS Grid, text selection, and more",
+      "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.89,
-      "velocity": 13.567,
+      "base_score": 0.06,
+      "velocity": 11.403,
       "velocity_label": "exploding",
-      "combined_score": 30.19
+      "combined_score": 1.71
     },
     {
-      "title": "Mini organs launching to space may help future astronauts stay healthy",
-      "url": "https://abcnews.com/Health/mini-organs-launching-space-future-astronauts-humans-earth/story?id=137203416",
+      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+      "url": "https://tkgally.github.io/500-clocks/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 13.056,
+      "base_score": 0.8,
+      "velocity": 10.943,
       "velocity_label": "exploding",
-      "combined_score": 0.33
+      "combined_score": 21.89
     },
     {
-      "title": "OpenCode Hacked: User credentials leaked",
-      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "title": "Founders, let’s expose ourselves a little. 👀 What’s one thing about your startup that looks impressive on the outside bu",
+      "url": "https://nitter.kareem.one/GetAlphaShot/status/2111763944243355766#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.394,
+      "velocity_label": "exploding",
+      "combined_score": 12.99
+    },
+    {
+      "title": "Each step of decoding a PNG (2022)",
+      "url": "https://iter.ca/post/png/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 10.2,
-      "velocity": 12.843,
+      "base_score": 0.43,
+      "velocity": 10.366,
       "velocity_label": "exploding",
-      "combined_score": 327.49
+      "combined_score": 11.14
     },
     {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.71,
-      "velocity": 10.653,
+      "base_score": 3.12,
+      "velocity": 10.242,
       "velocity_label": "exploding",
-      "combined_score": 98.81
+      "combined_score": 79.89
     },
     {
-      "title": "Google Fonts as a Protest Piece?",
-      "url": "https://news.ycombinator.com/item?id=50137303",
+      "title": "Notes on the Complex Roots of Unity",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.633,
+      "base_score": 0.32,
+      "velocity": 10.2,
       "velocity_label": "exploding",
-      "combined_score": 0.27
+      "combined_score": 8.16
     },
     {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.85,
-      "velocity": 10.413,
-      "velocity_label": "exploding",
-      "combined_score": 48.16
-    },
-    {
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.3,
-      "velocity": 10.334,
-      "velocity_label": "exploding",
-      "combined_score": 33.58
-    },
-    {
-      "title": "Changing the Ratio",
-      "url": "https://crackedegg.press/posts/changing-the-ratio/",
+      "title": "Friction: What have we been reducing?",
+      "url": "https://juun.vercel.app/en/blog/16",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -157,386 +266,716 @@
       "combined_score": 0.25
     },
     {
-      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-      "url": "https://github.com/Kapendev/parin",
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.61,
-      "velocity": 9.917,
+      "base_score": 2.1,
+      "velocity": 9.776,
       "velocity_label": "exploding",
-      "combined_score": 15.12
+      "combined_score": 51.32
     },
     {
-      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.58,
-      "velocity": 9.526,
-      "velocity_label": "exploding",
-      "combined_score": 132.89
-    },
-    {
-      "title": "Woodworking Tools and Knowledge Tools",
-      "url": "https://peterkaminski.ai/writing/woodworking/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 9.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.95
-    },
-    {
-      "title": "Citizen Science Groups Grapple with the Rise of A.I. Slop",
-      "url": "https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html",
+      "title": "Offline-first payment protocol with adaptive Byzantine consensus (3f+1 → 1f+1)",
+      "url": "https://github.com/masondosibongakonke2-blip/yodpay-core",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 9.472,
+      "velocity": 9.745,
       "velocity_label": "exploding",
       "combined_score": 0.24
     },
     {
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.49,
-      "velocity": 9.225,
-      "velocity_label": "exploding",
-      "combined_score": 34.36
-    },
-    {
-      "title": "A Tudor life in the time of plague (2020)",
-      "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.53,
-      "velocity": 8.994,
-      "velocity_label": "exploding",
-      "combined_score": 11.92
-    },
-    {
-      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
-      "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.93,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 41.01
-    },
-    {
-      "title": "The future of programming (1982)",
-      "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 8.236,
-      "velocity_label": "exploding",
-      "combined_score": 17.3
-    },
-    {
-      "title": "Bookfolio: Free Books for Learning and Joyful Reading",
-      "url": "https://bookfolio.io/browse/free",
+      "title": "Rhode Island Red",
+      "url": "https://en.wikipedia.org/wiki/Rhode_Island_Red",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.678,
+      "velocity": 9.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+      "url": "https://nitter.kareem.one/PIsajeski/status/2111763838324355390#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.306,
+      "velocity_label": "exploding",
+      "combined_score": 11.63
+    },
+    {
+      "title": "R to @joshocodes: Hi Joshua. Happy connecting with you. Working on a startup founders - investors platform. Will love to",
+      "url": "https://nitter.kareem.one/AuxleF/status/2111763883572728047#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.746,
+      "velocity_label": "exploding",
+      "combined_score": 10.93
+    },
+    {
+      "title": "Vintage Cassettes: 1963-2010",
+      "url": "http://vintagecassettes.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.78,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 16.58
+    },
+    {
+      "title": "Be obsessed with your startup and you reduce the chances of it not surviving Happy Sunday Builders ✨",
+      "url": "https://nitter.kareem.one/build_with_aoe/status/2111763714781127024#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.986,
+      "velocity_label": "exploding",
+      "combined_score": 9.98
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.99,
+      "velocity": 7.867,
+      "velocity_label": "exploding",
+      "combined_score": 98.14
+    },
+    {
+      "title": "It's time to talk about TEEs",
+      "url": "https://alinush.github.io//tee",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.6,
       "velocity_label": "exploding",
       "combined_score": 0.19
+    },
+    {
+      "title": "Startup Sabi raised $50M to develop a wearable that translates brain signals into AI prompts. Early signal: if thought-b",
+      "url": "https://nitter.kareem.one/NetworkTrend/status/2111763720233791679#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.261,
+      "velocity_label": "exploding",
+      "combined_score": 9.08
+    },
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.29,
+      "velocity": 6.936,
+      "velocity_label": "exploding",
+      "combined_score": 57.05
+    },
+    {
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 11.13,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 192.46
+    },
+    {
+      "title": "Sudoku solved in 3 line of plain code [video]",
+      "url": "https://www.youtube.com/watch?v=UBFWS6_Hrmc",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.864,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "Marble Drop (1997) – In Browser",
+      "url": "https://marble-drop.pages.dev/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.51
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.11,
+      "velocity": 6.818,
+      "velocity_label": "exploding",
+      "combined_score": 104.14
+    },
+    {
+      "title": "Pakistan’s first astronaut will fly from a Chinese space centre on November 25, Planning Minister Ahsan Iqbal said in Na",
+      "url": "https://nitter.kareem.one/PakStartup/status/2111763954947031105#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.683,
+      "velocity_label": "exploding",
+      "combined_score": 8.35
+    },
+    {
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.34,
+      "velocity": 6.642,
+      "velocity_label": "exploding",
+      "combined_score": 5.65
+    },
+    {
+      "title": "RT by @Chandan06080513: I told that👇👇 He will soon go inside, because the \"regime change\" (power transition) startup has",
+      "url": "https://nitter.kareem.one/harshvardh25/status/2111747525837566203#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.561,
+      "velocity_label": "exploding",
+      "combined_score": 8.2
+    },
+    {
+      "title": "Shadow-debugger – Background LLM error diagnosis for Python and FastAPI",
+      "url": "https://github.com/GaspareDev/shadow-debugger",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.546,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "China proposes export controls on its advanced AI models and chip designs",
+      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.446,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
     },
     {
       "title": "Gold is now the top U.S. export",
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.46,
-      "velocity": 7.51,
+      "base_score": 6.08,
+      "velocity": 6.419,
       "velocity_label": "exploding",
-      "combined_score": 83.74
+      "combined_score": 97.57
     },
     {
-      "title": "The history of development of Norton Commander (2011)",
-      "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.06,
-      "velocity": 7.505,
+      "base_score": 2.33,
+      "velocity": 6.359,
       "velocity_label": "exploding",
-      "combined_score": 19.89
+      "combined_score": 37.04
     },
     {
-      "title": "BugShield Scout: 1,415 WordPress theme vulnerabilities",
-      "url": "https://bugshield.co.uk/blog/wordpress-theme-vulnerabilities-bugshield-scout",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.333,
+      "title": "RT by @TechFelixH: 🇪🇪 FomoObserver Weekly Estonian Startup News #39, week 42, 2026: Another Estonian #unicorn 🦄, but htt",
+      "url": "https://nitter.kareem.one/siliconvikings/status/2111763244176056747#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.269,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 7.84
     },
     {
-      "title": "Anthropic reports reducing recruitment of entry-level engineers",
-      "url": "https://angadh.com/ai-and-jobs-1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.189,
-      "velocity_label": "exploding",
-      "combined_score": 0.54
-    },
-    {
-      "title": "What changes when your search index lives on S3?",
-      "url": "https://infino.ai/blog/search-index-on-s3/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.41,
-      "velocity": 7.181,
-      "velocity_label": "exploding",
-      "combined_score": 7.36
-    },
-    {
-      "title": "Development statistics for the 7.2 kernel",
-      "url": "https://lwn.net/Articles/1088776/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.8,
-      "velocity": 7.022,
-      "velocity_label": "exploding",
-      "combined_score": 49.16
-    },
-    {
-      "title": "Bluesky aware of a phishing attack that has compromised more than 4,500 accounts",
-      "url": "https://bsky.app/profile/safety.bsky.app/post/3my3zch7j4225",
+      "title": "Gaza changed Europe, exposing cracks that grow bigger by the week",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/how-gaza-changed-europe-exposing-cracks-that-grow-bigger-by-the-week",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.936,
+      "velocity": 6.219,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 0.16
     },
     {
-      "title": "Microsoft Teams is a red flag",
-      "url": "https://blog.raed.dev/posts/microsoft-teams-red-flag/",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "url": "https://github.com/mikroverk/esp32sim",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.07,
-      "velocity": 6.607,
+      "base_score": 2.15,
+      "velocity": 5.56,
       "velocity_label": "exploding",
-      "combined_score": 17.67
+      "combined_score": 29.88
     },
     {
-      "title": "Feel Like You're Overpaying for Hotels? Blame Expedia, a New Lawsuit Says",
-      "url": "https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html",
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.598,
+      "base_score": 0.36,
+      "velocity": 5.556,
       "velocity_label": "exploding",
-      "combined_score": 0.66
+      "combined_score": 5.0
     },
     {
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.42,
-      "velocity": 6.443,
+      "title": "何もない日曜日。この本で過ごしました。 視点という教養（リベラルアーツ）　世界の見方が変わる７つの対話 https://amzn.asia/d/01XRAg9I",
+      "url": "https://nitter.kareem.one/IshimotoKingdom/status/2111763644497465716#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.556,
       "velocity_label": "exploding",
-      "combined_score": 38.98
+      "combined_score": 6.94
     },
     {
-      "title": "Perhaps the most underappreciated engineer of the Industrial Revolution",
-      "url": "https://twitter.com/andrewmccalip/status/2110977221347475675",
+      "title": "Weak Links Start to Show in A.I. Borrowing",
+      "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 6.153,
+      "velocity": 5.538,
       "velocity_label": "exploding",
-      "combined_score": 0.31
+      "combined_score": 0.28
     },
     {
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "title": "One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across ECos, Linux",
+      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.64,
-      "velocity": 6.081,
+      "base_score": 0.03,
+      "velocity": 5.485,
       "velocity_label": "exploding",
-      "combined_score": 55.34
+      "combined_score": 0.41
     },
     {
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "url": "https://news.ycombinator.com/item?id=50089577",
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
+      "url": "https://courk.cc/rp2350-challenge-laser",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.65,
-      "velocity": 5.967,
+      "base_score": 0.88,
+      "velocity": 5.45,
       "velocity_label": "exploding",
-      "combined_score": 39.53
+      "combined_score": 11.99
     },
     {
-      "title": "The math that OpenAI keeps for itself",
-      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+      "url": "https://github.com/Kapendev/parin",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.3,
-      "velocity": 5.746,
+      "base_score": 0.88,
+      "velocity": 5.312,
       "velocity_label": "exploding",
-      "combined_score": 4.31
+      "combined_score": 11.69
     },
     {
-      "title": "Lean Now Ships with Verified Kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.22,
-      "velocity": 5.742,
+      "base_score": 1.85,
+      "velocity": 5.296,
       "velocity_label": "exploding",
-      "combined_score": 3.16
+      "combined_score": 24.49
     },
     {
-      "title": "When will we have flying cars? (2022)",
-      "url": "https://www.popsci.com/aviation/history-of-flying-cars/",
+      "title": "Everything Rhymes with Porcelain",
+      "url": "https://worksinprogress.co/issue/everything-rhymes-with-porcelain/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.7,
+      "velocity": 5.222,
       "velocity_label": "exploding",
-      "combined_score": 0.14
+      "combined_score": 0.13
     },
     {
       "title": "Source code of the Estonian online voting system",
       "url": "https://github.com/valimised/ivxv",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.9,
-      "velocity": 5.665,
+      "base_score": 5.03,
+      "velocity": 5.163,
       "velocity_label": "exploding",
-      "combined_score": 55.23
+      "combined_score": 64.93
     },
     {
-      "title": "August in Servo: CSS Grid, text selection, and more",
-      "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.356,
+      "base_score": 4.55,
+      "velocity": 5.152,
       "velocity_label": "exploding",
-      "combined_score": 0.27
+      "combined_score": 58.61
     },
     {
-      "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
-      "url": "https://github.com/ahmtsahin/claude-env-tabs",
+      "title": "The Public Pays to Produce Research. Shareholders Collect the Return",
+      "url": "https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.096,
+      "velocity": 5.012,
       "velocity_label": "exploding",
       "combined_score": 0.13
     },
     {
-      "title": "Show HN: Cosplay as a tech lead, using gVisor to sandbox agents",
-      "url": "https://github.com/SoftwareRenderer/MIKE",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 4.928,
-      "velocity_label": "exploding",
-      "combined_score": 0.49
-    },
-    {
-      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
-      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+      "url": "https://github.com/matricphase-dot/aiops",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.864,
+      "velocity": 4.989,
       "velocity_label": "exploding",
       "combined_score": 0.12
-    },
-    {
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.69,
-      "velocity": 4.859,
-      "velocity_label": "exploding",
-      "combined_score": 117.72
-    },
-    {
-      "title": "A 1987 Shellsort variant is 3x faster than Shellsort when branch-free",
-      "url": "https://github.com/utahisnotastate/utah_sort",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.775,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.7,
-      "velocity": 4.73,
-      "velocity_label": "exploding",
-      "combined_score": 8.28
-    },
-    {
-      "title": "A skeptic's first contact with Kubernetes (2024)",
-      "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.7,
-      "velocity": 4.719,
-      "velocity_label": "exploding",
-      "combined_score": 20.05
-    },
-    {
-      "title": "The First Candid",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 4.588,
-      "velocity_label": "exploding",
-      "combined_score": 6.31
-    },
-    {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.01,
-      "velocity": 4.389,
-      "velocity_label": "exploding",
-      "combined_score": 33.03
-    },
-    {
-      "title": "Ultramarine 1 Flash",
-      "url": "https://www.paperinstruments.com/ultramarine",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.29,
-      "velocity": 4.359,
-      "velocity_label": "exploding",
-      "combined_score": 57.65
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
+  "bridge_topics": [
+    {
+      "keyword": "first",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 58.12,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "Solar surpasses nuclear power globally for first time",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "A skeptic's first contact with Kubernetes (2024)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Offline-first payment protocol with adaptive Byzantine consensus (3f+1 → 1f+1)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Petal: Building the First Petabit-Class Transoceanic Subsea Cable",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Pakistan’s first astronaut will fly from a Chinese space centre on November 25, Planning Minister Ahsan Iqbal said in Na",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "power",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 49.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Solar surpasses nuclear power globally for first time",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @Chandan06080513: I told that👇👇 He will soon go inside, because the \"regime change\" (power transition) startup has",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "estonian",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 22.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Source code of the Estonian online voting system",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @TechFelixH: 🇪🇪 FomoObserver Weekly Estonian Startup News #39, week 42, 2026: Another Estonian #unicorn 🦄, but htt",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "1000",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 15.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "free",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 10.56,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Free software engineering: Grok Bot and OpenCode",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "story",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.88,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "public",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.8,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Go Piss, Girl: The plight of the public potty",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The Public Pays to Produce Research. Shareholders Collect the Return",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "people",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.28,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Ask HN: Why people keep posting AI-generated projects around the Internet?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @nguymimi: Why does everyone work on a startup in SF ? why do not people say i am from Seattle or new jersey i am c",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "let",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Deezer Will Let Listeners Filter Out AI Music",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Founders, let’s expose ourselves a little. 👀 What’s one thing about your startup that looks impressive on the outside bu",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "week",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Gaza changed Europe, exposing cracks that grow bigger by the week",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @TechFelixH: 🇪🇪 FomoObserver Weekly Estonian Startup News #39, week 42, 2026: Another Estonian #unicorn 🦄, but htt",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "looks",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: Open-Source BitTorrent Client for macOS That Looks Nice",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Founders, let’s expose ourselves a little. 👀 What’s one thing about your startup that looks impressive on the outside bu",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "building",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Petal: Building the First Petabit-Class Transoceanic Subsea Cable",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Are you building in public ? Join 1000 others bootstrapping their business And share your startup and story for free. ht",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "open",
+        "show",
+        "source"
+      ],
+      "concept_hint": "open + show + source",
+      "cluster_size": 3,
+      "discussion_count": 3,
+      "void_score": 13.5,
+      "examples": [
+        {
+          "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        },
+        {
+          "title": "Open-source tax rules for 100 countries that your LLM can use",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Open-Source BitTorrent Client for macOS That Looks Nice",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
       "title": "Source code of the Estonian online voting system",
       "url": "https://github.com/valimised/ivxv",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.9,
+      "score": 5.03,
       "relevance": 0.111,
       "matching_tags": [
         "code",
@@ -544,8 +983,55 @@
       ]
     },
     {
-      "title": "Woodworking Tools and Knowledge Tools",
-      "url": "https://peterkaminski.ai/writing/woodworking/",
+      "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+      "url": "https://github.com/matricphase-dot/aiops",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Open-source tax rules for 100 countries that your LLM can use",
+      "url": "https://github.com/openaccountants/openaccountants",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Open-Source BitTorrent Client for macOS That Looks Nice",
+      "url": "https://github.com/kronzhq/torrie",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 1.82,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Show HN: Risphai – picks the AI model, tools and prompt for each request",
+      "url": "https://risphai.com",
       "source": "hackernews",
       "category": "tech",
       "score": 0.04,
@@ -555,30 +1041,30 @@
       ]
     },
     {
-      "title": "Control the Ideas, Not the Code",
-      "url": "https://www.antirez.com/news/169",
+      "title": "Show HN: Benchmarking LLM ability to code in an adversarial language",
+      "url": "https://bench.killswitch-lang.org/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 0.03,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Ninth Circuit Holds Copilot Creates New Code, Not Stripped Copies",
-      "url": "https://www.fenwick.com/insights/publications/nothing-remove-ninth-circuit-holds-copilot-creates-new-code-not-stripped",
+      "title": "Hug Machine",
+      "url": "https://en.wikipedia.org/wiki/Hug_machine",
       "source": "hackernews",
       "category": "tech",
       "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "machine"
       ]
     },
     {
-      "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
-      "url": "https://github.com/ahmtsahin/claude-env-tabs",
+      "title": "Sudoku solved in 3 line of plain code [video]",
+      "url": "https://www.youtube.com/watch?v=UBFWS6_Hrmc",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
@@ -588,14 +1074,14 @@
       ]
     },
     {
-      "title": "Bookfolio: Free Books for Learning and Joyful Reading",
-      "url": "https://bookfolio.io/browse/free",
+      "title": "Show HN: Epoptes – Run Claude Code and Codex for hours with human oversight",
+      "url": "https://github.com/ramigb/epoptes",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
+        "code"
       ]
     }
   ]
