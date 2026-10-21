@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-21T03:08:56.208887+00:00",
-  "scrape_timestamp": "2026-10-21T03:07:21.241467+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-10-21T11:05:54.135612+00:00",
+  "scrape_timestamp": "2026-10-21T11:04:15.516932+00:00",
+  "total_items_analyzed": 88,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,7 +16,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 88,
       "status": "ok"
     },
     "twitter": {
@@ -27,516 +27,592 @@
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Archive of Our Own",
-      "url": "https://archiveofourown.org/",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.43,
-      "velocity": 18.0,
+      "base_score": 3.62,
+      "velocity": 16.417,
       "velocity_label": "exploding",
-      "combined_score": 64.35
-    },
-    {
-      "title": "Jepsen: Orkes Conductor 5.3.2",
-      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.58,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 26.1
-    },
-    {
-      "title": "IKEA – 3D Guide",
-      "url": "https://sael.net/flatpack/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.33,
-      "velocity": 14.833,
-      "velocity_label": "exploding",
-      "combined_score": 86.4
-    },
-    {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.93,
-      "velocity": 14.823,
-      "velocity_label": "exploding",
-      "combined_score": 71.52
-    },
-    {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.32,
-      "velocity": 14.2,
-      "velocity_label": "exploding",
-      "combined_score": 11.36
-    },
-    {
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.33,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 275.93
-    },
-    {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.12,
-      "velocity": 12.722,
-      "velocity_label": "exploding",
-      "combined_score": 99.23
-    },
-    {
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.76,
-      "velocity": 11.898,
-      "velocity_label": "exploding",
-      "combined_score": 320.07
-    },
-    {
-      "title": "Indian CA's private keys compromised – one of them was the number '4'",
-      "url": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.13,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 3.79
-    },
-    {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://news-web.php.net/php.announce/509",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.66,
-      "velocity": 11.26,
-      "velocity_label": "exploding",
-      "combined_score": 46.73
-    },
-    {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://www.php.net/archive/2026.php",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.96,
-      "velocity": 11.26,
-      "velocity_label": "exploding",
-      "combined_score": 27.02
-    },
-    {
-      "title": "JAXA is about to perform a Phobos sample return mission",
-      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.31,
-      "velocity": 10.981,
-      "velocity_label": "exploding",
-      "combined_score": 35.96
-    },
-    {
-      "title": "C# now beats Rust on WASM size",
-      "url": "https://github.com/zion-sati/NetWasm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 9.941,
-      "velocity_label": "exploding",
-      "combined_score": 0.99
-    },
-    {
-      "title": "Subaru is killing off gas cars and will only sell EVs in Europe",
-      "url": "https://electrek.co/2026/10/20/subaru-killing-off-gas-cars-europe-will-only-sell-evs/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.45,
-      "velocity": 9.631,
-      "velocity_label": "exploding",
-      "combined_score": 34.91
-    },
-    {
-      "title": "OpenAI CLI – Official CLI for the OpenAI API",
-      "url": "https://github.com/openai/openai-cli",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 9.49,
-      "velocity_label": "exploding",
-      "combined_score": 0.47
-    },
-    {
-      "title": "Ofcom concedes defeat in 4chan case",
-      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.31,
-      "velocity": 9.133,
-      "velocity_label": "exploding",
-      "combined_score": 166.91
-    },
-    {
-      "title": "Meta's GB{2,3}00 Cluster",
-      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.09,
-      "velocity": 9.028,
-      "velocity_label": "exploding",
-      "combined_score": 24.6
-    },
-    {
-      "title": "Anthropic logged net loss of over $80B in first half of 2026",
-      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.97,
-      "velocity": 8.895,
-      "velocity_label": "exploding",
-      "combined_score": 43.81
-    },
-    {
-      "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
-      "url": "https://gamowlabs.com/lab-robot-bench-v0-1",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 8.75,
-      "velocity_label": "exploding",
-      "combined_score": 2.63
-    },
-    {
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.08,
-      "velocity": 8.728,
-      "velocity_label": "exploding",
-      "combined_score": 67.21
-    },
-    {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.63,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 162.14
-    },
-    {
-      "title": "My Friend Bob Cringely",
-      "url": "https://tyma.com/my-cringe-story/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.47,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 52.49
-    },
-    {
-      "title": "Trump DHS admits it invented child abuse claims against activist to unlock phone",
-      "url": "https://www.rawstory.com/samuel-tunick-trump-border-patrol/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 8.483,
-      "velocity_label": "exploding",
-      "combined_score": 2.12
-    },
-    {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 8.48,
-      "velocity_label": "exploding",
-      "combined_score": 7.21
-    },
-    {
-      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "url": "https://dovepass.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 8.093,
-      "velocity_label": "exploding",
-      "combined_score": 4.05
-    },
-    {
-      "title": "SCOTUS couldn't take up a copyright case because four justices have book deals",
-      "url": "https://news.bloomberglaw.com/ip-law/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.39,
-      "velocity": 8.093,
-      "velocity_label": "exploding",
-      "combined_score": 7.89
-    },
-    {
-      "title": "How I got over 300 Tor exit nodes removed",
-      "url": "https://kaba.cx/posts/20261020_Tor/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.5,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 88.5
-    },
-    {
-      "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
-      "url": "https://rouler.io/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.3,
-      "velocity": 7.855,
-      "velocity_label": "exploding",
-      "combined_score": 5.89
-    },
-    {
-      "title": "Removing the Leap Second",
-      "url": "https://www.scientificamerican.com/article/scientists-vote-to-end-leap-seconds-redefining-how-the-world-keeps-time/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.444,
-      "velocity_label": "exploding",
-      "combined_score": 0.56
+      "combined_score": 148.57
     },
     {
       "title": "The Other Epidemic: Trying to get off benzodiazepines",
       "url": "https://www.thebeliever.net/the-other-epidemic/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.77,
-      "velocity": 7.333,
+      "base_score": 4.36,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 32.45
+      "combined_score": 161.68
     },
     {
       "title": "PingCap TiDB Leaks",
       "url": "https://fulcrumsec.vg/pingcap/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.41,
-      "velocity": 7.333,
+      "base_score": 1.45,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 7.52
+      "combined_score": 53.77
+    },
+    {
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.82,
+      "velocity": 11.235,
+      "velocity_label": "exploding",
+      "combined_score": 51.12
+    },
+    {
+      "title": "Mastodon 5.0: A Closer Look",
+      "url": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 10.167,
+      "velocity_label": "exploding",
+      "combined_score": 0.76
+    },
+    {
+      "title": "The Decoherence Trap",
+      "url": "https://maevyn.codes/decoherence",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.77,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 19.25
+    },
+    {
+      "title": "Finland Buying a Million Landmines",
+      "url": "https://yle.fi/a/74-20252139",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 1.25
+    },
+    {
+      "title": "Advanced coding in low-resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.21,
+      "velocity": 9.951,
+      "velocity_label": "exploding",
+      "combined_score": 54.98
+    },
+    {
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.54,
+      "velocity": 8.915,
+      "velocity_label": "exploding",
+      "combined_score": 34.32
+    },
+    {
+      "title": "eMudhra stock dips 20% after the CA fiasco",
+      "url": "https://finance.yahoo.com/quote/EMUDHRA.NS/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.813,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+      "url": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.62,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "Archive of Our Own",
+      "url": "https://archiveofourown.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.68,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 35.7
+    },
+    {
+      "title": "Correcting a 2400 dpi A3 Scanner in Software",
+      "url": "https://www.pagetable.com/302",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.958,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Making Solar Panels with a Microwave [video]",
+      "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.85,
+      "velocity": 7.688,
+      "velocity_label": "exploding",
+      "combined_score": 16.34
+    },
+    {
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.22,
+      "velocity": 7.58,
+      "velocity_label": "exploding",
+      "combined_score": 23.12
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.1,
+      "velocity": 7.232,
+      "velocity_label": "exploding",
+      "combined_score": 37.97
+    },
+    {
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.25,
+      "velocity": 6.982,
+      "velocity_label": "exploding",
+      "combined_score": 39.27
+    },
+    {
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 16.13,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 278.91
+    },
+    {
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 11.31,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 195.57
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.14,
+      "velocity": 6.833,
+      "velocity_label": "exploding",
+      "combined_score": 2.39
+    },
+    {
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.22,
+      "velocity": 6.552,
+      "velocity_label": "exploding",
+      "combined_score": 69.12
+    },
+    {
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.71,
+      "velocity": 6.5,
+      "velocity_label": "exploding",
+      "combined_score": 11.54
+    },
+    {
+      "title": "It's a bird, it's a plane it's a robo-puffin?",
+      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.57,
+      "velocity": 5.95,
+      "velocity_label": "exploding",
+      "combined_score": 8.48
+    },
+    {
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.81,
+      "velocity": 5.89,
+      "velocity_label": "exploding",
+      "combined_score": 56.11
+    },
+    {
+      "title": "What's left for us after AI? China's thinkers have different answers",
+      "url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.71,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.6,
+      "velocity": 5.703,
+      "velocity_label": "exploding",
+      "combined_score": 22.81
+    },
+    {
+      "title": "IKEA – 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.8,
+      "velocity": 5.65,
+      "velocity_label": "exploding",
+      "combined_score": 39.55
+    },
+    {
+      "title": "Comma: the personal agent that carries work to done",
+      "url": "https://comma.surf/blog/meet-comma-personal-agent",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.605,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 13.85,
+      "velocity": 5.494,
+      "velocity_label": "exploding",
+      "combined_score": 190.22
+    },
+    {
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.48,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 126.4
+    },
+    {
+      "title": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.73,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 36.4
+    },
+    {
+      "title": "Go 1.27.3 and Go 1.26.10 are released",
+      "url": "https://groups.google.com/g/golang-announce/c/66pojueaQek",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.27
+    },
+    {
+      "title": "Pillowfort Is Closing",
+      "url": "https://www.pillowfort.social/posts/8413273",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.85,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 11.16
+    },
+    {
+      "title": "A quantum computing feat brings the 'megaquops' era a step closer",
+      "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.246,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Chores Machine, a snooze list for recurring chores",
+      "url": "https://choresmachine.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.233,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "C# now beats Rust on WASM size",
+      "url": "https://github.com/zion-sati/NetWasm",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.23,
+      "velocity": 5.107,
+      "velocity_label": "exploding",
+      "combined_score": 15.7
+    },
+    {
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.14,
+      "velocity": 5.017,
+      "velocity_label": "exploding",
+      "combined_score": 64.46
+    },
+    {
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.69,
+      "velocity": 4.827,
+      "velocity_label": "exploding",
+      "combined_score": 104.86
+    },
+    {
+      "title": "App Needs an Interface an Agent Can Use",
+      "url": "https://CloudJourneyBlog.rohi-lab.org/blog/agent-accessible-apps",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.724,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Grip – a Git hook that won't let me push code I can't explain",
+      "url": "https://github.com/guilyx/grip",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.65,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
     },
     {
       "title": "ZX Spectrum Next Laptop",
       "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.05,
-      "velocity": 7.181,
+      "base_score": 1.12,
+      "velocity": 4.479,
       "velocity_label": "exploding",
-      "combined_score": 0.9
+      "combined_score": 12.54
     },
     {
-      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.088,
+      "base_score": 15.53,
+      "velocity": 4.349,
       "velocity_label": "exploding",
-      "combined_score": 0.53
+      "combined_score": 168.86
     },
     {
-      "title": "Discovery of a second-generation planet candidate accreting onto a white dwarf",
-      "url": "https://www.nature.com/articles/s41550-026-02983-7",
+      "title": "Meta's GB{2,3}00 Cluster",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.019,
+      "base_score": 1.4,
+      "velocity": 4.344,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 15.2
     },
     {
-      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.12,
-      "velocity": 6.798,
-      "velocity_label": "exploding",
-      "combined_score": 104.01
-    },
-    {
-      "title": "Google's servers can scan what you copy in Chrome for unsafe content",
-      "url": "https://www.neowin.net/news/google-can-now-monitor-your-clipboard-in-chrome-to-check-if-you-copied-safe-content/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.733,
-      "velocity_label": "exploding",
-      "combined_score": 0.67
-    },
-    {
-      "title": "Show HN: Litedeck – Agentless server management GUI over plain SSH",
-      "url": "https://github.com/cpprhtn/LiteDeck",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.413,
-      "velocity_label": "exploding",
-      "combined_score": 0.48
-    },
-    {
-      "title": "Why Is Israel Running TV Ads in Iowa Ahead of the Midterms?",
-      "url": "https://zeteo.com/p/why-is-israel-running-tv-ads-in-iowa",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 6.391,
-      "velocity_label": "exploding",
-      "combined_score": 2.88
-    },
-    {
-      "title": "Space X and Tesla exploring merger, CEO Elon Musk says",
-      "url": "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 6.348,
-      "velocity_label": "exploding",
-      "combined_score": 1.11
-    },
-    {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.96,
-      "velocity": 6.32,
-      "velocity_label": "exploding",
-      "combined_score": 157.37
-    },
-    {
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 6.242,
-      "velocity_label": "exploding",
-      "combined_score": 0.94
-    },
-    {
-      "title": "NCM: Parallel Coarse-to-Fine Text Generation",
-      "url": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+      "title": "Protecting Cockroach Labs' Source Code in the Age of AI",
+      "url": "https://www.cockroachlabs.com/blog/source-code-protection/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.23,
+      "velocity": 4.303,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.11
     },
     {
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.16,
-      "velocity": 6.003,
-      "velocity_label": "exploding",
-      "combined_score": 92.45
-    },
-    {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.73,
-      "velocity": 6.002,
-      "velocity_label": "exploding",
-      "combined_score": 55.97
-    },
-    {
-      "title": "Ask HN: Are investors still investing into tech?",
-      "url": "https://news.ycombinator.com/item?id=50175284",
+      "title": "Hetzner Outage",
+      "url": "https://status.hetzner.com/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.04,
-      "velocity": 5.95,
+      "velocity": 4.3,
       "velocity_label": "exploding",
-      "combined_score": 0.6
+      "combined_score": 0.43
     },
     {
-      "title": "OpenAI – 12 hour cache (API) available and \"cache forever\" for work/codex users",
-      "url": "https://twitter.com/thsottiaux/status/2112712984644784534",
+      "title": "Private and OpenAI-Comp. Inference Engine for Nvidia Linux and Apple Silicon",
+      "url": "https://github.com/tara-vision/taraengine",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.843,
+      "base_score": 0.01,
+      "velocity": 4.288,
       "velocity_label": "exploding",
-      "combined_score": 0.58
+      "combined_score": 0.11
     },
     {
-      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+      "url": "https://squidbrake.com/benchmark",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.02,
-      "velocity": 5.812,
+      "base_score": 0.01,
+      "velocity": 4.263,
       "velocity_label": "exploding",
-      "combined_score": 29.35
-    },
-    {
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.11,
-      "velocity": 5.756,
-      "velocity_label": "exploding",
-      "combined_score": 87.92
-    },
-    {
-      "title": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 5.65,
-      "velocity_label": "exploding",
-      "combined_score": 4.8
+      "combined_score": 0.11
     },
     {
       "title": "Apple broke an essential presentation feature of iPads",
       "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.98,
-      "velocity": 5.544,
+      "base_score": 9.73,
+      "velocity": 4.165,
       "velocity_label": "exploding",
-      "combined_score": 124.47
+      "combined_score": 101.31
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.23,
+      "velocity": 4.146,
+      "velocity_label": "exploding",
+      "combined_score": 74.94
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [],
-  "linguistic_voids": [],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "open",
+        "show",
+        "source"
+      ],
+      "concept_hint": "open + show + source",
+      "cluster_size": 3,
+      "discussion_count": 3,
+      "void_score": 13.5,
+      "examples": [
+        {
+          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Self-hosted Omnivore-fully self-hosted, open-source Read-it-Later app",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "show",
+            "source"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
     {
       "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
       "url": "https://news.ycombinator.com/item?id=50167583",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.74,
+      "score": 0.79,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Protecting Cockroach Labs' Source Code in the Age of AI",
+      "url": "https://www.cockroachlabs.com/blog/source-code-protection/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "code",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Self-hosted Omnivore-fully self-hosted, open-source Read-it-Later app",
+      "url": "https://github.com/omnivore-app/omnivore/blob/main/docs/SELF-HOST-UPDATE.md",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+      "url": "https://squidbrake.com/benchmark",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -548,7 +624,7 @@
       "url": "https://github.com/google-pytorch/torch_tpu",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.73,
+      "score": 4.57,
       "relevance": 0.056,
       "matching_tags": [
         "open"
@@ -559,51 +635,51 @@
       "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.08,
+      "score": 3.81,
       "relevance": 0.056,
       "matching_tags": [
         "open"
       ]
     },
     {
-      "title": "Learning to live with Waymos",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.99,
-      "relevance": 0.056,
-      "matching_tags": [
-        "learning"
-      ]
-    },
-    {
-      "title": "T3 Code now synced between GitHub and GitCafe",
-      "url": "https://git.cafe/pingdotgg/t3code",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.33,
+      "score": 0.92,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Google's servers can scan what you copy in Chrome for unsafe content",
-      "url": "https://www.neowin.net/news/google-can-now-monitor-your-clipboard-in-chrome-to-check-if-you-copied-safe-content/",
+      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "url": "https://github.com/xamrayev/nexus-cli",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 0.17,
       "relevance": 0.056,
       "matching_tags": [
-        "content"
+        "code"
       ]
     },
     {
-      "title": "Blueprints, Not Prompts: Using TLA+ to Guide AI-Written Code",
-      "url": "https://mulgadc.com/blog/blueprints-not-prompts-tla-plus",
+      "title": "Chores Machine, a snooze list for recurring chores",
+      "url": "https://choresmachine.com",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.03,
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "machine"
+      ]
+    },
+    {
+      "title": "Grip – a Git hook that won't let me push code I can't explain",
+      "url": "https://github.com/guilyx/grip",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
         "code"
