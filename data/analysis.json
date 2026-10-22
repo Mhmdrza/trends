@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-22T03:07:16.814091+00:00",
-  "scrape_timestamp": "2026-10-22T03:05:39.645503+00:00",
-  "total_items_analyzed": 97,
+  "timestamp": "2026-10-22T11:05:38.120641+00:00",
+  "scrape_timestamp": "2026-10-22T11:04:08.492721+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,580 +16,519 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 10,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "game",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "I reverse engineered a board game",
-          "source": "hackernews",
-          "url": "https://wuemeli.com/blog/reversing-hitster-game/",
-          "score": 0.05
-        },
-        {
-          "title": "Lost Builds – unreleased game archive",
-          "source": "hackernews",
-          "url": "https://lost-builds.byartem.com/",
-          "score": 0.02
-        },
-        {
-          "title": "RT by @uno94010: All of them aura farming then theres the ai slop game",
-          "source": "twitter",
-          "url": "http://nitter.meowing.monster/Taylor_nonsense/status/2112916615205421149#m",
-          "score": 0.5
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-      "url": "https://github.com/nthnclrk/CleanFrame",
+      "title": "What Is the Karakoram Anomaly?",
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.23,
-      "velocity": 21.958,
+      "base_score": 0.5,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 12.63
+      "combined_score": 22.5
     },
     {
-      "title": "A Place Among the Fiddlers",
-      "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+      "title": "Postgres recovery_prefetch can cause outages",
+      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.26,
-      "velocity": 14.833,
+      "base_score": 0.25,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 9.64
+      "combined_score": 9.77
     },
     {
-      "title": "Κ = 0.003 for integer multiplication crossed",
-      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.58,
-      "velocity": 14.75,
+      "base_score": 6.79,
+      "velocity": 14.517,
       "velocity_label": "exploding",
-      "combined_score": 21.39
+      "combined_score": 246.42
     },
     {
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.24,
-      "velocity": 13.54,
-      "velocity_label": "exploding",
-      "combined_score": 41.97
-    },
-    {
-      "title": "When Do We Become the Person We Ought to Be?",
-      "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+      "title": "Texas Continued Data Center Permitting After the Governor's Pause",
+      "url": "https://fractracker.org/2026/10/texas-data-center-permits-after-governor-halt/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.43,
-      "velocity": 13.25,
+      "velocity": 14.311,
       "velocity_label": "exploding",
-      "combined_score": 14.24
+      "combined_score": 15.38
     },
     {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.78,
-      "velocity": 13.196,
+      "base_score": 0.03,
+      "velocity": 12.733,
       "velocity_label": "exploding",
-      "combined_score": 124.7
+      "combined_score": 0.96
     },
     {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.29,
-      "velocity": 12.411,
+      "base_score": 0.36,
+      "velocity": 12.458,
       "velocity_label": "exploding",
-      "combined_score": 9.0
+      "combined_score": 11.21
     },
     {
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "title": "Encryption isn't enough to protect data wherever it goes",
+      "url": "https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 10.56,
-      "velocity": 12.3,
+      "base_score": 0.01,
+      "velocity": 11.461,
       "velocity_label": "exploding",
-      "combined_score": 324.72
+      "combined_score": 0.29
     },
     {
-      "title": "The Rise and Fall of the Plasma Screen",
-      "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.78,
-      "velocity": 11.583,
+      "base_score": 4.36,
+      "velocity": 11.423,
       "velocity_label": "exploding",
-      "combined_score": 22.59
+      "combined_score": 124.51
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 2.5
     },
     {
       "title": "No more icons in every menu by default",
       "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.21,
-      "velocity": 11.15,
+      "base_score": 6.37,
+      "velocity": 9.857,
       "velocity_label": "exploding",
-      "combined_score": 117.35
+      "combined_score": 156.98
     },
     {
-      "title": "Canary Tokens",
-      "url": "https://canarytokens.org/",
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.65,
-      "velocity": 10.875,
+      "base_score": 0.57,
+      "velocity": 9.278,
       "velocity_label": "exploding",
-      "combined_score": 44.86
+      "combined_score": 13.22
     },
     {
-      "title": "I built an open source Steam Link app for Samsung TVs",
-      "url": "https://github.com/pebeto/tizen-steam-link",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.34,
+      "velocity": 8.857,
+      "velocity_label": "exploding",
+      "combined_score": 228.95
+    },
+    {
+      "title": "Chinese stocks turn biggest losers as global AI trade stumbles",
+      "url": "https://theedgemalaysia.com/node/822195",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 8.617,
+      "velocity_label": "exploding",
+      "combined_score": 1.51
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.33,
+      "velocity": 8.433,
+      "velocity_label": "exploding",
+      "combined_score": 91.29
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.61,
+      "velocity": 8.324,
+      "velocity_label": "exploding",
+      "combined_score": 75.13
+    },
+    {
+      "title": "AA-PersonalityBench: AI Personality and Communication Style Benchmark",
+      "url": "https://artificialanalysis.ai/evaluations/aa-personalitybench",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.04,
-      "velocity": 10.256,
+      "velocity": 8.18,
       "velocity_label": "exploding",
-      "combined_score": 1.03
+      "combined_score": 0.82
     },
     {
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "title": "Ubuntu PHP Internal Server Error",
+      "url": "https://packages.ubuntu.com/noble/php",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.22,
-      "velocity": 9.962,
+      "base_score": 0.02,
+      "velocity": 8.006,
       "velocity_label": "exploding",
-      "combined_score": 154.9
+      "combined_score": 0.4
     },
     {
-      "title": "I reverse engineered a board game",
-      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.05,
-      "velocity": 9.603,
+      "base_score": 0.53,
+      "velocity": 7.65,
       "velocity_label": "exploding",
-      "combined_score": 1.2
+      "combined_score": 10.14
     },
     {
-      "title": "GitLab Critical Patch Release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.6,
-      "velocity": 9.224,
-      "velocity_label": "exploding",
-      "combined_score": 83.01
-    },
-    {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.02,
-      "velocity": 8.239,
-      "velocity_label": "exploding",
-      "combined_score": 165.18
-    },
-    {
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.7,
-      "velocity": 8.048,
-      "velocity_label": "exploding",
-      "combined_score": 34.2
-    },
-    {
-      "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
-      "url": "https://bloffy.co/en",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.23,
-      "velocity": 8.012,
-      "velocity_label": "exploding",
-      "combined_score": 4.61
-    },
-    {
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 17.85,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 351.05
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.8,
-      "velocity": 7.787,
-      "velocity_label": "exploding",
-      "combined_score": 132.39
-    },
-    {
-      "title": "PingCap TiDB Leaks",
-      "url": "https://fulcrumsec.vg/pingcap/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.83,
-      "velocity": 7.444,
-      "velocity_label": "exploding",
-      "combined_score": 52.67
-    },
-    {
-      "title": "Nokia, T-Mobile and Nvidia complete first AI-RAN call",
-      "url": "https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/",
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.963,
+      "velocity": 7.385,
       "velocity_label": "exploding",
-      "combined_score": 0.17
+      "combined_score": 0.18
     },
     {
-      "title": "Google SRE Book",
-      "url": "https://sre.google/sre-book/introduction/",
+      "title": "Peace is expensive. Justice more",
+      "url": "https://news.ycombinator.com/item?id=50193708",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Protecting Firefox Users After eMudhra Intermediate Certificates Compromise",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 6.885,
+      "velocity": 7.315,
       "velocity_label": "exploding",
-      "combined_score": 0.52
+      "combined_score": 0.55
     },
     {
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "title": "Cyber-security issue hitting sites worldwide prompts 'millions' of hacking...",
+      "url": "https://www.bbc.co.uk/news/live/ckgel5xp2xv9t",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.45,
-      "velocity": 6.859,
+      "base_score": 0.04,
+      "velocity": 7.107,
       "velocity_label": "exploding",
-      "combined_score": 7.72
-    },
-    {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.49,
-      "velocity": 6.804,
-      "velocity_label": "exploding",
-      "combined_score": 76.37
-    },
-    {
-      "title": "Data centers could erase decades of air quality gains",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 6.794,
-      "velocity_label": "exploding",
-      "combined_score": 2.55
-    },
-    {
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.58,
-      "velocity": 6.419,
-      "velocity_label": "exploding",
-      "combined_score": 121.64
-    },
-    {
-      "title": "Claude Duet",
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.72,
-      "velocity": 6.419,
-      "velocity_label": "exploding",
-      "combined_score": 11.55
-    },
-    {
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.69,
-      "velocity": 6.389,
-      "velocity_label": "exploding",
-      "combined_score": 11.02
-    },
-    {
-      "title": "Qpack amplification attacks against HTTP/3 servers",
-      "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.23,
-      "velocity": 6.228,
-      "velocity_label": "exploding",
-      "combined_score": 3.58
-    },
-    {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.01,
-      "velocity": 6.163,
-      "velocity_label": "exploding",
-      "combined_score": 30.97
-    },
-    {
-      "title": "Exploring the Use of WebAssembly in HPC (2023)",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3572848.3577436",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.138,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.02,
-      "velocity": 6.096,
-      "velocity_label": "exploding",
-      "combined_score": 46.02
-    },
-    {
-      "title": "Left to Write (1 of 3): Adaptive Keyboards for One-Handed Users",
-      "url": "https://99percentinvisible.org/article/adaptive-one-handed-keyboards/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.83,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "A sourced timeline of the PHP2Shell leak and embargo break",
-      "url": "https://claude.ai/artifact/5cZex56WutyVnpMBrWXxzV",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.781,
-      "velocity_label": "exploding",
-      "combined_score": 0.43
-    },
-    {
-      "title": "NPM is experiencing degraded package install and publishing",
-      "url": "https://status.npmjs.org/incidents/xfp75s9j3bp8",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.75,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
+      "combined_score": 0.71
     },
     {
       "title": "Using LLM for confidence scoring is a bad idea",
       "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 5.571,
+      "base_score": 1.91,
+      "velocity": 7.08,
       "velocity_label": "exploding",
-      "combined_score": 0.97
+      "combined_score": 33.81
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "title": "Slop New York",
+      "url": "https://mrdoob.github.io/slop-newyork/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.8,
-      "velocity": 5.498,
+      "base_score": 0.02,
+      "velocity": 6.917,
       "velocity_label": "exploding",
-      "combined_score": 65.97
+      "combined_score": 0.35
     },
     {
-      "title": "Potential third critical PHP CVE",
-      "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+      "title": "80% of the top 1% of AI spenders are VC-backed",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/circularity-in-ai-shows-up-in-token-spending-too",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.85,
-      "velocity": 5.406,
+      "base_score": 0.01,
+      "velocity": 6.861,
       "velocity_label": "exploding",
-      "combined_score": 11.49
+      "combined_score": 0.17
+    },
+    {
+      "title": "AI-Assisted Product Discovery: How to Succeed and How to Fail",
+      "url": "https://www.youtube.com/watch?v=gJ-rYxlkVPg",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.85,
+      "velocity_label": "exploding",
+      "combined_score": 0.51
+    },
+    {
+      "title": "AI's hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.216,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Alzheimer's Researchers Look at an Unusual Data Point: Head Shape",
+      "url": "https://www.nytimes.com/2026/10/22/science/alzheimers-disease-brain-head-shape.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.981,
+      "velocity_label": "exploding",
+      "combined_score": 0.6
+    },
+    {
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.7,
+      "velocity": 5.967,
+      "velocity_label": "exploding",
+      "combined_score": 189.44
+    },
+    {
+      "title": "Hugging Face model lets you chat with your DNA",
+      "url": "https://huggingface.co/spaces/HuggingFaceBio/Carbon-X-Release",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.963,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Carbon-X: the best open DNA model",
+      "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.821,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.01,
+      "velocity": 5.65,
+      "velocity_label": "exploding",
+      "combined_score": 127.27
+    },
+    {
+      "title": "Canary Tokens",
+      "url": "https://canarytokens.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.86,
+      "velocity": 5.65,
+      "velocity_label": "exploding",
+      "combined_score": 26.27
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.46,
+      "velocity": 5.564,
+      "velocity_label": "exploding",
+      "combined_score": 20.31
+    },
+    {
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.2,
+      "velocity": 5.543,
+      "velocity_label": "exploding",
+      "combined_score": 16.63
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.9,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 105.33
+    },
+    {
+      "title": "A Website of My Own",
+      "url": "https://un1970ix.com/notes/a-website-of-my-own",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.75,
+      "velocity": 5.228,
+      "velocity_label": "exploding",
+      "combined_score": 22.87
+    },
+    {
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.76,
+      "velocity": 5.137,
+      "velocity_label": "exploding",
+      "combined_score": 22.6
+    },
+    {
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.9,
+      "velocity": 5.107,
+      "velocity_label": "exploding",
+      "combined_score": 24.26
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.11,
+      "velocity": 5.024,
+      "velocity_label": "exploding",
+      "combined_score": 1.38
+    },
+    {
+      "title": "The compiler was supposed to end programming too",
+      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.71,
+      "velocity": 4.952,
+      "velocity_label": "exploding",
+      "combined_score": 45.93
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.79,
+      "velocity": 4.823,
+      "velocity_label": "exploding",
+      "combined_score": 130.1
+    },
+    {
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.42,
+      "velocity": 4.806,
+      "velocity_label": "exploding",
+      "combined_score": 53.1
     },
     {
       "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
       "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.9,
-      "velocity": 5.333,
+      "base_score": 0.97,
+      "velocity": 4.77,
       "velocity_label": "exploding",
-      "combined_score": 12.0
+      "combined_score": 11.57
     },
     {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.04,
-      "velocity": 5.285,
-      "velocity_label": "exploding",
-      "combined_score": 159.07
-    },
-    {
-      "title": "RT by @pastelangel741: Pessoal, não existe nenhuma possibilidade, nenhuma, de um deputado estadual que depois virou sena",
-      "url": "http://nitter.meowing.monster/EthelMaciel/status/2113000006055600602#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.208,
-      "velocity_label": "exploding",
-      "combined_score": 6.51
-    },
-    {
-      "title": "I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.064,
-      "velocity_label": "exploding",
-      "combined_score": 0.38
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.66,
-      "velocity": 5.0,
-      "velocity_label": "exploding",
-      "combined_score": 33.25
-    },
-    {
-      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.5,
-      "velocity": 4.845,
-      "velocity_label": "exploding",
-      "combined_score": 18.17
-    },
-    {
-      "title": "Iran threatens to cut Hormuz internet cables",
-      "url": "https://www.telegraph.co.uk/world-news/2026/10/20/iran-threatens-cut-hormuz-internet-cables/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.619,
-      "velocity_label": "exploding",
-      "combined_score": 0.35
-    },
-    {
-      "title": "Show HN: Cathode, a Gtk4 YouTube player based on mpv and yt-dlp",
-      "url": "https://github.com/andunieee/cathode",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.525,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "Show HN: Statement Proof – PDF bank statement to CSV, proved or refused",
-      "url": "https://statement-proof.quillnow.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.406,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
-    },
-    {
-      "title": "Built Once, Serves Many: How We Rebuilt Experiment Analysis Platform at Roku",
-      "url": "https://engineering.roku.com/built-once-serves-many-how-we-rebuilt-experiment-analysis-platform-at-roku",
+      "title": "HealthyCropping – Offline crop disease diagnosis on Android (TFLite and RAG)",
+      "url": "https://github.com/keylorpineda/healthycropping",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 4.232,
+      "velocity": 4.677,
       "velocity_label": "exploding",
-      "combined_score": 0.21
+      "combined_score": 0.23
     },
     {
-      "title": "I have an issue with what agets affirm, do you have too?",
-      "url": "https://github.com/EmanueleCell4/elliot-mcp",
+      "title": "I own a relatively new (2025) Samsung TV. I kept getting weirdly targeted ads",
+      "url": "https://twitter.com/log4j/status/2113014142600953868",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 4.656,
+      "velocity_label": "exploding",
+      "combined_score": 0.23
+    },
+    {
+      "title": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.85,
+      "velocity": 4.594,
+      "velocity_label": "exploding",
+      "combined_score": 55.71
+    },
+    {
+      "title": "I reverse engineered a board game",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.29,
+      "velocity": 4.52,
+      "velocity_label": "exploding",
+      "combined_score": 3.28
+    },
+    {
+      "title": "Effective Altruist Hiring Scheme Caused and Covered Up AI Cybersecurity Problems",
+      "url": "https://twitter.com/brianchau57/status/2112906156582568355",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.167,
+      "velocity": 4.417,
       "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 0.11
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "game",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.28,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "I reverse engineered a board game",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Lost Builds – unreleased game archive",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @uno94010: All of them aura farming then theres the ai slop game",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [],
   "personal_relevance": [
     {
@@ -597,31 +536,7 @@
       "url": "https://github.com/omnara-ai/omnara",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.42,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "I built an open source Steam Link app for Samsung TVs",
-      "url": "https://github.com/pebeto/tizen-steam-link",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.04,
-      "relevance": 0.111,
-      "matching_tags": [
-        "open",
-        "source"
-      ]
-    },
-    {
-      "title": "OpenVAF – Open-source Verilog-A compiler in Rust",
-      "url": "https://github.com/pascalkuthe/OpenVAF",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.02,
+      "score": 1.2,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -633,10 +548,65 @@
       "url": "https://www.albertodenia.com/writing/code-is-clay-now",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.92,
+      "score": 3.6,
       "relevance": 0.056,
       "matching_tags": [
         "code"
+      ]
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.1,
+      "relevance": 0.056,
+      "matching_tags": [
+        "source"
+      ]
+    },
+    {
+      "title": "Cyber-security issue hitting sites worldwide prompts 'millions' of hacking...",
+      "url": "https://www.bbc.co.uk/news/live/ckgel5xp2xv9t",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.04,
+      "relevance": 0.056,
+      "matching_tags": [
+        "hacking"
+      ]
+    },
+    {
+      "title": "Show HN: An open Add/Search interface for benchmarking agent memory",
+      "url": "https://twitter.com/AgentMemoryL/status/2101515447816663222",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "Carbon-X: the best open DNA model",
+      "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "Show HN: An open dataset of MCP tool definitions and every change to them",
+      "url": "https://histor.modelmarket.dev/datasets/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
       ]
     }
   ]
