@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-25T15:30:00.676823+00:00",
-  "scrape_timestamp": "2026-10-25T15:28:20.465247+00:00",
-  "total_items_analyzed": 89,
+  "timestamp": "2026-10-25T20:21:15.975993+00:00",
+  "scrape_timestamp": "2026-10-25T20:19:34.818284+00:00",
+  "total_items_analyzed": 100,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,527 +16,676 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 89,
+      "count": 90,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "see",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "source": "hackernews",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "score": 4.16
+        },
+        {
+          "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+          "source": "hackernews",
+          "url": "https://github.com/aymen94/NeuronDump",
+          "score": 0.02
+        },
+        {
+          "title": "RT by @abdul50684: 🫜A brilliant and thrilling AI short drama you need to see▫️ link：https://eng.moboreels.com/gTh4w/262C",
+          "source": "twitter",
+          "url": "http://nitter.meowing.monster/Biokoach/status/2114409129582514307#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "In Rainbows",
-      "url": "https://hitogata.neocities.org/Rainbows",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.43,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 19.35
-    },
-    {
-      "title": "Rewriting a Commercial Engine in Jai",
-      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.23,
-      "velocity": 15.625,
-      "velocity_label": "exploding",
-      "combined_score": 48.05
-    },
-    {
-      "title": "How Japanese Dried Bonito Is Made",
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.72,
-      "velocity": 15.15,
-      "velocity_label": "exploding",
-      "combined_score": 65.15
-    },
-    {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.02,
-      "velocity": 12.605,
-      "velocity_label": "exploding",
-      "combined_score": 32.14
-    },
-    {
-      "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
-      "url": "https://reddit.com/opensource_projects",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 11.22,
-      "velocity_label": "exploding",
-      "combined_score": 1.4
-    },
-    {
-      "title": "Radio Days",
-      "url": "https://oldster.substack.com/p/radio-days",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 10.4,
-      "velocity_label": "exploding",
-      "combined_score": 3.12
-    },
-    {
-      "title": "A Few Thoughts on Intensity",
-      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+      "title": "The U.S. Power Grid",
+      "url": "https://nomagicpill.site/knowledge/powergrid.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 10.0,
+      "velocity": 19.5,
       "velocity_label": "exploding",
-      "combined_score": 0.75
+      "combined_score": 1.46
     },
     {
-      "title": "Deus Ex Machina",
-      "url": "https://vivekhaldar.com/articles/deus-ex-machina/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "Archaic Binary",
-      "url": "https://www.archaicbinary.net/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "Celebrate Your Herumtüfteln",
-      "url": "https://github.com/rommeld/cupel",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.75
-    },
-    {
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.3,
-      "velocity": 9.878,
-      "velocity_label": "exploding",
-      "combined_score": 7.41
-    },
-    {
-      "title": "If AI Can Copy Photoshop, Why Would Anyone Build the Next Figma?",
-      "url": "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 9.816,
-      "velocity_label": "exploding",
-      "combined_score": 0.74
-    },
-    {
-      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.13,
-      "velocity": 9.155,
-      "velocity_label": "exploding",
-      "combined_score": 71.64
-    },
-    {
-      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-      "url": "https://github.com/winnin/farol",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.62,
-      "velocity": 8.978,
-      "velocity_label": "exploding",
-      "combined_score": 13.92
-    },
-    {
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.72,
-      "velocity": 8.93,
-      "velocity_label": "exploding",
-      "combined_score": 194.67
-    },
-    {
-      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.62,
-      "velocity": 8.817,
-      "velocity_label": "exploding",
-      "combined_score": 13.67
-    },
-    {
-      "title": "Imagine an AI future where being banned means you are now economically useless",
-      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.47,
-      "velocity": 8.762,
-      "velocity_label": "exploding",
-      "combined_score": 10.29
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.46,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 52.28
-    },
-    {
-      "title": "Why Washing Machines Took Decades to Catch On",
-      "url": "https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.11,
-      "velocity": 7.622,
-      "velocity_label": "exploding",
-      "combined_score": 2.1
-    },
-    {
-      "title": "Recent Tailscale Vulnerability Reports",
-      "url": "https://www.reddit.com/r/Tailscale/comments/1xeoj1l/recent_tailscale_vulnerability_reports/",
+      "title": "The Power Grab of the AI Doomers",
+      "url": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 7.554,
+      "velocity": 19.0,
       "velocity_label": "exploding",
-      "combined_score": 0.38
+      "combined_score": 0.95
     },
     {
-      "title": "Firecrawl's Government Index",
-      "url": "https://lexifina.com/blog/firecrawl-government-index",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.389,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "POSIX Wordexp(3) Is Dangerous",
-      "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.52,
-      "velocity": 6.6,
-      "velocity_label": "exploding",
-      "combined_score": 25.08
-    },
-    {
-      "title": "Knip: finds and fixes unused dependencies in JavaScript and TypeScript projects",
-      "url": "https://github.com/webpro-nl/knip",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.481,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Show HN: Markdown Quick Look for macOS with a Rust core and no web engine",
-      "url": "https://github.com/armamut/md-quicklook",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.423,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "The Climb – Dream Again USA",
-      "url": "https://dreamagainusa.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.32
-    },
-    {
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.24,
-      "velocity": 6.283,
-      "velocity_label": "exploding",
-      "combined_score": 19.48
-    },
-    {
-      "title": "Show HN: What had they done by your age?",
-      "url": "https://by-your-age.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.19,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.44,
-      "velocity": 5.891,
-      "velocity_label": "exploding",
-      "combined_score": 21.21
-    },
-    {
-      "title": "The Lego group reveals collaboration with Daft Punk",
+      "title": "Lego collaboration with Daft Punk",
       "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.08,
-      "velocity": 5.75,
+      "base_score": 1.65,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 15.53
+      "combined_score": 64.45
     },
     {
-      "title": "Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks",
-      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.625,
+      "base_score": 1.12,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.98,
-      "velocity": 5.591,
-      "velocity_label": "exploding",
-      "combined_score": 55.63
-    },
-    {
-      "title": "Reverse engineer of PC-98 Touhou games retires",
-      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.81,
-      "velocity": 5.394,
-      "velocity_label": "exploding",
-      "combined_score": 10.92
-    },
-    {
-      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
-      "url": "https://nouploadconverter.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.337,
-      "velocity_label": "exploding",
-      "combined_score": 0.27
-    },
-    {
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.51,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 60.13
-    },
-    {
-      "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
-      "url": "https://twitter.com/freddier/status/2114042326758867453",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 5.33,
-      "velocity_label": "exploding",
-      "combined_score": 2.0
-    },
-    {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "url": "https://bigwhalehunting.com/workforce/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 5.014,
-      "velocity_label": "exploding",
-      "combined_score": 3.63
-    },
-    {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.62,
-      "velocity": 4.949,
-      "velocity_label": "exploding",
-      "combined_score": 44.79
-    },
-    {
-      "title": "Bbtree: Fastest Ordered Map",
-      "url": "https://bbtree.xiangpeng.systems/post/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.66,
-      "velocity": 4.904,
-      "velocity_label": "exploding",
-      "combined_score": 20.35
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.59,
-      "velocity": 4.648,
-      "velocity_label": "exploding",
-      "combined_score": 123.05
+      "combined_score": 37.1
     },
     {
       "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
       "url": "https://github.com/ihhub/fheroes2",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.61,
-      "velocity": 4.333,
+      "base_score": 2.81,
+      "velocity": 13.039,
       "velocity_label": "exploding",
-      "combined_score": 17.44
+      "combined_score": 91.6
     },
     {
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
+      "title": "A few thoughts on intensity (2024)",
+      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.95,
-      "velocity": 4.134,
+      "base_score": 1.25,
+      "velocity": 11.667,
       "velocity_label": "exploding",
-      "combined_score": 20.15
+      "combined_score": 36.46
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 11.12,
-      "velocity": 4.037,
+      "base_score": 2.71,
+      "velocity": 11.413,
       "velocity_label": "exploding",
-      "combined_score": 112.21
+      "combined_score": 77.33
     },
     {
-      "title": "Root shell on Samsung TV",
-      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "title": "Firecrawl's Government Index",
+      "url": "https://lexifina.com/blog/firecrawl-government-index",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.41,
-      "velocity": 4.014,
+      "base_score": 0.03,
+      "velocity": 10.611,
       "velocity_label": "exploding",
-      "combined_score": 84.39
+      "combined_score": 0.8
     },
     {
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.97,
-      "velocity": 4.007,
+      "base_score": 2.19,
+      "velocity": 10.164,
       "velocity_label": "exploding",
-      "combined_score": 19.73
+      "combined_score": 55.65
     },
     {
-      "title": "Symbolic Learning in Python and Julia",
-      "url": "https://github.com/astroautomata/PySR",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.98,
-      "velocity": 3.882,
-      "velocity_label": "exploding",
-      "combined_score": 9.51
-    },
-    {
-      "title": "Check it out. Especially The language greenServeFE",
-      "url": "https://github.com/MacoraOne/MacoraOne",
+      "title": "Focused Company Operating Principles",
+      "url": "https://focused.io/operating-principles",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 3.766,
+      "velocity": 10.0,
       "velocity_label": "exploding",
-      "combined_score": 0.09
+      "combined_score": 0.25
     },
     {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 13.79,
-      "velocity": 3.644,
+      "title": "RT by @chocoleites: mt gente linda e estilosa com adesivo do lula hj ai tu olha pro lado e ve os bolsy assim",
+      "url": "http://nitter.meowing.monster/twinpikaas/status/2114395442674835831#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.978,
       "velocity_label": "exploding",
-      "combined_score": 125.64
+      "combined_score": 12.47
     },
     {
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.83,
-      "velocity": 3.644,
+      "title": "RT by @abdul50684: 🫜A brilliant and thrilling AI short drama you need to see▫️ link：https://eng.moboreels.com/gTh4w/262C",
+      "url": "http://nitter.meowing.monster/Biokoach/status/2114409129582514307#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.762,
       "velocity_label": "exploding",
-      "combined_score": 16.67
+      "combined_score": 12.2
     },
     {
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
+      "title": "Bring Back the Cool Save File Screens",
+      "url": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.92,
-      "velocity": 3.561,
+      "base_score": 0.87,
+      "velocity": 9.306,
       "velocity_label": "exploding",
-      "combined_score": 43.8
+      "combined_score": 20.24
+    },
+    {
+      "title": "My university is proposing to offer shorter degrees. Others should follow suit",
+      "url": "https://www.washingtonpost.com/opinions/2026/10/23/colleges-should-offer-three-year-degrees/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.813,
+      "velocity_label": "exploding",
+      "combined_score": 0.44
+    },
+    {
+      "title": "RT by @kabges: \"se for ruim a gente tira\" boa sorte tentando votar próxima eleição com o país governado por esse vermes",
+      "url": "http://nitter.meowing.monster/moonbyelle/status/2114435939128717671#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.812,
+      "velocity_label": "exploding",
+      "combined_score": 11.02
+    },
+    {
+      "title": "RT by @StimachSharon: U.S. stock investors face a pivotal week, with corporate earnings reports led by major AI players",
+      "url": "http://nitter.meowing.monster/NEWSMAX/status/2114431835291951199#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.708,
+      "velocity_label": "exploding",
+      "combined_score": 10.89
+    },
+    {
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.48,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 10.2
+    },
+    {
+      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 8.4,
+      "velocity_label": "exploding",
+      "combined_score": 9.87
+    },
+    {
+      "title": "Show HN: Comparing SF Bay Area trash rates",
+      "url": "https://www.shasheene.com/bay-area-trash-rates/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.6,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "I Let AI Port an Xbox 360 Game to PC (and It Worked) [video]",
+      "url": "https://www.youtube.com/watch?v=rojjkW74d-k",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.354,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.42,
+      "velocity": 7.222,
+      "velocity_label": "exploding",
+      "combined_score": 7.58
+    },
+    {
+      "title": "Kauldron: Modular, scalable library to train ML models",
+      "url": "https://github.com/google-research/kauldron",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.2,
+      "velocity_label": "exploding",
+      "combined_score": 0.36
+    },
+    {
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.38,
+      "velocity": 7.075,
+      "velocity_label": "exploding",
+      "combined_score": 42.1
+    },
+    {
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "url": "https://broccoli2shell.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.01,
+      "velocity": 7.071,
+      "velocity_label": "exploding",
+      "combined_score": 123.92
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.06,
+      "velocity": 7.005,
+      "velocity_label": "exploding",
+      "combined_score": 36.07
+    },
+    {
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.55,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 26.8
+    },
+    {
+      "title": "R to @MavelRadar: Step-by-step clinical reasoning could make medical AI more useful for doctors",
+      "url": "http://nitter.meowing.monster/ClaraOnAI/status/2114452167168070058#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.854,
+      "velocity_label": "exploding",
+      "combined_score": 8.57
+    },
+    {
+      "title": "It's a trap: testing coding agents on a language with surprising semantics",
+      "url": "https://blog.csongor.co.uk/loom/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.81,
+      "velocity_label": "exploding",
+      "combined_score": 0.34
+    },
+    {
+      "title": "Just an unintentionally hilarious AI sanitized version of: Trump can't stop talking about Husted's butt Via \"Today's New",
+      "url": "http://nitter.meowing.monster/jmart/status/2114452168946360734#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.683,
+      "velocity_label": "exploding",
+      "combined_score": 8.35
+    },
+    {
+      "title": "Santree: Backlog, Shipped in Parallel",
+      "url": "https://github.com/santree-ai/santree",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.438,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "RT by @Magdadyon: Registrei denúncia contra essa CRIMINOSA no Ministério Público. Essa gente não pode sair por aí comete",
+      "url": "http://nitter.meowing.monster/rickazzevedo/status/2114414924768375274#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.393,
+      "velocity_label": "exploding",
+      "combined_score": 7.99
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.6,
+      "velocity": 6.121,
+      "velocity_label": "exploding",
+      "combined_score": 39.79
+    },
+    {
+      "title": "Mosaico tiling Window manager adds mouse support",
+      "url": "https://github.com/jmelosegui/mosaico",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.117,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+      "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.32,
+      "velocity": 5.844,
+      "velocity_label": "exploding",
+      "combined_score": 4.68
+    },
+    {
+      "title": "Show HN: MuscleMemory – procedural memory for coding agents, proven by tests",
+      "url": "https://github.com/TheWariend/MuscleMemory",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.807,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Crosscut – Drawing Dynamic Models",
+      "url": "https://www.inkandswitch.com/crosscut/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.759,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": ".NET October 2026 Out-of-Band Security Updates",
+      "url": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.709,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "Google's privacy policy to use info shared through Personal Intelligence for ads",
+      "url": "https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.66,
+      "velocity_label": "exploding",
+      "combined_score": 0.28
+    },
+    {
+      "title": "Monarchs report their locations via cell phone",
+      "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 5.542,
+      "velocity_label": "exploding",
+      "combined_score": 0.55
+    },
+    {
+      "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+      "url": "https://github.com/aymen94/NeuronDump",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.541,
+      "velocity_label": "exploding",
+      "combined_score": 0.28
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.87,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 38.27
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.16,
+      "velocity": 5.222,
+      "velocity_label": "exploding",
+      "combined_score": 54.31
+    },
+    {
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.35,
+      "velocity": 5.091,
+      "velocity_label": "exploding",
+      "combined_score": 4.45
+    },
+    {
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.22,
+      "velocity": 5.08,
+      "velocity_label": "exploding",
+      "combined_score": 15.49
+    },
+    {
+      "title": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.12,
+      "velocity": 5.014,
+      "velocity_label": "exploding",
+      "combined_score": 14.04
+    },
+    {
+      "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.9,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Website to Markdown – keyless HTML→clean Markdown for RAG, pay-per-use",
+      "url": "https://apify.com/noniner/website-to-markdown",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.888,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.24,
+      "velocity": 4.848,
+      "velocity_label": "exploding",
+      "combined_score": 2.91
+    },
+    {
+      "title": "Flock [YC S17] Fever: A Review of Government Surveillance by Benn Jordan [video]",
+      "url": "https://www.youtube.com/watch?v=OP5GDiLZ1Nw",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.18,
+      "velocity": 4.759,
+      "velocity_label": "exploding",
+      "combined_score": 2.14
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.33,
+      "velocity": 4.724,
+      "velocity_label": "exploding",
+      "combined_score": 51.14
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
+  "bridge_topics": [
+    {
+      "keyword": "today",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 88.56,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Just an unintentionally hilarious AI sanitized version of: Trump can't stop talking about Husted's butt Via \"Today's New",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "pro",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 85.0,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @chocoleites: mt gente linda e estilosa com adesivo do lula hj ai tu olha pro lado e ve os bolsy assim",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "see",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 18.72,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @abdul50684: 🫜A brilliant and thrilling AI short drama you need to see▫️ link：https://eng.moboreels.com/gTh4w/262C",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "make",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.28,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @MavelRadar: Step-by-step clinical reasoning could make medical AI more useful for doctors",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "via",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Monarchs report their locations via cell phone",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Just an unintentionally hilarious AI sanitized version of: Trump can't stop talking about Husted's butt Via \"Today's New",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.44,
+      "score": 0.24,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -544,11 +693,11 @@
       ]
     },
     {
-      "title": "MongoDB vs. FerretDB: When Open Source Compatibility Becomes a Patent Risk",
-      "url": "https://shujisado.org/2026/07/15/mongodb-v-ferretdb-when-open-source-compatibility-becomes-a-patent-risk/",
+      "title": "Show HN: Ledge – an open-source app that puts the MacBook notch to work",
+      "url": "https://ledgeapp.dev/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
+      "score": 0.02,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -560,32 +709,43 @@
       "url": "https://ratfactor.com/cards/limitations",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.52,
+      "score": 1.74,
       "relevance": 0.056,
       "matching_tags": [
         "learning"
       ]
     },
     {
-      "title": "Symbolic Learning in Python and Julia",
-      "url": "https://github.com/astroautomata/PySR",
+      "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+      "url": "https://github.com/aymen94/NeuronDump",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.98,
+      "score": 0.02,
       "relevance": 0.056,
       "matching_tags": [
-        "learning"
+        "open"
       ]
     },
     {
-      "title": "Do I Still Need to Understand the Code?",
-      "url": "https://medium.com/@abhishekchaturvedi_74630/do-i-still-need-to-understand-the-code-de0d2f0ef146",
+      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
+      "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "tools"
+      ]
+    },
+    {
+      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
+      "url": "https://github.com/Hybirdss/Hycli",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "tools"
       ]
     }
   ]
