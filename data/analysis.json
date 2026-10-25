@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-25T10:38:44.669055+00:00",
-  "scrape_timestamp": "2026-10-25T10:37:03.888204+00:00",
-  "total_items_analyzed": 108,
+  "timestamp": "2026-10-25T15:30:00.676823+00:00",
+  "scrape_timestamp": "2026-10-25T15:28:20.465247+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,902 +16,543 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 20,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "2026",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 4,
-      "opportunity_score": 24.0,
-      "examples": [
-        {
-          "title": "Why Gopher in 2026?",
-          "source": "hackernews",
-          "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-          "score": 1.22
-        },
-        {
-          "title": "CVE-2026-107891: musl Libc Integer Overflow in regcomp Leading to Heap Issues",
-          "source": "hackernews",
-          "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
-          "score": 0.01
-        },
-        {
-          "title": "Show HN: Where does my tax go? A UK tax receipt calculator (2026/27)",
-          "source": "hackernews",
-          "url": "https://wheredoesmytaxgo.co.uk/",
-          "score": 0.01
-        },
-        {
-          "title": "RT by @_SoftKing: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, as Layi",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/africablockfest/status/2105999042358690255#m",
-          "score": 0.5
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "RT by @Piypiy_memecoin: the creator economy becomes more valuable when creators do more than distribute information. any",
-      "url": "https://nitter.kareem.one/Wisdomofpower1/status/2114276496697069814#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 21.75,
-      "velocity_label": "exploding",
-      "combined_score": 27.19
-    },
-    {
-      "title": "RT by @Nation01_: Engagement Farming Is Quietly Killing The Creator Economy. We’ve All Seen It Posts Engineered For Like",
-      "url": "https://nitter.kareem.one/Nation01_/status/2044744990778073137#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 20.663,
-      "velocity_label": "exploding",
-      "combined_score": 25.83
-    },
-    {
-      "title": "R to @Hybrid_Ola: Wait you are from Ondo State? Lets build the creator economy there together.",
-      "url": "https://nitter.kareem.one/ademoladebusoye/status/2114298274328834054#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 20.431,
-      "velocity_label": "exploding",
-      "combined_score": 25.54
-    },
-    {
-      "title": "R to @UseNoirApps: Turning creator profiles into tradable assets is a really interesting twist on the creator economy. T",
-      "url": "https://nitter.kareem.one/Loaded_M3dia/status/2114290923181859160#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 19.0,
-      "velocity_label": "exploding",
-      "combined_score": 23.75
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.93,
+      "base_score": 0.43,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 86.85
-    },
-    {
-      "title": "RT by @ammuchammu02: the web3 creator economy has a problem that deserves more attention. there is plenty of content des",
-      "url": "https://nitter.kareem.one/Wisdomofpower1/status/2114296539581444461#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 17.368,
-      "velocity_label": "exploding",
-      "combined_score": 21.71
-    },
-    {
-      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 16.1,
-      "velocity_label": "exploding",
-      "combined_score": 13.69
-    },
-    {
-      "title": "RT by @BrutiErgys: Meet @ponzo_fun, redesigning the attention economy for memecoins. Creator fees flow back to the commu",
-      "url": "https://nitter.kareem.one/Superboard_/status/2113879498345373794#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 16.032,
-      "velocity_label": "exploding",
-      "combined_score": 20.04
-    },
-    {
-      "title": "RT by @_SoftKing: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, as Layi",
-      "url": "https://nitter.kareem.one/africablockfest/status/2105999042358690255#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 13.853,
-      "velocity_label": "exploding",
-      "combined_score": 17.32
-    },
-    {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.08,
-      "velocity": 12.933,
-      "velocity_label": "exploding",
-      "combined_score": 34.92
-    },
-    {
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 12.421,
-      "velocity_label": "exploding",
-      "combined_score": 26.08
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.67,
-      "velocity": 11.73,
-      "velocity_label": "exploding",
-      "combined_score": 78.3
-    },
-    {
-      "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
-      "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.54,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "The AI and Steve Strogatz",
-      "url": "https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "Dump Shock",
-      "url": "https://wiki.c2.com/?DumpShock",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.22,
-      "velocity": 9.586,
-      "velocity_label": "exploding",
-      "combined_score": 29.24
-    },
-    {
-      "title": "Bbtree: Fastest Ordered Map",
-      "url": "https://bbtree.xiangpeng.systems/post/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.31,
-      "velocity": 9.393,
-      "velocity_label": "exploding",
-      "combined_score": 30.76
-    },
-    {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.32,
-      "velocity": 9.113,
-      "velocity_label": "exploding",
-      "combined_score": 7.29
-    },
-    {
-      "title": "Reseter.css 3.0 brings a major overhaul to the lightweight CSS reset library",
-      "url": "https://ikrishg.github.io/reseter.css/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.08,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.54,
-      "velocity": 8.77,
-      "velocity_label": "exploding",
-      "combined_score": 209.15
-    },
-    {
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.19,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 89.04
-    },
-    {
-      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
-      "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 7.65
-    },
-    {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.48,
-      "velocity": 8.198,
-      "velocity_label": "exploding",
-      "combined_score": 71.32
-    },
-    {
-      "title": "Ask HN: Are tab completion models dead?",
-      "url": "https://news.ycombinator.com/item?id=50229834",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 8.027,
-      "velocity_label": "exploding",
-      "combined_score": 0.8
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.38,
-      "velocity": 7.476,
-      "velocity_label": "exploding",
-      "combined_score": 175.32
-    },
-    {
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.2,
-      "velocity": 7.396,
-      "velocity_label": "exploding",
-      "combined_score": 3.7
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.29,
-      "velocity": 7.052,
-      "velocity_label": "exploding",
-      "combined_score": 181.42
-    },
-    {
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "url": "https://github.com/slee-persis/GVS5H",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.5,
-      "velocity": 6.974,
-      "velocity_label": "exploding",
-      "combined_score": 43.59
-    },
-    {
-      "title": "The design skill that ends AI slop",
-      "url": "https://github.com/Nutlope/hallmark",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.638,
-      "velocity_label": "exploding",
-      "combined_score": 0.33
+      "combined_score": 19.35
     },
     {
       "title": "Rewriting a Commercial Engine in Jai",
       "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.42,
-      "velocity": 6.438,
+      "base_score": 1.23,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 6.76
+      "combined_score": 48.05
+    },
+    {
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.72,
+      "velocity": 15.15,
+      "velocity_label": "exploding",
+      "combined_score": 65.15
     },
     {
       "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
       "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.414,
+      "base_score": 1.02,
+      "velocity": 12.605,
       "velocity_label": "exploding",
-      "combined_score": 0.64
+      "combined_score": 32.14
+    },
+    {
+      "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+      "url": "https://reddit.com/opensource_projects",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.05,
+      "velocity": 11.22,
+      "velocity_label": "exploding",
+      "combined_score": 1.4
+    },
+    {
+      "title": "Radio Days",
+      "url": "https://oldster.substack.com/p/radio-days",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 10.4,
+      "velocity_label": "exploding",
+      "combined_score": 3.12
+    },
+    {
+      "title": "A Few Thoughts on Intensity",
+      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
+    },
+    {
+      "title": "Deus Ex Machina",
+      "url": "https://vivekhaldar.com/articles/deus-ex-machina/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "Archaic Binary",
+      "url": "https://www.archaicbinary.net/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.25
+    },
+    {
+      "title": "Celebrate Your Herumtüfteln",
+      "url": "https://github.com/rommeld/cupel",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
+    },
+    {
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.3,
+      "velocity": 9.878,
+      "velocity_label": "exploding",
+      "combined_score": 7.41
+    },
+    {
+      "title": "If AI Can Copy Photoshop, Why Would Anyone Build the Next Figma?",
+      "url": "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 9.816,
+      "velocity_label": "exploding",
+      "combined_score": 0.74
+    },
+    {
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.13,
+      "velocity": 9.155,
+      "velocity_label": "exploding",
+      "combined_score": 71.64
+    },
+    {
+      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+      "url": "https://github.com/winnin/farol",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.62,
+      "velocity": 8.978,
+      "velocity_label": "exploding",
+      "combined_score": 13.92
+    },
+    {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 8.72,
+      "velocity": 8.93,
+      "velocity_label": "exploding",
+      "combined_score": 194.67
+    },
+    {
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.62,
+      "velocity": 8.817,
+      "velocity_label": "exploding",
+      "combined_score": 13.67
+    },
+    {
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.47,
+      "velocity": 8.762,
+      "velocity_label": "exploding",
+      "combined_score": 10.29
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.46,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 52.28
+    },
+    {
+      "title": "Why Washing Machines Took Decades to Catch On",
+      "url": "https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.11,
+      "velocity": 7.622,
+      "velocity_label": "exploding",
+      "combined_score": 2.1
+    },
+    {
+      "title": "Recent Tailscale Vulnerability Reports",
+      "url": "https://www.reddit.com/r/Tailscale/comments/1xeoj1l/recent_tailscale_vulnerability_reports/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.554,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "Firecrawl's Government Index",
+      "url": "https://lexifina.com/blog/firecrawl-government-index",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.389,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "POSIX Wordexp(3) Is Dangerous",
+      "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.52,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 25.08
+    },
+    {
+      "title": "Knip: finds and fixes unused dependencies in JavaScript and TypeScript projects",
+      "url": "https://github.com/webpro-nl/knip",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.481,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Show HN: Markdown Quick Look for macOS with a Rust core and no web engine",
+      "url": "https://github.com/armamut/md-quicklook",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.423,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "The Climb – Dream Again USA",
+      "url": "https://dreamagainusa.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.32
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.24,
+      "velocity": 6.283,
+      "velocity_label": "exploding",
+      "combined_score": 19.48
+    },
+    {
+      "title": "Show HN: What had they done by your age?",
+      "url": "https://by-your-age.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.19,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.44,
+      "velocity": 5.891,
+      "velocity_label": "exploding",
+      "combined_score": 21.21
+    },
+    {
+      "title": "The Lego group reveals collaboration with Daft Punk",
+      "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.08,
+      "velocity": 5.75,
+      "velocity_label": "exploding",
+      "combined_score": 15.53
+    },
+    {
+      "title": "Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.625,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.98,
+      "velocity": 5.591,
+      "velocity_label": "exploding",
+      "combined_score": 55.63
+    },
+    {
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.81,
+      "velocity": 5.394,
+      "velocity_label": "exploding",
+      "combined_score": 10.92
+    },
+    {
+      "title": "NoUploadConverter – In-browser file converter running 100% in RAM",
+      "url": "https://nouploadconverter.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 5.337,
+      "velocity_label": "exploding",
+      "combined_score": 0.27
+    },
+    {
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.51,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 60.13
+    },
+    {
+      "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
+      "url": "https://twitter.com/freddier/status/2114042326758867453",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.15,
+      "velocity": 5.33,
+      "velocity_label": "exploding",
+      "combined_score": 2.0
+    },
+    {
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.29,
+      "velocity": 5.014,
+      "velocity_label": "exploding",
+      "combined_score": 3.63
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.62,
+      "velocity": 4.949,
+      "velocity_label": "exploding",
+      "combined_score": 44.79
+    },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.66,
+      "velocity": 4.904,
+      "velocity_label": "exploding",
+      "combined_score": 20.35
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 10.59,
+      "velocity": 4.648,
+      "velocity_label": "exploding",
+      "combined_score": 123.05
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.61,
+      "velocity": 4.333,
+      "velocity_label": "exploding",
+      "combined_score": 17.44
     },
     {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "url": "https://de.numista.com/9866",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.75,
-      "velocity": 6.35,
+      "base_score": 1.95,
+      "velocity": 4.134,
       "velocity_label": "exploding",
-      "combined_score": 27.78
+      "combined_score": 20.15
     },
     {
-      "title": "Active Sonar: Mitigating Hardware CV Aimbots via Kinematics [RFC]",
-      "url": "https://github.com/LeoLordin/Active-Sonar-AntiCheat",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.24,
+      "base_score": 11.12,
+      "velocity": 4.037,
       "velocity_label": "exploding",
-      "combined_score": 0.31
+      "combined_score": 112.21
     },
     {
-      "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
-      "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
+      "title": "Root shell on Samsung TV",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.151,
+      "base_score": 8.41,
+      "velocity": 4.014,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 84.39
     },
     {
-      "title": "Story Protocol ($SOPH) saw its price increase primarily driven by growing market interest in decentralized intellectual",
-      "url": "https://nitter.kareem.one/FantasyWhales/status/2114290610278424725#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.962,
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.97,
+      "velocity": 4.007,
       "velocity_label": "exploding",
-      "combined_score": 7.45
+      "combined_score": 19.73
     },
     {
       "title": "Symbolic Learning in Python and Julia",
       "url": "https://github.com/astroautomata/PySR",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.9,
-      "velocity": 5.927,
+      "base_score": 0.98,
+      "velocity": 3.882,
       "velocity_label": "exploding",
-      "combined_score": 13.34
+      "combined_score": 9.51
     },
     {
-      "title": "I think crypto has spent too much time measuring communities by how loud they are. Followers. Views. Likes. Registration",
-      "url": "https://nitter.kareem.one/RichieRich_xyz/status/2114300183882211569#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.504,
-      "velocity_label": "exploding",
-      "combined_score": 6.88
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "title": "Check it out. Especially The language greenServeFE",
+      "url": "https://github.com/MacoraOne/MacoraOne",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 14.29,
-      "velocity": 5.454,
+      "base_score": 0.01,
+      "velocity": 3.766,
       "velocity_label": "exploding",
-      "combined_score": 194.84
+      "combined_score": 0.09
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 13.79,
+      "velocity": 3.644,
+      "velocity_label": "exploding",
+      "combined_score": 125.64
     },
     {
       "title": "Small Programs and Languages",
       "url": "https://ratfactor.com/cards/pl-small",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.33,
-      "velocity": 5.333,
+      "base_score": 1.83,
+      "velocity": 3.644,
       "velocity_label": "exploding",
-      "combined_score": 17.73
+      "combined_score": 16.67
     },
     {
-      "title": "Making My Blog Readable by AI Agents",
-      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.2,
-      "velocity": 5.322,
+      "base_score": 4.92,
+      "velocity": 3.561,
       "velocity_label": "exploding",
-      "combined_score": 2.66
-    },
-    {
-      "title": "Show HN: Where does my tax go? A UK tax receipt calculator (2026/27)",
-      "url": "https://wheredoesmytaxgo.co.uk/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.263,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Show HN: Philosophic Moon in Your Terminal",
-      "url": "https://github.com/SorBalda/philosophic-moon",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.202,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Cannabis legalisation and cardiovascular hospitalisations in the USA",
-      "url": "https://bmjopen.bmj.com/content/16/10/e111050",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.1,
-      "velocity": 5.2,
-      "velocity_label": "exploding",
-      "combined_score": 1.3
-    },
-    {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.97,
-      "velocity": 5.2,
-      "velocity_label": "exploding",
-      "combined_score": 12.61
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 5.174,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "RT by @zakiraicoder: ☕ Filmed a coffee maker demo, but the final video still feels a little flat? CapCut Web × Codex off",
-      "url": "https://nitter.kareem.one/Jawad_Rahman_/status/2114065974832103661#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 5.146,
-      "velocity_label": "exploding",
-      "combined_score": 6.43
-    },
-    {
-      "title": "R to @SamCKx: Far-Left like you do not realise we follow a higher power that one true creator of everything almighty God",
-      "url": "https://nitter.kareem.one/DallasKnig84158/status/2114290618461573497#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 4.924,
-      "velocity_label": "exploding",
-      "combined_score": 6.15
-    },
-    {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.91,
-      "velocity": 4.862,
-      "velocity_label": "exploding",
-      "combined_score": 71.84
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.71,
-      "velocity": 4.754,
-      "velocity_label": "exploding",
-      "combined_score": 20.32
-    },
-    {
-      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
-      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.515,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 43.8
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "build",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 43.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "We should be more ambitious with the software we build",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @Hybrid_Ola: Wait you are from Ondo State? Lets build the creator economy there together.",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "much",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 39.52,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "I think crypto has spent too much time measuring communities by how loud they are. Followers. Views. Likes. Registration",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "bolsonaro",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 12.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @BlancMirna: caso bolsonaro vença, tem que deixar passar quase tudo, o povo escolheu isso aí. em 30 ou 34 teremos",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "2026",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 6.96,
-      "total_mentions": 4,
-      "examples": [
-        {
-          "title": "Why Gopher in 2026?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "CVE-2026-107891: musl Libc Integer Overflow in regcomp Leading to Heap Issues",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Show HN: Where does my tax go? A UK tax receipt calculator (2026/27)",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @_SoftKing: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, as Layi",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "story",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 3.36,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Story Protocol ($SOPH) saw its price increase primarily driven by growing market interest in decentralized intellectual",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "views",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.8,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "I think crypto has spent too much time measuring communities by how loud they are. Followers. Views. Likes. Registration",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "ask",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Ask HN: Are tab completion models dead?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @PoddarVaishali: Next is Godse He will use AI n ask Godse to praise him 🤣🤣🤣",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "age",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @BoyNav_: Combining live web feeds with ground‑truth spatial layers is the missing link for truly contextual AI age",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "back",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @BrutiErgys: Meet @ponzo_fun, redesigning the attention economy for memecoins. Creator fees flow back to the commu",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "video",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Trafficity – a city builder focused on traffic – gameplay trailer [video]",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @zakiraicoder: ☕ Filmed a coffee maker demo, but the final video still feels a little flat? CapCut Web × Codex off",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "world",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @Bency1749379: definitely a promising angle for real world ai",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "attention",
-        "creator",
-        "economy"
-      ],
-      "concept_hint": "attention + creator + economy",
-      "cluster_size": 3,
-      "discussion_count": 7,
-      "void_score": 73.5,
-      "examples": [
-        {
-          "title": "RT by @ammuchammu02: the web3 creator economy has a problem that deserves more attention. there is plenty of content des",
-          "source": "twitter",
-          "matching_keywords": [
-            "attention",
-            "creator",
-            "economy"
-          ]
-        },
-        {
-          "title": "RT by @BrutiErgys: Meet @ponzo_fun, redesigning the attention economy for memecoins. Creator fees flow back to the commu",
-          "source": "twitter",
-          "matching_keywords": [
-            "attention",
-            "creator",
-            "economy"
-          ]
-        },
-        {
-          "title": "R to @Hybrid_Ola: Wait you are from Ondo State? Lets build the creator economy there together.",
-          "source": "twitter",
-          "matching_keywords": [
-            "creator",
-            "economy"
-          ]
-        },
-        {
-          "title": "RT by @_SoftKing: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, as Layi",
-          "source": "twitter",
-          "matching_keywords": [
-            "creator",
-            "economy"
-          ]
-        },
-        {
-          "title": "R to @UseNoirApps: Turning creator profiles into tradable assets is a really interesting twist on the creator economy. T",
-          "source": "twitter",
-          "matching_keywords": [
-            "creator",
-            "economy"
-          ]
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "RT by @ammuchammu02: the web3 creator economy has a problem that deserves more attention. there is plenty of content des",
-      "url": "https://nitter.kareem.one/Wisdomofpower1/status/2114296539581444461#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.111,
-      "matching_tags": [
-        "content",
-        "creator"
-      ]
-    },
-    {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.32,
+      "score": 1.44,
       "relevance": 0.111,
       "matching_tags": [
-        "code",
+        "open",
         "source"
       ]
     },
     {
-      "title": "Online censorship is crushing indie webcomics",
-      "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "title": "MongoDB vs. FerretDB: When Open Source Compatibility Becomes a Patent Risk",
+      "url": "https://shujisado.org/2026/07/15/mongodb-v-ferretdb-when-open-source-compatibility-becomes-a-patent-risk/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.14,
-      "relevance": 0.056,
+      "score": 0.01,
+      "relevance": 0.111,
       "matching_tags": [
-        "indie"
+        "open",
+        "source"
       ]
     },
     {
@@ -919,7 +560,7 @@
       "url": "https://ratfactor.com/cards/limitations",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.08,
+      "score": 1.52,
       "relevance": 0.056,
       "matching_tags": [
         "learning"
@@ -930,87 +571,21 @@
       "url": "https://github.com/astroautomata/PySR",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.9,
+      "score": 0.98,
       "relevance": 0.056,
       "matching_tags": [
         "learning"
       ]
     },
     {
-      "title": "RT by @BrutiErgys: Meet @ponzo_fun, redesigning the attention economy for memecoins. Creator fees flow back to the commu",
-      "url": "https://nitter.kareem.one/Superboard_/status/2113879498345373794#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
+      "title": "Do I Still Need to Understand the Code?",
+      "url": "https://medium.com/@abhishekchaturvedi_74630/do-i-still-need-to-understand-the-code-de0d2f0ef146",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "R to @Hybrid_Ola: Wait you are from Ondo State? Lets build the creator economy there together.",
-      "url": "https://nitter.kareem.one/ademoladebusoye/status/2114298274328834054#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @_SoftKing: Layi Wasabi is coming to Nairobi. The Creator Economy is getting a proper hearing at ABF 2026, as Layi",
-      "url": "https://nitter.kareem.one/africablockfest/status/2105999042358690255#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "R to @UseNoirApps: Turning creator profiles into tradable assets is a really interesting twist on the creator economy. T",
-      "url": "https://nitter.kareem.one/Loaded_M3dia/status/2114290923181859160#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "R to @SamCKx: Far-Left like you do not realise we follow a higher power that one true creator of everything almighty God",
-      "url": "https://nitter.kareem.one/DallasKnig84158/status/2114290618461573497#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @Piypiy_memecoin: the creator economy becomes more valuable when creators do more than distribute information. any",
-      "url": "https://nitter.kareem.one/Wisdomofpower1/status/2114276496697069814#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @Nation01_: Engagement Farming Is Quietly Killing The Creator Economy. We’ve All Seen It Posts Engineered For Like",
-      "url": "https://nitter.kareem.one/Nation01_/status/2044744990778073137#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
+        "code"
       ]
     }
   ]
