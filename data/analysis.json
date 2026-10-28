@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-28T03:48:22.729074+00:00",
-  "scrape_timestamp": "2026-10-28T03:46:51.261691+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-10-28T12:02:43.846715+00:00",
+  "scrape_timestamp": "2026-10-28T12:00:55.613306+00:00",
+  "total_items_analyzed": 109,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,563 +16,1043 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 90,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 20,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "claude",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Early progress on accelerating drug development with Claude",
+          "source": "hackernews",
+          "url": "https://www.anthropic.com/research/early-progress-drug-development",
+          "score": 5.99
+        },
+        {
+          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "source": "hackernews",
+          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+          "score": 0.88
+        },
+        {
+          "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "source": "hackernews",
+          "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+          "score": 9.45
+        },
+        {
+          "title": "RT by @FarhanBuildsAI: 🚨BREAKING: Claude can now build your entire startup from idea to launch like a seasoned entrepren",
+          "source": "twitter",
+          "url": "http://nitter.meowing.monster/piyascode9/status/2115281954254024779#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "make",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+          "source": "hackernews",
+          "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+          "score": 2.07
+        },
+        {
+          "title": "RT by @iGreenGod: The only business you can do in Nigeria with a startup funds of 500k and make income of 200k per month",
+          "source": "twitter",
+          "url": "http://nitter.meowing.monster/laura69_69/status/2115405244490227904#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @astro_sreeraj: If you’re pitching a space tech startup don’t use AI to make your videos, the space nerds will be",
+          "source": "twitter",
+          "url": "http://nitter.meowing.monster/DJSnM/status/2115310116690088088#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "agents",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Here be monsters: What do you still need to know when agents do the work?",
+          "source": "hackernews",
+          "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+          "score": 3.27
+        },
+        {
+          "title": "Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate",
+          "source": "hackernews",
+          "url": "https://toolmaker.io/",
+          "score": 0.01
+        },
+        {
+          "title": "Event tech startup Easol secures $30M in new funding, launches AI agents for festival promoters https://ift.tt/G2TCpaM",
+          "source": "twitter",
+          "url": "http://nitter.meowing.monster/ScrapedSober/status/2115413776367259741#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "government",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "source": "hackernews",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "score": 15.18
+        },
+        {
+          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "source": "hackernews",
+          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+          "score": 0.88
+        },
+        {
+          "title": "RT by @PIBBengaluru: ✴️Government Facilitating Startup-Industry Linkages to Take Indigenous Innovations to the Market, s",
+          "source": "twitter",
+          "url": "http://nitter.meowing.monster/PIB_India/status/2115412355962331629#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Expansion Microscopy",
-      "url": "https://en.wikipedia.org/wiki/Expansion_microscopy",
+      "title": "Jokes for the ZX81",
+      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 19.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.49
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.96,
-      "velocity": 18.633,
-      "velocity_label": "exploding",
-      "combined_score": 184.47
-    },
-    {
-      "title": "Hex Raises $100M",
-      "url": "https://hex.tech/blog/hex-new-era/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.24,
+      "base_score": 1.22,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 55.8
+      "combined_score": 54.9
     },
     {
-      "title": "New Dwarf Planet Candidate in Our Solar System",
-      "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+      "title": "Hunger beats tenure: Advice for junior engineers",
+      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.19,
-      "velocity": 15.678,
+      "base_score": 1.81,
+      "velocity": 16.417,
       "velocity_label": "exploding",
-      "combined_score": 7.45
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v5",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 14.2,
-      "velocity_label": "exploding",
-      "combined_score": 0.71
-    },
-    {
-      "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
-      "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.32,
-      "velocity": 13.815,
-      "velocity_label": "exploding",
-      "combined_score": 11.05
-    },
-    {
-      "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
-      "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.65,
-      "velocity": 13.778,
-      "velocity_label": "exploding",
-      "combined_score": 22.39
-    },
-    {
-      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-      "url": "https://github.com/maharmstone/moxnox",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 13.514,
-      "velocity_label": "exploding",
-      "combined_score": 9.8
-    },
-    {
-      "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
-      "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.35,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 11.59
-    },
-    {
-      "title": "An examination of lost firefly species of the US and Canada",
-      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.29,
-      "velocity": 12.047,
-      "velocity_label": "exploding",
-      "combined_score": 38.85
-    },
-    {
-      "title": "One year of Dioxus fullstack in production: the good, the painful",
-      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.39,
-      "velocity": 10.485,
-      "velocity_label": "exploding",
-      "combined_score": 10.22
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.79,
-      "velocity": 10.189,
-      "velocity_label": "exploding",
-      "combined_score": 96.54
-    },
-    {
-      "title": "Anyone can get a job in IT",
-      "url": "https://neutrinodetect.one/anyone_can_get_a_job_in_IT.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.857,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "Tabletop Whale is an original science illustration blog",
-      "url": "https://tabletopwhale.com",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.29,
-      "velocity": 9.288,
-      "velocity_label": "exploding",
-      "combined_score": 6.73
-    },
-    {
-      "title": "Vicious Cycles: Theses on a philosophy of news (2020)",
-      "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.37,
-      "velocity": 9.028,
-      "velocity_label": "exploding",
-      "combined_score": 8.35
-    },
-    {
-      "title": "SS United States to be sunk as largest artificial reef",
-      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.15,
-      "velocity": 8.917,
-      "velocity_label": "exploding",
-      "combined_score": 47.93
-    },
-    {
-      "title": "A bust-up between mathematicians fuels fears that AI could undermine science",
-      "url": "https://www.bbc.com/news/articles/c6gelgxjwzdzo",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.78,
-      "velocity_label": "exploding",
-      "combined_score": 0.44
-    },
-    {
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 14.97,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 318.11
-    },
-    {
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.06,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 192.53
-    },
-    {
-      "title": "Tailscale Tailworm: SSH socket forwarding ran as root, fixed in 1.104.4",
-      "url": "https://hol.org/blog/tailscale-tailworm-ssh-root-escalation-ts-2026-014-upgrade-1-104-4",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.118,
-      "velocity_label": "exploding",
-      "combined_score": 0.41
-    },
-    {
-      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.8,
-      "velocity": 8.104,
-      "velocity_label": "exploding",
-      "combined_score": 36.47
-    },
-    {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "url": "https://cfsg.axiommath.ai/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.54,
-      "velocity": 7.972,
-      "velocity_label": "exploding",
-      "combined_score": 50.62
-    },
-    {
-      "title": "PHP2Shell: Exploitation attempts and remediation trends",
-      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.73,
-      "velocity": 7.867,
-      "velocity_label": "exploding",
-      "combined_score": 53.69
-    },
-    {
-      "title": "Billion-query-per-second lookup tables in C++",
-      "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 7.577,
-      "velocity_label": "exploding",
-      "combined_score": 1.33
-    },
-    {
-      "title": "Discord will soon let anyone find public server messages through Google",
-      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.93,
-      "velocity": 7.523,
-      "velocity_label": "exploding",
-      "combined_score": 92.72
-    },
-    {
-      "title": "After its Odyssey, IMAX hits the big time",
-      "url": "https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.471,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.88,
-      "velocity": 7.427,
-      "velocity_label": "exploding",
-      "combined_score": 34.91
-    },
-    {
-      "title": "A modern human range expansion ∼300kya had a critical role in Neandertal origins",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.03.11.711219v2",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.406,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Three TLS Bugs in GoAhead",
-      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.84,
-      "velocity": 7.313,
-      "velocity_label": "exploding",
-      "combined_score": 15.36
-    },
-    {
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.01,
-      "velocity": 7.233,
-      "velocity_label": "exploding",
-      "combined_score": 108.68
-    },
-    {
-      "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
-      "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.35,
-      "velocity": 7.119,
-      "velocity_label": "exploding",
-      "combined_score": 24.03
-    },
-    {
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "url": "https://www.liquid.ai/blog/lfm3",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.04,
-      "velocity": 7.093,
-      "velocity_label": "exploding",
-      "combined_score": 36.17
-    },
-    {
-      "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
-      "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.49,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 43.06
-    },
-    {
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "url": "https://spec-first.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.55,
-      "velocity": 6.575,
-      "velocity_label": "exploding",
-      "combined_score": 9.04
-    },
-    {
-      "title": "A Love Letter to the Super Dimension Fortress",
-      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 6.5,
-      "velocity_label": "exploding",
-      "combined_score": 0.81
-    },
-    {
-      "title": "44% of 94 live business-for-sale listings raise a high-severity red flag",
-      "url": "https://firstpassmemo.com/red-flag-index/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.42,
-      "velocity": 6.195,
-      "velocity_label": "exploding",
-      "combined_score": 21.99
+      "combined_score": 74.29
     },
     {
       "title": "Radio-tagged Monarch butterflies",
       "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.56,
-      "velocity": 6.0,
+      "base_score": 0.96,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 8.4
+      "combined_score": 37.5
+    },
+    {
+      "title": "SS United States to be sunk as largest artificial reef",
+      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.49,
+      "velocity": 14.833,
+      "velocity_label": "exploding",
+      "combined_score": 129.42
+    },
+    {
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.15,
+      "velocity": 13.798,
+      "velocity_label": "exploding",
+      "combined_score": 108.66
+    },
+    {
+      "title": "A Love Letter to the Super Dimension Fortress",
+      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.8,
+      "velocity": 13.567,
+      "velocity_label": "exploding",
+      "combined_score": 27.13
+    },
+    {
+      "title": "Assembly Nights (2021)",
+      "url": "https://ratfactor.com/assembly-nights",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.76,
+      "velocity": 13.25,
+      "velocity_label": "exploding",
+      "combined_score": 25.18
+    },
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.88,
+      "velocity": 11.612,
+      "velocity_label": "exploding",
+      "combined_score": 25.55
+    },
+    {
+      "title": "Bolivia's new silver rush, a dangerous mining boom",
+      "url": "https://www.dw.com/en/bolivias-new-silver-rush-a-dangerous-mining-boom/g-76201706",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.633,
+      "velocity_label": "exploding",
+      "combined_score": 0.27
+    },
+    {
+      "title": "I scanned 3 months of Product Hunt launches for security issues",
+      "url": "https://squirrelscan.com/blog/product-hunt-launches-audit",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 10.579,
+      "velocity_label": "exploding",
+      "combined_score": 0.26
+    },
+    {
+      "title": "PHP Capture the Flag (CTF) Challenge",
+      "url": "https://php-rce.cloudflare.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.242,
+      "velocity_label": "exploding",
+      "combined_score": 0.51
+    },
+    {
+      "title": "Billion-query-per-second lookup tables in C++",
+      "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.24,
+      "velocity": 10.038,
+      "velocity_label": "exploding",
+      "combined_score": 6.02
+    },
+    {
+      "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+      "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.07,
+      "velocity": 9.59,
+      "velocity_label": "exploding",
+      "combined_score": 49.63
+    },
+    {
+      "title": "55,181 Commits in 7 Days: Why We Moved Health Checks Out of Git",
+      "url": "https://www.syntasso.io/post/55-181-commits-in-7-days-why-we-moved-health-checks-out-of-git",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.552,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.99,
+      "velocity": 9.348,
+      "velocity_label": "exploding",
+      "combined_score": 23.14
+    },
+    {
+      "title": "RT by @TheJonMartin: Let's discover great products. Drop your startup URL.",
+      "url": "http://nitter.meowing.monster/lightsilver323/status/2115337775478190249#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.196,
+      "velocity_label": "exploding",
+      "combined_score": 11.5
+    },
+    {
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 8.905,
+      "velocity_label": "exploding",
+      "combined_score": 0.89
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.33,
+      "velocity": 8.597,
+      "velocity_label": "exploding",
+      "combined_score": 71.57
+    },
+    {
+      "title": "Hex Raises $100M",
+      "url": "https://hex.tech/blog/hex-new-era/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.51,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 32.09
+    },
+    {
+      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+      "url": "https://github.com/maharmstone/moxnox",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.05,
+      "velocity": 8.26,
+      "velocity_label": "exploding",
+      "combined_score": 21.68
+    },
+    {
+      "title": "The Brutal Harvard Class That Suddenly Everyone Wants to Take",
+      "url": "https://www.wsj.com/lifestyle/harvard-class-humanities-32e06366",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 8.226,
+      "velocity_label": "exploding",
+      "combined_score": 0.82
+    },
+    {
+      "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
+      "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.92,
+      "velocity": 8.183,
+      "velocity_label": "exploding",
+      "combined_score": 18.82
+    },
+    {
+      "title": "I don't trust Lean code from AI",
+      "url": "https://karagila.org/2026/lean/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.859,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "About the compromised eMudhra intermediate CAs",
+      "url": "https://support.apple.com/en-us/149555",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 7.65,
+      "velocity_label": "exploding",
+      "combined_score": 1.91
+    },
+    {
+      "title": "French Court's Site-Blocking Orders Drive Quad9 Out of France",
+      "url": "https://www.eff.org/deeplinks/2026/10/french-courts-site-blocking-orders-drive-quad9-out-france",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.299,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.17,
+      "velocity": 7.181,
+      "velocity_label": "exploding",
+      "combined_score": 56.91
+    },
+    {
+      "title": "New Dwarf Planet Candidate in Our Solar System",
+      "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.3,
+      "velocity": 6.636,
+      "velocity_label": "exploding",
+      "combined_score": 4.98
+    },
+    {
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.1,
+      "velocity": 6.623,
+      "velocity_label": "exploding",
+      "combined_score": 34.77
+    },
+    {
+      "title": "Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.71,
+      "velocity": 6.521,
+      "velocity_label": "exploding",
+      "combined_score": 27.88
+    },
+    {
+      "title": "RT by @iGreenGod: The only business you can do in Nigeria with a startup funds of 500k and make income of 200k per month",
+      "url": "http://nitter.meowing.monster/laura69_69/status/2115405244490227904#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.514,
+      "velocity_label": "exploding",
+      "combined_score": 8.14
+    },
+    {
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.46,
+      "velocity": 6.507,
+      "velocity_label": "exploding",
+      "combined_score": 7.48
+    },
+    {
+      "title": "TorchLean is a Lean 4 framework for neural-networks",
+      "url": "https://github.com/lean-dojo/TorchLean",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.443,
+      "velocity_label": "exploding",
+      "combined_score": 0.32
+    },
+    {
+      "title": "An examination of lost firefly species of the US and Canada",
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.04,
+      "velocity": 6.312,
+      "velocity_label": "exploding",
+      "combined_score": 32.19
+    },
+    {
+      "title": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.17,
+      "velocity": 6.057,
+      "velocity_label": "exploding",
+      "combined_score": 78.29
+    },
+    {
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.05,
+      "velocity": 5.967,
+      "velocity_label": "exploding",
+      "combined_score": 105.16
+    },
+    {
+      "title": "Event tech startup Easol secures $30M in new funding, launches AI agents for festival promoters https://ift.tt/G2TCpaM",
+      "url": "http://nitter.meowing.monster/ScrapedSober/status/2115413776367259741#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.608,
+      "velocity_label": "exploding",
+      "combined_score": 7.01
+    },
+    {
+      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.65,
+      "velocity": 5.438,
+      "velocity_label": "exploding",
+      "combined_score": 8.84
+    },
+    {
+      "title": "The Higher Education Commission (HEC) has processed 73,146 degree attestation applications covering 139,021 academic doc",
+      "url": "http://nitter.meowing.monster/PakStartup/status/2115413810185933277#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.408,
+      "velocity_label": "exploding",
+      "combined_score": 6.76
+    },
+    {
+      "title": "Change Agent: Gene Sharp's Neoliberal Nonviolence (Part One)",
+      "url": "https://nonsite.org/change-agent-gene-sharps-neoliberal-nonviolence-part-one/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.385,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 17.18,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 229.07
+    },
+    {
+      "title": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.89,
+      "velocity": 5.333,
+      "velocity_label": "exploding",
+      "combined_score": 131.87
+    },
+    {
+      "title": "RT by @kahsccp_: PL elegeu mais de 350 políticos esse ano e não paro de ver esquerda brigando com esquerda. galera, redi",
+      "url": "http://nitter.meowing.monster/gittanart/status/2115272145924444395#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.253,
+      "velocity_label": "exploding",
+      "combined_score": 6.57
     },
     {
       "title": "Four Months of Zig",
       "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.71,
-      "velocity": 5.861,
+      "base_score": 2.82,
+      "velocity": 5.228,
       "velocity_label": "exploding",
-      "combined_score": 25.06
+      "combined_score": 36.86
     },
     {
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.62,
-      "velocity": 5.828,
-      "velocity_label": "exploding",
-      "combined_score": 9.03
-    },
-    {
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.22,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 162.93
-    },
-    {
-      "title": "Gforth 1.0",
-      "url": "https://gforth.org/manual/1.0/NEWS.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.84,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 24.53
-    },
-    {
-      "title": "A Stackless Floodfill Automaton",
-      "url": "https://t3x.org/files/floodfill.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.83,
-      "velocity": 5.333,
-      "velocity_label": "exploding",
-      "combined_score": 11.07
-    },
-    {
-      "title": "Writing AI agents in YAML instead of Python",
-      "url": "https://codecut.ai/build-ai-agents-yaml-docker-agent/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.303,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "The Beanstalk Challenge",
-      "url": "https://www.beanstalkchallenge.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Introducing Fern",
-      "url": "https://mirendil.com/news/introducing-fern/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Show HN: Software Bloat Calculator",
-      "url": "https://hissingkitty.com/tools/software-bloat",
+      "title": "Flyover (1982. c64,vic20,c16,zx,PC. not AI)",
+      "url": "https://orac81.itch.io/flyover",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 5.203,
+      "velocity": 5.2,
       "velocity_label": "exploding",
       "combined_score": 0.39
     },
     {
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.76,
-      "velocity": 5.062,
+      "title": "RT by @George48643862: ai como queria estar assim",
+      "url": "http://nitter.meowing.monster/aphonsinher13/status/2115183821062562282#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.2,
       "velocity_label": "exploding",
-      "combined_score": 9.62
+      "combined_score": 6.5
     },
     {
-      "title": "I ran each AI coding-agent sandbox's own tests against the others",
-      "url": "https://github.com/carlostapiacl/sandbox-conformance",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.035,
+      "base_score": 5.45,
+      "velocity": 5.143,
       "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 70.08
     },
     {
-      "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
-      "url": "https://tiny-desk-ai.app/",
+      "title": "RT by @FarhanBuildsAI: 🚨BREAKING: Claude can now build your entire startup from idea to launch like a seasoned entrepren",
+      "url": "http://nitter.meowing.monster/piyascode9/status/2115281954254024779#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.121,
+      "velocity_label": "exploding",
+      "combined_score": 6.4
+    },
+    {
+      "title": "Why We Should Work on AI Instead of Fearing It: A Philosophical Perspective",
+      "url": "https://news.ycombinator.com/item?id=50271924",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.958,
+      "base_score": 0.03,
+      "velocity": 5.107,
       "velocity_label": "exploding",
-      "combined_score": 0.25
+      "combined_score": 0.38
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.99,
+      "velocity": 5.092,
+      "velocity_label": "exploding",
+      "combined_score": 76.26
+    },
+    {
+      "title": "Qwen has alter egos triggered by flipping a single neuron",
+      "url": "https://qwen-neurons-site.vercel.app/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.53,
+      "velocity": 5.087,
+      "velocity_label": "exploding",
+      "combined_score": 6.74
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
-  "personal_relevance": [
+  "bridge_topics": [
     {
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 8.63,
-      "relevance": 0.056,
-      "matching_tags": [
-        "content"
+      "keyword": "claude",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 67.28,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Early progress on accelerating drug development with Claude",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @FarhanBuildsAI: 🚨BREAKING: Claude can now build your entire startup from idea to launch like a seasoned entrepren",
+          "source": "twitter",
+          "category": "social"
+        }
       ]
     },
+    {
+      "keyword": "government",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 66.24,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @PIBBengaluru: ✴️Government Facilitating Startup-Industry Linkages to Take Indigenous Innovations to the Market, s",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "month",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 40.24,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The Mythical Man-Month in the Age of AI",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @iGreenGod: The only business you can do in Nigeria with a startup funds of 500k and make income of 200k per month",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "let",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 25.0,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Discord will soon let anyone find public server messages through Google",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @TheJonMartin: Let's discover great products. Drop your startup URL.",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "device",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 15.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @TemiJacob2: HaloBraid just released this video of its hair-braiding device, which the startup promises will cut a",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "agents",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 15.12,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Here be monsters: What do you still need to know when agents do the work?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Event tech startup Easol secures $30M in new funding, launches AI agents for festival promoters https://ift.tt/G2TCpaM",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "make",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 12.28,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @iGreenGod: The only business you can do in Nigeria with a startup funds of 500k and make income of 200k per month",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @astro_sreeraj: If you’re pitching a space tech startup don’t use AI to make your videos, the space nerds will be",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "per",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.96,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Billion-query-per-second lookup tables in C++",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @iGreenGod: The only business you can do in Nigeria with a startup funds of 500k and make income of 200k per month",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "take",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The Brutal Harvard Class That Suddenly Everyone Wants to Take",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @PIBBengaluru: ✴️Government Facilitating Startup-Industry Linkages to Take Indigenous Innovations to the Market, s",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "video",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Building a Flutter IoT app for real-time hydration monitoring in football teams [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @TemiJacob2: HaloBraid just released this video of its hair-braiding device, which the startup promises will cut a",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "don",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "I don't trust Lean code from AI",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @astro_sreeraj: If you’re pitching a space tech startup don’t use AI to make your videos, the space nerds will be",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "launches",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "I scanned 3 months of Product Hunt launches for security issues",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Event tech startup Easol secures $30M in new funding, launches AI agents for festival promoters https://ift.tt/G2TCpaM",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "says",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Wayne Liu, Chief Growth Officer & Americas President at Perfect Corp. says it's relatively easy to build AI features tha",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [],
+  "personal_relevance": [
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "source": "hackernews",
       "category": "tech",
-      "score": 7.79,
+      "score": 8.13,
       "relevance": 0.056,
       "matching_tags": [
         "content"
       ]
     },
     {
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "title": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.62,
+      "score": 5.17,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "DeltaDB now has a Claude Code plugin",
-      "url": "https://delta.dev/blog/claude-code-multiplayer",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 3.15,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "RT by @iGreenGod: The only business you can do in Nigeria with a startup funds of 500k and make income of 200k per month",
+      "url": "http://nitter.meowing.monster/laura69_69/status/2115405244490227904#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "income"
+      ]
+    },
+    {
+      "title": "Show HN: Auto-distil your OpenAI traffic into fine-tuned open-weight models",
+      "url": "https://news.ycombinator.com/item?id=50272236",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "open"
+      ]
+    },
+    {
+      "title": "I don't trust Lean code from AI",
+      "url": "https://karagila.org/2026/lean/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
         "code"
+      ]
+    },
+    {
+      "title": "Wall Street's AI Debt Machine Is Starting to Choke on Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.056,
+      "matching_tags": [
+        "machine"
       ]
     }
   ]
