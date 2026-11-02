@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-02T04:09:54.350549+00:00",
-  "scrape_timestamp": "2026-11-02T04:07:47.362828+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-11-02T14:40:32.230623+00:00",
+  "scrape_timestamp": "2026-11-02T14:38:56.297191+00:00",
+  "total_items_analyzed": 100,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -20,520 +20,989 @@
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "free",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+          "source": "hackernews",
+          "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+          "score": 2.81
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "source": "hackernews",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "score": 12.21
+        },
+        {
+          "title": "Show HN: Aulico, my free tradingview alternative",
+          "source": "hackernews",
+          "url": "https://www.aulico.com",
+          "score": 0.01
+        },
+        {
+          "title": "RT by @madiweb3: 1,208,590 startup ideas for FREE Bill Gross, the guy behind 175+ companies and pay-per-click ads, just",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/yohakujpn/status/2117248396646093018#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "europe",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+          "source": "hackernews",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+          "score": 2.74
+        },
+        {
+          "title": "Electrocutions, disease and no pay: worker exploitation in Europe's datacentres",
+          "source": "hackernews",
+          "url": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
+          "score": 0.22
+        },
+        {
+          "title": "JUST IN - Europe Roleo, co-founded by CEO Janer and CTO Vahur, raised €2.9 million led by @PracticaCapital, with Inventu",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/SR_Researcher_/status/2117265481136480474#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "old",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "The future in old computer magazines (1984–2004)",
+          "source": "hackernews",
+          "url": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
+          "score": 0.83
+        },
+        {
+          "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+          "source": "hackernews",
+          "url": "https://kevs3d.co.uk/phoria2/",
+          "score": 1.41
+        },
+        {
+          "title": "R to @czapamd: Fifteen years old and building a startup while your Claude Code weekly limit runs out is a rough day that",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Tyrone_Uzzell/status/2117265410697646582#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "pay",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Electrocutions, disease and no pay: worker exploitation in Europe's datacentres",
+          "source": "hackernews",
+          "url": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
+          "score": 0.22
+        },
+        {
+          "title": "RT by @madiweb3: 1,208,590 startup ideas for FREE Bill Gross, the guy behind 175+ companies and pay-per-click ads, just",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/yohakujpn/status/2117248396646093018#m",
+          "score": 0.5
+        },
+        {
+          "title": "RT by @VishnuFNO: A digital wallet app by a Gujarat-based startup, SD Pay, has exploded into a multi-level marketing sca",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/IndianExpress/status/2117248123588550899#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "OccupySaaS",
-      "url": "https://occupysaas.com/",
+      "title": "The She-Wolves of Jülich",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.37,
+      "base_score": 0.47,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 106.65
+      "combined_score": 21.15
     },
     {
-      "title": "Novellas with Groff",
-      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.92,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 86.4
-    },
-    {
-      "title": "Restrooms along the Norwegian Scenic Routes",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.76,
-      "velocity": 14.833,
-      "velocity_label": "exploding",
-      "combined_score": 473.18
-    },
-    {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.35,
-      "velocity": 14.042,
-      "velocity_label": "exploding",
-      "combined_score": 47.39
-    },
-    {
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.16,
-      "velocity": 13.778,
-      "velocity_label": "exploding",
-      "combined_score": 74.4
-    },
-    {
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "url": "https://tibleiz.net/copper/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.65,
-      "velocity": 13.273,
-      "velocity_label": "exploding",
-      "combined_score": 87.93
-    },
-    {
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.41,
-      "velocity": 13.25,
-      "velocity_label": "exploding",
-      "combined_score": 46.71
-    },
-    {
-      "title": "Jesse Nickles, the guy behind SlickStack, is under a criminal arrest warrant",
-      "url": "https://github.com/helenokoye/jesse-jacob-nickles-criminal-arrest-warrant",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 12.833,
-      "velocity_label": "exploding",
-      "combined_score": 1.28
-    },
-    {
-      "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
-      "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.55,
-      "velocity": 11.746,
-      "velocity_label": "exploding",
-      "combined_score": 192.34
-    },
-    {
-      "title": "Tips for more effective fuzz testing with AFL++",
-      "url": "https://nullprogram.com/blog/2025/02/05/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.15,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 33.54
-    },
-    {
-      "title": "Frontier Airlines Likely Breached",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.99,
-      "velocity": 11.35,
-      "velocity_label": "exploding",
-      "combined_score": 84.84
-    },
-    {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.07,
-      "velocity": 10.78,
-      "velocity_label": "exploding",
-      "combined_score": 55.79
-    },
-    {
-      "title": "AI is programming's next abstraction. What should we teach?",
-      "url": "https://lernerpython.com/2026/11/01/ai-programming-next-abstraction/",
+      "title": "The Commanding Heights",
+      "url": "https://commanding-heights.com/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 10.2,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 0.77
+      "combined_score": 1.35
     },
     {
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.48,
-      "velocity": 10.196,
+      "base_score": 2.74,
+      "velocity": 16.325,
       "velocity_label": "exploding",
-      "combined_score": 165.18
+      "combined_score": 111.83
     },
     {
-      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.76,
-      "velocity": 10.083,
+      "base_score": 2.02,
+      "velocity": 15.625,
       "velocity_label": "exploding",
-      "combined_score": 19.16
+      "combined_score": 78.91
     },
     {
-      "title": "One-minute frequency disturbances from synchronization in power systems",
-      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "title": "Could Orbital Data Centers Ruin the Night Sky?",
+      "url": "https://www.wsj.com/science/space-astronomy/could-orbital-data-centers-ruin-the-night-sky-9462bf2d",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.98,
-      "velocity": 9.757,
+      "base_score": 0.03,
+      "velocity": 14.146,
       "velocity_label": "exploding",
-      "combined_score": 48.3
+      "combined_score": 1.06
     },
     {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "title": "Fake warnings of nuclear attack posted on Russian and Ukrainian emergency apps",
+      "url": "https://www.cnn.com/2026/11/02/europe/hacked-russian-ukrainian-emergency-apps-intl",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.15,
-      "velocity": 9.215,
+      "base_score": 0.03,
+      "velocity": 13.123,
       "velocity_label": "exploding",
-      "combined_score": 72.57
-    },
-    {
-      "title": "When electric cars were for women",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.88,
-      "velocity": 9.028,
-      "velocity_label": "exploding",
-      "combined_score": 42.43
-    },
-    {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 13.45,
-      "velocity": 8.904,
-      "velocity_label": "exploding",
-      "combined_score": 299.39
-    },
-    {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.73,
-      "velocity": 8.749,
-      "velocity_label": "exploding",
-      "combined_score": 59.71
+      "combined_score": 0.98
     },
     {
       "title": "Trigger.dev customer environment variables exposed",
       "url": "https://trigger.dev/blog/security-incident-nov-2026",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.26,
-      "velocity": 8.417,
+      "base_score": 2.29,
+      "velocity": 12.722,
       "velocity_label": "exploding",
-      "combined_score": 5.47
+      "combined_score": 72.83
     },
     {
-      "title": "Pell Puzzles – a novel grid deduction format",
-      "url": "https://pell.achromath.com/",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.233,
+      "base_score": 15.04,
+      "velocity": 12.333,
       "velocity_label": "exploding",
-      "combined_score": 0.21
+      "combined_score": 463.73
     },
     {
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "url": "https://kevs3d.co.uk/phoria2/",
+      "title": "Electrocutions, disease and no pay: worker exploitation in Europe's datacentres",
+      "url": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.98,
-      "velocity": 8.076,
+      "base_score": 0.22,
+      "velocity": 11.436,
       "velocity_label": "exploding",
-      "combined_score": 19.79
+      "combined_score": 6.29
     },
     {
-      "title": "Bidirectional charging during grid outages",
-      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.88,
-      "velocity": 8.025,
+      "base_score": 2.11,
+      "velocity": 10.25,
       "velocity_label": "exploding",
-      "combined_score": 57.78
+      "combined_score": 54.07
+    },
+    {
+      "title": "Robots are less independent than we think",
+      "url": "https://www.bostonglobe.com/2026/06/18/opinion/demo-videos-robots-autonomous/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 9.706,
+      "velocity_label": "exploding",
+      "combined_score": 0.73
     },
     {
       "title": "Keeping Up Appearances – The women taking over the funeral industry",
       "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.52,
-      "velocity": 7.917,
+      "base_score": 1.12,
+      "velocity": 9.292,
       "velocity_label": "exploding",
-      "combined_score": 10.29
+      "combined_score": 26.02
     },
     {
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "url": "https://github.com/ivankovic/omnidiff",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.51,
-      "velocity": 7.785,
+      "base_score": 20.7,
+      "velocity": 9.12,
       "velocity_label": "exploding",
-      "combined_score": 48.85
-    },
-    {
-      "title": "DMA-Latte: Expanding the Reach of DMA Offloads to Latency-Bound ML Communication",
-      "url": "https://arxiv.org/abs/2511.06605",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "A hidden brain rhythm challenges ideas about where consciousness comes from",
-      "url": "https://medicalxpress.com/news/2026-10-hidden-brain-rhythm-ideas-consciousness.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 7.524,
-      "velocity_label": "exploding",
-      "combined_score": 0.75
-    },
-    {
-      "title": "Zellic's and V12's Work on x86 Binary Formal Verification",
-      "url": "https://v12.sh/blog/x86-formal-verification-intro",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.397,
-      "velocity_label": "exploding",
-      "combined_score": 0.37
-    },
-    {
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.01,
-      "velocity": 7.312,
-      "velocity_label": "exploding",
-      "combined_score": 18.46
-    },
-    {
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.16,
-      "velocity": 7.214,
-      "velocity_label": "exploding",
-      "combined_score": 20.92
-    },
-    {
-      "title": "QαT GPU-free universal low-power NP-hard solver",
-      "url": "https://github.com/Quantumalphatech/Universal-Optimization-Engine-POC",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.132,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.12,
-      "velocity": 7.039,
-      "velocity_label": "exploding",
-      "combined_score": 54.91
-    },
-    {
-      "title": "GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains",
-      "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.533,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "U.S. workers took home their smallest share of capital since at least 1947",
-      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.42,
-      "velocity": 6.283,
-      "velocity_label": "exploding",
-      "combined_score": 69.43
-    },
-    {
-      "title": "American military technology beyond your imagination",
-      "url": "https://news.ycombinator.com/item?id=50332805",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 6.245,
-      "velocity_label": "exploding",
-      "combined_score": 0.94
-    },
-    {
-      "title": "The Economic Paradox of AI-Generated Software",
-      "url": "https://medium.com/@yassien/the-economic-paradox-of-ai-generated-software-93239b25bf1c",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.129,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Scientists reveal the staggering number of bat deaths at wind turbines",
-      "url": "https://phys.org/news/2026-10-scientists-reveal-staggering-deaths-turbines.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 6.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.6
-    },
-    {
-      "title": "What does \"verified memory safe\" mean?",
-      "url": "https://focs-lab.comp.nus.edu.sg/blog/memory-safety-audit/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.556,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Kloak v0.3.0 Release",
-      "url": "https://getkloak.io/docs/reference/release-notes",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 0.39
-    },
-    {
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.92,
-      "velocity": 5.157,
-      "velocity_label": "exploding",
-      "combined_score": 50.54
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.88,
-      "velocity": 5.017,
-      "velocity_label": "exploding",
-      "combined_score": 86.29
-    },
-    {
-      "title": "Show HN: Point your camera at a landscape to learn about its geology",
-      "url": "https://outcrop.rocks/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.23,
-      "velocity": 5.006,
-      "velocity_label": "exploding",
-      "combined_score": 27.91
-    },
-    {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.87,
-      "velocity": 4.971,
-      "velocity_label": "exploding",
-      "combined_score": 135.1
-    },
-    {
-      "title": "US Led Student List in Serbia Targets Russian Business and Trade in Serbia",
-      "url": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.913,
-      "velocity_label": "exploding",
-      "combined_score": 0.37
+      "combined_score": 471.96
     },
     {
       "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
       "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.44,
-      "velocity": 4.771,
+      "base_score": 3.31,
+      "velocity": 9.028,
       "velocity_label": "exploding",
-      "combined_score": 5.25
+      "combined_score": 74.7
     },
     {
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.59,
-      "velocity": 4.643,
+      "base_score": 7.79,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 76.5
+      "combined_score": 165.54
+    },
+    {
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.05,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 43.56
+    },
+    {
+      "title": "Keep Going",
+      "url": "https://www.jackfriks.com/keep-going",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Pencyl.art | Learn drawing skills with instant feedback",
+      "url": "https://www.pencyl.art",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.452,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.97,
+      "velocity": 8.021,
+      "velocity_label": "exploding",
+      "combined_score": 19.45
+    },
+    {
+      "title": "JUST IN - Europe Roleo, co-founded by CEO Janer and CTO Vahur, raised €2.9 million led by @PracticaCapital, with Inventu",
+      "url": "https://nitter.kareem.one/SR_Researcher_/status/2117265481136480474#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.9,
+      "velocity_label": "exploding",
+      "combined_score": 9.88
+    },
+    {
+      "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+      "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.87,
+      "velocity": 7.509,
+      "velocity_label": "exploding",
+      "combined_score": 35.1
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.84,
+      "velocity": 7.022,
+      "velocity_label": "exploding",
+      "combined_score": 32.3
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.65,
+      "velocity": 6.917,
+      "velocity_label": "exploding",
+      "combined_score": 45.82
     },
     {
       "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
       "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.39,
-      "velocity": 4.576,
+      "base_score": 1.35,
+      "velocity": 6.758,
       "velocity_label": "exploding",
-      "combined_score": 4.46
+      "combined_score": 22.81
     },
     {
-      "title": "Understanding Email Encryption (2025)",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "title": "a TRILLION-parameter model from a FOOD DELIVERY startup btw. maybe a dumb question, but how do these seemingly random Ch",
+      "url": "https://nitter.kareem.one/vishalsingh2972/status/2117265363385954481#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.731,
+      "velocity_label": "exploding",
+      "combined_score": 8.41
+    },
+    {
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.69,
-      "velocity": 4.429,
+      "base_score": 2.15,
+      "velocity": 6.653,
       "velocity_label": "exploding",
-      "combined_score": 18.71
+      "combined_score": 35.76
     },
     {
-      "title": "WeSesh: Pair Programming with Coding Agents",
-      "url": "https://wesesh.com/",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.78,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 29.37
+    },
+    {
+      "title": "Meta’s new deal with Fortera could give the clean cement startup the momentum it needs to build a U.S. manufacturing pla",
+      "url": "https://nitter.kareem.one/CanaryMediaInc/status/2117265530285346861#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.468,
+      "velocity_label": "exploding",
+      "combined_score": 8.09
+    },
+    {
+      "title": "Show HN: AI portfolio with RAG, Browser TTS-Highlight Engine & Developer Area",
+      "url": "https://venkatpabolu.onrender.com/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.38,
+      "velocity": 6.318,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 0.16
+    },
+    {
+      "title": "Bf16 might be freezing your weight updates",
+      "url": "https://lacuna.tiptreesystems.com/paper/bf16-might-be-freezing-your-weight-updates/art_487b1ed949e745a6ae0c42815b8d3cba",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.45
+    },
+    {
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.81,
+      "velocity": 5.951,
+      "velocity_label": "exploding",
+      "combined_score": 41.8
+    },
+    {
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.97,
+      "velocity": 5.914,
+      "velocity_label": "exploding",
+      "combined_score": 14.34
+    },
+    {
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.62,
+      "velocity": 5.883,
+      "velocity_label": "exploding",
+      "combined_score": 9.12
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.33,
+      "velocity": 5.765,
+      "velocity_label": "exploding",
+      "combined_score": 47.99
+    },
+    {
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.43,
+      "velocity": 5.709,
+      "velocity_label": "exploding",
+      "combined_score": 48.96
+    },
+    {
+      "title": "RT by @madiweb3: 1,208,590 startup ideas for FREE Bill Gross, the guy behind 175+ companies and pay-per-click ads, just",
+      "url": "https://nitter.kareem.one/yohakujpn/status/2117248396646093018#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.603,
+      "velocity_label": "exploding",
+      "combined_score": 7.0
+    },
+    {
+      "title": "Show HN: HackerHack – HackerBooks but for Posts Posted on HN",
+      "url": "https://news.ycombinator.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.94,
+      "velocity": 5.416,
+      "velocity_label": "exploding",
+      "combined_score": 26.27
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.74,
+      "velocity": 5.409,
+      "velocity_label": "exploding",
+      "combined_score": 104.66
+    },
+    {
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.0,
+      "velocity": 5.375,
+      "velocity_label": "exploding",
+      "combined_score": 26.88
+    },
+    {
+      "title": "Why Is It So Difficult to Build Alternative Operating System for a Smartphone?",
+      "url": "https://theprivacydad.com/why-is-it-so-difficult-to-build-an-alternative-operating-system-for-a-smartphone/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.214,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.53,
+      "velocity": 5.188,
+      "velocity_label": "exploding",
+      "combined_score": 58.75
+    },
+    {
+      "title": "RT by @QzSevens21775: Palantir cofounder and billionaire Joe Lonsdale is backing Safer Human Medicine, a U.S. startup pl",
+      "url": "https://nitter.kareem.one/tiger26931/status/2116152942814216459#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.003,
+      "velocity_label": "exploding",
+      "combined_score": 6.25
+    },
+    {
+      "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 4.988,
+      "velocity_label": "exploding",
+      "combined_score": 0.37
+    },
+    {
+      "title": "Temperature soars at Swedish grocery store freezers, one store blames hackers",
+      "url": "https://www.reuters.com/business/retail-consumer/temperature-soars-swedish-grocery-store-freezers-one-store-blames-hackers-2026-11-02/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.25,
+      "velocity": 4.917,
+      "velocity_label": "exploding",
+      "combined_score": 3.07
+    },
+    {
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.79,
+      "velocity": 4.905,
+      "velocity_label": "exploding",
+      "combined_score": 46.47
+    },
+    {
+      "title": "Josh Sawyer: 'Compared to a dungeon, a town is 4x the expense per sq. ft'",
+      "url": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.902,
+      "velocity_label": "exploding",
+      "combined_score": 0.12
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.6,
+      "velocity": 4.881,
+      "velocity_label": "exploding",
+      "combined_score": 31.73
+    },
+    {
+      "title": "Never Complain, Never Explain",
+      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.99,
+      "velocity": 4.8,
+      "velocity_label": "exploding",
+      "combined_score": 11.88
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.41,
+      "velocity": 4.705,
+      "velocity_label": "exploding",
+      "combined_score": 16.58
+    },
+    {
+      "title": "RT by @VishnuFNO: A digital wallet app by a Gujarat-based startup, SD Pay, has exploded into a multi-level marketing sca",
+      "url": "https://nitter.kareem.one/IndianExpress/status/2117248123588550899#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 4.669,
+      "velocity_label": "exploding",
+      "combined_score": 5.84
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
+  "bridge_topics": [
+    {
+      "keyword": "claude",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 75.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @czapamd: Fifteen years old and building a startup while your Claude Code weekly limit runs out is a rough day that",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "code",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 75.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @czapamd: Fifteen years old and building a startup while your Claude Code weekly limit runs out is a rough day that",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "free",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 62.12,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: Aulico, my free tradingview alternative",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @madiweb3: 1,208,590 startup ideas for FREE Bill Gross, the guy behind 175+ companies and pay-per-click ads, just",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "level",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 15.72,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Copper – A minimal low-level programming language with OOP and generics",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @VishnuFNO: A digital wallet app by a Gujarat-based startup, SD Pay, has exploded into a multi-level marketing sca",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "years",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 15.52,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Running a bootstrapped SaaS for 20 years with my brother",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @czapamd: Fifteen years old and building a startup while your Claude Code weekly limit runs out is a rough day that",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "running",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 15.52,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Running a bootstrapped SaaS for 20 years with my brother",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @alonehashibul: 🚨 Community vote needed! SliceChain Holdings Inc. is in the running at the Startup Club ZA Awards",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "europe",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 13.84,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Electrocutions, disease and no pay: worker exploitation in Europe's datacentres",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "JUST IN - Europe Roleo, co-founded by CEO Janer and CTO Vahur, raised €2.9 million led by @PracticaCapital, with Inventu",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "old",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 10.96,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "The future in old computer magazines (1984–2004)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @czapamd: Fifteen years old and building a startup while your Claude Code weekly limit runs out is a rough day that",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "future",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.32,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The future in old computer magazines (1984–2004)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "🍕 BIG SUPPORT FOR SLICECHAIN (SLICEPAY)! 🚀 The future of payments deserves recognition! We're proud to support SliceChai",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "pay",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.88,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Electrocutions, disease and no pay: worker exploitation in Europe's datacentres",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @madiweb3: 1,208,590 startup ideas for FREE Bill Gross, the guy behind 175+ companies and pay-per-click ads, just",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "RT by @VishnuFNO: A digital wallet app by a Gujarat-based startup, SD Pay, has exploded into a multi-level marketing sca",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "bill",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: The Public Eye – Agentic search for congressional bill legibility",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @madiweb3: 1,208,590 startup ideas for FREE Bill Gross, the guy behind 175+ companies and pay-per-click ads, just",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "per",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Josh Sawyer: 'Compared to a dungeon, a town is 4x the expense per sq. ft'",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @madiweb3: 1,208,590 startup ideas for FREE Bill Gross, the guy behind 175+ companies and pay-per-click ads, just",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Why Is It So Difficult to Build Alternative Operating System for a Smartphone?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Meta’s new deal with Fortera could give the clean cement startup the momentum it needs to build a U.S. manufacturing pla",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "model",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "XeKRung Model on CyberGym",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "a TRILLION-parameter model from a FOOD DELIVERY startup btw. maybe a dumb question, but how do these seemingly random Ch",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "Cra Browser: open-source Arc replacement for macOS",
-      "url": "https://github.com/VictorKildahl/cra",
+      "title": "Show HN: DeskAccess – Open-source remote access for Raspberry Pi",
+      "url": "https://github.com/winnie264/deskaccess",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
@@ -548,32 +1017,10 @@
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "source": "hackernews",
       "category": "tech",
-      "score": 18.23,
+      "score": 18.34,
       "relevance": 0.056,
       "matching_tags": [
         "code"
-      ]
-    },
-    {
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 3.08,
-      "relevance": 0.056,
-      "matching_tags": [
-        "saas"
-      ]
-    },
-    {
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 2.96,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
       ]
     },
     {
@@ -581,21 +1028,32 @@
       "url": "https://github.com/ivankovic/omnidiff",
       "source": "hackernews",
       "category": "tech",
-      "score": 2.51,
+      "score": 4.08,
       "relevance": 0.056,
       "matching_tags": [
         "content"
       ]
     },
     {
-      "title": "Intel trials open robotics architecture with SAP in Chinese demo",
-      "url": "https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo/",
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.01,
+      "score": 3.38,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "saas"
+      ]
+    },
+    {
+      "title": "R to @czapamd: Fifteen years old and building a startup while your Claude Code weekly limit runs out is a rough day that",
+      "url": "https://nitter.kareem.one/Tyrone_Uzzell/status/2117265410697646582#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
       ]
     }
   ]
