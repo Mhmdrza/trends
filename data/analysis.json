@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-03T00:27:16.189162+00:00",
-  "scrape_timestamp": "2026-11-03T00:25:43.411904+00:00",
-  "total_items_analyzed": 87,
+  "timestamp": "2026-11-03T13:33:08.836658+00:00",
+  "scrape_timestamp": "2026-11-03T13:31:34.553686+00:00",
+  "total_items_analyzed": 99,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,527 +16,1052 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 10,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "creator",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 6,
+      "opportunity_score": 36.0,
+      "examples": [
+        {
+          "title": "A Conversation with Paul Masurel, Creator of Tantivy",
+          "source": "hackernews",
+          "url": "https://www.paradedb.com/blog/tantivy-interview",
+          "score": 0.28
+        },
+        {
+          "title": "R to @akul1971: The creator economy in Web3 still has plenty of room to grow",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/iteusufbd/status/2117610400787439652#m",
+          "score": 0.5
+        },
+        {
+          "title": "R to @mdabusena: The emphasis on active participation in the Creator Economy highlights that true success comes from con",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/bella_quack/status/2117610203424428104#m",
+          "score": 0.5
+        },
+        {
+          "title": "Goldman Sachs expects the creator economy to hit $480 BILLION by 2027 But only idiots are trying to become creators (67%",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/valematvei/status/2117609490388271411#m",
+          "score": 0.5
+        },
+        {
+          "title": "R to @Raven_slb: A creator economy succeeds when quality insights matter more than posting frequency.",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/MFagam6/status/2117607969466581047#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "making",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "source": "hackernews",
+          "url": "https://news.ycombinator.com/item?id=50340088",
+          "score": 12.73
+        },
+        {
+          "title": "Making Peace with the Projective Plane",
+          "source": "hackernews",
+          "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+          "score": 0.66
+        },
+        {
+          "title": "R to @yoxics: 30 minutes?! 😭 Some people are streaming for half an hour and making more money than others make in an ent",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/CFCPlaybook_/status/2117610476066447483#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "still",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+          "source": "hackernews",
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+          "score": 8.13
+        },
+        {
+          "title": "The cryptography behind e-voting (and why paper ballots are still essential)",
+          "source": "hackernews",
+          "url": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
+          "score": 0.02
+        },
+        {
+          "title": "R to @akul1971: The creator economy in Web3 still has plenty of room to grow",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/iteusufbd/status/2117610400787439652#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "We halved DNS build delay and cut memory use by 85%",
+          "source": "hackernews",
+          "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+          "score": 2.96
+        },
+        {
+          "title": "Can AI ever build itself? A deeper look into autonomous AI research",
+          "source": "hackernews",
+          "url": "https://www.nachoplanas.com/articles/rsi-stacked-s-curves",
+          "score": 0.01
+        },
+        {
+          "title": "What does it actually take to build, earn and scale digital products globally from Africa today? We’re unlocking that ex",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/trefordafrica/status/2117607689870012922#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "world",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Show HN: Warli World – a folk-art village that lives above your taskbar",
+          "source": "hackernews",
+          "url": "https://digital-troubadour.itch.io/warli-world",
+          "score": 0.01
+        },
+        {
+          "title": "Fomopoly makes the idea of owning a piece of a game world more interesting. Instead of building around a single gameplay",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/haiderlevi/status/2117608535437844916#m",
+          "score": 0.5
+        },
+        {
+          "title": "Introducing BrainChain to the world. This is a no brainer. You are welcome. https://x.com/i/article/2117605451424489472",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/Buddz1993/status/2117606971520037064#m",
+          "score": 0.5
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 21.45,
-      "velocity": 19.5,
+      "base_score": 3.83,
+      "velocity": 16.944,
       "velocity_label": "exploding",
-      "combined_score": 1045.69
+      "combined_score": 162.24
     },
     {
-      "title": "Wir müssen wissen – wir werden wissen",
-      "url": "https://remy.wang/blog/hilbert.html",
+      "title": "A Conversation with Paul Masurel, Creator of Tantivy",
+      "url": "https://www.paradedb.com/blog/tantivy-interview",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.82,
-      "velocity": 18.0,
+      "base_score": 0.28,
+      "velocity": 16.1,
       "velocity_label": "exploding",
-      "combined_score": 36.9
-    },
-    {
-      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 14.786,
-      "velocity_label": "exploding",
-      "combined_score": 1.85
-    },
-    {
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.04,
-      "velocity": 14.183,
-      "velocity_label": "exploding",
-      "combined_score": 178.71
-    },
-    {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.81,
-      "velocity": 11.06,
-      "velocity_label": "exploding",
-      "combined_score": 105.35
-    },
-    {
-      "title": "Cyberattacks hit supermarket fridges and freezers in Europe",
-      "url": "https://www.euronews.com/2026/11/02/cyberattack-hits-belgian-supermarket-fridges-and-freezers",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.12,
-      "velocity": 10.819,
-      "velocity_label": "exploding",
-      "combined_score": 3.25
-    },
-    {
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.65,
-      "velocity": 10.126,
-      "velocity_label": "exploding",
-      "combined_score": 67.08
-    },
-    {
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.67,
-      "velocity": 9.438,
-      "velocity_label": "exploding",
-      "combined_score": 228.17
-    },
-    {
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 19.12,
-      "velocity": 9.405,
-      "velocity_label": "exploding",
-      "combined_score": 449.55
-    },
-    {
-      "title": "The Ford Privacy Promise: You're in Control of Your Data",
-      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 9.252,
-      "velocity_label": "exploding",
-      "combined_score": 8.33
-    },
-    {
-      "title": "Agentic backdoors via pretraining poisoning",
-      "url": "https://arxiv.org/abs/2610.37741",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.28,
-      "velocity": 9.067,
-      "velocity_label": "exploding",
-      "combined_score": 29.01
-    },
-    {
-      "title": "DeepSeek also can easily read and write ML Weights",
-      "url": "https://chat.deepseek.com/share/uysgv9yl2aj0tqs3on",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.067,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.29,
-      "velocity": 7.897,
-      "velocity_label": "exploding",
-      "combined_score": 124.19
-    },
-    {
-      "title": "Moving our warehouse off DuckDB",
-      "url": "https://posthog.com/blog/moving-off-duckdb",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.17,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 58.12
-    },
-    {
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.71,
-      "velocity": 7.329,
-      "velocity_label": "exploding",
-      "combined_score": 13.01
-    },
-    {
-      "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-      "url": "https://arxiv.org/abs/2610.40269",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.33,
-      "velocity": 7.298,
-      "velocity_label": "exploding",
-      "combined_score": 6.02
-    },
-    {
-      "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-      "url": "https://news.ycombinator.com/item?id=50346164",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.121,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.0,
-      "velocity": 7.076,
-      "velocity_label": "exploding",
-      "combined_score": 53.07
-    },
-    {
-      "title": "From Words to Waypoints: Teaching a Small LLM to Plan for Robots",
-      "url": "https://www.daweisun.me/blog/stl-planning-rl/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.057,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.73,
-      "velocity": 7.041,
-      "velocity_label": "exploding",
-      "combined_score": 65.66
-    },
-    {
-      "title": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
-      "url": "https://www.useinstatools.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 7.041,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.15,
-      "velocity": 7.037,
-      "velocity_label": "exploding",
-      "combined_score": 37.82
-    },
-    {
-      "title": "Anthropic's pay packages cost the company more than $100k a month per employee",
-      "url": "https://www.businessinsider.com/anthropic-ipo-filing-q3-personnel-costs-2026-11",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.488,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "WorkOS reports security breach",
-      "url": "https://news.ycombinator.com/item?id=50345712",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.19,
-      "velocity": 6.047,
-      "velocity_label": "exploding",
-      "combined_score": 2.87
-    },
-    {
-      "title": "Making Peace with the Projective Plane",
-      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.48,
-      "velocity": 6.042,
-      "velocity_label": "exploding",
-      "combined_score": 7.25
-    },
-    {
-      "title": "Can’t fish Ethernet? Use “invisible” fiber instead",
-      "url": "https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.26,
-      "velocity": 6.042,
-      "velocity_label": "exploding",
-      "combined_score": 19.03
-    },
-    {
-      "title": "Anthropic's spending commitments surge to nearly $900B",
-      "url": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.31,
-      "velocity": 6.004,
-      "velocity_label": "exploding",
-      "combined_score": 4.65
-    },
-    {
-      "title": "I checked whether my laptop is wasting RAM",
-      "url": "https://ansnadeem.com/2026/11/02/is-my-laptop-wasting-ram/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.983,
-      "velocity_label": "exploding",
-      "combined_score": 0.45
-    },
-    {
-      "title": "Show HN: HN Books – the books Hacker News keeps recommending",
-      "url": "https://www.hacker-books.io/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.964,
-      "velocity_label": "exploding",
-      "combined_score": 0.15
-    },
-    {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.24,
-      "velocity": 5.889,
-      "velocity_label": "exploding",
-      "combined_score": 136.04
-    },
-    {
-      "title": "Au High Court to consider whether under-16s social media ban is unconstitutional",
-      "url": "https://www.abc.net.au/news/2026-11-03/high-court-challenge-to-under-16s-social-media-ban/107336886",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.864,
-      "velocity_label": "exploding",
-      "combined_score": 0.44
-    },
-    {
-      "title": "BYD sold more EVs last month than the US did all quarter",
-      "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.67,
-      "velocity": 5.637,
-      "velocity_label": "exploding",
-      "combined_score": 79.91
-    },
-    {
-      "title": "Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service",
-      "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.36,
-      "velocity": 5.556,
-      "velocity_label": "exploding",
-      "combined_score": 18.89
-    },
-    {
-      "title": "The U.S. Is Bullying Europe Like Never Before",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-europe-guilfoyle-afd-meddling/689226/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.05,
-      "velocity": 5.542,
-      "velocity_label": "exploding",
-      "combined_score": 0.69
+      "combined_score": 11.27
     },
     {
       "title": "Astra can read and write weights to improve Qwen",
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 26.27,
-      "velocity": 5.534,
+      "base_score": 41.15,
+      "velocity": 15.628,
       "velocity_label": "exploding",
-      "combined_score": 363.45
+      "combined_score": 1607.74
     },
     {
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.91,
-      "velocity": 5.375,
+      "base_score": 1.53,
+      "velocity": 15.034,
       "velocity_label": "exploding",
-      "combined_score": 65.98
+      "combined_score": 57.5
     },
     {
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.76,
-      "velocity": 5.345,
+      "base_score": 25.43,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 23.52
+      "combined_score": 943.03
     },
     {
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "title": "Moving our warehouse off DuckDB",
+      "url": "https://posthog.com/blog/moving-off-duckdb",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.12,
-      "velocity": 5.228,
+      "base_score": 3.56,
+      "velocity": 14.833,
       "velocity_label": "exploding",
-      "combined_score": 66.92
-    },
-    {
-      "title": "From Heroku to Convox, and why we built Rack Gateway",
-      "url": "https://docspring.com/blog/posts/from-heroku-to-convox-and-rack-gateway/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.022,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
+      "combined_score": 132.02
     },
     {
       "title": "US boy names that became girl names and vice versa",
       "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.09,
-      "velocity": 4.958,
+      "base_score": 10.56,
+      "velocity": 13.883,
       "velocity_label": "exploding",
-      "combined_score": 87.89
+      "combined_score": 366.52
     },
     {
-      "title": "Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",
-      "url": "https://github.com/atifcodesalot/pyWolf3D",
+      "title": "Anthropic warns its AI could be dangerous. So why do people want to invest?",
+      "url": "https://www.bbc.com/audio/play/w3ct8mcy",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.14,
-      "velocity": 4.741,
+      "base_score": 0.01,
+      "velocity": 13.729,
       "velocity_label": "exploding",
-      "combined_score": 1.66
+      "combined_score": 0.34
     },
     {
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "title": "Component technology in an embedded system (2010)",
+      "url": "https://www.polberger.se/components/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.71,
-      "velocity": 4.675,
+      "base_score": 0.03,
+      "velocity": 13.347,
       "velocity_label": "exploding",
-      "combined_score": 43.36
+      "combined_score": 1.0
     },
     {
-      "title": "Most of our measures of a key cognitive process don't agree",
-      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 4.59,
+      "base_score": 1.08,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 0.8
+      "combined_score": 35.78
+    },
+    {
+      "title": "Making Peace with the Projective Plane",
+      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.66,
+      "velocity": 12.741,
+      "velocity_label": "exploding",
+      "combined_score": 21.02
+    },
+    {
+      "title": "Can AI ever build itself? A deeper look into autonomous AI research",
+      "url": "https://www.nachoplanas.com/articles/rsi-stacked-s-curves",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 12.407,
+      "velocity_label": "exploding",
+      "combined_score": 0.31
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.75,
+      "velocity": 12.37,
+      "velocity_label": "exploding",
+      "combined_score": 115.97
+    },
+    {
+      "title": "Goldman Sachs expects the creator economy to hit $480 BILLION by 2027 But only idiots are trying to become creators (67%",
+      "url": "https://nitter.kareem.one/valematvei/status/2117609490388271411#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 12.359,
+      "velocity_label": "exploding",
+      "combined_score": 15.45
+    },
+    {
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "url": "https://longcat.ai/blog/longcat-2.5/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.23,
+      "velocity": 11.323,
+      "velocity_label": "exploding",
+      "combined_score": 34.82
+    },
+    {
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.67,
+      "velocity": 11.156,
+      "velocity_label": "exploding",
+      "combined_score": 102.36
+    },
+    {
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.21,
+      "velocity": 11.139,
+      "velocity_label": "exploding",
+      "combined_score": 61.54
+    },
+    {
+      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.94,
+      "velocity": 10.281,
+      "velocity_label": "exploding",
+      "combined_score": 24.16
+    },
+    {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.93,
+      "velocity": 10.062,
+      "velocity_label": "exploding",
+      "combined_score": 199.48
+    },
+    {
+      "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.0,
+      "velocity": 9.688,
+      "velocity_label": "exploding",
+      "combined_score": 48.44
+    },
+    {
+      "title": "R to @mdabusena: The emphasis on active participation in the Creator Economy highlights that true success comes from con",
+      "url": "https://nitter.kareem.one/bella_quack/status/2117610203424428104#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 9.561,
+      "velocity_label": "exploding",
+      "combined_score": 11.95
+    },
+    {
+      "title": "Polar vortex disruption comes early",
+      "url": "https://www.bostonglobe.com/2026/10/28/metro/polar-vortex-new-england-winter-weather/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.16,
+      "velocity_label": "exploding",
+      "combined_score": 0.46
+    },
+    {
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.067,
+      "velocity_label": "exploding",
+      "combined_score": 0.23
+    },
+    {
+      "title": "The PHP2Shell Vulnerability Heralds Cybersecurity Hell",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 9.033,
+      "velocity_label": "exploding",
+      "combined_score": 0.45
+    },
+    {
+      "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+      "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.887,
+      "velocity_label": "exploding",
+      "combined_score": 0.44
+    },
+    {
+      "title": "Show HN: WeMD – Turn web pages and WeChat articles into clean Markdown, locally",
+      "url": "https://github.com/stwhwing/wemd-extension",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.22
+    },
+    {
+      "title": "R to @Raven_slb: A creator economy succeeds when quality insights matter more than posting frequency.",
+      "url": "https://nitter.kareem.one/MFagam6/status/2117607969466581047#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 8.746,
+      "velocity_label": "exploding",
+      "combined_score": 10.93
+    },
+    {
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.96,
+      "velocity": 8.68,
+      "velocity_label": "exploding",
+      "combined_score": 64.23
+    },
+    {
+      "title": "Cooking Conundrums Challenge",
+      "url": "https://zacharykai.net/notes/cookingqna",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.444,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
+    },
+    {
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 8.082,
+      "velocity_label": "exploding",
+      "combined_score": 9.9
+    },
+    {
+      "title": "What Would a U.S. Telecommunications Act 2.0 Look Like?",
+      "url": "https://spectrum.ieee.org/telecommunications-act-reform",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.917,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.02,
+      "velocity": 7.764,
+      "velocity_label": "exploding",
+      "combined_score": 58.62
+    },
+    {
+      "title": "R to @yoxics: 30 minutes?! 😭 Some people are streaming for half an hour and making more money than others make in an ent",
+      "url": "https://nitter.kareem.one/CFCPlaybook_/status/2117610476066447483#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 7.548,
+      "velocity_label": "exploding",
+      "combined_score": 9.43
+    },
+    {
+      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 7.408,
+      "velocity_label": "exploding",
+      "combined_score": 4.26
+    },
+    {
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.96,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 72.6
+    },
+    {
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.23,
+      "velocity": 7.304,
+      "velocity_label": "exploding",
+      "combined_score": 40.72
+    },
+    {
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.31,
+      "velocity": 7.194,
+      "velocity_label": "exploding",
+      "combined_score": 95.5
+    },
+    {
+      "title": "Scientists detect signals at the smallest scale ever explored",
+      "url": "https://www.bbc.com/news/articles/c5pvgxkkv4dzo",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.186,
+      "velocity_label": "exploding",
+      "combined_score": 0.36
+    },
+    {
+      "title": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.85,
+      "velocity": 7.167,
+      "velocity_label": "exploding",
+      "combined_score": 51.06
+    },
+    {
+      "title": "Skill to Create Product Videos",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.6,
+      "velocity": 7.154,
+      "velocity_label": "exploding",
+      "combined_score": 28.62
     },
     {
       "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
       "url": "https://www.c64-wiki.com/wiki/GUI64",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.497,
+      "base_score": 0.29,
+      "velocity": 7.152,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 5.19
     },
     {
-      "title": "Show HN: Learn French by Watching Netflix",
-      "url": "https://news.ycombinator.com/item?id=50346214",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 4.387,
+      "base_score": 8.13,
+      "velocity": 7.14,
       "velocity_label": "exploding",
-      "combined_score": 0.22
+      "combined_score": 145.13
     },
     {
-      "title": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
-      "url": "https://www.gadgetreview.com/the-number-of-innocent-people-being-accused-of-shoplifting-by-faulty-ai-facial-recognition-systems-is-alarming",
+      "title": "R to @akul1971: The creator economy in Web3 still has plenty of room to grow",
+      "url": "https://nitter.kareem.one/iteusufbd/status/2117610400787439652#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 6.986,
+      "velocity_label": "exploding",
+      "combined_score": 8.73
+    },
+    {
+      "title": "Practical Preimages for 19 and 20-Step SHA-256 with Standard Padding",
+      "url": "https://arxiv.org/abs/2611.00512",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.219,
+      "velocity": 6.571,
       "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 0.16
     },
     {
-      "title": "An Existential Guide To: Flirting",
-      "url": "https://theshadowedarchive.substack.com/p/an-existential-guide-to-flirting",
+      "title": "Ten harness patterns that you can apply to a real repo",
+      "url": "https://deepsense.ai/blog/harness-engineering-for-coding-agents-9-patterns-for-more-reliable-ai-assisted-development/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.167,
+      "base_score": 0.06,
+      "velocity": 6.522,
       "velocity_label": "exploding",
-      "combined_score": 0.1
+      "combined_score": 0.98
     },
     {
-      "title": "One of Google's Android partners turned 1.3M set-top boxes into a botnet",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "title": "Show HN: Diogenes – Account-less MCP Gateway to 45 Gemini models and guardrails",
+      "url": "https://diogenesgateway.com/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.03,
-      "velocity": 4.113,
+      "velocity": 6.331,
       "velocity_label": "exploding",
-      "combined_score": 0.31
+      "combined_score": 0.47
     },
     {
-      "title": "Japan launches mission to make first return trip to Mars",
-      "url": "https://www.ft.com/content/88638d03-1537-4f71-b099-3a951f1c4cb7",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.12,
-      "velocity": 4.039,
+      "base_score": 12.73,
+      "velocity": 6.113,
       "velocity_label": "exploding",
-      "combined_score": 1.21
+      "combined_score": 194.56
     },
     {
-      "title": "Show HN: Learn to speak French by watching Netflix",
-      "url": "https://chromewebstore.google.com/detail/greetai-learn-speak-langu/hhildamloicfginbdnilakddipgkolbf",
+      "title": "Shipping 103,802 Dots in 82 KB",
+      "url": "https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 3.989,
+      "base_score": 0.01,
+      "velocity": 6.0,
       "velocity_label": "exploding",
-      "combined_score": 0.2
+      "combined_score": 0.15
+    },
+    {
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.0,
+      "velocity": 5.863,
+      "velocity_label": "exploding",
+      "combined_score": 14.66
+    },
+    {
+      "title": "What does it actually take to build, earn and scale digital products globally from Africa today? We’re unlocking that ex",
+      "url": "https://nitter.kareem.one/trefordafrica/status/2117607689870012922#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 5.847,
+      "velocity_label": "exploding",
+      "combined_score": 7.31
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
-  "linguistic_voids": [],
+  "bridge_topics": [
+    {
+      "keyword": "making",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 55.56,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Making Peace with the Projective Plane",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @yoxics: 30 minutes?! 😭 Some people are streaming for half an hour and making more money than others make in an ent",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "hit",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 44.48,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Goldman Sachs expects the creator economy to hit $480 BILLION by 2027 But only idiots are trying to become creators (67%",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "still",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 34.6,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The cryptography behind e-voting (and why paper ballots are still essential)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @akul1971: The creator economy in Web3 still has plenty of room to grow",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 13.88,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "We halved DNS build delay and cut memory use by 85%",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Can AI ever build itself? A deeper look into autonomous AI research",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "What does it actually take to build, earn and scale digital products globally from Africa today? We’re unlocking that ex",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "creator",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 11.12,
+      "total_mentions": 6,
+      "examples": [
+        {
+          "title": "A Conversation with Paul Masurel, Creator of Tantivy",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @akul1971: The creator economy in Web3 still has plenty of room to grow",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "R to @mdabusena: The emphasis on active participation in the Creator Economy highlights that true success comes from con",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Goldman Sachs expects the creator economy to hit $480 BILLION by 2027 But only idiots are trying to become creators (67%",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "R to @Raven_slb: A creator economy succeeds when quality insights matter more than posting frequency.",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "game",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 6.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: I built a little browser game to practice Vim commands",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Fomopoly makes the idea of owning a piece of a game world more interesting. Instead of building around a single gameplay",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "active",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.88,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Cloudflare experiencing multiple active incidents",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @mdabusena: The emphasis on active participation in the Creator Economy highlights that true success comes from con",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "world",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.04,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Show HN: Warli World – a folk-art village that lives above your taskbar",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Fomopoly makes the idea of owning a piece of a game world more interesting. Instead of building around a single gameplay",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Introducing BrainChain to the world. This is a no brainer. You are welcome. https://x.com/i/article/2117605451424489472",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "billion",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Large Hadron Collider finds evidence of one-in-ten-billion particle decay",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Goldman Sachs expects the creator economy to hit $480 BILLION by 2027 But only idiots are trying to become creators (67%",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "scale",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Scientists detect signals at the smallest scale ever explored",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "What does it actually take to build, earn and scale digital products globally from Africa today? We’re unlocking that ex",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "comes",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Polar vortex disruption comes early",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @mdabusena: The emphasis on active participation in the Creator Economy highlights that true success comes from con",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "people",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Anthropic warns its AI could be dangerous. So why do people want to invest?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "R to @yoxics: 30 minutes?! 😭 Some people are streaming for half an hour and making more money than others make in an ent",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
+  "linguistic_voids": [
+    {
+      "concept_cluster": [
+        "anthropic",
+        "filing",
+        "ipo"
+      ],
+      "concept_hint": "anthropic + filing + ipo",
+      "cluster_size": 3,
+      "discussion_count": 3,
+      "void_score": 13.5,
+      "examples": [
+        {
+          "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+          "source": "hackernews",
+          "matching_keywords": [
+            "anthropic",
+            "filing",
+            "ipo"
+          ]
+        },
+        {
+          "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+          "source": "hackernews",
+          "matching_keywords": [
+            "anthropic",
+            "ipo"
+          ]
+        },
+        {
+          "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+          "source": "hackernews",
+          "matching_keywords": [
+            "anthropic",
+            "filing",
+            "ipo"
+          ]
+        }
+      ]
+    }
+  ],
   "personal_relevance": [
+    {
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 2.4,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
     {
       "title": "Polyend releases the Tracker firmware source code",
       "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.95,
+      "score": 2.23,
       "relevance": 0.111,
       "matching_tags": [
         "code",
@@ -544,8 +1069,20 @@
       ]
     },
     {
-      "title": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
-      "url": "https://www.useinstatools.com/",
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.49,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Open-Source Searchable Job Board for HN's Hiring Threads",
+      "url": "https://flaviaouyang.github.io/hackerjobs/hiring/",
       "source": "hackernews",
       "category": "tech",
       "score": 0.03,
@@ -556,14 +1093,58 @@
       ]
     },
     {
-      "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-      "url": "https://arxiv.org/abs/2610.40269",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.33,
+      "title": "R to @akul1971: The creator economy in Web3 still has plenty of room to grow",
+      "url": "https://nitter.kareem.one/iteusufbd/status/2117610400787439652#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
-        "code"
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @mdabusena: The emphasis on active participation in the Creator Economy highlights that true success comes from con",
+      "url": "https://nitter.kareem.one/bella_quack/status/2117610203424428104#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Goldman Sachs expects the creator economy to hit $480 BILLION by 2027 But only idiots are trying to become creators (67%",
+      "url": "https://nitter.kareem.one/valematvei/status/2117609490388271411#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @Raven_slb: A creator economy succeeds when quality insights matter more than posting frequency.",
+      "url": "https://nitter.kareem.one/MFagam6/status/2117607969466581047#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "R to @alamincryptox: transparency is key for any creator economy to work",
+      "url": "https://nitter.kareem.one/Al_Nadim_nabil/status/2117606650844766297#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
       ]
     },
     {
@@ -571,7 +1152,7 @@
       "url": "https://www.paradedb.com/blog/tantivy-interview",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.12,
+      "score": 0.28,
       "relevance": 0.056,
       "matching_tags": [
         "creator"
