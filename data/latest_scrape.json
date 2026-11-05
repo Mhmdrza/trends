@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T04:54:36.936535+00:00",
+  "timestamp": "2026-11-05T13:55:07.799586+00:00",
   "sources": {
     "youtube": {
       "count": 0,
@@ -14,7 +14,7 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
@@ -24,1119 +24,75 @@
   },
   "all_items": [
     {
+      "id": "132e9ecf6c52",
+      "source": "hackernews",
+      "title": "Sshole",
+      "url": "https://sshhole.com",
+      "score": 5.91,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.474089+00:00",
+      "extra": {
+        "hn_id": 50378228,
+        "points": 439,
+        "comments": 101,
+        "by": "josemrb",
+        "time": 1793881142,
+        "hn_url": "https://news.ycombinator.com/item?id=50378228"
+      }
+    },
+    {
+      "id": "2d5965ed7643",
+      "source": "hackernews",
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "score": 1.9,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.510341+00:00",
+      "extra": {
+        "hn_id": 50377078,
+        "points": 104,
+        "comments": 57,
+        "by": "pretext",
+        "time": 1793870952,
+        "hn_url": "https://news.ycombinator.com/item?id=50377078"
+      }
+    },
+    {
+      "id": "dbc30c852338",
+      "source": "hackernews",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "score": 0.47,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.546487+00:00",
+      "extra": {
+        "hn_id": 50377976,
+        "points": 42,
+        "comments": 3,
+        "by": "selckin",
+        "time": 1793878830,
+        "hn_url": "https://news.ycombinator.com/item?id=50377976"
+      }
+    },
+    {
       "id": "4195dba25bbb",
       "source": "hackernews",
       "title": "Residential proxies detected on White House network",
       "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "score": 12.1,
+      "score": 17.34,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.549665+00:00",
+      "timestamp": "2026-11-05T13:56:32.583153+00:00",
       "extra": {
         "hn_id": 50371246,
-        "points": 820,
-        "comments": 260,
+        "points": 1168,
+        "comments": 377,
         "by": "Rasbora",
         "time": 1793825118,
         "hn_url": "https://news.ycombinator.com/item?id=50371246"
-      }
-    },
-    {
-      "id": "11226d4a6faf",
-      "source": "hackernews",
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "score": 3.72,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.581104+00:00",
-      "extra": {
-        "hn_id": 50372945,
-        "points": 186,
-        "comments": 124,
-        "by": "davidbarker",
-        "time": 1793835344,
-        "hn_url": "https://news.ycombinator.com/item?id=50372945"
-      }
-    },
-    {
-      "id": "41295efc6336",
-      "source": "hackernews",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "score": 4.02,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.613593+00:00",
-      "extra": {
-        "hn_id": 50372929,
-        "points": 216,
-        "comments": 124,
-        "by": "dangelosaurus",
-        "time": 1793835194,
-        "hn_url": "https://news.ycombinator.com/item?id=50372929"
-      }
-    },
-    {
-      "id": "d3712e487413",
-      "source": "hackernews",
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "url": "https://www.spacex.com/starfall",
-      "score": 3.08,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.645614+00:00",
-      "extra": {
-        "hn_id": 50373308,
-        "points": 160,
-        "comments": 99,
-        "by": "gmays",
-        "time": 1793837898,
-        "hn_url": "https://news.ycombinator.com/item?id=50373308"
-      }
-    },
-    {
-      "id": "a07dc6138003",
-      "source": "hackernews",
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "score": 3.94,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.679102+00:00",
-      "extra": {
-        "hn_id": 50369925,
-        "points": 257,
-        "comments": 91,
-        "by": "Philpax",
-        "time": 1793818409,
-        "hn_url": "https://news.ycombinator.com/item?id=50369925"
-      }
-    },
-    {
-      "id": "5f228420f766",
-      "source": "hackernews",
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "score": 6.2,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.711066+00:00",
-      "extra": {
-        "hn_id": 50366999,
-        "points": 429,
-        "comments": 127,
-        "by": "abrarthought",
-        "time": 1793806230,
-        "hn_url": "https://news.ycombinator.com/item?id=50366999"
-      }
-    },
-    {
-      "id": "d54c6cfce47b",
-      "source": "hackernews",
-      "title": "Insects don't swarm at LED lights",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "score": 3.65,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.742810+00:00",
-      "extra": {
-        "hn_id": 50370610,
-        "points": 199,
-        "comments": 111,
-        "by": "speckx",
-        "time": 1793821823,
-        "hn_url": "https://news.ycombinator.com/item?id=50370610"
-      }
-    },
-    {
-      "id": "698f02b7a324",
-      "source": "hackernews",
-      "title": "A new Go API for JSON",
-      "url": "https://go.dev/blog/jsonv2",
-      "score": 4.34,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.775165+00:00",
-      "extra": {
-        "hn_id": 50369106,
-        "points": 257,
-        "comments": 118,
-        "by": "olexsmir",
-        "time": 1793814731,
-        "hn_url": "https://news.ycombinator.com/item?id=50369106"
-      }
-    },
-    {
-      "id": "0526f4e9286b",
-      "source": "hackernews",
-      "title": "Conductor is joining Meta",
-      "url": "https://www.conductor.build/announcement",
-      "score": 3.94,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.810355+00:00",
-      "extra": {
-        "hn_id": 50369503,
-        "points": 146,
-        "comments": 165,
-        "by": "kenrose",
-        "time": 1793816560,
-        "hn_url": "https://news.ycombinator.com/item?id=50369503"
-      }
-    },
-    {
-      "id": "41309ab593d8",
-      "source": "hackernews",
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "url": "https://icode4.coffee/?p=1746",
-      "score": 0.88,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.843805+00:00",
-      "extra": {
-        "hn_id": 50372164,
-        "points": 82,
-        "comments": 4,
-        "by": "muricula",
-        "time": 1793829709,
-        "hn_url": "https://news.ycombinator.com/item?id=50372164"
-      }
-    },
-    {
-      "id": "de190db06db8",
-      "source": "hackernews",
-      "title": "Spreading Liquid with Three.js",
-      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-      "score": 0.14,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.875825+00:00",
-      "extra": {
-        "hn_id": 50341576,
-        "points": 12,
-        "comments": 1,
-        "by": "mooreds",
-        "time": 1793645154,
-        "hn_url": "https://news.ycombinator.com/item?id=50341576"
-      }
-    },
-    {
-      "id": "7f766b852fc9",
-      "source": "hackernews",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "score": 2.02,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.910542+00:00",
-      "extra": {
-        "hn_id": 50370654,
-        "points": 122,
-        "comments": 53,
-        "by": "peter_d_sherman",
-        "time": 1793822114,
-        "hn_url": "https://news.ycombinator.com/item?id=50370654"
-      }
-    },
-    {
-      "id": "c8a62f33bbc7",
-      "source": "hackernews",
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "score": 3.27,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.942863+00:00",
-      "extra": {
-        "hn_id": 50368626,
-        "points": 196,
-        "comments": 87,
-        "by": "ltononro",
-        "time": 1793812666,
-        "hn_url": "https://news.ycombinator.com/item?id=50368626"
-      }
-    },
-    {
-      "id": "b88b0ab298ce",
-      "source": "hackernews",
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "score": 1.25,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:29.975949+00:00",
-      "extra": {
-        "hn_id": 50368804,
-        "points": 79,
-        "comments": 31,
-        "by": "lukeigel",
-        "time": 1793813513,
-        "hn_url": "https://news.ycombinator.com/item?id=50368804"
-      }
-    },
-    {
-      "id": "42959f429b85",
-      "source": "hackernews",
-      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-      "url": "https://fireflyk64.github.io/wcmulti/",
-      "score": 1.62,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.007948+00:00",
-      "extra": {
-        "hn_id": 50369895,
-        "points": 138,
-        "comments": 16,
-        "by": "daniel_rh",
-        "time": 1793818287,
-        "hn_url": "https://news.ycombinator.com/item?id=50369895"
-      }
-    },
-    {
-      "id": "acfc91d7238e",
-      "source": "hackernews",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 21.09,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.039987+00:00",
-      "extra": {
-        "hn_id": 50364336,
-        "points": 1125,
-        "comments": 656,
-        "by": "pseudolus",
-        "time": 1793793137,
-        "hn_url": "https://news.ycombinator.com/item?id=50364336"
-      }
-    },
-    {
-      "id": "afe8ffc9899b",
-      "source": "hackernews",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "score": 5.19,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.072997+00:00",
-      "extra": {
-        "hn_id": 50366117,
-        "points": 201,
-        "comments": 212,
-        "by": "eggbrain",
-        "time": 1793803042,
-        "hn_url": "https://news.ycombinator.com/item?id=50366117"
-      }
-    },
-    {
-      "id": "e8dc2351864d",
-      "source": "hackernews",
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "score": 5.79,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.104597+00:00",
-      "extra": {
-        "hn_id": 50366522,
-        "points": 278,
-        "comments": 201,
-        "by": "zenincognito",
-        "time": 1793804504,
-        "hn_url": "https://news.ycombinator.com/item?id=50366522"
-      }
-    },
-    {
-      "id": "452510a9606e",
-      "source": "hackernews",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "score": 3.09,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.141610+00:00",
-      "extra": {
-        "hn_id": 50366863,
-        "points": 213,
-        "comments": 64,
-        "by": "itunpredictable",
-        "time": 1793805681,
-        "hn_url": "https://news.ycombinator.com/item?id=50366863"
-      }
-    },
-    {
-      "id": "8dbd05a0ffb0",
-      "source": "hackernews",
-      "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
-      "url": "https://wiredream.com/anagram-fun/",
-      "score": 0.11,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.192347+00:00",
-      "extra": {
-        "hn_id": 50363353,
-        "points": 11,
-        "comments": 0,
-        "by": "ColinWright",
-        "time": 1793786263,
-        "hn_url": "https://news.ycombinator.com/item?id=50363353"
-      }
-    },
-    {
-      "id": "de3436042ddf",
-      "source": "hackernews",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "score": 3.73,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.244143+00:00",
-      "extra": {
-        "hn_id": 50338474,
-        "points": 94,
-        "comments": 186,
-        "by": "PaulHoule",
-        "time": 1793634525,
-        "hn_url": "https://news.ycombinator.com/item?id=50338474"
-      }
-    },
-    {
-      "id": "cc6fdd02514a",
-      "source": "hackernews",
-      "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
-      "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
-      "score": 1.61,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.342259+00:00",
-      "extra": {
-        "hn_id": 50342031,
-        "points": 65,
-        "comments": 64,
-        "by": "rdmuser",
-        "time": 1793646835,
-        "hn_url": "https://news.ycombinator.com/item?id=50342031"
-      }
-    },
-    {
-      "id": "ba61038c35cd",
-      "source": "hackernews",
-      "title": "A wave of plastic-free coffee pods and machines",
-      "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
-      "score": 1.86,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.410235+00:00",
-      "extra": {
-        "hn_id": 50366853,
-        "points": 65,
-        "comments": 81,
-        "by": "thunderbong",
-        "time": 1793805649,
-        "hn_url": "https://news.ycombinator.com/item?id=50366853"
-      }
-    },
-    {
-      "id": "fb789d196997",
-      "source": "hackernews",
-      "title": "Tencent Hy4",
-      "url": "https://hy.tencent.ai/research/hy4",
-      "score": 3.15,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.446942+00:00",
-      "extra": {
-        "hn_id": 50365780,
-        "points": 210,
-        "comments": 70,
-        "by": "Philpax",
-        "time": 1793801486,
-        "hn_url": "https://news.ycombinator.com/item?id=50365780"
-      }
-    },
-    {
-      "id": "3db8237d0e44",
-      "source": "hackernews",
-      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
-      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
-      "score": 0.62,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.479458+00:00",
-      "extra": {
-        "hn_id": 50339183,
-        "points": 35,
-        "comments": 18,
-        "by": "joe-esquibel",
-        "time": 1793636617,
-        "hn_url": "https://news.ycombinator.com/item?id=50339183"
-      }
-    },
-    {
-      "id": "fff64b0cf70b",
-      "source": "hackernews",
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "score": 7.92,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.549743+00:00",
-      "extra": {
-        "hn_id": 50367125,
-        "points": 512,
-        "comments": 187,
-        "by": "rbanffy",
-        "time": 1793806714,
-        "hn_url": "https://news.ycombinator.com/item?id=50367125"
-      }
-    },
-    {
-      "id": "0131aff456ae",
-      "source": "hackernews",
-      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-      "score": 3.84,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.585395+00:00",
-      "extra": {
-        "hn_id": 50367653,
-        "points": 87,
-        "comments": 198,
-        "by": "theanonymousone",
-        "time": 1793808693,
-        "hn_url": "https://news.ycombinator.com/item?id=50367653"
-      }
-    },
-    {
-      "id": "604b812720a9",
-      "source": "hackernews",
-      "title": "Is Curiosity Good for Us?",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
-      "score": 0.5,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.617495+00:00",
-      "extra": {
-        "hn_id": 50356791,
-        "points": 29,
-        "comments": 14,
-        "by": "NaOH",
-        "time": 1793733383,
-        "hn_url": "https://news.ycombinator.com/item?id=50356791"
-      }
-    },
-    {
-      "id": "bc74c9fa7527",
-      "source": "hackernews",
-      "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
-      "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
-      "score": 0.18,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.648893+00:00",
-      "extra": {
-        "hn_id": 50342219,
-        "points": 17,
-        "comments": 1,
-        "by": "seshakiran",
-        "time": 1793647428,
-        "hn_url": "https://news.ycombinator.com/item?id=50342219"
-      }
-    },
-    {
-      "id": "cf74d3201860",
-      "source": "hackernews",
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "score": 4.54,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.682053+00:00",
-      "extra": {
-        "hn_id": 50363378,
-        "points": 260,
-        "comments": 129,
-        "by": "kevcampb",
-        "time": 1793786406,
-        "hn_url": "https://news.ycombinator.com/item?id=50363378"
-      }
-    },
-    {
-      "id": "03fca2fb8449",
-      "source": "hackernews",
-      "title": "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
-      "url": "https://news.ycombinator.com/item?id=50347425",
-      "score": 1.57,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.714010+00:00",
-      "extra": {
-        "hn_id": 50347425,
-        "points": 64,
-        "comments": 62,
-        "by": "mike_richards",
-        "time": 1793674370,
-        "hn_url": "https://news.ycombinator.com/item?id=50347425"
-      }
-    },
-    {
-      "id": "cdadeed90326",
-      "source": "hackernews",
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "score": 8.91,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.745753+00:00",
-      "extra": {
-        "hn_id": 50363461,
-        "points": 641,
-        "comments": 167,
-        "by": "jameslk",
-        "time": 1793787027,
-        "hn_url": "https://news.ycombinator.com/item?id=50363461"
-      }
-    },
-    {
-      "id": "0a1351094d2c",
-      "source": "hackernews",
-      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "url": "https://github.com/gauge-sh/gauge-cli",
-      "score": 0.3,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.778357+00:00",
-      "extra": {
-        "hn_id": 50371090,
-        "points": 24,
-        "comments": 4,
-        "by": "0x63_Problems",
-        "time": 1793824290,
-        "hn_url": "https://news.ycombinator.com/item?id=50371090"
-      }
-    },
-    {
-      "id": "ea1957567de9",
-      "source": "hackernews",
-      "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
-      "url": "https://x86.cx/blog/redanger",
-      "score": 0.43,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.810870+00:00",
-      "extra": {
-        "hn_id": 50371693,
-        "points": 34,
-        "comments": 6,
-        "by": "microcode",
-        "time": 1793827152,
-        "hn_url": "https://news.ycombinator.com/item?id=50371693"
-      }
-    },
-    {
-      "id": "51e51d558133",
-      "source": "hackernews",
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "score": 11.38,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.849152+00:00",
-      "extra": {
-        "hn_id": 50365755,
-        "points": 591,
-        "comments": 365,
-        "by": "smalltech",
-        "time": 1793801395,
-        "hn_url": "https://news.ycombinator.com/item?id=50365755"
-      }
-    },
-    {
-      "id": "4f1c02db5ff7",
-      "source": "hackernews",
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "score": 10.07,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.881350+00:00",
-      "extra": {
-        "hn_id": 50362905,
-        "points": 595,
-        "comments": 275,
-        "by": "novaRom",
-        "time": 1793781989,
-        "hn_url": "https://news.ycombinator.com/item?id=50362905"
-      }
-    },
-    {
-      "id": "4e35b3108b3b",
-      "source": "hackernews",
-      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "score": 2.04,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.914560+00:00",
-      "extra": {
-        "hn_id": 50366971,
-        "points": 72,
-        "comments": 88,
-        "by": "karakoram",
-        "time": 1793806111,
-        "hn_url": "https://news.ycombinator.com/item?id=50366971"
-      }
-    },
-    {
-      "id": "4a696705ec98",
-      "source": "hackernews",
-      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
-      "url": "https://pcdealcheck.com/",
-      "score": 2.06,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.946232+00:00",
-      "extra": {
-        "hn_id": 50366929,
-        "points": 98,
-        "comments": 72,
-        "by": "adlep",
-        "time": 1793805933,
-        "hn_url": "https://news.ycombinator.com/item?id=50366929"
-      }
-    },
-    {
-      "id": "fc440ff95720",
-      "source": "hackernews",
-      "title": "Have I befriended a murderer?",
-      "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
-      "score": 2.12,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:30.980313+00:00",
-      "extra": {
-        "hn_id": 50369754,
-        "points": 117,
-        "comments": 63,
-        "by": "gmays",
-        "time": 1793817654,
-        "hn_url": "https://news.ycombinator.com/item?id=50369754"
-      }
-    },
-    {
-      "id": "c615837daab1",
-      "source": "hackernews",
-      "title": "Smiling can make you happier – unless someone forces you to do it",
-      "url": "https://news.ufl.edu/2026/11/smiling-happiness/",
-      "score": 0.05,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.012856+00:00",
-      "extra": {
-        "hn_id": 50375066,
-        "points": 5,
-        "comments": 0,
-        "by": "rohanm93",
-        "time": 1793851859,
-        "hn_url": "https://news.ycombinator.com/item?id=50375066"
-      }
-    },
-    {
-      "id": "0d0266944eca",
-      "source": "hackernews",
-      "title": "Evergreen: A Provably Safe Systems Language",
-      "url": "https://evergreenlang.net",
-      "score": 2.29,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.045258+00:00",
-      "extra": {
-        "hn_id": 50366919,
-        "points": 102,
-        "comments": 85,
-        "by": "jordan_bonecut",
-        "time": 1793805904,
-        "hn_url": "https://news.ycombinator.com/item?id=50366919"
-      }
-    },
-    {
-      "id": "25e3da68d7dd",
-      "source": "hackernews",
-      "title": "From wild to mild: Friendly foxes show changes in brain region",
-      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
-      "score": 0.47,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.079620+00:00",
-      "extra": {
-        "hn_id": 50369527,
-        "points": 37,
-        "comments": 7,
-        "by": "gmays",
-        "time": 1793816656,
-        "hn_url": "https://news.ycombinator.com/item?id=50369527"
-      }
-    },
-    {
-      "id": "94117fa2e7aa",
-      "source": "hackernews",
-      "title": "Kitty 0.50",
-      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-      "score": 7.08,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.122434+00:00",
-      "extra": {
-        "hn_id": 50362980,
-        "points": 366,
-        "comments": 228,
-        "by": "porridgeraisin",
-        "time": 1793782630,
-        "hn_url": "https://news.ycombinator.com/item?id=50362980"
-      }
-    },
-    {
-      "id": "516b02fc9251",
-      "source": "hackernews",
-      "title": "512GB Mac Studio",
-      "url": "https://www.apple.com/shop/buy-mac/mac-studio/m5-ultra-chip-36-core-cpu-80-core-gpu-512gb-memory-1tb-storage",
-      "score": 0.65,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.154360+00:00",
-      "extra": {
-        "hn_id": 50369098,
-        "points": 30,
-        "comments": 23,
-        "by": "immutlex",
-        "time": 1793814712,
-        "hn_url": "https://news.ycombinator.com/item?id=50369098"
-      }
-    },
-    {
-      "id": "7a853257e625",
-      "source": "hackernews",
-      "title": "Don't Call It a Decision Model",
-      "url": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
-      "score": 0.2,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.188341+00:00",
-      "extra": {
-        "hn_id": 50371890,
-        "points": 14,
-        "comments": 4,
-        "by": "emschwartz",
-        "time": 1793828118,
-        "hn_url": "https://news.ycombinator.com/item?id=50371890"
-      }
-    },
-    {
-      "id": "3a83b6dc5b53",
-      "source": "hackernews",
-      "title": "American Voters Overwhelmingly Reject AI Data Centers",
-      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-      "score": 0.28,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.219668+00:00",
-      "extra": {
-        "hn_id": 50373505,
-        "points": 27,
-        "comments": 1,
-        "by": "latexr",
-        "time": 1793839393,
-        "hn_url": "https://news.ycombinator.com/item?id=50373505"
-      }
-    },
-    {
-      "id": "9650e8ed5929",
-      "source": "hackernews",
-      "title": "Death Comes for XSLT",
-      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
-      "score": 1.25,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.251927+00:00",
-      "extra": {
-        "hn_id": 50371408,
-        "points": 61,
-        "comments": 43,
-        "by": "colejohnson66",
-        "time": 1793825830,
-        "hn_url": "https://news.ycombinator.com/item?id=50371408"
-      }
-    },
-    {
-      "id": "8d04d8d99fe1",
-      "source": "hackernews",
-      "title": "Flims and TV shows created using AI have now reached a high level of quality",
-      "url": "https://crateh.com/en",
-      "score": 0.09,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.284042+00:00",
-      "extra": {
-        "hn_id": 50374741,
-        "points": 6,
-        "comments": 2,
-        "by": "haebom",
-        "time": 1793848859,
-        "hn_url": "https://news.ycombinator.com/item?id=50374741"
-      }
-    },
-    {
-      "id": "77398690bcd5",
-      "source": "hackernews",
-      "title": "Juju: Modern Codeforge",
-      "url": "https://juju.bi/",
-      "score": 0.14,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.316960+00:00",
-      "extra": {
-        "hn_id": 50371082,
-        "points": 12,
-        "comments": 1,
-        "by": "handfuloflight",
-        "time": 1793824241,
-        "hn_url": "https://news.ycombinator.com/item?id=50371082"
-      }
-    },
-    {
-      "id": "ee202b866f37",
-      "source": "hackernews",
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "score": 4.26,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.350791+00:00",
-      "extra": {
-        "hn_id": 50363019,
-        "points": 230,
-        "comments": 131,
-        "by": "ersinesen",
-        "time": 1793782918,
-        "hn_url": "https://news.ycombinator.com/item?id=50363019"
-      }
-    },
-    {
-      "id": "66c1dd81def5",
-      "source": "hackernews",
-      "title": "Why Isn't Retatrutide Approved Yet?",
-      "url": "https://lettersfrombethlehem.substack.com/p/why-isnt-retatrutide-approved-yet",
-      "score": 0.06,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.384109+00:00",
-      "extra": {
-        "hn_id": 50374791,
-        "points": 6,
-        "comments": 0,
-        "by": "Sniffnoy",
-        "time": 1793849461,
-        "hn_url": "https://news.ycombinator.com/item?id=50374791"
-      }
-    },
-    {
-      "id": "84967403c87c",
-      "source": "hackernews",
-      "title": "The SBND collaboration releases first neutrino results",
-      "url": "https://news.fnal.gov/2026/10/the-sbnd-collaboration-releases-first-neutrino-results/",
-      "score": 0.09,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.416607+00:00",
-      "extra": {
-        "hn_id": 50372303,
-        "points": 6,
-        "comments": 2,
-        "by": "titusblair",
-        "time": 1793830758,
-        "hn_url": "https://news.ycombinator.com/item?id=50372303"
-      }
-    },
-    {
-      "id": "e10412ac2afe",
-      "source": "hackernews",
-      "title": "Bruno: The Git-native API client",
-      "url": "https://www.usebruno.com",
-      "score": 0.12,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.449899+00:00",
-      "extra": {
-        "hn_id": 50371526,
-        "points": 10,
-        "comments": 1,
-        "by": "blue_green_maps",
-        "time": 1793826385,
-        "hn_url": "https://news.ycombinator.com/item?id=50371526"
-      }
-    },
-    {
-      "id": "99fcae7e5b23",
-      "source": "hackernews",
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "score": 2.11,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.490404+00:00",
-      "extra": {
-        "hn_id": 50361154,
-        "points": 124,
-        "comments": 58,
-        "by": "gmays",
-        "time": 1793762413,
-        "hn_url": "https://news.ycombinator.com/item?id=50361154"
-      }
-    },
-    {
-      "id": "5d5f237d076a",
-      "source": "hackernews",
-      "title": "Jelly Sheet",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "score": 6.17,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.524424+00:00",
-      "extra": {
-        "hn_id": 50361268,
-        "points": 448,
-        "comments": 113,
-        "by": "memalign",
-        "time": 1793763650,
-        "hn_url": "https://news.ycombinator.com/item?id=50361268"
-      }
-    },
-    {
-      "id": "f8cf5f9949ac",
-      "source": "hackernews",
-      "title": "Harmony: Chat like Discord. Federated like email",
-      "url": "https://mony.lol/",
-      "score": 0.34,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.557149+00:00",
-      "extra": {
-        "hn_id": 50372038,
-        "points": 15,
-        "comments": 13,
-        "by": "FinalDestiny",
-        "time": 1793828980,
-        "hn_url": "https://news.ycombinator.com/item?id=50372038"
-      }
-    },
-    {
-      "id": "e1deec34efef",
-      "source": "hackernews",
-      "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
-      "url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
-      "score": 0.4,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.589618+00:00",
-      "extra": {
-        "hn_id": 50369462,
-        "points": 29,
-        "comments": 7,
-        "by": "witcher",
-        "time": 1793816406,
-        "hn_url": "https://news.ycombinator.com/item?id=50369462"
-      }
-    },
-    {
-      "id": "6f835ebcdee9",
-      "source": "hackernews",
-      "title": "The lost malloc()",
-      "url": "https://napcakes.nekoweb.org/posts/malloc/",
-      "score": 2.61,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.622950+00:00",
-      "extra": {
-        "hn_id": 50362466,
-        "points": 153,
-        "comments": 72,
-        "by": "matt_d",
-        "time": 1793777850,
-        "hn_url": "https://news.ycombinator.com/item?id=50362466"
-      }
-    },
-    {
-      "id": "7c775132deaf",
-      "source": "hackernews",
-      "title": "You'll need nerves of steel to work with AI agents",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "score": 1.24,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.655826+00:00",
-      "extra": {
-        "hn_id": 50373149,
-        "points": 43,
-        "comments": 54,
-        "by": "theorchid",
-        "time": 1793836890,
-        "hn_url": "https://news.ycombinator.com/item?id=50373149"
-      }
-    },
-    {
-      "id": "5dfa15e3b071",
-      "source": "hackernews",
-      "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
-      "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
-      "score": 1.63,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.710343+00:00",
-      "extra": {
-        "hn_id": 50363861,
-        "points": 49,
-        "comments": 76,
-        "by": "teleforce",
-        "time": 1793790143,
-        "hn_url": "https://news.ycombinator.com/item?id=50363861"
-      }
-    },
-    {
-      "id": "c1c8de9da2ff",
-      "source": "hackernews",
-      "title": "Open-weight AI models can exploit the patch gap",
-      "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.773860+00:00",
-      "extra": {
-        "hn_id": 50375366,
-        "points": 1,
-        "comments": 0,
-        "by": "gmays",
-        "time": 1793854517,
-        "hn_url": "https://news.ycombinator.com/item?id=50375366"
-      }
-    },
-    {
-      "id": "b95e2a3a188e",
-      "source": "hackernews",
-      "title": "Architecture Converges with the Human Form in Gormley's Body Buildings(2025)",
-      "url": "https://www.thisiscolossal.com/2025/08/antony-gormley-body-buildings/",
-      "score": 0.01,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.805092+00:00",
-      "extra": {
-        "hn_id": 50375359,
-        "points": 1,
-        "comments": 0,
-        "by": "num42",
-        "time": 1793854470,
-        "hn_url": "https://news.ycombinator.com/item?id=50375359"
       }
     },
     {
@@ -1144,467 +100,1529 @@
       "source": "hackernews",
       "title": "Lemmings CSS Animation",
       "url": "https://markblah.github.io/lemmings/",
-      "score": 0.03,
+      "score": 3.5,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.837695+00:00",
+      "timestamp": "2026-11-05T13:56:32.618333+00:00",
       "extra": {
         "hn_id": 50375354,
-        "points": 1,
-        "comments": 1,
+        "points": 271,
+        "comments": 53,
         "by": "MarkBlah",
         "time": 1793854450,
         "hn_url": "https://news.ycombinator.com/item?id=50375354"
       }
     },
     {
-      "id": "631dc9d1c972",
+      "id": "5dc64b16565d",
       "source": "hackernews",
-      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
-      "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
-      "score": 0.01,
+      "title": "Awesome repositories are no longer awesome",
+      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "score": 1.81,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.869069+00:00",
+      "timestamp": "2026-11-05T13:56:32.653418+00:00",
       "extra": {
-        "hn_id": 50375348,
-        "points": 1,
-        "comments": 0,
-        "by": "geox",
-        "time": 1793854383,
-        "hn_url": "https://news.ycombinator.com/item?id=50375348"
+        "hn_id": 50377821,
+        "points": 100,
+        "comments": 54,
+        "by": "erikgahner",
+        "time": 1793877411,
+        "hn_url": "https://news.ycombinator.com/item?id=50377821"
       }
     },
     {
-      "id": "9dcd77bce3e7",
+      "id": "41295efc6336",
       "source": "hackernews",
-      "title": "Tell HN: Declare your trader status to continue distributing apps on Google Play",
-      "url": "https://news.ycombinator.com/item?id=50375324",
-      "score": 0.01,
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "score": 8.69,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.901365+00:00",
+      "timestamp": "2026-11-05T13:56:32.688814+00:00",
       "extra": {
-        "hn_id": 50375324,
-        "points": 1,
-        "comments": 0,
-        "by": "justauserid",
-        "time": 1793854145,
-        "hn_url": "https://news.ycombinator.com/item?id=50375324"
+        "hn_id": 50372929,
+        "points": 419,
+        "comments": 300,
+        "by": "dangelosaurus",
+        "time": 1793835194,
+        "hn_url": "https://news.ycombinator.com/item?id=50372929"
       }
     },
     {
-      "id": "ddcabe531f5e",
+      "id": "11226d4a6faf",
       "source": "hackernews",
-      "title": "Cold-start test: 8 agent sites, 2 cold writes, 97 logged requests",
-      "url": "https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/362853802061074432/2026-11-05/1793853557213-869eca17-6f40-4338-9d1b-6b75ee0ae224-audit.html",
-      "score": 0.01,
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "score": 6.42,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.932842+00:00",
+      "timestamp": "2026-11-05T13:56:32.723279+00:00",
       "extra": {
-        "hn_id": 50375285,
-        "points": 1,
-        "comments": 0,
-        "by": "leon_fieldtest",
-        "time": 1793853745,
-        "hn_url": "https://news.ycombinator.com/item?id=50375285"
+        "hn_id": 50372945,
+        "points": 339,
+        "comments": 202,
+        "by": "davidbarker",
+        "time": 1793835344,
+        "hn_url": "https://news.ycombinator.com/item?id=50372945"
       }
     },
     {
-      "id": "41c40c4d8efb",
+      "id": "5f228420f766",
       "source": "hackernews",
-      "title": "Removing Binder.c",
-      "url": "https://lwn.net/Articles/1102982/",
-      "score": 0.01,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 8.23,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.965521+00:00",
+      "timestamp": "2026-11-05T13:56:32.759671+00:00",
       "extra": {
-        "hn_id": 50375259,
-        "points": 1,
-        "comments": 0,
-        "by": "MBCook",
-        "time": 1793853530,
-        "hn_url": "https://news.ycombinator.com/item?id=50375259"
+        "hn_id": 50366999,
+        "points": 577,
+        "comments": 164,
+        "by": "abrarthought",
+        "time": 1793806230,
+        "hn_url": "https://news.ycombinator.com/item?id=50366999"
       }
     },
     {
-      "id": "84b703afe41d",
+      "id": "88a4b33edb52",
       "source": "hackernews",
-      "title": "Droid 1.0: Building a Frontier Harness",
-      "url": "https://factory.com/news/frontier-harness",
-      "score": 0.01,
+      "title": "Partial Operator Precedence",
+      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+      "score": 1.29,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:31.998990+00:00",
+      "timestamp": "2026-11-05T13:56:32.796183+00:00",
       "extra": {
-        "hn_id": 50375236,
-        "points": 1,
+        "hn_id": 50340195,
+        "points": 71,
+        "comments": 39,
+        "by": "tosh",
+        "time": 1793640140,
+        "hn_url": "https://news.ycombinator.com/item?id=50340195"
+      }
+    },
+    {
+      "id": "de190db06db8",
+      "source": "hackernews",
+      "title": "Spreading Liquid with Three.js",
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "score": 1.95,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.831069+00:00",
+      "extra": {
+        "hn_id": 50341576,
+        "points": 162,
+        "comments": 22,
+        "by": "mooreds",
+        "time": 1793645154,
+        "hn_url": "https://news.ycombinator.com/item?id=50341576"
+      }
+    },
+    {
+      "id": "a07dc6138003",
+      "source": "hackernews",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 4.79,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.866331+00:00",
+      "extra": {
+        "hn_id": 50369925,
+        "points": 313,
+        "comments": 111,
+        "by": "Philpax",
+        "time": 1793818409,
+        "hn_url": "https://news.ycombinator.com/item?id=50369925"
+      }
+    },
+    {
+      "id": "6bd4069879df",
+      "source": "hackernews",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "score": 0.53,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.911848+00:00",
+      "extra": {
+        "hn_id": 50376313,
+        "points": 36,
+        "comments": 11,
+        "by": "lucrbvi",
+        "time": 1793864670,
+        "hn_url": "https://news.ycombinator.com/item?id=50376313"
+      }
+    },
+    {
+      "id": "698f02b7a324",
+      "source": "hackernews",
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "score": 6.18,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.953462+00:00",
+      "extra": {
+        "hn_id": 50369106,
+        "points": 351,
+        "comments": 178,
+        "by": "olexsmir",
+        "time": 1793814731,
+        "hn_url": "https://news.ycombinator.com/item?id=50369106"
+      }
+    },
+    {
+      "id": "5e0a67672b81",
+      "source": "hackernews",
+      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "score": 1.85,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:32.990476+00:00",
+      "extra": {
+        "hn_id": 50377221,
+        "points": 119,
+        "comments": 44,
+        "by": "Animux",
+        "time": 1793871977,
+        "hn_url": "https://news.ycombinator.com/item?id=50377221"
+      }
+    },
+    {
+      "id": "d54c6cfce47b",
+      "source": "hackernews",
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "score": 5.08,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:33.026842+00:00",
+      "extra": {
+        "hn_id": 50370610,
+        "points": 293,
+        "comments": 143,
+        "by": "speckx",
+        "time": 1793821823,
+        "hn_url": "https://news.ycombinator.com/item?id=50370610"
+      }
+    },
+    {
+      "id": "24d8d7f9becf",
+      "source": "hackernews",
+      "title": "Being a kid making games in the early 2000s",
+      "url": "https://jaytholen.net/teengamedev/",
+      "score": 0.91,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:33.065225+00:00",
+      "extra": {
+        "hn_id": 50375691,
+        "points": 62,
+        "comments": 19,
+        "by": "farmerbb",
+        "time": 1793858033,
+        "hn_url": "https://news.ycombinator.com/item?id=50375691"
+      }
+    },
+    {
+      "id": "27fcc7052dcf",
+      "source": "hackernews",
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "score": 0.14,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:33.100332+00:00",
+      "extra": {
+        "hn_id": 50378625,
+        "points": 14,
         "comments": 0,
+        "by": "archb",
+        "time": 1793883928,
+        "hn_url": "https://news.ycombinator.com/item?id=50378625"
+      }
+    },
+    {
+      "id": "742d0c71a7c6",
+      "source": "hackernews",
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "score": 0.65,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:33.171117+00:00",
+      "extra": {
+        "hn_id": 50375653,
+        "points": 44,
+        "comments": 14,
         "by": "gmays",
-        "time": 1793853333,
-        "hn_url": "https://news.ycombinator.com/item?id=50375236"
+        "time": 1793857634,
+        "hn_url": "https://news.ycombinator.com/item?id=50375653"
       }
     },
     {
-      "id": "370b03963a96",
+      "id": "afe8ffc9899b",
       "source": "hackernews",
-      "title": "Ask HN: Where should I start to do marketing?",
-      "url": "https://news.ycombinator.com/item?id=50375196",
-      "score": 0.01,
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "score": 11.13,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.032127+00:00",
+      "timestamp": "2026-11-05T13:56:33.273404+00:00",
       "extra": {
-        "hn_id": 50375196,
-        "points": 1,
-        "comments": 0,
-        "by": "dhruonweb",
-        "time": 1793852935,
-        "hn_url": "https://news.ycombinator.com/item?id=50375196"
+        "hn_id": 50366117,
+        "points": 411,
+        "comments": 468,
+        "by": "eggbrain",
+        "time": 1793803042,
+        "hn_url": "https://news.ycombinator.com/item?id=50366117"
       }
     },
     {
-      "id": "bf1ad09ef0a7",
+      "id": "e843109a464f",
       "source": "hackernews",
-      "title": "Show HN: Hyperb – multiplatform browser for hypereffect apps (iroh, HTTP, WASM)",
-      "url": "https://github.com/hypereffect/hyperb",
-      "score": 0.02,
+      "title": "TScert: A Sound Core for TypeScript",
+      "url": "https://github.com/cristianoc/TScert",
+      "score": 0.18,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.115644+00:00",
+      "timestamp": "2026-11-05T13:56:33.415005+00:00",
       "extra": {
-        "hn_id": 50375049,
-        "points": 2,
-        "comments": 0,
-        "by": "andunie",
-        "time": 1793851724,
-        "hn_url": "https://news.ycombinator.com/item?id=50375049"
+        "hn_id": 50366465,
+        "points": 15,
+        "comments": 2,
+        "by": "bpierre",
+        "time": 1793804332,
+        "hn_url": "https://news.ycombinator.com/item?id=50366465"
       }
     },
     {
-      "id": "704ba7d7854c",
+      "id": "9ab5db9dbd49",
       "source": "hackernews",
-      "title": "Rack Community: a self-hosted AI lab whose job runner won't overload the box",
-      "url": "https://github.com/ohhbeehave35-commits/rack-community",
-      "score": 0.01,
+      "title": "TextEdit vs. Pages",
+      "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+      "score": 0.63,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.150668+00:00",
+      "timestamp": "2026-11-05T13:56:33.481117+00:00",
       "extra": {
-        "hn_id": 50375035,
-        "points": 1,
-        "comments": 0,
-        "by": "stingerindustri",
-        "time": 1793851603,
-        "hn_url": "https://news.ycombinator.com/item?id=50375035"
+        "hn_id": 50352846,
+        "points": 39,
+        "comments": 16,
+        "by": "surprisetalk",
+        "time": 1793718009,
+        "hn_url": "https://news.ycombinator.com/item?id=50352846"
       }
     },
     {
-      "id": "62baf65934eb",
+      "id": "0526f4e9286b",
       "source": "hackernews",
-      "title": "Show HN: Rendro – fills in security questionnaires and RFPs from your own docs",
-      "url": "https://www.rendro.net",
-      "score": 0.01,
+      "title": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "score": 5.0,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.183163+00:00",
+      "timestamp": "2026-11-05T13:56:33.642341+00:00",
       "extra": {
-        "hn_id": 50375029,
-        "points": 1,
-        "comments": 0,
-        "by": "itslupichuk",
-        "time": 1793851532,
-        "hn_url": "https://news.ycombinator.com/item?id=50375029"
+        "hn_id": 50369503,
+        "points": 193,
+        "comments": 205,
+        "by": "kenrose",
+        "time": 1793816560,
+        "hn_url": "https://news.ycombinator.com/item?id=50369503"
       }
     },
     {
-      "id": "f967ac57262b",
+      "id": "ddf94b893b74",
       "source": "hackernews",
-      "title": "3 D's of software: distribution, distribution, distribution",
-      "url": "https://pgdog.dev/blog/distribution",
-      "score": 0.02,
+      "title": "Moment of Ruby: An Argument for Nothing",
+      "url": "https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing",
+      "score": 0.68,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.216239+00:00",
+      "timestamp": "2026-11-05T13:56:33.681445+00:00",
       "extra": {
-        "hn_id": 50375024,
-        "points": 2,
-        "comments": 0,
-        "by": "levkk",
-        "time": 1793851493,
-        "hn_url": "https://news.ycombinator.com/item?id=50375024"
+        "hn_id": 50343293,
+        "points": 51,
+        "comments": 11,
+        "by": "zemptime",
+        "time": 1793651577,
+        "hn_url": "https://news.ycombinator.com/item?id=50343293"
       }
     },
     {
-      "id": "ee6af00c8ebd",
+      "id": "acfc91d7238e",
       "source": "hackernews",
-      "title": "Agentic Ordering on DoorDash",
-      "url": "https://developer.doordash.com/en-US/mcp/",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 22.9,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:33.775373+00:00",
+      "extra": {
+        "hn_id": 50364336,
+        "points": 1222,
+        "comments": 712,
+        "by": "pseudolus",
+        "time": 1793793137,
+        "hn_url": "https://news.ycombinator.com/item?id=50364336"
+      }
+    },
+    {
+      "id": "6e90d61dd5bb",
+      "source": "hackernews",
+      "title": "Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "score": 0.83,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:33.833430+00:00",
+      "extra": {
+        "hn_id": 50349165,
+        "points": 59,
+        "comments": 16,
+        "by": "jonesjohnson",
+        "time": 1793691545,
+        "hn_url": "https://news.ycombinator.com/item?id=50349165"
+      }
+    },
+    {
+      "id": "2e8a9ebcb1eb",
+      "source": "hackernews",
+      "title": "A Clock Made of Branches",
+      "url": "https://fzakaria.com/2026/11/01/a-clock-made-of-branches",
       "score": 0.03,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.249672+00:00",
+      "timestamp": "2026-11-05T13:56:33.881597+00:00",
       "extra": {
-        "hn_id": 50375004,
-        "points": 1,
-        "comments": 1,
-        "by": "Zambyte",
-        "time": 1793851262,
-        "hn_url": "https://news.ycombinator.com/item?id=50375004"
-      }
-    },
-    {
-      "id": "adfc3d3f3c31",
-      "source": "hackernews",
-      "title": "Show HN: Ryzova UCE – A local-first, rule-based software compatibility analyzer",
-      "url": "https://uce.ryzova.com/analyze",
-      "score": 0.02,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.281844+00:00",
-      "extra": {
-        "hn_id": 50374993,
-        "points": 2,
-        "comments": 0,
-        "by": "manethsethnal",
-        "time": 1793851135,
-        "hn_url": "https://news.ycombinator.com/item?id=50374993"
-      }
-    },
-    {
-      "id": "22d9f0342b1c",
-      "source": "hackernews",
-      "title": "What's the worst bug an AI coding agent silently introduced into your code?",
-      "url": "https://news.ycombinator.com/item?id=50374984",
-      "score": 0.04,
-      "velocity": 0.0,
-      "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.314291+00:00",
-      "extra": {
-        "hn_id": 50374984,
+        "hn_id": 50345195,
         "points": 3,
-        "comments": 1,
-        "by": "riyashikanedunc",
-        "time": 1793851034,
-        "hn_url": "https://news.ycombinator.com/item?id=50374984"
+        "comments": 0,
+        "by": "setheron",
+        "time": 1793660032,
+        "hn_url": "https://news.ycombinator.com/item?id=50345195"
       }
     },
     {
-      "id": "e1a652271043",
+      "id": "41309ab593d8",
       "source": "hackernews",
-      "title": "The Escape Room Economy",
-      "url": "https://twitter.com/nicholasachow/status/2115839602749849840",
-      "score": 0.01,
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "score": 1.46,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.365976+00:00",
+      "timestamp": "2026-11-05T13:56:33.951375+00:00",
       "extra": {
-        "hn_id": 50374923,
-        "points": 1,
-        "comments": 0,
-        "by": "gmays",
-        "time": 1793850549,
-        "hn_url": "https://news.ycombinator.com/item?id=50374923"
+        "hn_id": 50372164,
+        "points": 128,
+        "comments": 12,
+        "by": "muricula",
+        "time": 1793829709,
+        "hn_url": "https://news.ycombinator.com/item?id=50372164"
       }
     },
     {
-      "id": "3d592555156f",
+      "id": "c8a62f33bbc7",
       "source": "hackernews",
-      "title": "Anti-Monopolists Soared in the Midterms",
-      "url": "https://www.thebignewsletter.com/p/ten-things-to-know-about-this-crushing",
-      "score": 0.04,
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 4.09,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.398266+00:00",
+      "timestamp": "2026-11-05T13:56:33.987415+00:00",
       "extra": {
-        "hn_id": 50374893,
-        "points": 4,
-        "comments": 0,
-        "by": "chmaynard",
-        "time": 1793850320,
-        "hn_url": "https://news.ycombinator.com/item?id=50374893"
+        "hn_id": 50368626,
+        "points": 232,
+        "comments": 118,
+        "by": "ltononro",
+        "time": 1793812666,
+        "hn_url": "https://news.ycombinator.com/item?id=50368626"
       }
     },
     {
-      "id": "4c3edea20c78",
+      "id": "42959f429b85",
       "source": "hackernews",
-      "title": "Letagents – let your coding agents talk across machines",
-      "url": "https://letagents.talk/",
-      "score": 0.01,
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "score": 2.69,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.429682+00:00",
+      "timestamp": "2026-11-05T13:56:34.021662+00:00",
       "extra": {
-        "hn_id": 50374890,
-        "points": 1,
-        "comments": 0,
-        "by": "pg_2023",
-        "time": 1793850291,
-        "hn_url": "https://news.ycombinator.com/item?id=50374890"
+        "hn_id": 50369895,
+        "points": 223,
+        "comments": 31,
+        "by": "daniel_rh",
+        "time": 1793818287,
+        "hn_url": "https://news.ycombinator.com/item?id=50369895"
       }
     },
     {
-      "id": "aa67e430e8c9",
+      "id": "e8dc2351864d",
       "source": "hackernews",
-      "title": "Intent to Deprecate and Remove Google Chrome",
-      "url": "https://dbushell.com/2025/11/01/intent-to-deprecate-and-remove-google-chrome/",
-      "score": 0.01,
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "score": 6.96,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.461853+00:00",
+      "timestamp": "2026-11-05T13:56:34.056063+00:00",
       "extra": {
-        "hn_id": 50374875,
-        "points": 1,
-        "comments": 0,
-        "by": "gurjeet",
-        "time": 1793850196,
-        "hn_url": "https://news.ycombinator.com/item?id=50374875"
+        "hn_id": 50366522,
+        "points": 323,
+        "comments": 249,
+        "by": "zenincognito",
+        "time": 1793804504,
+        "hn_url": "https://news.ycombinator.com/item?id=50366522"
       }
     },
     {
-      "id": "13b60d5fed9d",
+      "id": "7f766b852fc9",
       "source": "hackernews",
-      "title": "Interactive Trillion Packet Anonymized Network Analysis with the GraphBLAS",
-      "url": "https://ieeexplore.ieee.org/abstract/document/11196571",
-      "score": 0.01,
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "score": 2.58,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.494159+00:00",
+      "timestamp": "2026-11-05T13:56:34.091825+00:00",
       "extra": {
-        "hn_id": 50374846,
-        "points": 1,
-        "comments": 0,
-        "by": "teleforce",
-        "time": 1793849941,
-        "hn_url": "https://news.ycombinator.com/item?id=50374846"
+        "hn_id": 50370654,
+        "points": 167,
+        "comments": 61,
+        "by": "peter_d_sherman",
+        "time": 1793822114,
+        "hn_url": "https://news.ycombinator.com/item?id=50370654"
       }
     },
     {
-      "id": "5ee2f70e0766",
+      "id": "b88b0ab298ce",
       "source": "hackernews",
-      "title": "Ask HN: Credit card and loyalty analytics, where to start?",
-      "url": "https://news.ycombinator.com/item?id=50374845",
-      "score": 0.02,
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "score": 1.44,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.526772+00:00",
+      "timestamp": "2026-11-05T13:56:34.127819+00:00",
       "extra": {
-        "hn_id": 50374845,
-        "points": 2,
-        "comments": 0,
-        "by": "scipio1551",
-        "time": 1793849939,
-        "hn_url": "https://news.ycombinator.com/item?id=50374845"
+        "hn_id": 50368804,
+        "points": 93,
+        "comments": 34,
+        "by": "lukeigel",
+        "time": 1793813513,
+        "hn_url": "https://news.ycombinator.com/item?id=50368804"
       }
     },
     {
-      "id": "17cab2da667e",
+      "id": "452510a9606e",
       "source": "hackernews",
-      "title": "Septaro, an AI-powered weekly reset to help you pursue your goals",
-      "url": "https://septaro.com",
-      "score": 0.01,
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 3.79,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.559279+00:00",
+      "timestamp": "2026-11-05T13:56:34.163706+00:00",
       "extra": {
-        "hn_id": 50374836,
-        "points": 1,
-        "comments": 0,
-        "by": "buildforwardco",
-        "time": 1793849868,
-        "hn_url": "https://news.ycombinator.com/item?id=50374836"
+        "hn_id": 50366863,
+        "points": 259,
+        "comments": 80,
+        "by": "itunpredictable",
+        "time": 1793805681,
+        "hn_url": "https://news.ycombinator.com/item?id=50366863"
       }
     },
     {
-      "id": "afe44de08154",
+      "id": "ba61038c35cd",
       "source": "hackernews",
-      "title": "Newly discovered Bacteria uses Acetone for food",
-      "url": "https://phys.org/news/2026-11-arctic-ocean-bacteria-acetone-carbon.html",
-      "score": 0.01,
+      "title": "A wave of plastic-free coffee pods and machines",
+      "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "score": 3.33,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.592064+00:00",
+      "timestamp": "2026-11-05T13:56:34.199221+00:00",
       "extra": {
-        "hn_id": 50374834,
-        "points": 1,
-        "comments": 0,
-        "by": "silver92bullet",
-        "time": 1793849861,
-        "hn_url": "https://news.ycombinator.com/item?id=50374834"
+        "hn_id": 50366853,
+        "points": 123,
+        "comments": 140,
+        "by": "thunderbong",
+        "time": 1793805649,
+        "hn_url": "https://news.ycombinator.com/item?id=50366853"
       }
     },
     {
-      "id": "80487fb259f4",
+      "id": "645ec2e40b24",
       "source": "hackernews",
-      "title": "I rebuilt my earthquake tracker from scratch",
-      "url": "https://klaxon.live/en",
-      "score": 0.01,
+      "title": "Replacing homepage demo media with looping HTML and CSS",
+      "url": "https://stepshots.com/css-feature-clips",
+      "score": 0.32,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.625177+00:00",
+      "timestamp": "2026-11-05T13:56:34.235848+00:00",
       "extra": {
-        "hn_id": 50374821,
-        "points": 1,
-        "comments": 0,
-        "by": "Accher",
-        "time": 1793849768,
-        "hn_url": "https://news.ycombinator.com/item?id=50374821"
+        "hn_id": 50364284,
+        "points": 17,
+        "comments": 10,
+        "by": "hauju",
+        "time": 1793792715,
+        "hn_url": "https://news.ycombinator.com/item?id=50364284"
       }
     },
     {
-      "id": "f3d8e4340a13",
+      "id": "b9290206a09a",
       "source": "hackernews",
-      "title": "Agentic Network Traffic Monitoring",
-      "url": "https://arxiv.org/abs/2609.32778",
+      "title": "All 5 genetic letters of DNA and RNA discovered in 4.5B-year-old asteroid",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "score": 0.26,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.270495+00:00",
+      "extra": {
+        "hn_id": 50378085,
+        "points": 15,
+        "comments": 7,
+        "by": "MrBuddyCasino",
+        "time": 1793879690,
+        "hn_url": "https://news.ycombinator.com/item?id=50378085"
+      }
+    },
+    {
+      "id": "fb789d196997",
+      "source": "hackernews",
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "score": 4.03,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.454821+00:00",
+      "extra": {
+        "hn_id": 50365780,
+        "points": 260,
+        "comments": 95,
+        "by": "Philpax",
+        "time": 1793801486,
+        "hn_url": "https://news.ycombinator.com/item?id=50365780"
+      }
+    },
+    {
+      "id": "728f4c593176",
+      "source": "hackernews",
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
       "score": 0.03,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.657290+00:00",
+      "timestamp": "2026-11-05T13:56:34.525121+00:00",
       "extra": {
-        "hn_id": 50374809,
-        "points": 1,
-        "comments": 1,
-        "by": "teleforce",
-        "time": 1793849660,
-        "hn_url": "https://news.ycombinator.com/item?id=50374809"
+        "hn_id": 50378942,
+        "points": 3,
+        "comments": 0,
+        "by": "freetonik",
+        "time": 1793886052,
+        "hn_url": "https://news.ycombinator.com/item?id=50378942"
       }
     },
     {
-      "id": "fc92319698d9",
+      "id": "0131aff456ae",
       "source": "hackernews",
-      "title": "OpenAI spent $1.2M in API cost to fix 948 Linux vulnerabilities",
-      "url": "https://twitter.com/OpenAI/status/2118119451401048497",
-      "score": 0.02,
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "score": 6.67,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.724062+00:00",
+      "timestamp": "2026-11-05T13:56:34.559514+00:00",
       "extra": {
-        "hn_id": 50374787,
-        "points": 2,
-        "comments": 0,
-        "by": "sidcool",
-        "time": 1793849405,
-        "hn_url": "https://news.ycombinator.com/item?id=50374787"
+        "hn_id": 50367653,
+        "points": 141,
+        "comments": 351,
+        "by": "theanonymousone",
+        "time": 1793808693,
+        "hn_url": "https://news.ycombinator.com/item?id=50367653"
       }
     },
     {
-      "id": "a6ce2f6c583d",
+      "id": "de3436042ddf",
       "source": "hackernews",
-      "title": "The $18B Contingent Workforce Machine",
-      "url": "https://burbank-ledger.pages.dev/articles/manpowergroup-experis-corporate-finance-audit/",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "score": 5.96,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.597126+00:00",
+      "extra": {
+        "hn_id": 50338474,
+        "points": 153,
+        "comments": 295,
+        "by": "PaulHoule",
+        "time": 1793634525,
+        "hn_url": "https://news.ycombinator.com/item?id=50338474"
+      }
+    },
+    {
+      "id": "ab939106743e",
+      "source": "hackernews",
+      "title": "Amazon tells engineers to stop 'tokenmaxxing' to look productive",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
+      "score": 0.13,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.636248+00:00",
+      "extra": {
+        "hn_id": 50378538,
+        "points": 7,
+        "comments": 4,
+        "by": "speckx",
+        "time": 1793883333,
+        "hn_url": "https://news.ycombinator.com/item?id=50378538"
+      }
+    },
+    {
+      "id": "d3712e487413",
+      "source": "hackernews",
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "url": "https://www.spacex.com/starfall",
+      "score": 4.88,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.672371+00:00",
+      "extra": {
+        "hn_id": 50373308,
+        "points": 234,
+        "comments": 169,
+        "by": "gmays",
+        "time": 1793837898,
+        "hn_url": "https://news.ycombinator.com/item?id=50373308"
+      }
+    },
+    {
+      "id": "fff64b0cf70b",
+      "source": "hackernews",
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "score": 8.63,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.707403+00:00",
+      "extra": {
+        "hn_id": 50367125,
+        "points": 559,
+        "comments": 203,
+        "by": "rbanffy",
+        "time": 1793806714,
+        "hn_url": "https://news.ycombinator.com/item?id=50367125"
+      }
+    },
+    {
+      "id": "cdadeed90326",
+      "source": "hackernews",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "score": 9.45,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.742430+00:00",
+      "extra": {
+        "hn_id": 50363461,
+        "points": 681,
+        "comments": 176,
+        "by": "jameslk",
+        "time": 1793787027,
+        "hn_url": "https://news.ycombinator.com/item?id=50363461"
+      }
+    },
+    {
+      "id": "4f1c02db5ff7",
+      "source": "hackernews",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "score": 10.24,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.778803+00:00",
+      "extra": {
+        "hn_id": 50362905,
+        "points": 603,
+        "comments": 281,
+        "by": "novaRom",
+        "time": 1793781989,
+        "hn_url": "https://news.ycombinator.com/item?id=50362905"
+      }
+    },
+    {
+      "id": "8dbd05a0ffb0",
+      "source": "hackernews",
+      "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
+      "url": "https://wiredream.com/anagram-fun/",
+      "score": 0.39,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.814011+00:00",
+      "extra": {
+        "hn_id": 50363353,
+        "points": 31,
+        "comments": 5,
+        "by": "ColinWright",
+        "time": 1793786263,
+        "hn_url": "https://news.ycombinator.com/item?id=50363353"
+      }
+    },
+    {
+      "id": "604b812720a9",
+      "source": "hackernews",
+      "title": "Is Curiosity Good for Us?",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+      "score": 0.9,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.850429+00:00",
+      "extra": {
+        "hn_id": 50356791,
+        "points": 48,
+        "comments": 28,
+        "by": "NaOH",
+        "time": 1793733383,
+        "hn_url": "https://news.ycombinator.com/item?id=50356791"
+      }
+    },
+    {
+      "id": "d31af4c776de",
+      "source": "hackernews",
+      "title": "How Apple fits a LLM on iPhone with surgical efficiency",
+      "url": "https://www.youtube.com/watch?v=sb9uPuiyM_8",
+      "score": 0.03,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.886460+00:00",
+      "extra": {
+        "hn_id": 50378587,
+        "points": 3,
+        "comments": 0,
+        "by": "lroe",
+        "time": 1793883718,
+        "hn_url": "https://news.ycombinator.com/item?id=50378587"
+      }
+    },
+    {
+      "id": "fa2da9de2e74",
+      "source": "hackernews",
+      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+      "score": 0.12,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.922864+00:00",
+      "extra": {
+        "hn_id": 50377784,
+        "points": 11,
+        "comments": 1,
+        "by": "throwaway270925",
+        "time": 1793877083,
+        "hn_url": "https://news.ycombinator.com/item?id=50377784"
+      }
+    },
+    {
+      "id": "4e35b3108b3b",
+      "source": "hackernews",
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "score": 3.12,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.958252+00:00",
+      "extra": {
+        "hn_id": 50366971,
+        "points": 95,
+        "comments": 145,
+        "by": "karakoram",
+        "time": 1793806111,
+        "hn_url": "https://news.ycombinator.com/item?id=50366971"
+      }
+    },
+    {
+      "id": "51e51d558133",
+      "source": "hackernews",
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "score": 11.86,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:34.994200+00:00",
+      "extra": {
+        "hn_id": 50365755,
+        "points": 616,
+        "comments": 380,
+        "by": "smalltech",
+        "time": 1793801395,
+        "hn_url": "https://news.ycombinator.com/item?id=50365755"
+      }
+    },
+    {
+      "id": "3db8237d0e44",
+      "source": "hackernews",
+      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+      "score": 0.94,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.030515+00:00",
+      "extra": {
+        "hn_id": 50339183,
+        "points": 50,
+        "comments": 29,
+        "by": "joe-esquibel",
+        "time": 1793636617,
+        "hn_url": "https://news.ycombinator.com/item?id=50339183"
+      }
+    },
+    {
+      "id": "7a853257e625",
+      "source": "hackernews",
+      "title": "Don't Call It a Decision Model",
+      "url": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
+      "score": 0.52,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.071472+00:00",
+      "extra": {
+        "hn_id": 50371890,
+        "points": 40,
+        "comments": 8,
+        "by": "emschwartz",
+        "time": 1793828118,
+        "hn_url": "https://news.ycombinator.com/item?id=50371890"
+      }
+    },
+    {
+      "id": "03fca2fb8449",
+      "source": "hackernews",
+      "title": "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
+      "url": "https://news.ycombinator.com/item?id=50347425",
+      "score": 1.86,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.108478+00:00",
+      "extra": {
+        "hn_id": 50347425,
+        "points": 77,
+        "comments": 73,
+        "by": "mike_richards",
+        "time": 1793674370,
+        "hn_url": "https://news.ycombinator.com/item?id=50347425"
+      }
+    },
+    {
+      "id": "ea1957567de9",
+      "source": "hackernews",
+      "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
+      "url": "https://x86.cx/blog/redanger",
+      "score": 0.61,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.144151+00:00",
+      "extra": {
+        "hn_id": 50371693,
+        "points": 46,
+        "comments": 10,
+        "by": "microcode",
+        "time": 1793827152,
+        "hn_url": "https://news.ycombinator.com/item?id=50371693"
+      }
+    },
+    {
+      "id": "4a696705ec98",
+      "source": "hackernews",
+      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "score": 2.17,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.178511+00:00",
+      "extra": {
+        "hn_id": 50366929,
+        "points": 107,
+        "comments": 73,
+        "by": "adlep",
+        "time": 1793805933,
+        "hn_url": "https://news.ycombinator.com/item?id=50366929"
+      }
+    },
+    {
+      "id": "a7d2105de487",
+      "source": "hackernews",
+      "title": "Chip Art",
+      "url": "https://en.wikipedia.org/wiki/Chip_art",
+      "score": 0.28,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.214769+00:00",
+      "extra": {
+        "hn_id": 50349992,
+        "points": 27,
+        "comments": 1,
+        "by": "SweetSoftPillow",
+        "time": 1793699499,
+        "hn_url": "https://news.ycombinator.com/item?id=50349992"
+      }
+    },
+    {
+      "id": "1ee506262075",
+      "source": "hackernews",
+      "title": "So my ISP was hijacking my DNS",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "score": 2.21,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.253077+00:00",
+      "extra": {
+        "hn_id": 50364860,
+        "points": 104,
+        "comments": 78,
+        "by": "frostbyte7",
+        "time": 1793796711,
+        "hn_url": "https://news.ycombinator.com/item?id=50364860"
+      }
+    },
+    {
+      "id": "0d0266944eca",
+      "source": "hackernews",
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "url": "https://evergreenlang.net",
+      "score": 2.42,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.289142+00:00",
+      "extra": {
+        "hn_id": 50366919,
+        "points": 111,
+        "comments": 87,
+        "by": "jordan_bonecut",
+        "time": 1793805904,
+        "hn_url": "https://news.ycombinator.com/item?id=50366919"
+      }
+    },
+    {
+      "id": "f880c5259751",
+      "source": "hackernews",
+      "title": "Life Under the Algorithm",
+      "url": "https://dissentmagazine.org/article/algorithmic-pricing-surveillance-wage-discrimination/",
       "score": 0.01,
       "velocity": 0.0,
       "category": "tech",
-      "timestamp": "2026-11-05T04:56:32.757182+00:00",
+      "timestamp": "2026-11-05T13:56:35.360401+00:00",
       "extra": {
-        "hn_id": 50374785,
+        "hn_id": 50379078,
         "points": 1,
         "comments": 0,
-        "by": "measurablefunc",
-        "time": 1793849399,
-        "hn_url": "https://news.ycombinator.com/item?id=50374785"
+        "by": "speckx",
+        "time": 1793886816,
+        "hn_url": "https://news.ycombinator.com/item?id=50379078"
+      }
+    },
+    {
+      "id": "df7c7706005a",
+      "source": "hackernews",
+      "title": "Show HN: TubeHaus – an open-source YouTube client with no Google account",
+      "url": "https://github.com/biolend83/tubehaus",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.403717+00:00",
+      "extra": {
+        "hn_id": 50379073,
+        "points": 1,
+        "comments": 0,
+        "by": "invidiouslove12",
+        "time": 1793886797,
+        "hn_url": "https://news.ycombinator.com/item?id=50379073"
+      }
+    },
+    {
+      "id": "bde35237bc63",
+      "source": "hackernews",
+      "title": "Can Astra recognize a game from its weights?",
+      "url": "https://arattinger.dev/writing/reading-neural-weights/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.441275+00:00",
+      "extra": {
+        "hn_id": 50379065,
+        "points": 1,
+        "comments": 0,
+        "by": "sephrenra",
+        "time": 1793886750,
+        "hn_url": "https://news.ycombinator.com/item?id=50379065"
+      }
+    },
+    {
+      "id": "6c1deafdc297",
+      "source": "hackernews",
+      "title": "World of Warcraft: Forever",
+      "url": "http://worldofwarcraft.blizzard.com/en-us/forever",
+      "score": 0.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.477867+00:00",
+      "extra": {
+        "hn_id": 50379055,
+        "points": 2,
+        "comments": 0,
+        "by": "ericmay",
+        "time": 1793886695,
+        "hn_url": "https://news.ycombinator.com/item?id=50379055"
+      }
+    },
+    {
+      "id": "abf1ef087b20",
+      "source": "hackernews",
+      "title": "Show HN: Aloud – native macOS TTS for selected text, PDFs and screenshots ($19)",
+      "url": "https://aloudapp.app/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.512302+00:00",
+      "extra": {
+        "hn_id": 50379051,
+        "points": 1,
+        "comments": 0,
+        "by": "SnapState",
+        "time": 1793886673,
+        "hn_url": "https://news.ycombinator.com/item?id=50379051"
+      }
+    },
+    {
+      "id": "fb0f5dd39d3b",
+      "source": "hackernews",
+      "title": "A progressive understanding of Christianity won in the US elections",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/05/james-talarico-adam-hamilton-christianity-conservatives",
+      "score": 0.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.548826+00:00",
+      "extra": {
+        "hn_id": 50379045,
+        "points": 2,
+        "comments": 0,
+        "by": "rawgabbit",
+        "time": 1793886630,
+        "hn_url": "https://news.ycombinator.com/item?id=50379045"
+      }
+    },
+    {
+      "id": "6a03881d07ca",
+      "source": "hackernews",
+      "title": "Design API: Programatically create and edit on-brand designs at scale",
+      "url": "https://rivermark.ai/design-api",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.585169+00:00",
+      "extra": {
+        "hn_id": 50379043,
+        "points": 1,
+        "comments": 0,
+        "by": "thegeomaster",
+        "time": 1793886619,
+        "hn_url": "https://news.ycombinator.com/item?id=50379043"
+      }
+    },
+    {
+      "id": "ff568907a734",
+      "source": "hackernews",
+      "title": "Abra, an AI creator crew built on Meta's Muse models",
+      "url": "https://github.com/amyboissoneau/AbraMeta",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.622400+00:00",
+      "extra": {
+        "hn_id": 50379031,
+        "points": 1,
+        "comments": 0,
+        "by": "amyboissbiz",
+        "time": 1793886577,
+        "hn_url": "https://news.ycombinator.com/item?id=50379031"
+      }
+    },
+    {
+      "id": "c2f1dfa86955",
+      "source": "hackernews",
+      "title": "Normal Maths",
+      "url": "https://late-nine.itch.io/normal-maths",
+      "score": 0.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.658061+00:00",
+      "extra": {
+        "hn_id": 50379028,
+        "points": 2,
+        "comments": 0,
+        "by": "Fraterkes",
+        "time": 1793886568,
+        "hn_url": "https://news.ycombinator.com/item?id=50379028"
+      }
+    },
+    {
+      "id": "1dc5c8569ede",
+      "source": "hackernews",
+      "title": "The efficient frontier of AI models",
+      "url": "https://luizsol.com/writing/ai-efficient-frontier/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.694089+00:00",
+      "extra": {
+        "hn_id": 50379022,
+        "points": 1,
+        "comments": 0,
+        "by": "luizsol",
+        "time": 1793886520,
+        "hn_url": "https://news.ycombinator.com/item?id=50379022"
+      }
+    },
+    {
+      "id": "c486963e3827",
+      "source": "hackernews",
+      "title": "Show HN: Strive and Seek – original merch for builders, hackers and founders",
+      "url": "https://shopstriveandseek.com/",
+      "score": 0.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.730053+00:00",
+      "extra": {
+        "hn_id": 50379021,
+        "points": 2,
+        "comments": 0,
+        "by": "byosko",
+        "time": 1793886509,
+        "hn_url": "https://news.ycombinator.com/item?id=50379021"
+      }
+    },
+    {
+      "id": "117d45998ffa",
+      "source": "hackernews",
+      "title": "Cyberattack hits French blood bank site but no blood products are compromised",
+      "url": "https://apnews.com/article/france-plasma-blood-bank-cyberattack-temperature-fridge-12b80bcf93b8404264209e519c204919",
+      "score": 0.04,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.764990+00:00",
+      "extra": {
+        "hn_id": 50379012,
+        "points": 2,
+        "comments": 1,
+        "by": "d4mi3n",
+        "time": 1793886464,
+        "hn_url": "https://news.ycombinator.com/item?id=50379012"
+      }
+    },
+    {
+      "id": "4e2fc65e7c5a",
+      "source": "hackernews",
+      "title": "Show HN: Vexus – tells Claude Code where to look before it greps your repo",
+      "url": "https://github.com/faique43/vexus",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.799284+00:00",
+      "extra": {
+        "hn_id": 50378990,
+        "points": 1,
+        "comments": 0,
+        "by": "faique43",
+        "time": 1793886380,
+        "hn_url": "https://news.ycombinator.com/item?id=50378990"
+      }
+    },
+    {
+      "id": "67a24f71ce8c",
+      "source": "hackernews",
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.834009+00:00",
+      "extra": {
+        "hn_id": 50378974,
+        "points": 1,
+        "comments": 0,
+        "by": "speckx",
+        "time": 1793886247,
+        "hn_url": "https://news.ycombinator.com/item?id=50378974"
+      }
+    },
+    {
+      "id": "e944c691946e",
+      "source": "hackernews",
+      "title": "The Tragedy of the Oxide Root of Trust",
+      "url": "https://danielmangum.com/posts/tragedy-oxide-rot/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.872151+00:00",
+      "extra": {
+        "hn_id": 50378970,
+        "points": 1,
+        "comments": 0,
+        "by": "hasheddan",
+        "time": 1793886224,
+        "hn_url": "https://news.ycombinator.com/item?id=50378970"
+      }
+    },
+    {
+      "id": "02c8ce6c219a",
+      "source": "hackernews",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "score": 0.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.908868+00:00",
+      "extra": {
+        "hn_id": 50378968,
+        "points": 2,
+        "comments": 0,
+        "by": "Brajeshwar",
+        "time": 1793886211,
+        "hn_url": "https://news.ycombinator.com/item?id=50378968"
+      }
+    },
+    {
+      "id": "53b30c63e429",
+      "source": "hackernews",
+      "title": "Aggression experience and observation drive shared behavioural andneural changes",
+      "url": "https://www.nature.com/articles/s41586-026-11217-9",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.948230+00:00",
+      "extra": {
+        "hn_id": 50378964,
+        "points": 1,
+        "comments": 0,
+        "by": "bookofjoe",
+        "time": 1793886197,
+        "hn_url": "https://news.ycombinator.com/item?id=50378964"
+      }
+    },
+    {
+      "id": "145ad66b01af",
+      "source": "hackernews",
+      "title": "Why am I so small [video]",
+      "url": "https://www.youtube.com/watch?v=SmA0cV9_vco",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:35.983267+00:00",
+      "extra": {
+        "hn_id": 50378962,
+        "points": 1,
+        "comments": 0,
+        "by": "surprisetalk",
+        "time": 1793886195,
+        "hn_url": "https://news.ycombinator.com/item?id=50378962"
+      }
+    },
+    {
+      "id": "014555f6b715",
+      "source": "hackernews",
+      "title": "Apps Can Now Try to Stop You from Canceling Subscriptions",
+      "url": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.019127+00:00",
+      "extra": {
+        "hn_id": 50378961,
+        "points": 1,
+        "comments": 0,
+        "by": "Brajeshwar",
+        "time": 1793886188,
+        "hn_url": "https://news.ycombinator.com/item?id=50378961"
+      }
+    },
+    {
+      "id": "66b248d5a435",
+      "source": "hackernews",
+      "title": "Show HN: Ferry, a highly customizable and feature-rich file manager for macOS",
+      "url": "https://ferry.indus3.org/",
+      "score": 0.02,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.058247+00:00",
+      "extra": {
+        "hn_id": 50378953,
+        "points": 2,
+        "comments": 0,
+        "by": "jailbirdBD",
+        "time": 1793886150,
+        "hn_url": "https://news.ycombinator.com/item?id=50378953"
+      }
+    },
+    {
+      "id": "d17836ed4ff4",
+      "source": "hackernews",
+      "title": "What makes background music distracting? Investigating the role of song lyrics",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/20445911.2023.2209346",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.128396+00:00",
+      "extra": {
+        "hn_id": 50378930,
+        "points": 1,
+        "comments": 0,
+        "by": "RickJWagner",
+        "time": 1793885974,
+        "hn_url": "https://news.ycombinator.com/item?id=50378930"
+      }
+    },
+    {
+      "id": "c54dccdfde8f",
+      "source": "hackernews",
+      "title": "Smart Glasses for Disabilities",
+      "url": "https://www.eenewseurope.com/en/smart-glasses-for-disabilities/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.164322+00:00",
+      "extra": {
+        "hn_id": 50378902,
+        "points": 1,
+        "comments": 0,
+        "by": "rbanffy",
+        "time": 1793885783,
+        "hn_url": "https://news.ycombinator.com/item?id=50378902"
+      }
+    },
+    {
+      "id": "58301277b53b",
+      "source": "hackernews",
+      "title": "Ties to Kalshi Throw Gambling Addiction Group into Disarray",
+      "url": "https://www.barrons.com/articles/kalshi-prediction-market-gambling-addiction-hotline-f4e64c71",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.198934+00:00",
+      "extra": {
+        "hn_id": 50378891,
+        "points": 1,
+        "comments": 0,
+        "by": "berkeleyjunk",
+        "time": 1793885715,
+        "hn_url": "https://news.ycombinator.com/item?id=50378891"
+      }
+    },
+    {
+      "id": "0cc0c4c61f17",
+      "source": "hackernews",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.234081+00:00",
+      "extra": {
+        "hn_id": 50378877,
+        "points": 1,
+        "comments": 0,
+        "by": "giuliomagnifico",
+        "time": 1793885595,
+        "hn_url": "https://news.ycombinator.com/item?id=50378877"
+      }
+    },
+    {
+      "id": "6889c4d6867e",
+      "source": "hackernews",
+      "title": "Show HN: AI Heat Map generated real-time from over 140 News Feeds",
+      "url": "https://ai-news.jagular.io/",
+      "score": 0.03,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.269116+00:00",
+      "extra": {
+        "hn_id": 50378872,
+        "points": 3,
+        "comments": 0,
+        "by": "psiberaktiv",
+        "time": 1793885584,
+        "hn_url": "https://news.ycombinator.com/item?id=50378872"
+      }
+    },
+    {
+      "id": "48c96b81bdd1",
+      "source": "hackernews",
+      "title": "EU deportations: 'Alternatives' to detention include surveillance and coercion",
+      "url": "https://statewatch.org/news/2026/november/eu-returns-alternatives-to-detention-and-increased-control-surveillance-and-coercion/",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.303688+00:00",
+      "extra": {
+        "hn_id": 50378865,
+        "points": 1,
+        "comments": 0,
+        "by": "iamnothere",
+        "time": 1793885544,
+        "hn_url": "https://news.ycombinator.com/item?id=50378865"
+      }
+    },
+    {
+      "id": "45746a966251",
+      "source": "hackernews",
+      "title": "From Crisis to Care: A Framework for Repatriated Civilian Hostages",
+      "url": "https://www.mdpi.com/2227-9032/14/18/3057",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.339985+00:00",
+      "extra": {
+        "hn_id": 50378864,
+        "points": 1,
+        "comments": 0,
+        "by": "wslh",
+        "time": 1793885535,
+        "hn_url": "https://news.ycombinator.com/item?id=50378864"
+      }
+    },
+    {
+      "id": "8416725ecb9c",
+      "source": "hackernews",
+      "title": "That \"Thunking\" Noise: Coroutines for the DIYer",
+      "url": "https://reindeereffect.com/0004",
+      "score": 0.01,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.375107+00:00",
+      "extra": {
+        "hn_id": 50378862,
+        "points": 1,
+        "comments": 0,
+        "by": "kmstout",
+        "time": 1793885525,
+        "hn_url": "https://news.ycombinator.com/item?id=50378862"
+      }
+    },
+    {
+      "id": "13188e90c7b4",
+      "source": "hackernews",
+      "title": "Ask HN: Are you writing your own programming language?",
+      "url": "https://news.ycombinator.com/item?id=50378854",
+      "score": 0.08,
+      "velocity": 0.0,
+      "category": "tech",
+      "timestamp": "2026-11-05T13:56:36.409879+00:00",
+      "extra": {
+        "hn_id": 50378854,
+        "points": 2,
+        "comments": 4,
+        "by": "empath75",
+        "time": 1793885501,
+        "hn_url": "https://news.ycombinator.com/item?id=50378854"
       }
     }
   ]
