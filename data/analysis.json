@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-12T06:46:29.931860+00:00",
-  "scrape_timestamp": "2026-11-12T06:44:55.777084+00:00",
-  "total_items_analyzed": 98,
+  "timestamp": "2026-11-12T19:30:28.283313+00:00",
+  "scrape_timestamp": "2026-11-12T19:28:55.839882+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,829 +16,520 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 10,
+      "count": 0,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [
-    {
-      "keyword": "attention",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-          "source": "hackernews",
-          "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-          "score": 0.77
-        },
-        {
-          "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-          "source": "hackernews",
-          "url": "https://leapquant.github.io/",
-          "score": 0.01
-        },
-        {
-          "title": "Attention is the new currency. @cythecreator knows how to convert it. As Founder of CY Academy, he has been studying and",
-          "source": "twitter",
-          "url": "https://nitter.kareem.one/BlockchainUNN/status/2120761982064206273#m",
-          "score": 0.5
-        }
-      ]
-    }
-  ],
+  "cross_platform_gaps": [],
   "velocity_leaders": [
+    {
+      "title": "Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.98,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 359.1
+    },
+    {
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "url": "http://blog.nozomi.space/posts/sw2_dock/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.01,
+      "velocity": 14.253,
+      "velocity_label": "exploding",
+      "combined_score": 71.62
+    },
+    {
+      "title": "Cold War lessons for the AI age",
+      "url": "https://2tinteractive.com/watch/episodes/5706/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 11.667,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
+    },
+    {
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.73,
+      "velocity": 10.91,
+      "velocity_label": "exploding",
+      "combined_score": 19.91
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.28,
+      "velocity": 10.2,
+      "velocity_label": "exploding",
+      "combined_score": 7.14
+    },
+    {
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 10.087,
+      "velocity_label": "exploding",
+      "combined_score": 34.8
+    },
+    {
+      "title": "Paths in Pieces",
+      "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.15,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 3.75
+    },
+    {
+      "title": "Show HN: Pond Snap – Like Flappy Bird, but for people who want to relax",
+      "url": "https://pondsnap.fun/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.609,
+      "velocity_label": "exploding",
+      "combined_score": 0.24
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.92,
+      "velocity": 9.57,
+      "velocity_label": "exploding",
+      "combined_score": 69.86
+    },
+    {
+      "title": "Running web sites makes me not want to",
+      "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.37,
+      "velocity": 9.549,
+      "velocity_label": "exploding",
+      "combined_score": 32.71
+    },
+    {
+      "title": "Research taste in history: the importance of learning Babylonian math",
+      "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.67,
+      "velocity": 9.321,
+      "velocity_label": "exploding",
+      "combined_score": 15.61
+    },
+    {
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "url": "https://jatorre.github.io/garden/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.27,
+      "velocity": 9.16,
+      "velocity_label": "exploding",
+      "combined_score": 51.99
+    },
+    {
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 9.1,
+      "velocity_label": "exploding",
+      "combined_score": 0.23
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.86,
+      "velocity": 8.852,
+      "velocity_label": "exploding",
+      "combined_score": 107.55
+    },
+    {
+      "title": "The big gap between AI capabilities and replacing jobs",
+      "url": "https://greyenlightenment.com/2026/11/11/the-gap-between-ai-capabilities-and-replacing-jobs/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 8.726,
+      "velocity_label": "exploding",
+      "combined_score": 0.44
+    },
     {
       "title": "Emacs in the Age of Magic",
       "url": "https://commandlinesystems.com/magic.txt",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.08,
-      "velocity": 21.167,
+      "base_score": 5.24,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 162.98
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.01,
-      "velocity": 18.844,
-      "velocity_label": "exploding",
-      "combined_score": 377.36
-    },
-    {
-      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
-      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 6.3
+      "combined_score": 111.35
     },
     {
       "title": "The Utah Teapot",
       "url": "https://graphics.cs.utah.edu/teapot/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.64,
-      "velocity": 18.0,
+      "base_score": 2.51,
+      "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 73.8
+      "combined_score": 53.34
     },
     {
-      "title": "We need more goat sacrifices",
-      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.65,
-      "velocity": 18.0,
+      "base_score": 1.68,
+      "velocity": 7.889,
       "velocity_label": "exploding",
-      "combined_score": 164.25
+      "combined_score": 33.13
     },
     {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "url": "https://av.github.io/safe-sand/",
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.5,
-      "velocity": 15.625,
+      "base_score": 0.45,
+      "velocity": 7.571,
       "velocity_label": "exploding",
-      "combined_score": 175.78
+      "combined_score": 8.52
+    },
+    {
+      "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.49,
+      "velocity": 7.194,
+      "velocity_label": "exploding",
+      "combined_score": 8.81
+    },
+    {
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.188,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 12.42,
-      "velocity": 14.63,
+      "base_score": 16.64,
+      "velocity": 7.104,
       "velocity_label": "exploding",
-      "combined_score": 454.26
+      "combined_score": 295.53
     },
     {
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "url": "https://github.com/huawei-csl/MACaQ",
+      "title": "Coffeezilla: Investigating the President [video]",
+      "url": "https://www.youtube.com/watch?v=W4PIkmjwGsQ",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.22,
-      "velocity": 14.316,
+      "base_score": 0.02,
+      "velocity": 7.073,
       "velocity_label": "exploding",
-      "combined_score": 43.66
+      "combined_score": 0.35
     },
     {
-      "title": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
-      "url": "https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.52,
-      "velocity": 13.646,
+      "base_score": 0.15,
+      "velocity": 7.008,
       "velocity_label": "exploding",
-      "combined_score": 17.74
+      "combined_score": 2.63
     },
     {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "url": "https://termsheetplease.com/",
+      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+      "url": "https://yourairedlines.com",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.31,
-      "velocity": 12.759,
+      "base_score": 0.55,
+      "velocity": 6.739,
       "velocity_label": "exploding",
-      "combined_score": 105.58
+      "combined_score": 9.27
     },
     {
-      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.9,
-      "velocity": 12.421,
+      "base_score": 1.74,
+      "velocity": 6.691,
       "velocity_label": "exploding",
-      "combined_score": 27.95
+      "combined_score": 29.1
     },
     {
-      "title": "Optimizing Reference Deletions in Git",
-      "url": "https://nayak.im/posts/optimizing-reference-deletion/",
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.34,
-      "velocity": 12.063,
+      "base_score": 0.89,
+      "velocity": 6.502,
       "velocity_label": "exploding",
-      "combined_score": 10.25
+      "combined_score": 14.47
     },
     {
-      "title": "A Brief History of Sierra Online (2017)",
-      "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+      "title": "Show HN: I built a calendar app that gives each event its own to-do list",
+      "url": "https://apps.apple.com/ph/app/daily-planner-tasks-zesfy/id6479947874",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.78,
-      "velocity": 11.983,
+      "base_score": 0.04,
+      "velocity": 6.407,
       "velocity_label": "exploding",
-      "combined_score": 23.37
+      "combined_score": 0.64
     },
     {
-      "title": "Jane Street: Socratic Tutor",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.09,
-      "velocity": 11.9,
+      "base_score": 4.89,
+      "velocity": 6.3,
+      "velocity_label": "exploding",
+      "combined_score": 77.02
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.17,
+      "velocity": 6.3,
       "velocity_label": "exploding",
       "combined_score": 2.68
     },
     {
-      "title": "Job Finding and Unemployment in the Age of AI",
-      "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai",
+      "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+      "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.01,
+      "velocity": 6.283,
+      "velocity_label": "exploding",
+      "combined_score": 15.87
+    },
+    {
+      "title": "Our software engineering interviews are changing a little",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.48,
+      "velocity": 6.265,
+      "velocity_label": "exploding",
+      "combined_score": 38.84
+    },
+    {
+      "title": "Show HN: DRS-VPT. Localize a photo in a 3D point cloud without an initial pose",
+      "url": "https://github.com/ori-drs/drs-vpt",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 6.065,
+      "velocity_label": "exploding",
+      "combined_score": 0.3
+    },
+    {
+      "title": "Escaping the \"Outside Criticism\" Trap",
+      "url": "https://www.astralcodexten.com/p/escaping-the-outside-criticism-trap",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 11.625,
+      "velocity": 6.0,
       "velocity_label": "exploding",
-      "combined_score": 0.29
+      "combined_score": 0.15
     },
     {
-      "title": "RT by @callyourblufff: Olandria is one of the Top 50 US Creators driving commercial and cultural weight across the creat",
-      "url": "https://nitter.kareem.one/olandriainfo/status/2120589465160917426#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 11.246,
-      "velocity_label": "exploding",
-      "combined_score": 14.06
-    },
-    {
-      "title": "AI, activity, and outcomes in software engineering",
-      "url": "https://cabird.com/talks/shipping-faster/",
+      "title": "Relate – the agent-native graph database",
+      "url": "https://relatedb.ai/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.67,
-      "velocity": 11.113,
+      "base_score": 0.01,
+      "velocity": 5.865,
       "velocity_label": "exploding",
-      "combined_score": 74.18
+      "combined_score": 0.15
+    },
+    {
+      "title": "Puppeteer vs. Selenium for Web Scraping, Tested on the Same Chrome",
+      "url": "https://scrapfly.io/blog/posts/puppeteer-vs-selenium",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.836,
+      "velocity_label": "exploding",
+      "combined_score": 0.15
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.08,
+      "velocity": 5.805,
+      "velocity_label": "exploding",
+      "combined_score": 1.16
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.91,
+      "velocity": 5.773,
+      "velocity_label": "exploding",
+      "combined_score": 13.13
+    },
+    {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.13,
+      "velocity": 5.76,
+      "velocity_label": "exploding",
+      "combined_score": 45.07
+    },
+    {
+      "title": "DockTail watches Docker containers, looks for labels, and exposes as TS services",
+      "url": "https://github.com/marvinvr/docktail",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.725,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Apify Security Incident",
+      "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 5.684,
+      "velocity_label": "exploding",
+      "combined_score": 0.99
+    },
+    {
+      "title": "About the Downtime and Security Incident",
+      "url": "https://danbooru.donmai.us/forum_topics/38685.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.684,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Creating Worlds: Runes and Spells Prototype",
+      "url": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 5.55,
+      "velocity_label": "exploding",
+      "combined_score": 3.19
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.38,
+      "velocity": 5.514,
+      "velocity_label": "exploding",
+      "combined_score": 19.02
+    },
+    {
+      "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.46,
+      "velocity": 5.477,
+      "velocity_label": "exploding",
+      "combined_score": 88.45
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.32,
+      "velocity": 5.424,
+      "velocity_label": "exploding",
+      "combined_score": 4.34
     },
     {
       "title": "93% of paint splatters are valid Perl programs (2019)",
       "url": "https://www.mcmillen.dev/sigbovik/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.16,
-      "velocity": 11.094,
+      "base_score": 6.69,
+      "velocity": 5.421,
       "velocity_label": "exploding",
-      "combined_score": 115.37
-    },
-    {
-      "title": "RT by @DilSeDoLabaz: Creator Economy is gradually becoming a Legit Thing with 4 to 4.5 million creators (2 to 2.5 millio",
-      "url": "https://nitter.kareem.one/BiswaThinks/status/2120742731660378403#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 10.954,
-      "velocity_label": "exploding",
-      "combined_score": 13.69
-    },
-    {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "url": "https://github.com/tylertms/Stela",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.44,
-      "velocity": 10.875,
-      "velocity_label": "exploding",
-      "combined_score": 39.15
-    },
-    {
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.93,
-      "velocity": 10.875,
-      "velocity_label": "exploding",
-      "combined_score": 25.28
-    },
-    {
-      "title": "Bad ideas that aren't bad anymore",
-      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 10.833,
-      "velocity_label": "exploding",
-      "combined_score": 3.79
-    },
-    {
-      "title": "LG Research releases K-Exaone 2.5 API for free",
-      "url": "https://www.lgresearch.ai/news/view?seq=755",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 10.404,
-      "velocity_label": "exploding",
-      "combined_score": 1.04
-    },
-    {
-      "title": "Olandria has been named one of the Top 50 US Creators in the ‘Highly Rated’ category by The Daily Influence, a media pla",
-      "url": "https://nitter.kareem.one/refinedng/status/2120765435364700163#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 10.277,
-      "velocity_label": "exploding",
-      "combined_score": 12.85
-    },
-    {
-      "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-      "url": "https://github.com/lukks/like-webrtc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.06,
-      "velocity": 10.234,
-      "velocity_label": "exploding",
-      "combined_score": 27.12
-    },
-    {
-      "title": "They're in Ukraine. Why Do Their Phones Say They're in Peru?",
-      "url": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.04,
-      "velocity": 10.2,
-      "velocity_label": "exploding",
-      "combined_score": 1.02
-    },
-    {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.44,
-      "velocity": 10.189,
-      "velocity_label": "exploding",
-      "combined_score": 62.15
-    },
-    {
-      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.28,
-      "velocity": 9.539,
-      "velocity_label": "exploding",
-      "combined_score": 30.52
+      "combined_score": 90.67
     },
     {
       "title": "Lock Your GitHub Actions",
       "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.62,
-      "velocity": 9.245,
+      "base_score": 4.16,
+      "velocity": 5.278,
       "velocity_label": "exploding",
-      "combined_score": 60.56
+      "combined_score": 54.89
     },
     {
-      "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
-      "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+      "title": "Show HN: MarkovChat, chat with people who share your intellectual interests",
+      "url": "https://markovchat.com/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 8.991,
+      "velocity": 5.267,
       "velocity_label": "exploding",
-      "combined_score": 0.22
+      "combined_score": 0.13
     },
     {
-      "title": "Pharo in the Browser with WebAssembly",
-      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "title": "Voyager 1 is about to reach one Light-Day from Earth",
+      "url": "https://www.smithsonianmag.com/smart-news/voyager-1-is-the-farthest-human-made-object-in-the-universe-and-the-spacecraft-is-about-to-reach-one-light-day-from-earth-180989845/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.78,
-      "velocity": 8.852,
+      "base_score": 0.04,
+      "velocity": 5.119,
       "velocity_label": "exploding",
-      "combined_score": 39.39
-    },
-    {
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 9.41,
-      "velocity": 8.797,
-      "velocity_label": "exploding",
-      "combined_score": 206.95
-    },
-    {
-      "title": "Nvidia's Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
-      "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 8.734,
-      "velocity_label": "exploding",
-      "combined_score": 1.31
-    },
-    {
-      "title": "GM, X creators! The creator economy is gradually moving beyond likes and impressions. What matters more is the ability t",
-      "url": "https://nitter.kareem.one/Jamilkhan539184/status/2120756922588745911#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 8.647,
-      "velocity_label": "exploding",
-      "combined_score": 10.81
-    },
-    {
-      "title": "How to make a CNC plasma cutter with high-frequency start",
-      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.42,
-      "velocity": 8.465,
-      "velocity_label": "exploding",
-      "combined_score": 8.89
-    },
-    {
-      "title": "Where to Buy a Custom Fake ID with Your Own Details",
-      "url": "https://www.yoloids.com/where-to-buy-a-custom-fake-id-with-your-own-details/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.063,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "Tools for exploring the souls of large language models",
-      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.61,
-      "velocity": 8.055,
-      "velocity_label": "exploding",
-      "combined_score": 12.28
-    },
-    {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.77,
-      "velocity": 7.814,
-      "velocity_label": "exploding",
-      "combined_score": 15.04
-    },
-    {
-      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-      "url": "https://leapquant.github.io/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "The hardest notes to find on the guitar",
-      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.63,
-      "velocity": 7.471,
-      "velocity_label": "exploding",
-      "combined_score": 30.44
-    },
-    {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "url": "https://news.ycombinator.com/item?id=50455811",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.15,
-      "velocity": 7.371,
-      "velocity_label": "exploding",
-      "combined_score": 21.19
-    },
-    {
-      "title": "Stingray Fish Laser",
-      "url": "https://www.stingray.no/en/technology/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.57,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 10.45
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.26,
-      "velocity": 7.317,
-      "velocity_label": "exploding",
-      "combined_score": 59.63
-    },
-    {
-      "title": "The Computer Graphics Book of Knowledge",
-      "url": "https://www.cs.cmu.edu/~ph/nyit/masson/history.htm",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.99,
-      "velocity": 7.12,
-      "velocity_label": "exploding",
-      "combined_score": 17.62
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.27,
-      "velocity": 7.117,
-      "velocity_label": "exploding",
-      "combined_score": 58.18
-    },
-    {
-      "title": "R to @ayam_alvin10: rarelist turns early protocol discovery into a legitimate creator economy, rewarding quality content",
-      "url": "https://nitter.kareem.one/nokaramo/status/2120758680719175843#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.5,
-      "velocity": 7.098,
-      "velocity_label": "exploding",
-      "combined_score": 8.87
-    },
-    {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.72,
-      "velocity": 6.559,
-      "velocity_label": "exploding",
-      "combined_score": 28.21
-    },
-    {
-      "title": "After Democrats' midterm wins, Palantir CEO Alex Karp says he's a 'progressive'",
-      "url": "https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 6.408,
-      "velocity_label": "exploding",
-      "combined_score": 0.96
-    },
-    {
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 12.43,
-      "velocity": 6.389,
-      "velocity_label": "exploding",
-      "combined_score": 198.53
-    },
-    {
-      "title": "Algorithm in the Consulting Room",
-      "url": "https://medium.com/@smoking2man/algorithm-in-the-consulting-room-on-the-architectural-mismatch-between-artificial-intelligence-and-5c3941f3f4c5",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.51
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "smart",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 74.48,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Smart home devices should work without the internet",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @Dan_cryypt: Connecting creator rewards to measurable performance is a smart move. It brings more transparency, acc",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "weight",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 15.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Can a Linear Program Do Weight-Space Programming?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "RT by @callyourblufff: Olandria is one of the Top 50 US Creators driving commercial and cultural weight across the creat",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "find",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 8.52,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "The hardest notes to find on the guitar",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "𝗧𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 𝗪𝗲𝗯𝟯 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗜𝘀 𝗔𝗯𝗼𝘂𝘁 𝗤𝘂𝗮𝗹𝗶𝘁𝘆, 𝗡𝗼𝘁 𝗝𝘂𝘀𝘁 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝘆. One thing I find interesting about @rarelistio is its fo",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "turn",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 6.6,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @believers1pk: The creator economy becomes more interesting when anyone can turn real-world moments into onchain cu",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "discovery",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 6.24,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @ayam_alvin10: rarelist turns early protocol discovery into a legitimate creator economy, rewarding quality content",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "quality",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.6,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @ayam_alvin10: rarelist turns early protocol discovery into a legitimate creator economy, rewarding quality content",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "attention",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.12,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Attention is the new currency. @cythecreator knows how to convert it. As Founder of CY Academy, he has been studying and",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "world",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 5.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Did Life Begin in an RNA World?",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "R to @believers1pk: The creator economy becomes more interesting when anyone can turn real-world moments into onchain cu",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "beyond",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.08,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Europe has been living beyond its means. Now the bills are due",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "GM, X creators! The creator economy is gradually moving beyond likes and impressions. What matters more is the ability t",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "finding",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 2.04,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Job Finding and Unemployment in the Age of AI",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Building infrastructure takes time, but finding real demand for it is what matters most. @turtledotxyz generated $1.04M",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "creator",
-        "creators",
-        "economy",
-        "gradually"
-      ],
-      "concept_hint": "creator + creators + economy + gradually",
-      "cluster_size": 4,
-      "discussion_count": 4,
-      "void_score": 32.0,
-      "examples": [
-        {
-          "title": "RT by @DilSeDoLabaz: Creator Economy is gradually becoming a Legit Thing with 4 to 4.5 million creators (2 to 2.5 millio",
-          "source": "twitter",
-          "matching_keywords": [
-            "creator",
-            "creators",
-            "economy",
-            "gradually"
-          ]
-        },
-        {
-          "title": "R to @ayam_alvin10: rarelist turns early protocol discovery into a legitimate creator economy, rewarding quality content",
-          "source": "twitter",
-          "matching_keywords": [
-            "creator",
-            "economy"
-          ]
-        },
-        {
-          "title": "GM, X creators! The creator economy is gradually moving beyond likes and impressions. What matters more is the ability t",
-          "source": "twitter",
-          "matching_keywords": [
-            "creator",
-            "creators",
-            "economy",
-            "gradually"
-          ]
-        },
-        {
-          "title": "R to @believers1pk: The creator economy becomes more interesting when anyone can turn real-world moments into onchain cu",
-          "source": "twitter",
-          "matching_keywords": [
-            "creator",
-            "economy"
-          ]
-        }
-      ]
-    },
     {
       "concept_cluster": [
         "open",
@@ -847,11 +538,11 @@
       ],
       "concept_hint": "open + show + source",
       "cluster_size": 3,
-      "discussion_count": 3,
-      "void_score": 13.5,
+      "discussion_count": 5,
+      "void_score": 37.5,
       "examples": [
         {
-          "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+          "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
           "source": "hackernews",
           "matching_keywords": [
             "open",
@@ -860,15 +551,31 @@
           ]
         },
         {
-          "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+          "title": "Hugging Face CEO vows to keep fighting for open-source AI",
           "source": "hackernews",
           "matching_keywords": [
-            "show",
+            "open",
             "source"
           ]
         },
         {
-          "title": "Show HN: Open-Source Audit of 1.58M Harvard Orbits and Vera Rubin Predictions",
+          "title": "The largest open-source DLE collection",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Stay-in-sight – everything you need for email outbound – open-source",
+          "source": "hackernews",
+          "matching_keywords": [
+            "open",
+            "source"
+          ]
+        },
+        {
+          "title": "Show HN: Easy Dashcam – open-source Android app for a Wi-Fi dashcam",
           "source": "hackernews",
           "matching_keywords": [
             "open",
@@ -881,11 +588,11 @@
   ],
   "personal_relevance": [
     {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.58,
+      "score": 0.32,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -893,23 +600,11 @@
       ]
     },
     {
-      "title": "R to @ayam_alvin10: rarelist turns early protocol discovery into a legitimate creator economy, rewarding quality content",
-      "url": "https://nitter.kareem.one/nokaramo/status/2120758680719175843#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.111,
-      "matching_tags": [
-        "content",
-        "creator"
-      ]
-    },
-    {
-      "title": "Show HN: Open-Source Audit of 1.58M Harvard Orbits and Vera Rubin Predictions",
-      "url": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
+      "title": "The largest open-source DLE collection",
+      "url": "https://github.com/trizoza/dles/blob/main/assets/daily-games/DLES.md",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.03,
+      "score": 0.14,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -917,91 +612,83 @@
       ]
     },
     {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.27,
+      "score": 0.08,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Stay-in-sight – everything you need for email outbound – open-source",
+      "url": "https://stayinsight.sleeksite.ai/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Easy Dashcam – open-source Android app for a Wi-Fi dashcam",
+      "url": "https://news.ycombinator.com/item?id=50472635",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.91,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
       ]
     },
     {
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "url": "https://github.com/klad-app/klad",
+      "title": "Research taste in history: the importance of learning Babylonian math",
+      "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.25,
+      "score": 0.67,
       "relevance": 0.056,
       "matching_tags": [
-        "source"
+        "learning"
       ]
     },
     {
-      "title": "Tools for exploring the souls of large language models",
-      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.61,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
-      ]
-    },
-    {
-      "title": "R to @Dan_cryypt: Connecting creator rewards to measurable performance is a smart move. It brings more transparency, acc",
-      "url": "https://nitter.kareem.one/kodd25/status/2120765943307461011#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "RT by @DilSeDoLabaz: Creator Economy is gradually becoming a Legit Thing with 4 to 4.5 million creators (2 to 2.5 millio",
-      "url": "https://nitter.kareem.one/BiswaThinks/status/2120742731660378403#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "GM, X creators! The creator economy is gradually moving beyond likes and impressions. What matters more is the ability t",
-      "url": "https://nitter.kareem.one/Jamilkhan539184/status/2120756922588745911#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "R to @believers1pk: The creator economy becomes more interesting when anyone can turn real-world moments into onchain cu",
-      "url": "https://nitter.kareem.one/Marusa_MetaX/status/2120756601564905872#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 0.5,
-      "relevance": 0.056,
-      "matching_tags": [
-        "creator"
-      ]
-    },
-    {
-      "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
-      "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
+      "score": 0.15,
       "relevance": 0.056,
       "matching_tags": [
         "code"
+      ]
+    },
+    {
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "url": "https://news.ycombinator.com/item?id=50471281",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.15,
+      "relevance": 0.056,
+      "matching_tags": [
+        "learning"
       ]
     }
   ]
