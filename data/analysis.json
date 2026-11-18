@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-18T00:27:59.374187+00:00",
-  "scrape_timestamp": "2026-11-18T00:26:23.303651+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-11-18T15:01:52.940960+00:00",
+  "scrape_timestamp": "2026-11-18T15:00:00.667933+00:00",
+  "total_items_analyzed": 128,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -20,576 +20,1973 @@
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 40,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "every",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
+          "source": "hackernews",
+          "url": "https://arxiv.org/abs/2609.14306",
+          "score": 0.12
+        },
+        {
+          "title": "Show HN: A job board where every advert specifies its framework",
+          "source": "hackernews",
+          "url": "https://www.frameworkheroes.com",
+          "score": 0.01
+        },
+        {
+          "title": "I let our AI agents run my X account for 30 days, posting every hour. Honestly the numbers were rough. We went from 166",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/HFundHooligan/status/2123069154605367447#m",
+          "score": 0.5
+        },
+        {
+          "title": "The Next Big Gaming Opportunity Might Not Be in the Game.\nIt Might Be Around It.\n\nEvery major cultural moment creates an...",
+          "source": "twitter",
+          "url": "https://twitter.com/GauravKara_koti/status/2123066358523109629#m",
+          "score": 0.0
+        },
+        {
+          "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+          "source": "twitter",
+          "url": "https://twitter.com/GauravKara_koti/status/2123062738419368040#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "agents",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+          "source": "hackernews",
+          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+          "score": 7.81
+        },
+        {
+          "title": "Data Minimization Is Imperative for the Age of AI Agents",
+          "source": "hackernews",
+          "url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
+          "score": 0.01
+        },
+        {
+          "title": "Show HN: RockDesk – remote desktop control for AI agents",
+          "source": "hackernews",
+          "url": "https://rockdesk.io/",
+          "score": 0.01
+        },
+        {
+          "title": "I let our AI agents run my X account for 30 days, posting every hour. Honestly the numbers were rough. We went from 166",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/HFundHooligan/status/2123069154605367447#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "built",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+          "source": "hackernews",
+          "url": "https://github.com/Apakottur/unref",
+          "score": 0.7
+        },
+        {
+          "title": "Show HN: Zuse – a decision model built for Europe's languages, running in the EU",
+          "source": "hackernews",
+          "url": "https://bineric.com/zuse",
+          "score": 0.02
+        },
+        {
+          "title": "Best 15 accounts to follow in AI:@karpathy= LLMs king@steipete= built openclaw@gregisenberg= startup ideas king@rileybro...",
+          "source": "twitter",
+          "url": "https://twitter.com/DAIEvolutionHub/status/2122966996375458259#m",
+          "score": 0.09
+        },
+        {
+          "title": "At our last startup, we spent weeks trying to learn Adobe Premiere and After Effects.\n\nWe built Clueso to kill those too...",
+          "source": "twitter",
+          "url": "https://twitter.com/realAkashAnand/status/2123068909981192337#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "now",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "So what should an engineer do now?",
+          "source": "hackernews",
+          "url": "https://twitter.com/a7ulr/status/2122854660675432584",
+          "score": 0.01
+        },
+        {
+          "title": "1/8 Your gaming PC's GPU is sitting idle right now. Meanwhile, AI startups are paying a fortune to rent GPUs from Big Te",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/respector789/status/2123069151610855620#m",
+          "score": 0.5
+        },
+        {
+          "title": "We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell them...",
+          "source": "twitter",
+          "url": "https://twitter.com/Mis_Ashford/status/2122815311065784759#m",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "keyword": "models",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Classical Energies Learn to Reason 1k× Faster Than Looped Models",
+          "source": "hackernews",
+          "url": "https://arxiv.org/abs/2611.17309",
+          "score": 0.16
+        },
+        {
+          "title": "Latent Lattice Language Models",
+          "source": "hackernews",
+          "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+          "score": 0.61
+        },
+        {
+          "title": "DARIO VS OPEN SOURCE AI Open source models are dangerous to @AnthropicAI's profitability as they provide consumers somet",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/voicereason05/status/2123069149526081974#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "source",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+          "source": "hackernews",
+          "url": "https://visualbasic.world/",
+          "score": 3.69
+        },
+        {
+          "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+          "source": "hackernews",
+          "url": "https://github.com/RunanywhereAI/trnrt",
+          "score": 0.62
+        },
+        {
+          "title": "DARIO VS OPEN SOURCE AI Open source models are dangerous to @AnthropicAI's profitability as they provide consumers somet",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/voicereason05/status/2123069149526081974#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "learn",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Classical Energies Learn to Reason 1k× Faster Than Looped Models",
+          "source": "hackernews",
+          "url": "https://arxiv.org/abs/2611.17309",
+          "score": 0.16
+        },
+        {
+          "title": "RT by @BrillaConElla: AI had the entire internet to learn from Robots never had that kind of data for physical skills Th",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/BrillaConElla/status/2122967432511852865#m",
+          "score": 0.5
+        },
+        {
+          "title": "At our last startup, we spent weeks trying to learn Adobe Premiere and After Effects.\n\nWe built Clueso to kill those too...",
+          "source": "twitter",
+          "url": "https://twitter.com/realAkashAnand/status/2123068909981192337#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Who Builds the Machines That Build the Machines?",
+          "source": "hackernews",
+          "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+          "score": 1.96
+        },
+        {
+          "title": "A Pune startup got a licence to build warships for the Indian Navy.\n\nIts ship, Matangi, already sailed 1,500 km from Mum...",
+          "source": "twitter",
+          "url": "https://twitter.com/VaibhavSisinty/status/2122706686217801859#m",
+          "score": 1.16
+        },
+        {
+          "title": "Amit, what do you plan to do next? Why not build a startup that creates value for India?",
+          "source": "twitter",
+          "url": "https://twitter.com/iamvks05/status/2123068872546996348#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "best",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "What is the best harness for each model?",
+          "source": "hackernews",
+          "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+          "score": 6.01
+        },
+        {
+          "title": "Best 15 accounts to follow in AI:@karpathy= LLMs king@steipete= built openclaw@gregisenberg= startup ideas king@rileybro...",
+          "source": "twitter",
+          "url": "https://twitter.com/DAIEvolutionHub/status/2122966996375458259#m",
+          "score": 0.09
+        },
+        {
+          "title": "Enjoyed this post?\n\nFor more timeless wisdom and actionable advice from the world’s best founders, subscribe to my newsl...",
+          "source": "twitter",
+          "url": "https://twitter.com/StartupWisdom_/status/2123068771539751383#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "flash",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "MAI Code 2 and Code 2 Flash",
+          "source": "hackernews",
+          "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+          "score": 6.3
+        },
+        {
+          "title": "Tencent Hy4 Flash",
+          "source": "hackernews",
+          "url": "https://hy.tencent.ai/research/hy4-flash",
+          "score": 1.85
+        },
+        {
+          "title": "💪 Learning How to Use Heavy Flash Knuckle from Leshar\n\nA breakdown of how to use Heavy Flash Knuckle to whiff punish, in...",
+          "source": "twitter",
+          "url": "https://twitter.com/highspeedwara/status/2123068919363596549#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "nvidia",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+          "source": "hackernews",
+          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+          "score": 10.4
+        },
+        {
+          "title": "We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell them...",
+          "source": "twitter",
+          "url": "https://twitter.com/Mis_Ashford/status/2122815311065784759#m",
+          "score": 0.8
+        },
+        {
+          "title": "Nvidia's leadership transition and Anthropic's IPO could reshape AI startup funding.\n\nAV Managing Partner Laura Rippy jo...",
+          "source": "twitter",
+          "url": "https://twitter.com/alumniventures/status/2123068814401167782#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "gta",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "We made GTA 6 – we should have working conditions to match",
+          "source": "hackernews",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
+          "score": 0.01
+        },
+        {
+          "title": "august 29, 2017.\n\nfound this picture of my computer installing GTA V after begging my parents to buy me the game.\n\ni sti...",
+          "source": "twitter",
+          "url": "https://twitter.com/Vatsalpandya333/status/2123068773641142772#m",
+          "score": 0.0
+        },
+        {
+          "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+          "source": "twitter",
+          "url": "https://twitter.com/GauravKara_koti/status/2123062738419368040#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "world",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+          "source": "hackernews",
+          "url": "https://visualbasic.world/",
+          "score": 3.69
+        },
+        {
+          "title": "Enjoyed this post?\n\nFor more timeless wisdom and actionable advice from the world’s best founders, subscribe to my newsl...",
+          "source": "twitter",
+          "url": "https://twitter.com/StartupWisdom_/status/2123068771539751383#m",
+          "score": 0.0
+        },
+        {
+          "title": "The world of digital content is constantly changing. Artificial intelligence is making content creation easier, Web3 is ...",
+          "source": "twitter",
+          "url": "https://twitter.com/Roman_sw09/status/2123066399849418781#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "won",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Windows Server 2028 won't be compatible by default",
+          "source": "hackernews",
+          "url": "https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766",
+          "score": 0.02
+        },
+        {
+          "title": "GTA6 launches today single player only on consoles\n\nThe “gta6 will mint millionaires bro” rhetoric won’t probably occur ...",
+          "source": "twitter",
+          "url": "https://twitter.com/AzFlin/status/2123068283893240013#m",
+          "score": 0.01
+        },
+        {
+          "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+          "source": "twitter",
+          "url": "https://twitter.com/GauravKara_koti/status/2123062738419368040#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "media",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Joe Rogan: A catalyst in the changing landscape of political media",
+          "source": "hackernews",
+          "url": "https://www.annenbergpublicpolicycenter.org/joe-rogan-a-catalyst-in-the-changing-landscape-of-political-media/",
+          "score": 0.02
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "url": "https://twitter.com/Chude/status/2123067431035736078#m",
+          "score": 0.0
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "url": "https://twitter.com/WithChudeShow/status/2123066953246056823#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "pipeline",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Realtime, unbuffered, streaming, non-newline-delimited regex pipeline in Bash?",
+          "source": "hackernews",
+          "url": "https://www.autodidacts.io/realtime-streaming-regex-filters-in-bash-pipeline-solve-sed-buffering-newline-problems-with-perl/",
+          "score": 0.01
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "url": "https://twitter.com/Chude/status/2123067431035736078#m",
+          "score": 0.0
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "url": "https://twitter.com/WithChudeShow/status/2123066953246056823#m",
+          "score": 0.0
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "My Empire of Dirt",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.55,
-      "velocity": 18.0,
+      "base_score": 13.59,
+      "velocity": 24.333,
       "velocity_label": "exploding",
-      "combined_score": 159.75
+      "combined_score": 826.73
     },
     {
-      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+      "title": "Tencent Hy4 Flash",
+      "url": "https://hy.tencent.ai/research/hy4-flash",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.43,
-      "velocity": 12.656,
+      "base_score": 1.85,
+      "velocity": 21.167,
       "velocity_label": "exploding",
-      "combined_score": 45.25
+      "combined_score": 97.9
     },
     {
-      "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
-      "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 12.048,
-      "velocity_label": "exploding",
-      "combined_score": 0.9
-    },
-    {
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "url": "https://alloyhtml.com/example.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.19,
-      "velocity": 11.644,
-      "velocity_label": "exploding",
-      "combined_score": 63.75
-    },
-    {
-      "title": "Japan's Hometown Tax (2018)",
-      "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.33,
-      "velocity": 11.469,
-      "velocity_label": "exploding",
-      "combined_score": 66.81
-    },
-    {
-      "title": "California bans Waymo autonomous vehicles from state freeways",
-      "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.41,
-      "velocity": 11.429,
-      "velocity_label": "exploding",
-      "combined_score": 11.71
-    },
-    {
-      "title": "Nimony: A New Compiler for Nim",
-      "url": "https://nimony.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.17,
-      "velocity": 11.214,
-      "velocity_label": "exploding",
-      "combined_score": 88.87
-    },
-    {
-      "title": "Performance of a formally-verified C compiler vs. GCC -O2",
-      "url": "https://ut-infraai.github.io/2026/11/13/trying-to-make-compcert-as-fast-as-gcc-o2/",
-      "source": "hackernews",
-      "category": "tech",
+      "title": "🚨 Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report\n\nBengaluru accou...",
+      "url": "https://twitter.com/moneycontrolcom/status/2123054872308162820#m",
+      "source": "twitter",
+      "category": "social",
       "base_score": 0.01,
-      "velocity": 10.729,
-      "velocity_label": "exploding",
-      "combined_score": 0.27
-    },
-    {
-      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
-      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.82,
-      "velocity": 10.66,
-      "velocity_label": "exploding",
-      "combined_score": 48.5
-    },
-    {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 19.98,
-      "velocity": 10.559,
-      "velocity_label": "exploding",
-      "combined_score": 527.4
-    },
-    {
-      "title": "AI Helps Find Major Security Bug in Java",
-      "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.272,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-      "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.12,
-      "velocity": 9.789,
-      "velocity_label": "exploding",
-      "combined_score": 27.41
-    },
-    {
-      "title": "Does locking up a student's phone improve test scores? A new study suggests so",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 9.502,
-      "velocity_label": "exploding",
-      "combined_score": 1.66
-    },
-    {
-      "title": "Rows vs. Columns: How different are they, really?",
-      "url": "https://spiraldb.com/blog/rows-vs-columns",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.35,
-      "velocity": 8.896,
-      "velocity_label": "exploding",
-      "combined_score": 52.26
-    },
-    {
-      "title": "Not Everything Needs an LLM",
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.23,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 26.14
-    },
-    {
-      "title": "Who Builds the Machines That Build the Machines?",
-      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.26,
-      "velocity": 8.419,
-      "velocity_label": "exploding",
-      "combined_score": 26.52
-    },
-    {
-      "title": "Nvidia earnings beat estimates; attention turns to call",
-      "url": "https://www.reuters.com/business/view-nvidia-earnings-beat-estimates-attention-turns-call-2026-11-17/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 7.818,
-      "velocity_label": "exploding",
-      "combined_score": 0.39
-    },
-    {
-      "title": "Waymo pauses US freeway operations of its self-driving cars after California ban",
-      "url": "https://www.cnn.com/2026/11/17/us/california-waymo-ban-freeways",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.78,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Apple Services Down",
-      "url": "https://developer.apple.com/system-status/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.26,
-      "velocity": 7.667,
-      "velocity_label": "exploding",
-      "combined_score": 215.82
-    },
-    {
-      "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
-      "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.73,
-      "velocity": 7.352,
-      "velocity_label": "exploding",
-      "combined_score": 13.42
-    },
-    {
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 20.46,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 375.1
-    },
-    {
-      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-      "url": "https://visualbasic.world/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.31,
-      "velocity": 7.202,
-      "velocity_label": "exploding",
-      "combined_score": 59.59
-    },
-    {
-      "title": "List of aviation shootdowns and accidents during the 2026 Iran war",
-      "url": "https://en.wikipedia.org/wiki/List_of_aviation_shootdowns_and_accidents_during_the_2026_Iran_war",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.095,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 10.59,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 183.12
-    },
-    {
-      "title": "OpenAI Shipped Astra 6.2 despite known behavioral regressions!",
-      "url": "https://twitter.com/AdamHoltererer/status/2122830568501256563",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.686,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "Too Many Stadiums with Roofs",
-      "url": "https://sharptext.net/2026/too-many-stadiums-with-roofs/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.29,
-      "velocity": 6.6,
-      "velocity_label": "exploding",
-      "combined_score": 21.29
-    },
-    {
-      "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-      "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.31,
-      "velocity": 6.455,
-      "velocity_label": "exploding",
-      "combined_score": 37.28
-    },
-    {
-      "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors",
-      "url": "https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.388,
+      "velocity": 19.33,
       "velocity_label": "exploding",
       "combined_score": 0.48
     },
     {
-      "title": "Apple faces French trial over alleged planned obsolescence of iPhones",
-      "url": "https://us.afpnews.com/article/?apple-faces-french-trial-over-alleged-planned-obsolescence-of-iphones-source,D7NH6NW",
+      "title": "When AI Knows More Than It Can Offer",
+      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.39,
-      "velocity": 6.25,
+      "base_score": 0.57,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 6.09
+      "combined_score": 25.65
     },
     {
-      "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
-      "url": "https://arxiv.org/abs/2611.18126",
+      "title": "Phrack 73",
+      "url": "https://phrack.org/issues/73/introduction_md",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.6,
-      "velocity": 6.2,
+      "base_score": 5.27,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 9.3
+      "combined_score": 237.15
     },
     {
-      "title": "Shimizu Mega-City Pyramid",
-      "url": "https://malevuz.com/shimizu-mega-city-pyramid/",
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.28,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 282.6
+    },
+    {
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.13,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 230.85
+    },
+    {
+      "title": "Mouse Party",
+      "url": "https://aboard.com/lets-have-a-mouse-party/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.18,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 53.1
+    },
+    {
+      "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+      "url": "https://twitter.com/Chude/status/2123067431035736078#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 17.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+      "url": "https://twitter.com/WithChudeShow/status/2123066953246056823#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 17.833,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Amit, what do you plan to do next? Why not build a startup that creates value for India?",
+      "url": "https://twitter.com/iamvks05/status/2123068872546996348#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 17.329,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.21,
+      "velocity": 15.898,
+      "velocity_label": "exploding",
+      "combined_score": 87.84
+    },
+    {
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.3,
+      "velocity": 15.483,
+      "velocity_label": "exploding",
+      "combined_score": 243.86
+    },
+    {
+      "title": "We made GTA 6 – we should have working conditions to match",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.2,
+      "velocity": 14.842,
       "velocity_label": "exploding",
-      "combined_score": 0.16
+      "combined_score": 0.37
     },
     {
-      "title": "What is the best harness for each model?",
-      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "title": "Thinking about building a startup in Malta? Before you spend a week chasing answers in group chats, start here. Malta St...",
+      "url": "https://twitter.com/Rexmd13/status/2123068963961876539#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 14.436,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Java4Shell is a reason to use Java",
+      "url": "https://mccue.dev/pages/11-18-26-java4shell",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.96,
-      "velocity": 6.087,
+      "base_score": 0.02,
+      "velocity": 13.981,
       "velocity_label": "exploding",
-      "combined_score": 75.48
+      "combined_score": 0.7
     },
     {
       "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
       "url": "https://arxiv.org/abs/2611.09827",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.3,
-      "velocity": 5.911,
+      "base_score": 2.29,
+      "velocity": 13.514,
       "velocity_label": "exploding",
-      "combined_score": 19.21
+      "combined_score": 77.37
     },
     {
-      "title": "Nvidia Beats Estimates, Raises Guidance After Huang's Ouster",
-      "url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.09,
-      "velocity": 5.748,
+      "base_score": 25.56,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 1.29
+      "combined_score": 846.68
     },
     {
-      "title": "The geometry of morphospaces: lessons from the classic Raup shell coiling model [pdf]",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.12276",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.68,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.74,
-      "velocity": 5.64,
-      "velocity_label": "exploding",
-      "combined_score": 10.43
-    },
-    {
-      "title": "Voyager 1's 'light-day' milestone has been a half-century in the making",
-      "url": "https://www.scientificamerican.com/article/voyager-1-approaches-a-light-day-milestone/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.572,
-      "velocity_label": "exploding",
-      "combined_score": 0.14
-    },
-    {
-      "title": "Fixing a WebKit bug to see if promises are made of train tracks",
-      "url": "https://alistair.sh/thenables",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.33,
-      "velocity": 5.37,
-      "velocity_label": "exploding",
-      "combined_score": 4.43
-    },
-    {
-      "title": "IIHF confirms cyberattack after website goes offline",
-      "url": "https://www.cbc.ca/news/world/iihf-website-hacked-russia-9.7424810",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.286,
-      "velocity_label": "exploding",
-      "combined_score": 0.4
-    },
-    {
-      "title": "Computer Graphics from Scratch",
-      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.14,
-      "velocity": 5.278,
-      "velocity_label": "exploding",
-      "combined_score": 1.85
-    },
-    {
-      "title": "Build-a-Pal – Offline robot kids teach by voice and gesture",
-      "url": "https://www.indiegogo.com/en/projects/ghassen/build-a-pal",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.272,
-      "velocity_label": "exploding",
-      "combined_score": 0.79
-    },
-    {
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.262,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "New Species of Giant Fungus Discovered in China Grows Up to 20 Inches Tall",
-      "url": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.18,
-      "velocity": 5.25,
-      "velocity_label": "exploding",
-      "combined_score": 2.36
-    },
-    {
-      "title": "Show HN: Shard – Distributed AI Inference Across Multiple Computers",
-      "url": "https://github.com/avelone123123/shard",
+      "title": "Can Universities Survive? AI vs. Higher Education [audio]",
+      "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.04,
-      "velocity": 5.067,
+      "velocity": 12.36,
       "velocity_label": "exploding",
-      "combined_score": 0.51
+      "combined_score": 1.24
+    },
+    {
+      "title": "At our last startup, we spent weeks trying to learn Adobe Premiere and After Effects.\n\nWe built Clueso to kill those too...",
+      "url": "https://twitter.com/realAkashAnand/status/2123068909981192337#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 11.969,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 12.48,
+      "velocity": 11.882,
+      "velocity_label": "exploding",
+      "combined_score": 370.71
+    },
+    {
+      "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+      "url": "https://twitter.com/GauravKara_koti/status/2123062738419368040#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 11.665,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.58,
+      "velocity": 11.216,
+      "velocity_label": "exploding",
+      "combined_score": 156.46
+    },
+    {
+      "title": "We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell them...",
+      "url": "https://twitter.com/Mis_Ashford/status/2122815311065784759#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.8,
+      "velocity": 10.862,
+      "velocity_label": "exploding",
+      "combined_score": 21.72
+    },
+    {
+      "title": "🚨 LOL! Rahul Gandhi tells Americans Modi’s Startup India and Make in India achieved NOTHING. \n\n2014 → 2026:\n• Startups: ...",
+      "url": "https://twitter.com/Indian_Analyzer/status/2123016071796195792#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.21,
+      "velocity": 10.84,
+      "velocity_label": "exploding",
+      "combined_score": 5.69
+    },
+    {
+      "title": "Joe Rogan: A catalyst in the changing landscape of political media",
+      "url": "https://www.annenbergpublicpolicycenter.org/joe-rogan-a-catalyst-in-the-changing-landscape-of-political-media/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.561,
+      "velocity_label": "exploding",
+      "combined_score": 0.53
+    },
+    {
+      "title": "Researchers warn powerful El Niño could trigger global food and health crises",
+      "url": "https://phys.org/news/2026-11-powerful-el-nio-trigger-global.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 10.035,
+      "velocity_label": "exploding",
+      "combined_score": 0.75
+    },
+    {
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 14.62,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 365.5
+    },
+    {
+      "title": "Nvidia's leadership transition and Anthropic's IPO could reshape AI startup funding.\n\nAV Managing Partner Laura Rippy jo...",
+      "url": "https://twitter.com/alumniventures/status/2123068814401167782#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 9.962,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "The startup founder looked across the boardroom table during my final interview and said: \"We can only pay $45,000 base ...",
+      "url": "https://twitter.com/vernmind_/status/2123044881459269982#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.1,
+      "velocity": 9.781,
+      "velocity_label": "exploding",
+      "combined_score": 2.45
     },
     {
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
       "url": "https://calif.io/java4shell/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.0,
-      "velocity": 4.9,
+      "base_score": 14.96,
+      "velocity": 9.767,
       "velocity_label": "exploding",
-      "combined_score": 73.5
+      "combined_score": 365.27
     },
     {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
+      "title": "My Emacs 31 contributions",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 27.36,
-      "velocity": 4.817,
+      "base_score": 0.94,
+      "velocity": 9.556,
       "velocity_label": "exploding",
-      "combined_score": 329.46
+      "combined_score": 22.46
     },
     {
-      "title": "What is w2rt6byl5nf1opmc-a.com?",
-      "url": "https://jack.cab/blog/siterate",
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.33,
-      "velocity": 4.7,
+      "base_score": 0.88,
+      "velocity": 9.538,
       "velocity_label": "exploding",
-      "combined_score": 74.38
+      "combined_score": 20.98
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://news.ycombinator.com/item?id=50536468",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.44,
+      "velocity": 9.455,
+      "velocity_label": "exploding",
+      "combined_score": 34.04
+    },
+    {
+      "title": "Latent Lattice Language Models",
+      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.61,
+      "velocity": 9.303,
+      "velocity_label": "exploding",
+      "combined_score": 14.19
+    },
+    {
+      "title": "The creator economy keeps opening new doors, and this is another opportunity worth paying attention to.\n\nYou don't need ...",
+      "url": "https://twitter.com/Dan3_Verse/status/2122768740026839121#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.04,
+      "velocity": 9.286,
+      "velocity_label": "exploding",
+      "combined_score": 0.93
+    },
+    {
+      "title": "96% of creators aren’t considered professionals.\n\nYet the creator economy is projected to reach $480 billion by 2027.\n\nS...",
+      "url": "https://twitter.com/clashoAi/status/2122785832495087949#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.36,
+      "velocity": 9.109,
+      "velocity_label": "exploding",
+      "combined_score": 8.2
+    },
+    {
+      "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
+      "url": "https://arxiv.org/abs/2609.14306",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.12,
+      "velocity": 9.057,
+      "velocity_label": "exploding",
+      "combined_score": 2.72
+    },
+    {
+      "title": "Best 15 accounts to follow in AI:@karpathy= LLMs king@steipete= built openclaw@gregisenberg= startup ideas king@rileybro...",
+      "url": "https://twitter.com/DAIEvolutionHub/status/2122966996375458259#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.09,
+      "velocity": 8.885,
+      "velocity_label": "exploding",
+      "combined_score": 2.0
+    },
+    {
+      "title": "august 29, 2017.\n\nfound this picture of my computer installing GTA V after begging my parents to buy me the game.\n\ni sti...",
+      "url": "https://twitter.com/Vatsalpandya333/status/2123068773641142772#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 8.656,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "The Next Big Gaming Opportunity Might Not Be in the Game.\nIt Might Be Around It.\n\nEvery major cultural moment creates an...",
+      "url": "https://twitter.com/GauravKara_koti/status/2123066358523109629#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 8.629,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.17,
+      "velocity": 8.603,
+      "velocity_label": "exploding",
+      "combined_score": 111.2
+    },
+    {
+      "title": "The creator economy is evolving rapidly & treating content as a commercial asset is no longer optional for modern profes...",
+      "url": "https://twitter.com/mugabojulius1/status/2123058645755674962#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 8.583,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.01,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 127.71
+    },
+    {
+      "title": "Curl on OSS-Scanner",
+      "url": "https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 8.444,
+      "velocity_label": "exploding",
+      "combined_score": 0.21
     },
     {
       "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.32,
-      "velocity": 4.403,
+      "base_score": 10.4,
+      "velocity": 8.385,
       "velocity_label": "exploding",
-      "combined_score": 69.56
+      "combined_score": 218.0
     },
     {
-      "title": "My Dog Ate a Ketchup Packet – What to Do Now – PetToxCheck",
-      "url": "https://pettoxcheck.com/dogs/my-dog-ate-ketchup-packet/",
+      "title": "Voyager 1 hits one light day from Earth",
+      "url": "https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 4.304,
+      "base_score": 0.61,
+      "velocity": 8.247,
       "velocity_label": "exploding",
-      "combined_score": 0.32
+      "combined_score": 12.58
     },
     {
-      "title": "Highly classified US national security communications network goes down",
-      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "title": "SID-2 Technical Report: Scaling Search Swarms",
+      "url": "https://www.sid.ai/research/sid-2-technical-report",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 12.28,
-      "velocity": 4.208,
+      "base_score": 0.01,
+      "velocity": 8.008,
       "velocity_label": "exploding",
-      "combined_score": 129.2
+      "combined_score": 0.2
+    },
+    {
+      "title": "Show HN: Filelayer – file permissions, revocable links and audit log for Node",
+      "url": "https://github.com/filelayer/filelayer",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.857,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Strong. Kind. Free",
+      "url": "https://strongkindfree.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.576,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
+  "bridge_topics": [
+    {
+      "keyword": "computer",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 112.36,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "august 29, 2017.\n\nfound this picture of my computer installing GTA V after begging my parents to buy me the game.\n\ni sti...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "answers",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 49.92,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Thinking about building a startup in Malta? Before you spend a week chasing answers in group chats, start here. Malta St...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "nvidia",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 44.8,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell them...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Nvidia's leadership transition and Anthropic's IPO could reshape AI startup funding.\n\nAV Managing Partner Laura Rippy jo...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "stopped",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 41.6,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "#AImade cold outreach easier than ever. And that's exactly why it stopped working.\n\nWe tried AI-powered BDR outreach, an...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "agents",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 33.32,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Data Minimization Is Imperative for the Age of AI Agents",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: RockDesk – remote desktop control for AI agents",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "I let our AI agents run my X account for 30 days, posting every hour. Honestly the numbers were rough. We went from 166",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "flash",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 32.6,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "MAI Code 2 and Code 2 Flash",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Tencent Hy4 Flash",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "💪 Learning How to Use Heavy Flash Knuckle from Leshar\n\nA breakdown of how to use Heavy Flash Knuckle to whiff punish, in...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "best",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 24.4,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "What is the best harness for each model?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Best 15 accounts to follow in AI:@karpathy= LLMs king@steipete= built openclaw@gregisenberg= startup ideas king@rileybro...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Enjoyed this post?\n\nFor more timeless wisdom and actionable advice from the world’s best founders, subscribe to my newsl...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "source",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 19.24,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "DARIO VS OPEN SOURCE AI Open source models are dangerous to @AnthropicAI's profitability as they provide consumers somet",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "world",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 14.76,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Enjoyed this post?\n\nFor more timeless wisdom and actionable advice from the world’s best founders, subscribe to my newsl...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "The world of digital content is constantly changing. Artificial intelligence is making content creation easier, Web3 is ...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 12.48,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Who Builds the Machines That Build the Machines?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "A Pune startup got a licence to build warships for the Indian Navy.\n\nIts ship, Matangi, already sailed 1,500 km from Mum...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Amit, what do you plan to do next? Why not build a startup that creates value for India?",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "needs",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 11.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Not Everything Needs an LLM",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The creator economy needs more than just likes and views\n\nThat’s what makes@onlystreetsfuninteresting\n\nCreators spend ti...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "effects",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 9.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "At our last startup, we spent weeks trying to learn Adobe Premiere and After Effects.\n\nWe built Clueso to kill those too...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "piracy",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 8.84,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Great to see@TheEconomisthighlight our \"three-L\" approach to protecting artists and songwriters from AI piracy, and how ...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "now",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.24,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "So what should an engineer do now?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "1/8 Your gaming PC's GPU is sitting idle right now. Meanwhile, AI startups are paying a fortune to rent GPUs from Big Te",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell them...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "models",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.08,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Classical Energies Learn to Reason 1k× Faster Than Looped Models",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Latent Lattice Language Models",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "DARIO VS OPEN SOURCE AI Open source models are dangerous to @AnthropicAI's profitability as they provide consumers somet",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "open",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 4.48,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "DARIO VS OPEN SOURCE AI Open source models are dangerous to @AnthropicAI's profitability as they provide consumers somet",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "built",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.24,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: Zuse – a decision model built for Europe's languages, running in the EU",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Best 15 accounts to follow in AI:@karpathy= LLMs king@steipete= built openclaw@gregisenberg= startup ideas king@rileybro...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "At our last startup, we spent weeks trying to learn Adobe Premiere and After Effects.\n\nWe built Clueso to kill those too...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "learn",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.64,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Classical Energies Learn to Reason 1k× Faster Than Looped Models",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @BrillaConElla: AI had the entire internet to learn from Robots never had that kind of data for physical skills Th",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "At our last startup, we spent weeks trying to learn Adobe Premiere and After Effects.\n\nWe built Clueso to kill those too...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "every",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.52,
+      "total_mentions": 5,
+      "examples": [
+        {
+          "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Show HN: A job board where every advert specifies its framework",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "I let our AI agents run my X account for 30 days, posting every hour. Honestly the numbers were rough. We went from 166",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "The Next Big Gaming Opportunity Might Not Be in the Game.\nIt Might Be Around It.\n\nEvery major cultural moment creates an...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "kind",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Strong. Kind. Free",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @BrillaConElla: AI had the entire internet to learn from Robots never had that kind of data for physical skills Th",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "data",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 2.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Data Minimization Is Imperative for the Age of AI Agents",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @BrillaConElla: AI had the entire internet to learn from Robots never had that kind of data for physical skills Th",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "2026",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 1.8,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "🚨 LOL! Rahul Gandhi tells Americans Modi’s Startup India and Make in India achieved NOTHING. \n\n2014 → 2026:\n• Startups: ...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "won",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.12,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Windows Server 2028 won't be compatible by default",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "GTA6 launches today single player only on consoles\n\nThe “gta6 will mint millionaires bro” rhetoric won’t probably occur ...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "tech",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Grand Theft Auto 6: Digital Foundry Tech Review [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "🚨 Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report\n\nBengaluru accou...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "use",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Java4Shell is a reason to use Java",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "💪 Learning How to Use Heavy Flash Knuckle from Leshar\n\nA breakdown of how to use Heavy Flash Knuckle to whiff punish, in...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "report",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "SID-2 Technical Report: Scaling Search Swarms",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "🚨 Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report\n\nBengaluru accou...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "changing",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Joe Rogan: A catalyst in the changing landscape of political media",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The world of digital content is constantly changing. Artificial intelligence is making content creation easier, Web3 is ...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "media",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.08,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Joe Rogan: A catalyst in the changing landscape of political media",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "pipeline",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.04,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Realtime, unbuffered, streaming, non-newline-delimited regex pipeline in Bash?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Peller in a media innovator.\nPeller is a media pioneer. \nHe is pioneering a direct-to-consumer pipeline and innovative m...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "digital",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Grand Theft Auto 6: Digital Foundry Tech Review [video]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The world of digital content is constantly changing. Artificial intelligence is making content creation easier, Web3 is ...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "post",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Vardhan Q-Core: Zero-touch post-quantum (ML-DSA-87) proxy in Rust",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Enjoyed this post?\n\nFor more timeless wisdom and actionable advice from the world’s best founders, subscribe to my newsl...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "working",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.04,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "We made GTA 6 – we should have working conditions to match",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "#AImade cold outreach easier than ever. And that's exactly why it stopped working.\n\nWe tried AI-powered BDR outreach, an...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "gta",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.04,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "We made GTA 6 – we should have working conditions to match",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "august 29, 2017.\n\nfound this picture of my computer installing GTA V after begging my parents to buy me the game.\n\ni sti...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
   "linguistic_voids": [
     {
       "concept_cluster": [
-        "ceo",
-        "chair",
-        "huang",
-        "intend",
-        "jensen",
-        "nvidia",
-        "reinstate",
-        "says"
+        "creator",
+        "creators",
+        "economy",
+        "keeps"
       ],
-      "concept_hint": "ceo + chair + huang + intend",
-      "cluster_size": 8,
-      "discussion_count": 4,
-      "void_score": 64.0,
+      "concept_hint": "creator + creators + economy + keeps",
+      "cluster_size": 4,
+      "discussion_count": 7,
+      "void_score": 98.0,
       "examples": [
         {
-          "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
-          "source": "hackernews",
+          "title": "Multiplayer alone will not create a creator economy if Rockstar keeps monetization and distribution tightly controlled",
+          "source": "twitter",
           "matching_keywords": [
-            "ceo",
-            "chair",
-            "huang",
-            "intend",
-            "nvidia",
-            "reinstate",
-            "says"
+            "creator",
+            "economy",
+            "keeps"
           ]
         },
         {
-          "title": "Nvidia Beats Estimates, Raises Guidance After Huang's Ouster",
-          "source": "hackernews",
+          "title": "The creator economy needs more than just likes and views\n\nThat’s what makes@onlystreetsfuninteresting\n\nCreators spend ti...",
+          "source": "twitter",
           "matching_keywords": [
-            "huang",
-            "nvidia"
+            "creator",
+            "creators",
+            "economy"
           ]
         },
         {
-          "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-          "source": "hackernews",
+          "title": "Something in the creator economy. I genuinely think we're still scratching the surface of what's possible.",
+          "source": "twitter",
           "matching_keywords": [
-            "ceo",
-            "huang",
-            "intend",
-            "jensen",
-            "nvidia",
-            "reinstate",
-            "says"
+            "creator",
+            "economy"
           ]
         },
         {
-          "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors",
-          "source": "hackernews",
+          "title": "96% of creators aren’t considered professionals.\n\nYet the creator economy is projected to reach $480 billion by 2027.\n\nS...",
+          "source": "twitter",
           "matching_keywords": [
-            "ceo",
-            "chair",
-            "huang",
-            "jensen",
+            "creator",
+            "creators",
+            "economy"
+          ]
+        },
+        {
+          "title": "The creator economy keeps opening new doors, and this is another opportunity worth paying attention to.\n\nYou don't need ...",
+          "source": "twitter",
+          "matching_keywords": [
+            "creator",
+            "economy",
+            "keeps"
+          ]
+        }
+      ]
+    },
+    {
+      "concept_cluster": [
+        "funding",
+        "nvidia",
+        "startup"
+      ],
+      "concept_hint": "funding + nvidia + startup",
+      "cluster_size": 3,
+      "discussion_count": 3,
+      "void_score": 13.5,
+      "examples": [
+        {
+          "title": "🚨 Bengaluru leads India's deep-tech startup funding with $3.77 billion, twice Delhi-NCR's tally: Report\n\nBengaluru accou...",
+          "source": "twitter",
+          "matching_keywords": [
+            "funding",
+            "startup"
+          ]
+        },
+        {
+          "title": "We now have proof the CEO of Nvidia started this bubble by funding startup businesses in the AI market just to sell them...",
+          "source": "twitter",
+          "matching_keywords": [
+            "funding",
             "nvidia",
-            "reinstate"
+            "startup"
+          ]
+        },
+        {
+          "title": "Nvidia's leadership transition and Anthropic's IPO could reshape AI startup funding.\n\nAV Managing Partner Laura Rippy jo...",
+          "source": "twitter",
+          "matching_keywords": [
+            "funding",
+            "nvidia",
+            "startup"
           ]
         }
       ]
@@ -601,7 +1998,7 @@
       "url": "https://visualbasic.world/",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.31,
+      "score": 3.69,
       "relevance": 0.111,
       "matching_tags": [
         "code",
@@ -613,7 +2010,7 @@
       "url": "https://github.com/RunanywhereAI/trnrt",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.49,
+      "score": 0.62,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -621,11 +2018,47 @@
       ]
     },
     {
-      "title": "How the Claude Code team thinks about verification",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "title": "DARIO VS OPEN SOURCE AI Open source models are dangerous to @AnthropicAI's profitability as they provide consumers somet",
+      "url": "https://nitter.kareem.one/voicereason05/status/2123069149526081974#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "The world of digital content is constantly changing. Artificial intelligence is making content creation easier, Web3 is ...",
+      "url": "https://twitter.com/Roman_sw09/status/2123066399849418781#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.0,
+      "relevance": 0.111,
+      "matching_tags": [
+        "content",
+        "creation"
+      ]
+    },
+    {
+      "title": "The creator economy is evolving rapidly & treating content as a commercial asset is no longer optional for modern profes...",
+      "url": "https://twitter.com/mugabojulius1/status/2123058645755674962#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.0,
+      "relevance": 0.111,
+      "matching_tags": [
+        "content",
+        "creator"
+      ]
+    },
+    {
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.54,
+      "score": 7.81,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -636,21 +2069,109 @@
       "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
       "source": "hackernews",
       "category": "tech",
-      "score": 4.57,
+      "score": 6.3,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "An open letter to OpenAI and Anthropic on cybersecurity access",
-      "url": "https://openletter.earth/stop-blocking-defenders-an-open-letter-to-openai-and-anthropic-on-cybersecurity-access-and-safety-theater-e653e5cd",
+      "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+      "url": "https://github.com/Apakottur/unref",
       "source": "hackernews",
       "category": "tech",
+      "score": 0.7,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "96% of creators aren’t considered professionals.\n\nYet the creator economy is projected to reach $480 billion by 2027.\n\nS...",
+      "url": "https://twitter.com/clashoAi/status/2122785832495087949#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.36,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "The creator economy keeps opening new doors, and this is another opportunity worth paying attention to.\n\nYou don't need ...",
+      "url": "https://twitter.com/Dan3_Verse/status/2122768740026839121#m",
+      "source": "twitter",
+      "category": "social",
       "score": 0.04,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "creator"
+      ]
+    },
+    {
+      "title": "The creator economy needs more than just likes and views\n\nThat’s what makes@onlystreetsfuninteresting\n\nCreators spend ti...",
+      "url": "https://twitter.com/KaribulMd26166/status/2123061798874353911#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.02,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "💪 Learning How to Use Heavy Flash Knuckle from Leshar\n\nA breakdown of how to use Heavy Flash Knuckle to whiff punish, in...",
+      "url": "https://twitter.com/highspeedwara/status/2123068919363596549#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.0,
+      "relevance": 0.056,
+      "matching_tags": [
+        "learning"
+      ]
+    },
+    {
+      "title": "Multiplayer alone will not create a creator economy if Rockstar keeps monetization and distribution tightly controlled",
+      "url": "https://twitter.com/0xAvseenko/status/2123068644208824575#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.0,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Something in the creator economy. I genuinely think we're still scratching the surface of what's possible.",
+      "url": "https://twitter.com/lovelydspeaks/status/2123066832001335779#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.0,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "GTA 6 Won't Just Be a Gaming Moment.\nIt'll Be a Creator Moment.\n\nEvery major game release creates excitement.\nBut some r...",
+      "url": "https://twitter.com/GauravKara_koti/status/2123062738419368040#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.0,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
+      ]
+    },
+    {
+      "title": "Same story in creator marketing: 67% of creator economy leaders named measurement their #1 challenge in IAB’s latest rep...",
+      "url": "https://twitter.com/IQFluence__/status/2123061656510963855#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.0,
+      "relevance": 0.056,
+      "matching_tags": [
+        "creator"
       ]
     }
   ]
