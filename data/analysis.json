@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-20T00:15:55.769143+00:00",
-  "scrape_timestamp": "2026-11-20T00:14:16.898806+00:00",
-  "total_items_analyzed": 102,
+  "timestamp": "2026-11-20T14:51:12.560685+00:00",
+  "scrape_timestamp": "2026-11-20T14:49:32.427925+00:00",
+  "total_items_analyzed": 100,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,17 +16,61 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 87,
+      "count": 90,
       "status": "ok"
     },
     "twitter": {
-      "count": 15,
+      "count": 10,
       "status": "ok"
     }
   },
   "cross_platform_gaps": [
     {
-      "keyword": "2026",
+      "keyword": "anthropic",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 5,
+      "opportunity_score": 30.0,
+      "examples": [
+        {
+          "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "source": "hackernews",
+          "url": "https://alpo.ge/remark.pdf",
+          "score": 1.28
+        },
+        {
+          "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "source": "hackernews",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "score": 0.72
+        },
+        {
+          "title": "Anthropic’s Nasdaq debut",
+          "source": "hackernews",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+          "score": 44.31
+        },
+        {
+          "title": "Anthropic: After the IPO, Who Controls the Company?",
+          "source": "hackernews",
+          "url": "https://www.morningstar.com/stocks/anthropic-after-ipo-who-controls-company",
+          "score": 0.02
+        },
+        {
+          "title": "RT by @ds_serena_: After waterfall, agile, and DevOps — Anthropic’s AI-Native SDLC playbook Once agents write the code,",
+          "source": "twitter",
+          "url": "https://nitter.kareem.one/datafying/status/2123140434147074508#m",
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "keyword": "code",
       "present_on": [
         "hackernews",
         "twitter"
@@ -38,400 +82,316 @@
       "opportunity_score": 24.0,
       "examples": [
         {
-          "title": "Someone reported java4shell bug in September 2026",
+          "title": "If you stop writing code, you also get worse at reviewing it",
           "source": "hackernews",
-          "url": "https://github.com/openjdk/jdk/pull/32781",
-          "score": 4.83
+          "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+          "score": 0.77
         },
         {
-          "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+          "title": "Unauthenticated remote code execution in Nginx",
           "source": "hackernews",
-          "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
-          "score": 0.47
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "score": 24.59
         },
         {
-          "title": "Prime Intellect: Security Advisory PI-SA-2026-001",
+          "title": "Show HN: Greatai Review – free AI and human code review for open source",
           "source": "hackernews",
-          "url": "https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution",
-          "score": 0.08
+          "url": "https://greatai.dev/clinic",
+          "score": 0.01
         },
         {
-          "title": "So on November 19th 2026 we have the#WorldToiletDay, the release of#GTAVI#AIa fictional virtual version of Miami and#Mia...",
+          "title": "RT by @ds_serena_: After waterfall, agile, and DevOps — Anthropic’s AI-Native SDLC playbook Once agents write the code,",
           "source": "twitter",
-          "url": "https://twitter.com/hiddengodkeys/status/2123570909671817562#m",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "keyword": "video",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-          "source": "hackernews",
-          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "score": 2.44
-        },
-        {
-          "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-          "source": "hackernews",
-          "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-          "score": 3.92
-        },
-        {
-          "title": "Stellar Blade Director Kim Hyung Tae, addressed the backlash he faced after the AI (slop) Music Video 🎶✨\n\n- He said he l...",
-          "source": "twitter",
-          "url": "https://twitter.com/ShiftUpWorld/status/2123562737607365098#m",
-          "score": 0.03
-        }
-      ]
-    },
-    {
-      "keyword": "version",
-      "present_on": [
-        "hackernews",
-        "twitter"
-      ],
-      "missing_from": [
-        "youtube"
-      ],
-      "mention_count": 3,
-      "opportunity_score": 18.0,
-      "examples": [
-        {
-          "title": "Version Everything",
-          "source": "hackernews",
-          "url": "https://iamvishnu.com/posts/versioning-everything",
-          "score": 0.03
-        },
-        {
-          "title": "So on November 19th 2026 we have the#WorldToiletDay, the release of#GTAVI#AIa fictional virtual version of Miami and#Mia...",
-          "source": "twitter",
-          "url": "https://twitter.com/hiddengodkeys/status/2123570909671817562#m",
-          "score": 0.0
-        },
-        {
-          "title": "POV: You just found out that it was always, and only, you from the start.\n\nMay brought out the teenage version of Ai-oon...",
-          "source": "twitter",
-          "url": "https://twitter.com/sapphicworlds/status/2123518756194287651#m",
-          "score": 0.02
+          "url": "https://nitter.kareem.one/datafying/status/2123140434147074508#m",
+          "score": 0.5
         }
       ]
     }
   ],
   "velocity_leaders": [
     {
-      "title": "It's all about the allocator",
-      "url": "https://aarol.dev/posts/zig-allocator/",
+      "title": "PostgreSQL 19",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.71,
+      "base_score": 3.21,
       "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 31.95
-    },
-    {
-      "title": "To All the Folks Who Are About to Be Rich",
-      "url": "https://lg.substack.com/p/to-all-the-folks-who-are-about-to",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 18.0,
-      "velocity_label": "exploding",
-      "combined_score": 0.9
+      "combined_score": 144.45
     },
     {
       "title": "Unblockable communication with gravity",
       "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.13,
-      "velocity": 14.833,
+      "base_score": 2.68,
+      "velocity": 13.778,
       "velocity_label": "exploding",
-      "combined_score": 78.99
+      "combined_score": 92.31
     },
     {
-      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "url": "https://kapteko.com/15-million-webservers/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.38,
-      "velocity": 13.538,
-      "velocity_label": "exploding",
-      "combined_score": 148.24
-    },
-    {
-      "title": "Teaching robots to carve marble sculptures",
-      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.48,
-      "velocity": 13.06,
-      "velocity_label": "exploding",
-      "combined_score": 80.97
-    },
-    {
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.85,
-      "velocity": 12.722,
-      "velocity_label": "exploding",
-      "combined_score": 376.9
-    },
-    {
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 11.15,
-      "velocity": 12.194,
-      "velocity_label": "exploding",
-      "combined_score": 339.92
-    },
-    {
-      "title": "C's designated initializers give us named arguments",
-      "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.32,
-      "velocity": 12.11,
-      "velocity_label": "exploding",
-      "combined_score": 39.96
-    },
-    {
-      "title": "I never learned Bash (2024)",
-      "url": "https://www.joshooaj.com/blog/2024/12/30/why-i-never-learned-bash/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 11.667,
-      "velocity_label": "exploding",
-      "combined_score": 0.88
-    },
-    {
-      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
-      "url": "https://maccus.fr/en/cooling-overtaking-heating/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.02,
-      "velocity": 11.629,
-      "velocity_label": "exploding",
-      "combined_score": 87.8
-    },
-    {
-      "title": "Mastodon instance Baraag.net: Server Admin arrested and domain seized by the FBI",
-      "url": "https://old.reddit.com/r/Mastodon/comments/1y0eb7t/mastodon_instance_baraagnet_has_been_forcibly/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 10.508,
-      "velocity_label": "exploding",
-      "combined_score": 0.53
-    },
-    {
-      "title": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
-      "url": "https://contralabs.com/frontierdesign",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.82,
-      "velocity": 10.292,
-      "velocity_label": "exploding",
-      "combined_score": 46.83
-    },
-    {
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.36,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 184.0
-    },
-    {
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.55,
-      "velocity": 9.691,
-      "velocity_label": "exploding",
-      "combined_score": 86.01
-    },
-    {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.33,
-      "velocity": 9.504,
-      "velocity_label": "exploding",
-      "combined_score": 7.84
-    },
-    {
-      "title": "AI can be tricked to target civilians as military targets by preteding it's game",
-      "url": "https://www.vals.ai/blogs/autonomous-warfare",
+      "title": "Convenience Is the Actual Product",
+      "url": "https://pawelbrodzinski.substack.com/p/convenience-is-the-actual-product",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 9.5,
+      "velocity": 13.667,
       "velocity_label": "exploding",
-      "combined_score": 0.24
+      "combined_score": 0.34
+    },
+    {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.49,
+      "velocity": 13.024,
+      "velocity_label": "exploding",
+      "combined_score": 146.19
+    },
+    {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.97,
+      "velocity": 12.78,
+      "velocity_label": "exploding",
+      "combined_score": 158.79
+    },
+    {
+      "title": "RegExr: Temporarily Offline",
+      "url": "https://regexr.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.46,
+      "velocity": 12.722,
+      "velocity_label": "exploding",
+      "combined_score": 46.44
     },
     {
       "title": "Pancreatic cancer halted by virus injection in three patients",
       "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.96,
-      "velocity": 9.107,
+      "base_score": 10.47,
+      "velocity": 11.757,
       "velocity_label": "exploding",
-      "combined_score": 135.7
+      "combined_score": 307.74
     },
     {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.82,
-      "velocity": 8.874,
+      "base_score": 0.72,
+      "velocity": 10.777,
       "velocity_label": "exploding",
-      "combined_score": 129.12
+      "combined_score": 19.4
     },
     {
-      "title": "More than 1k French riot police call in sick",
-      "url": "https://www.thetimes.com/world/europe/article/french-police-off-sick-after-protests-7qx3l6k20",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.9,
+      "velocity": 10.689,
+      "velocity_label": "exploding",
+      "combined_score": 184.38
+    },
+    {
+      "title": "Rent-Stabilized E Harlem Buildings Fail to Sell at Auction, Tenants in Lurch",
+      "url": "https://citylimits.org/rent-stabilized-east-harlem-buildings-fail-to-sell-at-auction-leaving-tenants-in-the-lurch/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 8.56,
+      "velocity": 10.343,
       "velocity_label": "exploding",
-      "combined_score": 0.21
+      "combined_score": 0.26
     },
     {
-      "title": "Surveillance Pricing Warrants Further Review",
-      "url": "https://communitysentinel.media/2026/11/18/surveillance-pricing-warrants-further-review/",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.14,
+      "velocity": 10.042,
+      "velocity_label": "exploding",
+      "combined_score": 28.62
+    },
+    {
+      "title": "What Comes After AGI?",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.43,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 110.75
+    },
+    {
+      "title": "SSH Tunneling Has Unrealized Potential",
+      "url": "https://probablymarcus.com/blocks/2026/11/20/ssh-tunneling-has-unrealized-potential.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.5
+    },
+    {
+      "title": "R to @jhujhujhu0: ai porra eu sou assim",
+      "url": "https://nitter.kareem.one/koowikii/status/2123791229561286775#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.5,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 12.5
+    },
+    {
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 44.31,
+      "velocity": 9.939,
+      "velocity_label": "exploding",
+      "combined_score": 1101.04
+    },
+    {
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.93,
+      "velocity": 9.74,
+      "velocity_label": "exploding",
+      "combined_score": 22.65
+    },
+    {
+      "title": "Bit Shifting in Basic",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.68,
+      "velocity": 9.556,
+      "velocity_label": "exploding",
+      "combined_score": 16.24
+    },
+    {
+      "title": "Do not buy RAM, compress",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.88,
+      "velocity": 9.292,
+      "velocity_label": "exploding",
+      "combined_score": 159.82
+    },
+    {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 11.6,
+      "velocity": 9.094,
+      "velocity_label": "exploding",
+      "combined_score": 263.72
+    },
+    {
+      "title": "The GIF of a Bug Crawling on the Screen: Down the Rabbit Hole",
+      "url": "https://veg.by/en/blog/2026/10/18/bug-gif/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 8.458,
+      "velocity": 8.977,
       "velocity_label": "exploding",
-      "combined_score": 0.21
+      "combined_score": 0.22
     },
     {
-      "title": "Chrome AI features wasting much bandwidth",
-      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "title": "How to Tell If Users Value Your Product (The Retention Test) – Lecture 1 [video]",
+      "url": "https://www.youtube.com/watch?v=yzNX80-pr6I",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.9,
-      "velocity": 8.433,
+      "base_score": 0.01,
+      "velocity": 8.892,
       "velocity_label": "exploding",
-      "combined_score": 40.06
+      "combined_score": 0.22
     },
     {
-      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.82,
-      "velocity": 8.406,
+      "base_score": 3.5,
+      "velocity": 8.764,
       "velocity_label": "exploding",
-      "combined_score": 38.25
+      "combined_score": 76.68
     },
     {
-      "title": "An FBI agent called a Claude user about his chats",
-      "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+      "title": "El Niño Is Driving a Record Marine Heat Wave Off the California Coast",
+      "url": "https://www.wired.com/story/el-nino-record-california-marine-heat-wave/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.24,
-      "velocity": 8.263,
+      "base_score": 0.01,
+      "velocity": 8.735,
       "velocity_label": "exploding",
-      "combined_score": 4.96
+      "combined_score": 0.22
+    },
+    {
+      "title": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.45,
+      "velocity": 8.5,
+      "velocity_label": "exploding",
+      "combined_score": 158.31
+    },
+    {
+      "title": "µ-Wire – USB on an ATtiny 10",
+      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.93,
+      "velocity": 8.444,
+      "velocity_label": "exploding",
+      "combined_score": 19.63
     },
     {
       "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
       "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.12,
-      "velocity": 8.038,
+      "base_score": 5.79,
+      "velocity": 8.428,
       "velocity_label": "exploding",
-      "combined_score": 62.69
+      "combined_score": 122.0
     },
     {
-      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
-      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.9,
-      "velocity": 7.745,
-      "velocity_label": "exploding",
-      "combined_score": 75.51
-    },
-    {
-      "title": "Everything you need to survive and rebuild society",
-      "url": "https://lastbook.org/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.3,
-      "velocity": 7.588,
-      "velocity_label": "exploding",
-      "combined_score": 119.5
-    },
-    {
-      "title": "How to CAD Almost Anything",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.99,
-      "velocity": 7.444,
-      "velocity_label": "exploding",
-      "combined_score": 18.43
-    },
-    {
-      "title": "Adding Fortran Support to LLDB (GSoC 2026)",
-      "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.47,
-      "velocity": 7.433,
-      "velocity_label": "exploding",
-      "combined_score": 8.73
-    },
-    {
-      "title": "Krita is a sketching and painting program designed for digital artists",
-      "url": "https://docs.krita.org/en/index.html",
+      "title": "Show HN: PermitCore – Sell desktop apps and games directly, licensed via 9 SDKs",
+      "url": "https://permitcore.dev/",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.411,
+      "velocity": 8.038,
+      "velocity_label": "exploding",
+      "combined_score": 0.2
+    },
+    {
+      "title": "Show HN: Penumbra v2, an ergonomic colour scheme inspired by natural light",
+      "url": "https://github.com/nealmckee/penumbra",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.445,
       "velocity_label": "exploding",
       "combined_score": 0.19
     },
     {
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.57,
-      "velocity": 7.36,
-      "velocity_label": "exploding",
-      "combined_score": 47.29
-    },
-    {
-      "title": "How to Earn a Bad Obituary",
-      "url": "https://www.laude.org/updates/how-to-earn-a-bad-obituary",
+      "title": "What's the environmental impact of my AI usage?",
+      "url": "https://substack.hadley.nz/p/whats-the-environmental-impact-of",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -440,373 +400,299 @@
       "combined_score": 0.18
     },
     {
-      "title": "On the Possible Ontological Formation of Black Holes",
-      "url": "https://www.academia.edu/145377871/On_the_Possible_Ontological_Formation_of_Black_Holes",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.76,
+      "velocity": 7.136,
+      "velocity_label": "exploding",
+      "combined_score": 31.4
+    },
+    {
+      "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+      "url": "https://foolscap.works/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.44,
+      "velocity": 7.027,
+      "velocity_label": "exploding",
+      "combined_score": 42.87
+    },
+    {
+      "title": "What a Rewrite of Libexpat Needs",
+      "url": "https://blog.hartwork.org/posts/what-a-libexpat-rewrite-needs/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.07,
+      "velocity": 6.967,
+      "velocity_label": "exploding",
+      "combined_score": 1.22
+    },
+    {
+      "title": "Physicists Just Sent an Unblockable Message Encoded in Gravity–Using an Elevator",
+      "url": "https://gizmodo.com/physicists-just-sent-an-unblockable-message-encoded-in-gravity-using-a-1950s-elevator-2000842537",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.701,
+      "velocity_label": "exploding",
+      "combined_score": 0.5
+    },
+    {
+      "title": "Robert K. Brown, Publisher of Soldier of Fortune Magazine, Has Died",
+      "url": "https://www.nytimes.com/2026/11/12/obituaries/robert-k-brown-dead.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.619,
+      "velocity_label": "exploding",
+      "combined_score": 0.5
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.46,
+      "velocity": 6.322,
+      "velocity_label": "exploding",
+      "combined_score": 38.88
+    },
+    {
+      "title": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.293,
+      "velocity": 6.322,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 0.16
     },
     {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.13,
-      "velocity": 7.261,
+      "base_score": 0.58,
+      "velocity": 6.268,
       "velocity_label": "exploding",
-      "combined_score": 56.82
-    },
-    {
-      "title": "Do not buy RAM, compress",
-      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.42,
-      "velocity": 7.238,
-      "velocity_label": "exploding",
-      "combined_score": 98.08
-    },
-    {
-      "title": "Logitech Harmony IR code online database archive",
-      "url": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.1,
-      "velocity": 7.173,
-      "velocity_label": "exploding",
-      "combined_score": 19.73
-    },
-    {
-      "title": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
-      "url": "https://www.reuters.com/legal/government/jpmorgan-says-third-party-vendors-targeted-cyberattack-2026-11-19/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.32,
-      "velocity": 6.963,
-      "velocity_label": "exploding",
-      "combined_score": 5.57
-    },
-    {
-      "title": "Someone reported java4shell bug in September 2026",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.83,
-      "velocity": 6.961,
-      "velocity_label": "exploding",
-      "combined_score": 84.05
-    },
-    {
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 32.55,
-      "velocity": 6.937,
-      "velocity_label": "exploding",
-      "combined_score": 564.46
-    },
-    {
-      "title": "I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)",
-      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.36,
-      "velocity": 6.619,
-      "velocity_label": "exploding",
-      "combined_score": 5.96
-    },
-    {
-      "title": "Computer Graphics from Scratch (2021)",
-      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.56,
-      "velocity": 6.341,
-      "velocity_label": "exploding",
-      "combined_score": 8.88
-    },
-    {
-      "title": "Version Everything",
-      "url": "https://iamvishnu.com/posts/versioning-everything",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.3,
-      "velocity_label": "exploding",
-      "combined_score": 0.47
-    },
-    {
-      "title": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
-      "url": "https://www.washingtonsun.com/congress/hakeem-jeffries-ai-caucus-pulse-office-policy",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.285,
-      "velocity_label": "exploding",
-      "combined_score": 0.47
+      "combined_score": 9.09
     },
     {
       "title": "Rebuilding my local voice assistant pipeline",
       "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.52,
-      "velocity": 6.144,
+      "base_score": 1.41,
+      "velocity": 6.157,
       "velocity_label": "exploding",
-      "combined_score": 7.99
+      "combined_score": 21.7
     },
     {
-      "title": "Show HN: Bot-inator – Mac agent that writes its own tools, runs them sandboxed",
-      "url": "https://github.com/Bforsyth1234/bot-inator",
+      "title": "Show HN: ChronoStack-move time forward for your Docker Compose stack",
+      "url": "https://github.com/Asmodeus14/ChronoStack",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 6.079,
+      "velocity": 5.933,
       "velocity_label": "exploding",
       "combined_score": 0.15
     },
     {
-      "title": "I recreated the WORLD in Minecraft at 1:1 scale",
-      "url": "https://twitter.com/cdngdev/status/2122416145517117463",
+      "title": "Anthropic: After the IPO, Who Controls the Company?",
+      "url": "https://www.morningstar.com/stocks/anthropic-after-ipo-who-controls-company",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.053,
+      "base_score": 0.02,
+      "velocity": 5.885,
       "velocity_label": "exploding",
-      "combined_score": 0.45
+      "combined_score": 0.29
     },
     {
-      "title": "hiring an artist to draw like AI is so cunty",
-      "url": "https://twitter.com/transgreghouse/status/2123505541599432789#m",
+      "title": "Show HN: Frowse – Drop-in agent-browser CLI that cuts token spend by up to 90%+",
+      "url": "https://github.com/figranium/frowse",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.733,
+      "velocity_label": "exploding",
+      "combined_score": 0.14
+    },
+    {
+      "title": "Show HN: Radiotherapy Delivery Demo",
+      "url": "https://tps.neuralrad.com",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.23,
+      "velocity": 5.641,
+      "velocity_label": "exploding",
+      "combined_score": 3.24
+    },
+    {
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.24,
+      "velocity": 5.631,
+      "velocity_label": "exploding",
+      "combined_score": 17.46
+    },
+    {
+      "title": "🚨 Asia just got nuked by the AI selloff Taiwan TAIEX -6.6% KOSPI -5.21% Nikkei -4.8% SoftBank -14.48%, worst day since A",
+      "url": "https://nitter.kareem.one/PresidentNoble_/status/2123791226885308864#m",
       "source": "twitter",
       "category": "social",
-      "base_score": 0.03,
-      "velocity": 6.0,
+      "base_score": 0.5,
+      "velocity": 5.573,
       "velocity_label": "exploding",
-      "combined_score": 0.45
+      "combined_score": 6.97
     },
     {
-      "title": "Waymo stalls in high San Francisco floodwaters during storm",
-      "url": "https://ktla.com/news/california/waymo-stalls-san-francisco-floodwaters/",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 5.871,
+      "base_score": 14.63,
+      "velocity": 5.544,
       "velocity_label": "exploding",
-      "combined_score": 0.88
+      "combined_score": 202.79
     },
     {
-      "title": "Show HN: Watch weight-space programming in action with WebGPU",
-      "url": "https://tabbyml.github.io/weight-space-playground/",
+      "title": "How one historic music venue modernized its network infrastructure",
+      "url": "https://www.itbrew.com/stories/how-one-historic-music-venue-modernized-its-network-infrastructure",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.36,
-      "velocity": 5.588,
+      "base_score": 0.01,
+      "velocity": 5.329,
       "velocity_label": "exploding",
-      "combined_score": 5.03
+      "combined_score": 0.13
     },
     {
-      "title": "SSD prices may begin to decline in the latter half of 2027",
-      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 6.33,
-      "velocity": 5.488,
+      "base_score": 4.88,
+      "velocity": 4.806,
       "velocity_label": "exploding",
-      "combined_score": 86.85
+      "combined_score": 58.63
     },
     {
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.67,
-      "velocity": 5.396,
+      "base_score": 0.34,
+      "velocity": 4.722,
       "velocity_label": "exploding",
-      "combined_score": 103.47
+      "combined_score": 4.01
+    },
+    {
+      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+      "url": "https://github.com/bigcrimping/floppy3.5",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.57,
+      "velocity": 4.667,
+      "velocity_label": "exploding",
+      "combined_score": 6.65
+    },
+    {
+      "title": "$1M Berggruen Philosophy Prize Awarded to Thomas Nagel",
+      "url": "https://berggruen.org/news/usd1-million-berggruen-philosophy-prize-awarded-to-thomas-nagel",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.09,
+      "velocity": 4.667,
+      "velocity_label": "exploding",
+      "combined_score": 1.05
     }
   ],
   "niche_opportunities": [],
   "bridge_topics": [
     {
-      "keyword": "video",
+      "keyword": "anthropic",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 25.56,
-      "total_mentions": 3,
+      "bridge_score": 187.32,
+      "total_mentions": 5,
       "examples": [
         {
-          "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+          "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Stellar Blade Director Kim Hyung Tae, addressed the backlash he faced after the AI (slop) Music Video 🎶✨\n\n- He said he l...",
+          "title": "Anthropic’s Nasdaq debut",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Anthropic: After the IPO, Who Controls the Company?",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "RT by @ds_serena_: After waterfall, agile, and DevOps — Anthropic’s AI-Native SDLC playbook Once agents write the code,",
           "source": "twitter",
           "category": "social"
         }
       ]
     },
     {
-      "keyword": "2026",
+      "keyword": "code",
       "communities": [
         "social",
         "tech"
       ],
       "num_communities": 2,
-      "bridge_score": 21.52,
+      "bridge_score": 103.48,
       "total_mentions": 4,
       "examples": [
         {
-          "title": "Someone reported java4shell bug in September 2026",
+          "title": "If you stop writing code, you also get worse at reviewing it",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+          "title": "Unauthenticated remote code execution in Nginx",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "Prime Intellect: Security Advisory PI-SA-2026-001",
+          "title": "Show HN: Greatai Review – free AI and human code review for open source",
           "source": "hackernews",
           "category": "tech"
         },
         {
-          "title": "So on November 19th 2026 we have the#WorldToiletDay, the release of#GTAVI#AIa fictional virtual version of Miami and#Mia...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "github",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 15.68,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "Wujud aseli profil github alumni sekolah film yang sedang mandalami dunia AI dan tetap belajar fundamentalnya Swift...\n\n...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "version",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.2,
-      "total_mentions": 3,
-      "examples": [
-        {
-          "title": "Version Everything",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "So on November 19th 2026 we have the#WorldToiletDay, the release of#GTAVI#AIa fictional virtual version of Miami and#Mia...",
-          "source": "twitter",
-          "category": "social"
-        },
-        {
-          "title": "POV: You just found out that it was always, and only, you from the start.\n\nMay brought out the teenage version of Ai-oon...",
+          "title": "RT by @ds_serena_: After waterfall, agile, and DevOps — Anthropic’s AI-Native SDLC playbook Once agents write the code,",
           "source": "twitter",
           "category": "social"
         }
       ]
     }
   ],
-  "linguistic_voids": [
-    {
-      "concept_cluster": [
-        "open",
-        "software",
-        "source",
-        "use"
-      ],
-      "concept_hint": "open + software + source + use",
-      "cluster_size": 4,
-      "discussion_count": 3,
-      "void_score": 18.0,
-      "examples": [
-        {
-          "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-          "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "source"
-          ]
-        },
-        {
-          "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-          "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "software",
-            "source",
-            "use"
-          ]
-        },
-        {
-          "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-          "source": "hackernews",
-          "matching_keywords": [
-            "open",
-            "software",
-            "source",
-            "use"
-          ]
-        }
-      ]
-    }
-  ],
+  "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+      "title": "Show HN: Greatai Review – free AI and human code review for open source",
+      "url": "https://greatai.dev/clinic",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.04,
+      "score": 0.01,
       "relevance": 0.167,
       "matching_tags": [
-        "open",
-        "source",
-        "tools"
-      ]
-    },
-    {
-      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "url": "https://news.ycombinator.com/item?id=50548660",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 2.0,
-      "relevance": 0.111,
-      "matching_tags": [
+        "code",
         "open",
         "source"
       ]
@@ -816,22 +702,10 @@
       "url": "https://github.com/onlook-dev/onlook/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.81,
+      "score": 2.46,
       "relevance": 0.111,
       "matching_tags": [
         "open",
-        "source"
-      ]
-    },
-    {
-      "title": "Prepaid gas bonds: A differentiated source of tax-exempt income",
-      "url": "https://www.blackrock.com/us/individual/insights/prepaid-gas-bonds",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.04,
-      "relevance": 0.111,
-      "matching_tags": [
-        "income",
         "source"
       ]
     },
@@ -840,7 +714,7 @@
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "source": "hackernews",
       "category": "tech",
-      "score": 24.35,
+      "score": 24.59,
       "relevance": 0.056,
       "matching_tags": [
         "code"
@@ -851,18 +725,7 @@
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "source": "hackernews",
       "category": "tech",
-      "score": 5.82,
-      "relevance": 0.056,
-      "matching_tags": [
-        "open"
-      ]
-    },
-    {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 4.91,
+      "score": 8.89,
       "relevance": 0.056,
       "matching_tags": [
         "open"
@@ -873,43 +736,32 @@
       "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
       "source": "hackernews",
       "category": "tech",
-      "score": 3.12,
+      "score": 5.79,
       "relevance": 0.056,
       "matching_tags": [
         "machine"
       ]
     },
     {
-      "title": "Logitech Harmony IR code online database archive",
-      "url": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.1,
+      "score": 0.77,
       "relevance": 0.056,
       "matching_tags": [
         "code"
       ]
     },
     {
-      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.29,
+      "title": "RT by @ds_serena_: After waterfall, agile, and DevOps — Anthropic’s AI-Native SDLC playbook Once agents write the code,",
+      "url": "https://nitter.kareem.one/datafying/status/2123140434147074508#m",
+      "source": "twitter",
+      "category": "social",
+      "score": 0.5,
       "relevance": 0.056,
       "matching_tags": [
         "code"
-      ]
-    },
-    {
-      "title": "Show HN: Bot-inator – Mac agent that writes its own tools, runs them sandboxed",
-      "url": "https://github.com/Bforsyth1234/bot-inator",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.01,
-      "relevance": 0.056,
-      "matching_tags": [
-        "tools"
       ]
     }
   ]
