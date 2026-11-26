@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-25T16:44:40.426078+00:00",
-  "scrape_timestamp": "2026-11-25T16:43:02.841116+00:00",
-  "total_items_analyzed": 88,
+  "timestamp": "2026-11-26T01:30:40.045115+00:00",
+  "scrape_timestamp": "2026-11-26T01:29:12.882141+00:00",
+  "total_items_analyzed": 102,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -20,523 +20,1014 @@
       "status": "ok"
     },
     "twitter": {
-      "count": 0,
+      "count": 14,
       "status": "ok"
     }
   },
-  "cross_platform_gaps": [],
+  "cross_platform_gaps": [
+    {
+      "keyword": "every",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 4,
+      "opportunity_score": 24.0,
+      "examples": [
+        {
+          "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+          "source": "hackernews",
+          "url": "https://www.rchive.computer/",
+          "score": 0.68
+        },
+        {
+          "title": "Every business stands on it. 🇮🇳\n\nThe Constitution gives every Indian the right to carry on any trade or business. That’s...",
+          "source": "twitter",
+          "url": "https://twitter.com/certifykaro/status/2125763972309610521#m",
+          "score": 0.0
+        },
+        {
+          "title": "i don’t care what roles you’re hiring for\n\nevery startup needs:\n\nsomeone autistic and with adhd\nsomeone who can sell any...",
+          "source": "twitter",
+          "url": "https://twitter.com/aixarizzo/status/2125584660138717496#m",
+          "score": 0.07
+        },
+        {
+          "title": "Not every great startup needs to launch a token.\n\nAt KaspaBots, we're interested in founders solving problems in:\n\n• Pay...",
+          "source": "twitter",
+          "url": "https://twitter.com/KaspaBots/status/2125763216332722365#m",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "keyword": "don",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
+          "source": "hackernews",
+          "url": "https://www.worksinprogress.news/p/the-trouble-with-serendipity",
+          "score": 0.11
+        },
+        {
+          "title": "They tried to impeach Joe Biden when Hunter Biden sold his paintings - but when a startup tied to Don Jr is poised to la...",
+          "source": "twitter",
+          "url": "https://twitter.com/anyonewantchips/status/2125426353767944544#m",
+          "score": 2.32
+        },
+        {
+          "title": "i don’t care what roles you’re hiring for\n\nevery startup needs:\n\nsomeone autistic and with adhd\nsomeone who can sell any...",
+          "source": "twitter",
+          "url": "https://twitter.com/aixarizzo/status/2125584660138717496#m",
+          "score": 0.07
+        }
+      ]
+    },
+    {
+      "keyword": "any",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "Predicting LoRA size for any dataset",
+          "source": "hackernews",
+          "url": "https://engram.com/blog/lora-size",
+          "score": 1.26
+        },
+        {
+          "title": "Every business stands on it. 🇮🇳\n\nThe Constitution gives every Indian the right to carry on any trade or business. That’s...",
+          "source": "twitter",
+          "url": "https://twitter.com/certifykaro/status/2125763972309610521#m",
+          "score": 0.0
+        },
+        {
+          "title": "i don’t care what roles you’re hiring for\n\nevery startup needs:\n\nsomeone autistic and with adhd\nsomeone who can sell any...",
+          "source": "twitter",
+          "url": "https://twitter.com/aixarizzo/status/2125584660138717496#m",
+          "score": 0.07
+        }
+      ]
+    },
+    {
+      "keyword": "times",
+      "present_on": [
+        "hackernews",
+        "twitter"
+      ],
+      "missing_from": [
+        "youtube"
+      ],
+      "mention_count": 3,
+      "opportunity_score": 18.0,
+      "examples": [
+        {
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "source": "hackernews",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "score": 3.9
+        },
+        {
+          "title": "Slow Ubuntu security response times",
+          "source": "hackernews",
+          "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+          "score": 2.19
+        },
+        {
+          "title": "elon musk posted 437 times on X in the last 7 days\n\nwhile running tesla, spacex and xai\n\nyou run one startup and posted ...",
+          "source": "twitter",
+          "url": "https://twitter.com/0xfJuan/status/2125631347540771125#m",
+          "score": 0.3
+        }
+      ]
+    }
+  ],
   "velocity_leaders": [
     {
-      "title": "Cento fine foods has been sued for “tomato fraud”",
-      "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 5.09,
-      "velocity": 19.583,
+      "base_score": 1.26,
+      "velocity": 19.9,
       "velocity_label": "exploding",
-      "combined_score": 249.2
+      "combined_score": 62.69
     },
     {
-      "title": "Gödel Enigma",
-      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.12,
-      "velocity": 18.0,
+      "base_score": 3.58,
+      "velocity": 19.042,
       "velocity_label": "exploding",
-      "combined_score": 95.4
-    },
-    {
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.29,
-      "velocity": 15.467,
-      "velocity_label": "exploding",
-      "combined_score": 165.88
-    },
-    {
-      "title": "Here in the World: Letters of Albert Camus, 1944–1959",
-      "url": "https://literaryreview.co.uk/here-in-the-world",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.79,
-      "velocity": 15.361,
-      "velocity_label": "exploding",
-      "combined_score": 30.34
-    },
-    {
-      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.9,
-      "velocity": 14.607,
-      "velocity_label": "exploding",
-      "combined_score": 32.87
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.49,
-      "velocity": 13.06,
-      "velocity_label": "exploding",
-      "combined_score": 146.6
-    },
-    {
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.51,
-      "velocity": 12.722,
-      "velocity_label": "exploding",
-      "combined_score": 238.86
-    },
-    {
-      "title": "Getting old Java phones online again",
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.26,
-      "velocity": 12.511,
-      "velocity_label": "exploding",
-      "combined_score": 70.69
-    },
-    {
-      "title": "Who's Hacking with AI, and What They're Using",
-      "url": "https://newsletter.danielmiessler.com/p/whos-hacking-with-ai",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.227,
-      "velocity_label": "exploding",
-      "combined_score": 0.26
-    },
-    {
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.91,
-      "velocity": 10.214,
-      "velocity_label": "exploding",
-      "combined_score": 74.31
-    },
-    {
-      "title": "Calculate how many mesh radio nodes your city needs",
-      "url": "https://meshcoveragecalculator.lalala.ing/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.45,
-      "velocity": 10.094,
-      "velocity_label": "exploding",
-      "combined_score": 36.59
-    },
-    {
-      "title": "The Match Act could hand China the keys to advanced lithography",
-      "url": "https://bits-chips.com/article/the-match-act-could-hand-china-the-keys-to-advanced-lithography/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 10.06,
-      "velocity_label": "exploding",
-      "combined_score": 0.25
-    },
-    {
-      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
-      "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 10.0,
-      "velocity_label": "exploding",
-      "combined_score": 8.5
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 4.65,
-      "velocity": 9.516,
-      "velocity_label": "exploding",
-      "combined_score": 110.62
-    },
-    {
-      "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
-      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.61,
-      "velocity": 9.495,
-      "velocity_label": "exploding",
-      "combined_score": 38.22
-    },
-    {
-      "title": "MiniMax: Update on URL Access in Forwarded API Requests",
-      "url": "https://www.minimax.io/blog/update-on-url-access-in-forwarded-api-requests-20261124",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 9.336,
-      "velocity_label": "exploding",
-      "combined_score": 0.23
-    },
-    {
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "url": "https://news.ycombinator.com/item?id=50634426",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.36,
-      "velocity": 9.292,
-      "velocity_label": "exploding",
-      "combined_score": 54.82
-    },
-    {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.13,
-      "velocity": 8.671,
-      "velocity_label": "exploding",
-      "combined_score": 111.2
-    },
-    {
-      "title": "The Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 7.87,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 167.24
-    },
-    {
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.17,
-      "velocity": 8.5,
-      "velocity_label": "exploding",
-      "combined_score": 109.86
-    },
-    {
-      "title": "An AI economy won't need humans to provide demand",
-      "url": "https://www.lesswrong.com/posts/s5dhSdQZDEsEemYbL/an-ai-economy-won-t-need-humans-to-provide-demand",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 8.247,
-      "velocity_label": "exploding",
-      "combined_score": 0.41
-    },
-    {
-      "title": "What breaks when you install real Python projects on 3.15 (and 3.15T)",
-      "url": "https://wheelgap.github.io/wheelgap/reports/python-3-15/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 8.1,
-      "velocity_label": "exploding",
-      "combined_score": 0.2
-    },
-    {
-      "title": "The short age of dragon riders",
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.86,
-      "velocity": 7.625,
-      "velocity_label": "exploding",
-      "combined_score": 73.58
-    },
-    {
-      "title": "How Old Electromechanical Pinball Machines Work",
-      "url": "https://how-old-pinball-machines-work.mattmakai.com/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.483,
-      "velocity_label": "exploding",
-      "combined_score": 0.19
-    },
-    {
-      "title": "Cyberpunk Television Shows",
-      "url": "https://shellzine.net/cyberpunk-television/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.333,
-      "velocity_label": "exploding",
-      "combined_score": 0.18
-    },
-    {
-      "title": "Lua for data representation (2025)",
-      "url": "https://citrons.xyz/journal/2025-07-23",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.6,
-      "velocity": 7.013,
-      "velocity_label": "exploding",
-      "combined_score": 28.05
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 6.12,
-      "velocity": 6.954,
-      "velocity_label": "exploding",
-      "combined_score": 106.39
-    },
-    {
-      "title": "2035 came early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 15.7,
-      "velocity": 6.917,
-      "velocity_label": "exploding",
-      "combined_score": 271.48
-    },
-    {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 15.87,
-      "velocity": 6.902,
-      "velocity_label": "exploding",
-      "combined_score": 273.82
-    },
-    {
-      "title": "A Clock Made of Branches",
-      "url": "https://fzakaria.com/2026/11/01/a-clock-made-of-branches",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 6.635,
-      "velocity_label": "exploding",
-      "combined_score": 0.5
-    },
-    {
-      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.07,
-      "velocity": 6.6,
-      "velocity_label": "exploding",
-      "combined_score": 50.66
-    },
-    {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.33,
-      "velocity": 6.497,
-      "velocity_label": "exploding",
-      "combined_score": 86.57
-    },
-    {
-      "title": "Oldest known quasar formed 630M years after the big bang",
-      "url": "https://www.popsci.com/science/oldest-quasar-euclid-telescope/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.409,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "Scaling Swarms to 1000s of Agents",
-      "url": "https://huggingfaceswarms-scaling-swarms.hf.space/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.236,
-      "velocity_label": "exploding",
-      "combined_score": 0.31
-    },
-    {
-      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
-      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 6.204,
-      "velocity_label": "exploding",
-      "combined_score": 0.16
-    },
-    {
-      "title": "New rewritable antimony selenide display shows an image for months without power",
-      "url": "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.1,
-      "velocity": 6.018,
-      "velocity_label": "exploding",
-      "combined_score": 16.55
-    },
-    {
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.29,
-      "velocity": 5.865,
-      "velocity_label": "exploding",
-      "combined_score": 33.57
-    },
-    {
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.63,
-      "velocity": 5.759,
-      "velocity_label": "exploding",
-      "combined_score": 23.47
-    },
-    {
-      "title": "Nuclear Intelligence",
-      "url": "https://news.ycombinator.com/item?id=50644176",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 5.107,
-      "velocity_label": "exploding",
-      "combined_score": 0.13
-    },
-    {
-      "title": "Hands-on Kubernetes and AI infra labs that run on a laptop",
-      "url": "https://kdrill.5xx.tech/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.03,
-      "velocity": 5.095,
-      "velocity_label": "exploding",
-      "combined_score": 0.38
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.53,
-      "velocity": 5.059,
-      "velocity_label": "exploding",
-      "combined_score": 69.95
-    },
-    {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.56,
-      "velocity": 4.912,
-      "velocity_label": "exploding",
-      "combined_score": 43.72
-    },
-    {
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.83,
-      "velocity": 4.751,
-      "velocity_label": "exploding",
-      "combined_score": 104.87
-    },
-    {
-      "title": "KubeOrbit – Read-only multi-cloud K8s portal with masked Helm diffs",
-      "url": "https://github.com/naveen-engg/kubeorbit-portal",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.713,
-      "velocity_label": "exploding",
-      "combined_score": 0.12
-    },
-    {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.12,
-      "velocity": 4.54,
-      "velocity_label": "exploding",
-      "combined_score": 35.41
-    },
-    {
-      "title": "Why Are Metal Logos So Hard to Read? The People Who Drew Them Disagree",
-      "url": "https://concertsremembered.app/news/metal-logos-hard-to-read",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.01,
-      "velocity": 4.514,
-      "velocity_label": "exploding",
-      "combined_score": 0.11
+      "combined_score": 170.42
     },
     {
       "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
       "url": "https://buttons.joshwcomeau.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.46,
-      "velocity": 4.286,
+      "base_score": 10.42,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 90.64
+      "combined_score": 468.9
+    },
+    {
+      "title": "The Shapes of Rivers",
+      "url": "https://dominicroye.github.io/shapes-of-rivers/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.85,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 83.25
+    },
+    {
+      "title": "When in Doubt, Flail About",
+      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.13,
+      "velocity": 18.0,
+      "velocity_label": "exploding",
+      "combined_score": 95.85
+    },
+    {
+      "title": "Why \"all different\" Sets take 5x longer to find",
+      "url": "https://setdaily.app/blog/spotting-sets",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.1,
+      "velocity": 17.05,
+      "velocity_label": "exploding",
+      "combined_score": 4.26
+    },
+    {
+      "title": "The undocumented 249-file limit for Googlebot rendering",
+      "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.53,
+      "velocity": 16.467,
+      "velocity_label": "exploding",
+      "combined_score": 21.82
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.7,
+      "velocity": 15.72,
+      "velocity_label": "exploding",
+      "combined_score": 381.21
     },
     {
       "title": "Macrohistory in Six Facts",
       "url": "https://basilhalperin.com/essays/macrohistory.html",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.33,
-      "velocity": 4.167,
+      "base_score": 2.92,
+      "velocity": 13.778,
       "velocity_label": "exploding",
-      "combined_score": 24.27
+      "combined_score": 100.58
     },
     {
-      "title": "Man Says Doctor Implanted Data-Collecting Smart Knee",
-      "url": "https://www.ibtimes.co.uk/california-man-sues-over-smart-knee-implant-1834786",
+      "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
+      "url": "https://github.com/click6067-ship-it/token-tv",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.1,
-      "velocity": 4.114,
+      "base_score": 0.34,
+      "velocity": 13.304,
       "velocity_label": "exploding",
-      "combined_score": 1.03
+      "combined_score": 11.31
     },
     {
-      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-      "url": "https://github.com/ItsNotRexed/Leonida/issues",
+      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
+      "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 13.93,
-      "velocity": 3.954,
+      "base_score": 0.85,
+      "velocity": 13.25,
       "velocity_label": "exploding",
-      "combined_score": 137.68
+      "combined_score": 28.16
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.75,
+      "velocity": 13.206,
+      "velocity_label": "exploding",
+      "combined_score": 189.84
+    },
+    {
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.01,
+      "velocity": 12.933,
+      "velocity_label": "exploding",
+      "combined_score": 97.32
+    },
+    {
+      "title": "A fast CAS with a focus on resolution of singularities",
+      "url": "https://github.com/pportilla/atlas",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.15,
+      "velocity": 12.68,
+      "velocity_label": "exploding",
+      "combined_score": 4.76
+    },
+    {
+      "title": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.37,
+      "velocity": 12.458,
+      "velocity_label": "exploding",
+      "combined_score": 167.25
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.54,
+      "velocity": 12.455,
+      "velocity_label": "exploding",
+      "combined_score": 203.64
+    },
+    {
+      "title": "Every business stands on it. 🇮🇳\n\nThe Constitution gives every Indian the right to carry on any trade or business. That’s...",
+      "url": "https://twitter.com/certifykaro/status/2125763972309610521#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 12.25,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.41,
+      "velocity": 10.378,
+      "velocity_label": "exploding",
+      "combined_score": 244.15
+    },
+    {
+      "title": "Is your DNS ready for a bigger namespace?",
+      "url": "https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.75,
+      "velocity": 10.2,
+      "velocity_label": "exploding",
+      "combined_score": 44.63
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.26,
+      "velocity": 10.166,
+      "velocity_label": "exploding",
+      "combined_score": 82.86
+    },
+    {
+      "title": "Why Attention Scales",
+      "url": "https://gregorygundersen.com/blog/2026/11/25/attention/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 10.0,
+      "velocity_label": "exploding",
+      "combined_score": 0.5
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.96,
+      "velocity": 9.767,
+      "velocity_label": "exploding",
+      "combined_score": 145.52
+    },
+    {
+      "title": "elon musk posted 437 times on X in the last 7 days\n\nwhile running tesla, spacex and xai\n\nyou run one startup and posted ...",
+      "url": "https://twitter.com/0xfJuan/status/2125631347540771125#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.3,
+      "velocity": 9.271,
+      "velocity_label": "exploding",
+      "combined_score": 6.95
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.41,
+      "velocity": 9.016,
+      "velocity_label": "exploding",
+      "combined_score": 76.86
+    },
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.0,
+      "velocity": 8.75,
+      "velocity_label": "exploding",
+      "combined_score": 65.63
+    },
+    {
+      "title": "China’s AI race is no longer about chatbots.\n\nA cybersecurity agent developed by a Shanghai startup has reached a 97.28%...",
+      "url": "https://twitter.com/Corrine4o/status/2125592141363826871#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.04,
+      "velocity": 8.533,
+      "velocity_label": "exploding",
+      "combined_score": 0.85
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 19.55,
+      "velocity": 8.117,
+      "velocity_label": "exploding",
+      "combined_score": 396.7
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.69,
+      "velocity": 7.917,
+      "velocity_label": "exploding",
+      "combined_score": 13.66
+    },
+    {
+      "title": "本気度を失わせない挑戦者ファーストの制度設計を、構想から発表まで2ヶ月で実現しました。HRも大車輪でベロシティエンジンとなっています。DeNA Startup Loop誕生の舞台裏fullswing.dena.com/archives/…",
+      "url": "https://twitter.com/tomochinski/status/2125763315448324371#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 7.784,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Evan Czaplicki: Dragging SQL into the '90s [video]",
+      "url": "https://www.youtube.com/watch?v=O9XRIgwDbMw",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.713,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "They tried to impeach Joe Biden when Hunter Biden sold his paintings - but when a startup tied to Don Jr is poised to la...",
+      "url": "https://twitter.com/anyonewantchips/status/2125426353767944544#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 2.32,
+      "velocity": 7.676,
+      "velocity_label": "exploding",
+      "combined_score": 44.52
+    },
+    {
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.02,
+      "velocity": 7.625,
+      "velocity_label": "exploding",
+      "combined_score": 0.38
+    },
+    {
+      "title": "i don’t care what roles you’re hiring for\n\nevery startup needs:\n\nsomeone autistic and with adhd\nsomeone who can sell any...",
+      "url": "https://twitter.com/aixarizzo/status/2125584660138717496#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.07,
+      "velocity": 7.559,
+      "velocity_label": "exploding",
+      "combined_score": 1.32
+    },
+    {
+      "title": "Brewlet: Manage Golden Images at Platform Speed",
+      "url": "https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-brewlet-manage-golden-images-at-platform-speed/4576767",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 7.467,
+      "velocity_label": "exploding",
+      "combined_score": 0.19
+    },
+    {
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.63,
+      "velocity": 7.452,
+      "velocity_label": "exploding",
+      "combined_score": 49.0
+    },
+    {
+      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+      "url": "https://www.rchive.computer/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.68,
+      "velocity": 7.437,
+      "velocity_label": "exploding",
+      "combined_score": 12.64
+    },
+    {
+      "title": "drop ur startup link",
+      "url": "https://twitter.com/ionleu/status/2125763216882192690#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.01,
+      "velocity": 7.341,
+      "velocity_label": "exploding",
+      "combined_score": 0.18
+    },
+    {
+      "title": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.25,
+      "velocity": 7.333,
+      "velocity_label": "exploding",
+      "combined_score": 22.92
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.8,
+      "velocity": 7.123,
+      "velocity_label": "exploding",
+      "combined_score": 49.86
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 7.45,
+      "velocity": 7.076,
+      "velocity_label": "exploding",
+      "combined_score": 131.8
+    },
+    {
+      "title": "Not every great startup needs to launch a token.\n\nAt KaspaBots, we're interested in founders solving problems in:\n\n• Pay...",
+      "url": "https://twitter.com/KaspaBots/status/2125763216332722365#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 7.066,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 3.9,
+      "velocity": 7.05,
+      "velocity_label": "exploding",
+      "combined_score": 68.74
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 4.48,
+      "velocity": 6.884,
+      "velocity_label": "exploding",
+      "combined_score": 77.1
+    },
+    {
+      "title": "M Science – AI-Ready Market Intelligence",
+      "url": "https://mscience.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.877,
+      "velocity_label": "exploding",
+      "combined_score": 0.17
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.08,
+      "velocity": 6.6,
+      "velocity_label": "exploding",
+      "combined_score": 83.82
+    },
+    {
+      "title": "The biggest startup opportunities right now:\n\nbiggest b2c: ai companions for people who live alone\nbiggest b2b: agents t...",
+      "url": "https://twitter.com/suraj_sharma14/status/2125763971387183453#m",
+      "source": "twitter",
+      "category": "social",
+      "base_score": 0.0,
+      "velocity": 6.591,
+      "velocity_label": "exploding",
+      "combined_score": 0.0
+    },
+    {
+      "title": "Victoria stack – open-source observability stack for metrics, logs, and traces",
+      "url": "https://docs.victoriametrics.com/victoriastack/index.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.556,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Louisiana Attorney General receives death threats over Kalshi lawsuit",
+      "url": "https://www.sunherald.com/news/nation-world/national/article318250773.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.417,
+      "velocity_label": "exploding",
+      "combined_score": 0.48
+    },
+    {
+      "title": "Filecabi.net Is Back",
+      "url": "https://filecabi.net/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 6.333,
+      "velocity_label": "exploding",
+      "combined_score": 0.16
+    },
+    {
+      "title": "Nvidia Replaces Enron On S&P 500 (2001)",
+      "url": "https://www.gamedeveloper.com/game-platforms/nvidia-replaces-enron-on-s-p-500",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 6.245,
+      "velocity_label": "exploding",
+      "combined_score": 0.47
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [],
+  "bridge_topics": [
+    {
+      "keyword": "now",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 78.2,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The biggest startup opportunities right now:\n\nbiggest b2c: ai companions for people who live alone\nbiggest b2b: agents t...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "build",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 26.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "🎯 Get started for free:youtube.com/watch?v=kOnvBb4W…🚀 Build High-Converting Landing Pages Without Coding\n\nLooking for an...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "times",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 25.56,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Slow Ubuntu security response times",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "elon musk posted 437 times on X in the last 7 days\n\nwhile running tesla, spacex and xai\n\nyou run one startup and posted ...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "people",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 23.84,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Smart people who give a shit use tools",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "The biggest startup opportunities right now:\n\nbiggest b2c: ai companions for people who live alone\nbiggest b2b: agents t...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "running",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 19.12,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "elon musk posted 437 times on X in the last 7 days\n\nwhile running tesla, spacex and xai\n\nyou run one startup and posted ...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "launch",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 10.16,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Not every great startup needs to launch a token.\n\nAt KaspaBots, we're interested in founders solving problems in:\n\n• Pay...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "don",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 10.0,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "They tried to impeach Joe Biden when Hunter Biden sold his paintings - but when a startup tied to Don Jr is poised to la...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "i don’t care what roles you’re hiring for\n\nevery startup needs:\n\nsomeone autistic and with adhd\nsomeone who can sell any...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "solving",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 9.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Not every great startup needs to launch a token.\n\nAt KaspaBots, we're interested in founders solving problems in:\n\n• Pay...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "any",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 5.32,
+      "total_mentions": 3,
+      "examples": [
+        {
+          "title": "Predicting LoRA size for any dataset",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Every business stands on it. 🇮🇳\n\nThe Constitution gives every Indian the right to carry on any trade or business. That’s...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "i don’t care what roles you’re hiring for\n\nevery startup needs:\n\nsomeone autistic and with adhd\nsomeone who can sell any...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "agent",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.52,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "China’s AI race is no longer about chatbots.\n\nA cybersecurity agent developed by a Shanghai startup has reached a 97.28%...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "every",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 3.0,
+      "total_mentions": 4,
+      "examples": [
+        {
+          "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Every business stands on it. 🇮🇳\n\nThe Constitution gives every Indian the right to carry on any trade or business. That’s...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "i don’t care what roles you’re hiring for\n\nevery startup needs:\n\nsomeone autistic and with adhd\nsomeone who can sell any...",
+          "source": "twitter",
+          "category": "social"
+        },
+        {
+          "title": "Not every great startup needs to launch a token.\n\nAt KaspaBots, we're interested in founders solving problems in:\n\n• Pay...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "coding",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 1.48,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Multiagent coding is the future",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "🎯 Get started for free:youtube.com/watch?v=kOnvBb4W…🚀 Build High-Converting Landing Pages Without Coding\n\nLooking for an...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "longer",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.56,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Why \"all different\" Sets take 5x longer to find",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "China’s AI race is no longer about chatbots.\n\nA cybersecurity agent developed by a Shanghai startup has reached a 97.28%...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "think",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.44,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "I think about this often when building@Meow.\n\nSometimes startup “strategy” is really this simple.\n\nIn other words, if yo...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    },
+    {
+      "keyword": "pay",
+      "communities": [
+        "social",
+        "tech"
+      ],
+      "num_communities": 2,
+      "bridge_score": 0.08,
+      "total_mentions": 2,
+      "examples": [
+        {
+          "title": "Neckrez – hourly VPS, GPU, CPU you pay for in crypto (API, MCP, CLI)",
+          "source": "hackernews",
+          "category": "tech"
+        },
+        {
+          "title": "Not every great startup needs to launch a token.\n\nAt KaspaBots, we're interested in founders solving problems in:\n\n• Pay...",
+          "source": "twitter",
+          "category": "social"
+        }
+      ]
+    }
+  ],
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "56% of top GitHub open-source AI agents from March are now unranked",
-      "url": "https://www.theagenticleaderboard.com/",
+      "title": "Victoria stack – open-source observability stack for metrics, logs, and traces",
+      "url": "https://docs.victoriametrics.com/victoriastack/index.html",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.03,
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -544,25 +1035,58 @@
       ]
     },
     {
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.63,
+      "score": 5.96,
       "relevance": 0.056,
       "matching_tags": [
-        "open"
+        "tools"
       ]
     },
     {
-      "title": "Who's Hacking with AI, and What They're Using",
-      "url": "https://newsletter.danielmiessler.com/p/whos-hacking-with-ai",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 3.5,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.84,
+      "relevance": 0.056,
+      "matching_tags": [
+        "code"
+      ]
+    },
+    {
+      "title": "Wayback Machine Labs",
+      "url": "https://wayback-labs.sf.archive.org",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.04,
+      "relevance": 0.056,
+      "matching_tags": [
+        "machine"
+      ]
+    },
+    {
+      "title": "Tired of Claude Code Spinners?",
+      "url": "https://github.com/seanrobertwright/Poopy-McClauderson",
       "source": "hackernews",
       "category": "tech",
       "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "hacking"
+        "code"
       ]
     }
   ]
