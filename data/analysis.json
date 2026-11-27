@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-27T01:28:01.439793+00:00",
-  "scrape_timestamp": "2026-11-27T01:26:19.766538+00:00",
-  "total_items_analyzed": 90,
+  "timestamp": "2026-11-27T16:03:51.320448+00:00",
+  "scrape_timestamp": "2026-11-27T16:02:08.465516+00:00",
+  "total_items_analyzed": 89,
   "sources_summary": {
     "youtube": {
       "count": 0,
@@ -16,259 +16,319 @@
       "status": "ok"
     },
     "hackernews": {
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     "twitter": {
-      "count": 2,
+      "count": 0,
       "status": "ok"
     }
   },
   "cross_platform_gaps": [],
   "velocity_leaders": [
     {
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "title": "The Cutthroat Business of Shipwrecks",
+      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.75,
-      "velocity": 15.829,
+      "base_score": 0.68,
+      "velocity": 18.0,
       "velocity_label": "exploding",
-      "combined_score": 69.25
+      "combined_score": 30.6
     },
     {
-      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.45,
-      "velocity": 13.943,
+      "base_score": 1.49,
+      "velocity": 16.417,
       "velocity_label": "exploding",
-      "combined_score": 155.11
+      "combined_score": 61.15
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.71,
-      "velocity": 13.095,
-      "velocity_label": "exploding",
-      "combined_score": 121.45
-    },
-    {
-      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 2.34,
-      "velocity": 12.906,
-      "velocity_label": "exploding",
-      "combined_score": 75.5
-    },
-    {
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 8.19,
-      "velocity": 12.458,
-      "velocity_label": "exploding",
-      "combined_score": 255.08
-    },
-    {
-      "title": "Deriving Black-Scholes",
-      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 1.78,
-      "velocity": 12.37,
-      "velocity_label": "exploding",
-      "combined_score": 55.05
-    },
-    {
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.2,
-      "velocity": 12.3,
-      "velocity_label": "exploding",
-      "combined_score": 98.4
-    },
-    {
-      "title": "Swarms do not yet raise the roof",
-      "url": "https://www.paradigm3.org/research/swarms/",
+      "title": "HimitsuObfuscator: Whitelist-driven C/C++ obfuscation with LLVM 17",
+      "url": "https://github.com/HimitsuShell/HimitsuObfuscator",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 11.15,
+      "velocity": 16.1,
       "velocity_label": "exploding",
-      "combined_score": 0.28
+      "combined_score": 0.4
     },
     {
-      "title": "Curiosity Is No Solo Act",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "title": "NormalScript: A perfectly normal scripting language",
+      "url": "https://psychoscript.com/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.78,
-      "velocity": 10.611,
+      "base_score": 1.66,
+      "velocity": 14.707,
       "velocity_label": "exploding",
-      "combined_score": 47.22
+      "combined_score": 61.03
     },
     {
-      "title": "Nvidia's 'great man theory' is flawed",
-      "url": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.14,
-      "velocity": 10.412,
+      "base_score": 6.36,
+      "velocity": 14.2,
       "velocity_label": "exploding",
-      "combined_score": 3.64
+      "combined_score": 225.78
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.63,
+      "velocity": 13.187,
+      "velocity_label": "exploding",
+      "combined_score": 185.6
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.51,
+      "velocity": 12.11,
+      "velocity_label": "exploding",
+      "combined_score": 166.82
+    },
+    {
+      "title": "Scale-dependent algorithms and intelligence explosions",
+      "url": "https://newsletter.forethought.org/p/do-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 11.422,
+      "velocity_label": "exploding",
+      "combined_score": 0.29
     },
     {
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.59,
-      "velocity": 10.292,
+      "base_score": 13.33,
+      "velocity": 10.875,
       "velocity_label": "exploding",
-      "combined_score": 195.28
+      "combined_score": 362.41
     },
     {
-      "title": "Elon will donate SpaceX shares to kids every year",
-      "url": "https://twitter.com/elonmusk/status/2126064597039997254",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.07,
-      "velocity": 10.101,
+      "base_score": 3.85,
+      "velocity": 10.67,
       "velocity_label": "exploding",
-      "combined_score": 1.77
+      "combined_score": 102.7
     },
     {
-      "title": "Moat: OpenRouter replacement",
-      "url": "https://commandcode.ai/moat",
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 4.58,
-      "velocity": 10.083,
+      "base_score": 0.57,
+      "velocity": 10.626,
       "velocity_label": "exploding",
-      "combined_score": 115.45
+      "combined_score": 15.14
     },
     {
-      "title": "Poland to create no-fly zone at border after repeated airspace violations",
-      "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+      "title": "George Whitesides, 1939-2026",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.39,
-      "velocity": 10.0,
+      "base_score": 0.88,
+      "velocity": 10.49,
       "velocity_label": "exploding",
-      "combined_score": 9.75
+      "combined_score": 23.08
     },
     {
-      "title": "Bill Hicks on Marketing",
-      "url": "https://www.youtube.com/watch?v=tHEOGrkhDp0",
+      "title": "A Website Should Make Its Own Mouse",
+      "url": "https://thinktype.app/amadeuspagel/a-website-should-make-its-own-mouse",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 9.5,
+      "velocity": 10.259,
       "velocity_label": "exploding",
-      "combined_score": 0.24
+      "combined_score": 0.26
     },
     {
-      "title": "Musk pledges two SpaceX shares for every US child in $18B AI charm offensive",
-      "url": "https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/",
+      "title": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.03,
-      "velocity": 9.361,
+      "base_score": 2.06,
+      "velocity": 9.87,
       "velocity_label": "exploding",
-      "combined_score": 0.7
+      "combined_score": 50.83
     },
     {
-      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-      "url": "https://news.ycombinator.com/item?id=50656763",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "url": "https://olumino.app",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.11,
-      "velocity": 8.987,
+      "base_score": 2.02,
+      "velocity": 9.579,
       "velocity_label": "exploding",
-      "combined_score": 24.94
+      "combined_score": 48.38
     },
     {
-      "title": "A Collision for 38-Step SHA-256",
-      "url": "https://eprint.iacr.org/2026/2913",
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "url": "https://bui.preetham.top/charts/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
+      "base_score": 1.83,
+      "velocity": 9.559,
+      "velocity_label": "exploding",
+      "combined_score": 43.73
+    },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.39,
+      "velocity": 8.764,
+      "velocity_label": "exploding",
+      "combined_score": 30.45
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 1.0,
+      "velocity": 8.679,
+      "velocity_label": "exploding",
+      "combined_score": 21.7
+    },
+    {
+      "title": "Curiosity Is No Solo Act",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.4,
       "velocity": 8.5,
       "velocity_label": "exploding",
-      "combined_score": 0.43
+      "combined_score": 51.0
+    },
+    {
+      "title": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out",
+      "url": "https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.22,
+      "velocity": 8.417,
+      "velocity_label": "exploding",
+      "combined_score": 4.63
+    },
+    {
+      "title": "Mental Health Resources and Political Engagement",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.99,
+      "velocity": 8.4,
+      "velocity_label": "exploding",
+      "combined_score": 62.79
     },
     {
       "title": "Company Culture = Slack Emoji ÷ √Headcount",
       "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.05,
-      "velocity": 8.286,
+      "base_score": 8.54,
+      "velocity": 8.289,
       "velocity_label": "exploding",
-      "combined_score": 21.75
+      "combined_score": 176.97
     },
     {
-      "title": "An Introduction to Uncertainty in Machine Learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "title": "Large-batch DeepSeek-v4.1-Flash on four 16 GB AMD GPUs: API accuracy at API cost",
+      "url": "https://alexselzer.com/posts/large-batch-local-inference/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.06,
-      "velocity": 8.232,
+      "base_score": 0.01,
+      "velocity": 8.133,
       "velocity_label": "exploding",
-      "combined_score": 1.23
+      "combined_score": 0.2
     },
     {
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "https://news.ycombinator.com/item?id=50655664",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.01,
-      "velocity": 8.148,
+      "base_score": 0.45,
+      "velocity": 8.131,
       "velocity_label": "exploding",
-      "combined_score": 163.17
+      "combined_score": 9.15
     },
     {
-      "title": "Unconditional Integer Factorization in Subexponential Time",
-      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.72,
-      "velocity": 8.025,
+      "base_score": 3.77,
+      "velocity": 8.005,
       "velocity_label": "exploding",
-      "combined_score": 34.51
+      "combined_score": 75.45
     },
     {
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "url": "https://www.friedgil.com/vpvnp",
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "url": "https://github.com/rxliuli/sim-drop",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 3.37,
-      "velocity": 7.444,
+      "base_score": 0.67,
+      "velocity": 7.71,
       "velocity_label": "exploding",
-      "combined_score": 62.72
+      "combined_score": 12.91
     },
     {
-      "title": "Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 7.0,
-      "velocity": 7.437,
+      "base_score": 2.59,
+      "velocity": 7.681,
       "velocity_label": "exploding",
-      "combined_score": 130.15
+      "combined_score": 49.73
     },
     {
-      "title": "The Cutthroat Business of Shipwrecks",
-      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "title": "Best practices to build a token factory from Latin America",
+      "url": "https://50x.energy/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.03,
+      "velocity": 7.647,
+      "velocity_label": "exploding",
+      "combined_score": 0.57
+    },
+    {
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 2.04,
+      "velocity": 7.595,
+      "velocity_label": "exploding",
+      "combined_score": 38.74
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 11.07,
+      "velocity": 7.55,
+      "velocity_label": "exploding",
+      "combined_score": 208.95
+    },
+    {
+      "title": "Revisiting Importance Sampling",
+      "url": "https://lisyarus.github.io/blog/posts/revisiting-importance-sampling.html",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
@@ -277,335 +337,206 @@
       "combined_score": 0.18
     },
     {
-      "title": "Rockstar workers vote against union recognition deal",
-      "url": "https://www.verticalslice.news/rockstar-workers-vote-against-historic-union-recognition-deal/",
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 9.59,
+      "velocity": 7.312,
+      "velocity_label": "exploding",
+      "combined_score": 175.32
+    },
+    {
+      "title": "Show HN: A 1999 small-business website for a New Jersey collections crew",
+      "url": "https://rentagoon.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.04,
+      "velocity": 7.023,
+      "velocity_label": "exploding",
+      "combined_score": 0.7
+    },
+    {
+      "title": "Locally: Azure and Entra [emulators] on your machine",
+      "url": "https://locally.build/blog/2026-11-27/introducing-locally-for-azure-and-entra",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 7.293,
+      "velocity": 6.744,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 0.17
     },
     {
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.01,
-      "velocity": 7.2,
+      "base_score": 4.22,
+      "velocity": 6.736,
       "velocity_label": "exploding",
-      "combined_score": 0.18
+      "combined_score": 71.06
     },
     {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.68,
-      "velocity": 7.178,
+      "base_score": 4.05,
+      "velocity": 6.458,
       "velocity_label": "exploding",
-      "combined_score": 12.2
+      "combined_score": 65.39
     },
     {
-      "title": "gM\n\nHere's a ready to post English post about@beepzfun, based on the latest available info:\nCreate. Inscribe. Trade.\n\nBe...",
-      "url": "https://twitter.com/mannan25195/status/2126123033383641590#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 0.02,
-      "velocity": 6.816,
-      "velocity_label": "exploding",
-      "combined_score": 0.34
-    },
-    {
-      "title": "Show HN: Synth Patch Hero",
-      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.68,
-      "velocity": 6.406,
+      "base_score": 3.58,
+      "velocity": 6.226,
       "velocity_label": "exploding",
-      "combined_score": 26.91
+      "combined_score": 55.72
     },
     {
-      "title": "Oakland's $30 minimum wage push advances toward city council vote",
-      "url": "https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.15,
-      "velocity": 6.339,
-      "velocity_label": "exploding",
-      "combined_score": 2.38
-    },
-    {
-      "title": "Show HN: Faster Mac Use – Background Chrome/macOS MCP and 5-lane routing skill",
-      "url": "https://github.com/lifan-builds/faster-mac-use",
+      "title": "Nvidia Credit Ratings May Be Cut by S&P",
+      "url": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3n35zzde6ss2o",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.02,
-      "velocity": 6.143,
+      "velocity": 6.163,
       "velocity_label": "exploding",
       "combined_score": 0.31
     },
     {
-      "title": "MVCC: Not all trade-offs are equal",
-      "url": "https://www.ludovicocaldara.net/blog/mvcc-oracle-postgres/",
+      "title": "New York and California age gating rules go into effect in the new year",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.02,
-      "velocity": 6.0,
+      "base_score": 2.17,
+      "velocity": 6.123,
       "velocity_label": "exploding",
-      "combined_score": 0.3
+      "combined_score": 33.22
     },
     {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 8.52,
-      "velocity": 5.948,
+      "base_score": 1.99,
+      "velocity": 6.102,
       "velocity_label": "exploding",
-      "combined_score": 126.7
+      "combined_score": 30.36
     },
     {
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+      "title": "Deriving Black-Scholes",
+      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.04,
-      "velocity": 5.94,
+      "base_score": 1.9,
+      "velocity": 6.037,
       "velocity_label": "exploding",
-      "combined_score": 0.59
+      "combined_score": 28.68
     },
     {
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 0.16,
-      "velocity": 5.883,
+      "base_score": 2.51,
+      "velocity": 5.912,
       "velocity_label": "exploding",
-      "combined_score": 2.35
+      "combined_score": 37.1
     },
     {
-      "title": "The Doctor Who Treats Patients with a Gaming Mouse",
-      "url": "https://textexpander.com/blog/doctor-gaming-mouse",
+      "title": "Moat: OpenRouter replacement",
+      "url": "https://commandcode.ai/moat",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 5.5,
+      "velocity": 5.544,
+      "velocity_label": "exploding",
+      "combined_score": 76.24
+    },
+    {
+      "title": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 6.21,
+      "velocity": 5.492,
+      "velocity_label": "exploding",
+      "combined_score": 85.26
+    },
+    {
+      "title": "Quinn Nelson on the touch screen of the 2026 MacBook Pro [video]",
+      "url": "https://www.youtube.com/watch?v=JHyHBPPnemQ",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 5.867,
+      "velocity": 5.396,
       "velocity_label": "exploding",
-      "combined_score": 0.15
+      "combined_score": 0.13
     },
     {
-      "title": "A man in Denver has been throwing eggs at Waymo vehicles",
-      "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 1.21,
-      "velocity": 5.75,
+      "base_score": 0.2,
+      "velocity": 5.283,
       "velocity_label": "exploding",
-      "combined_score": 17.39
+      "combined_score": 2.64
     },
     {
-      "title": "The Great Australian Delusion",
-      "url": "https://cerebusthefirst.substack.com/p/the-great-australian-delusion",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.07,
-      "velocity": 5.75,
-      "velocity_label": "exploding",
-      "combined_score": 1.01
-    },
-    {
-      "title": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.58,
-      "velocity": 5.729,
-      "velocity_label": "exploding",
-      "combined_score": 79.92
-    },
-    {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 47.05,
-      "velocity": 5.65,
-      "velocity_label": "exploding",
-      "combined_score": 664.58
-    },
-    {
-      "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
-      "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.34,
-      "velocity": 5.493,
-      "velocity_label": "exploding",
-      "combined_score": 4.67
-    },
-    {
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 5.16,
-      "velocity": 5.119,
-      "velocity_label": "exploding",
-      "combined_score": 66.04
-    },
-    {
-      "title": "Kagi Watch",
-      "url": "https://kagi.com/watch",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 3.21,
-      "velocity": 5.107,
-      "velocity_label": "exploding",
-      "combined_score": 40.98
-    },
-    {
-      "title": "The US Government Is Under AI Cyberattack",
-      "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.21,
-      "velocity": 4.938,
-      "velocity_label": "exploding",
-      "combined_score": 2.59
-    },
-    {
-      "title": "A Brief Walk Through Program Space: Agents and edge-case-driven development",
-      "url": "https://neilmacintyre.com/posts/walks-in-program-space/",
+      "title": "The Invention Algorithm",
+      "url": "https://www.construction-physics.com/p/the-invention-algorithm",
       "source": "hackernews",
       "category": "tech",
       "base_score": 0.01,
-      "velocity": 4.908,
+      "velocity": 5.25,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Show HN: An MCP that searches X using your own Grokbot plan",
+      "url": "https://github.com/marciob/grok-x-mcp",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 5.003,
+      "velocity_label": "exploding",
+      "combined_score": 0.13
+    },
+    {
+      "title": "Show HN: Just Dashboard, open-source Linux full management dashboard",
+      "url": "https://just-dashboard.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "base_score": 0.01,
+      "velocity": 4.868,
       "velocity_label": "exploding",
       "combined_score": 0.12
     },
     {
-      "title": "economy so fucked that everyone wants to be a content creator",
-      "url": "https://twitter.com/aanyakumarii/status/2125802746981105957#m",
-      "source": "twitter",
-      "category": "social",
-      "base_score": 3.22,
-      "velocity": 4.843,
-      "velocity_label": "exploding",
-      "combined_score": 38.99
-    },
-    {
-      "title": "IBM ends immigration sponsorship for most positions in its consulting division",
-      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
       "source": "hackernews",
       "category": "tech",
-      "base_score": 2.89,
-      "velocity": 4.762,
+      "base_score": 2.56,
+      "velocity": 4.707,
       "velocity_label": "exploding",
-      "combined_score": 34.4
-    },
-    {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 0.44,
-      "velocity": 4.667,
-      "velocity_label": "exploding",
-      "combined_score": 5.13
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "hackernews",
-      "category": "tech",
-      "base_score": 14.27,
-      "velocity": 4.639,
-      "velocity_label": "exploding",
-      "combined_score": 165.48
+      "combined_score": 30.13
     }
   ],
   "niche_opportunities": [],
-  "bridge_topics": [
-    {
-      "keyword": "create",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 1.64,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "Poland to create no-fly zone at border after repeated airspace violations",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "gM\n\nHere's a ready to post English post about@beepzfun, based on the latest available info:\nCreate. Inscribe. Trade.\n\nBe...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    },
-    {
-      "keyword": "trade",
-      "communities": [
-        "social",
-        "tech"
-      ],
-      "num_communities": 2,
-      "bridge_score": 0.16,
-      "total_mentions": 2,
-      "examples": [
-        {
-          "title": "MVCC: Not all trade-offs are equal",
-          "source": "hackernews",
-          "category": "tech"
-        },
-        {
-          "title": "gM\n\nHere's a ready to post English post about@beepzfun, based on the latest available info:\nCreate. Inscribe. Trade.\n\nBe...",
-          "source": "twitter",
-          "category": "social"
-        }
-      ]
-    }
-  ],
+  "bridge_topics": [],
   "linguistic_voids": [],
   "personal_relevance": [
     {
-      "title": "economy so fucked that everyone wants to be a content creator",
-      "url": "https://twitter.com/aanyakumarii/status/2125802746981105957#m",
-      "source": "twitter",
-      "category": "social",
-      "score": 3.22,
-      "relevance": 0.111,
-      "matching_tags": [
-        "content",
-        "creator"
-      ]
-    },
-    {
-      "title": "Back up your Claude Code sessions and use them on any machine",
-      "url": "https://session-vault.dev/",
-      "source": "hackernews",
-      "category": "tech",
-      "score": 0.27,
-      "relevance": 0.111,
-      "matching_tags": [
-        "code",
-        "machine"
-      ]
-    },
-    {
-      "title": "An Introduction to Uncertainty in Machine Learning",
+      "title": "An introduction to uncertainty in machine learning",
       "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.06,
+      "score": 1.39,
       "relevance": 0.111,
       "matching_tags": [
         "learning",
@@ -613,11 +544,23 @@
       ]
     },
     {
-      "title": "SolDrift: Open-source nowcasting model for Australia's solar farms",
-      "url": "https://trajectorylabs.com.au/soldrift/",
+      "title": "Show HN: Open-source ESP32 desk body for a local AI assistant",
+      "url": "https://www.bobebot.com/body",
       "source": "hackernews",
       "category": "tech",
-      "score": 0.03,
+      "score": 0.02,
+      "relevance": 0.111,
+      "matching_tags": [
+        "open",
+        "source"
+      ]
+    },
+    {
+      "title": "Show HN: Just Dashboard, open-source Linux full management dashboard",
+      "url": "https://just-dashboard.com/",
+      "source": "hackernews",
+      "category": "tech",
+      "score": 0.01,
       "relevance": 0.111,
       "matching_tags": [
         "open",
@@ -629,21 +572,21 @@
       "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
       "source": "hackernews",
       "category": "tech",
-      "score": 8.12,
+      "score": 8.62,
       "relevance": 0.056,
       "matching_tags": [
         "tools"
       ]
     },
     {
-      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-      "url": "https://news.ycombinator.com/item?id=50656763",
+      "title": "Locally: Azure and Entra [emulators] on your machine",
+      "url": "https://locally.build/blog/2026-11-27/introducing-locally-for-azure-and-entra",
       "source": "hackernews",
       "category": "tech",
-      "score": 1.11,
+      "score": 0.01,
       "relevance": 0.056,
       "matching_tags": [
-        "indie"
+        "machine"
       ]
     }
   ]
